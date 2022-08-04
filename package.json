@@ -1,0 +1,16 @@
+{
+  "name": "gw2api-namesearch",
+  "version": "1.0.0",
+  "description": "Store the id and name of data from the GW2 API",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "run": "node script.js"
+  },
+  "keywords": [],
+  "author": "Pandraghon",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
