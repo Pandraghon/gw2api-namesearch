@@ -14398,3 +14398,203 @@
 "Gold Ore",19698
 "Iron Ore",19699
 "Mithril Ore",19700
+"Orichalcum Ore",19701
+"Platinum Ore",19702
+"Silver Ore",19703
+"Lump of Tin",19704
+"Elder Wood Plank",19709
+"Green Wood Plank",19710
+"Hard Wood Plank",19711
+"Ancient Wood Plank",19712
+"Soft Wood Plank",19713
+"Seasoned Wood Plank",19714
+"Sun Bead",19717
+"Jute Scrap",19718
+"Rawhide Leather Section",19719
+"Bolt of Jute",19720
+"Glob of Ectoplasm",19721
+"Elder Wood Log",19722
+"Green Wood Log",19723
+"Hard Wood Log",19724
+"Ancient Wood Log",19725
+"Soft Wood Log",19726
+"Seasoned Wood Log",19727
+"Thin Leather Section",19728
+"Thick Leather Section",19729
+"Coarse Leather Section",19730
+"Rugged Leather Section",19731
+"Hardened Leather Section",19732
+"Cured Thin Leather Square",19733
+"Cured Coarse Leather Square",19734
+"Cured Thick Leather Square",19735
+"Cured Rugged Leather Square",19736
+"Cured Hardened Leather Square",19737
+"Stretched Rawhide Leather Square",19738
+"Wool Scrap",19739
+"Bolt of Wool",19740
+"Cotton Scrap",19741
+"Bolt of Cotton",19742
+"Linen Scrap",19743
+"Bolt of Linen",19744
+"Gossamer Scrap",19745
+"Bolt of Gossamer",19746
+"Bolt of Silk",19747
+"Silk Scrap",19748
+"Lump of Coal",19750
+"Elder Wood Dowel",19757
+"Green Wood Dowel",19758
+"Hard Wood Dowel",19759
+"Seasoned Wood Dowel",19760
+"Soft Wood Dowel",19761
+"Berserker's Elder Inscription",19762
+"Mighty Green Inscription",19763
+"Knight's Hard Inscription",19764
+"Vigorous Soft Inscription",19765
+"Berserker's Mithril Plated Inscription",19766
+"Mighty Bronze Plated Inscription",19767
+"Strong Steel Plated Inscription",19768
+"Vigorous Iron Plated Inscription",19769
+"Strong Seasoned Inscription",19770
+"Rampager's Mithril Plated Inscription",19771
+"Precise Bronze Plated Inscription",19772
+"Knight's Darksteel Plated Inscription",19773
+"Honed Steel Plated Inscription",19774
+"Rampager's Elder Inscription",19775
+"Precise Green Inscription",19776
+"Honed Seasoned Inscription",19777
+"Cleric's Mithril Plated Inscription",19778
+"Vital Bronze Plated Inscription",19779
+"Valkyrie Darksteel Plated Inscription",19780
+"Hearty Steel Plated Inscription",19781
+"Cleric's Elder Inscription",19782
+"Vital Green Inscription",19783
+"Valkyrie Mithril Plated Inscription",19784
+"Resilient Bronze Plated Inscription",19785
+"Valkyrie Elder Inscription",19786
+"Resilient Green Inscription",19787
+"Hunter's Seasoned Inscription",19788
+"Spool of Wool Thread",19789
+"Spool of Gossamer Thread",19790
+"Spool of Silk Thread",19791
+"Spool of Jute Thread",19792
+"Spool of Linen Thread",19793
+"Spool of Cotton Thread",19794
+"Mighty Jute Insignia",19795
+"Precise Jute Insignia",19796
+"Resilient Jute Insignia",19797
+"Vital Jute Insignia",19798
+"Mighty Embroidered Jute Insignia",19799
+"Precise Embroidered Jute Insignia",19800
+"Resilient Embroidered Jute Insignia",19801
+"Vital Embroidered Jute Insignia",19802
+"Vigorous Embroidered Wool Insignia",19803
+"Vigorous Wool Insignia",19804
+"Healing Jute Insignia",19805
+"Hunter's Wool Insignia",19806
+"Hunter's Embroidered Wool Insignia",19807
+"Strong Wool Insignia",19808
+"Honed Wool Insignia",19809
+"Strong Embroidered Wool Insignia",19810
+"Honed Embroidered Wool Insignia",19811
+"Honed Cotton Insignia",19812
+"Strong Cotton Insignia",19813
+"Hearty Cotton Insignia",19814
+"Strong Embroidered Cotton Insignia",19815
+"Honed Embroidered Cotton Insignia",19816
+"Hunter's Cotton Insignia",19817
+"Vigorous Cotton Insignia",19818
+"Hearty Embroidered Cotton Insignia",19819
+"Hunter's Embroidered Cotton Insignia",19820
+"Vigorous Embroidered Cotton Insignia",19821
+"Healing Green Inscription",19822
+"Strong Iron Plated Inscription",19823
+"Honed Iron Plated Inscription",19824
+"Hunter's Iron Plated Inscription",19825
+"Strong Soft Inscription",19826
+"Hunter's Soft Inscription",19827
+"Hearty Soft Inscription",19828
+"Honed Soft Inscription",19829
+"Hearty Seasoned Inscription",19830
+"Ravaging Seasoned Inscription",19831
+"Ravaging Steel Plated Inscription",19832
+"Hunter's Steel Plated Inscription",19833
+"Vigorous Seasoned Inscription",19834
+"Vigorous Steel Plated Inscription",19835
+"Carrion Darksteel Plated Inscription",19836
+"Berserker's Darksteel Plated Inscription",19837
+"Valkyrie Hard Inscription",19838
+"Carrion Hard Inscription",19839
+"Rampager's Hard Inscription",19840
+"Cleric's Hard Inscription",19841
+"Berserker's Hard Inscription",19842
+"Assassin's Mithril Plated Inscription",19843
+"Carrion Mithril Plated Inscription",19844
+"Knight's Mithril Plated Inscription",19845
+"Carrion Elder Inscription",19846
+"Knight's Elder Inscription",19847
+"Assassin's Elder Inscription",19848
+"Berserker's Embroidered Linen Insignia",19849
+"Berserker's Linen Insignia",19850
+"Cleric's Linen Insignia",19851
+"Rampager's Linen Insignia",19852
+"Assassin's Silk Insignia",19853
+"Assassin's Embroidered Silk Insignia",19854
+"Berserker's Embroidered Silk Insignia",19855
+"Valkyrie Embroidered Silk Insignia",19856
+"Rampager's Embroidered Silk Insignia",19857
+"Knight's Embroidered Silk Insignia",19858
+"Carrion Embroidered Silk Insignia",19859
+"Cleric's Embroidered Silk Insignia",19860
+"Berserker's Silk Insignia",19861
+"Valkyrie Silk Insignia",19862
+"Rampager's Silk Insignia",19863
+"Knight's Silk Insignia",19864
+"Carrion Silk Insignia",19865
+"Cleric's Silk Insignia",19866
+"Ravaging Cotton Insignia",19867
+"Ravaging Embroidered Cotton Insignia",19868
+"Healing Embroidered Jute Insignia",19869
+"Malign Jute Insignia",19870
+"Malign Embroidered Jute Insignia",19871
+"Ravaging Wool Insignia",19872
+"Ravaging Embroidered Wool Insignia",19873
+"Hearty Wool Insignia",19874
+"Hearty Embroidered Wool Insignia",19875
+"Assassin's Linen Insignia",19876
+"Cleric's Embroidered Linen Insignia",19877
+"Assassin's Embroidered Linen Insignia",19878
+"Rampager's Embroidered Linen Insignia",19879
+"Carrion Intricate Silk Insignia",19880
+"Cleric's Intricate Silk Insignia",19881
+"Assassin's Intricate Silk Insignia",19882
+"Berserker's Intricate Silk Insignia",19883
+"Rampager's Intricate Silk Insignia",19884
+"Knight's Intricate Silk Insignia",19885
+"Valkyrie Intricate Silk Insignia",19886
+"Malign Green Inscription",19887
+"Malign Bronze Plated Inscription",19888
+"Healing Bronze Plated Inscription",19889
+"Ravaging Iron Plated Inscription",19890
+"Hearty Iron Plated Inscription",19891
+"Ravaging Soft Inscription",19892
+"Cleric's Darksteel Plated Inscription",19893
+"Assassin's Darksteel Plated Inscription",19894
+"Rampager's Darksteel Plated Inscription",19895
+"Assassin's Hard Inscription",19896
+"Carrion Mithril Imbued Inscription",19897
+"Cleric's Mithril Imbued Inscription",19898
+"Assassin's Mithril Imbued Inscription",19899
+"Berserker's Mithril Imbued Inscription",19900
+"Rampager's Mithril Imbued Inscription",19901
+"Knight's Mithril Imbued Inscription",19902
+"Valkyrie Mithril Imbued Inscription",19903
+"Carrion Linen Insignia",19904
+"Knight's Linen Insignia",19905
+"Valkyrie Linen Insignia",19906
+"Carrion Embroidered Linen Insignia",19907
+"Knight's Embroidered Linen Insignia",19908
+"Valkyrie Embroidered Linen Insignia",19909
+"Carrion Intricate Gossamer Insignia",19910
+"Cleric's Intricate Gossamer Insignia",19911
+"Assassin's Intricate Gossamer Insignia",19912
+"Berserker's Intricate Gossamer Insignia",19913
