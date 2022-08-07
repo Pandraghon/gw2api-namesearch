@@ -14,6 +14,7 @@ langs.map(async lang => {
 		return fetch(`${apiUrl}${endpoint}?page_size=${padding}&page=${state.page}&lang=${lang}`)
 			.then(async res => {
 				const data = await res.json();
+				const sanitizedEndpoint = endpoint.replace(/\//g, '_');
 				const lastPage = res.headers.get('x-page-total');
 				const lastSavedId = state.last_id;
 				const dataToSave = [];
@@ -26,11 +27,11 @@ langs.map(async lang => {
 					idToSave = current.id;
 				}
 				if (dataToSave.length) {
-					console.log(`Adding ${dataToSave.length} entries in ${lang}/${endpoint}.csv`);
-					await fs.appendFile(resolve(lang, `${endpoint}.csv`), `${dataToSave.join('\n')}\n`).catch(console.error);
+					console.log(`Adding ${dataToSave.length} entries in ${lang}/${sanitizedEndpoint}.csv`);
+					await fs.appendFile(resolve(lang, `${sanitizedEndpoint}.csv`), `${dataToSave.join('\n')}\n`).catch(console.error);
 					state.last_id = idToSave;
 				} else {
-					console.log(`No new entries to add to ${lang}/${endpoint}.csv`);
+					console.log(`No new entries to add to ${lang}/${sanitizedEndpoint}.csv`);
 				}
 				if (lastPage > state.page) state.page++;
 			}).catch(console.error);
