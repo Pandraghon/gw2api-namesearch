@@ -24198,3 +24198,203 @@
 "Bâton de feu nécrophage de corruption",33000
 "Bâton de feu nécrophage d'énergie",33001
 "Bâton de feu nécrophage d'air",33002
+"Lame de feu nécrophage d'eau",33003
+"Lame de feu nécrophage de corruption",33004
+"Lame de feu nécrophage d'énergie",33005
+"Lame de feu nécrophage d'air",33006
+"Convoyeur de feu nécrophage d'eau",33007
+"Convoyeur de feu nécrophage de corruption",33008
+"Convoyeur de feu nécrophage d'énergie",33009
+"Convoyeur de feu nécrophage d'air",33010
+"Trident de feu nécrophage d'eau",33011
+"Trident de feu nécrophage de corruption",33012
+"Trident de feu nécrophage d'énergie",33013
+"Trident de feu nécrophage d'air",33014
+"Cor de guerre de feu nécrophage d'eau",33015
+"Cor de guerre de feu nécrophage de corruption",33016
+"Cor de guerre de feu nécrophage d'énergie",33017
+"Cor de guerre de feu nécrophage d'air",33018
+"Hache orrienne de Vision",33020
+"Hache orrienne d'exactitude",33021
+"Dague orrienne de rage",33026
+"Focus orrien de Vision",33028
+"Focus orrien d'exactitude",33029
+"Epée longue orrienne de Vision",33032
+"Epée longue orrienne de rage",33034
+"Concasseur orrien de Vision",33036
+"Lance orrienne de Vision",33040
+"Arc orrien de Vision",33044
+"Arc orrien d'exactitude",33045
+"Masse orrienne de rage",33050
+"Pistolet orrien de Vision",33052
+"Pistolet orrien d'exactitude",33053
+"Pistolet orrien de rage",33054
+"Fusil orrien de Vision",33056
+"Fusil orrien d'exactitude",33057
+"Sceptre orrien de rage",33062
+"Bouclier orrien de sang",33063
+"Arc court orrien de Vision",33068
+"Arc court orrien d'exactitude",33069
+"Arc court orrien de rage",33070
+"Lance-harpon orrien de Vision",33072
+"Lance-harpon orrien de rage",33074
+"Bâton orrien d'exactitude",33077
+"Bâton orrien de rage",33078
+"Sabre orrien d'exactitude",33081
+"Sabre orrien de rage",33082
+"Torche orrienne de Vision",33084
+"Torche orrienne d'exactitude",33085
+"Torche orrienne de rage",33086
+"Cor de guerre orrien de rage",33094
+"Hache orrienne",33096
+"Hache orrienne",33098
+"Dague orrienne",33102
+"Dague orrienne",33103
+"Dague orrienne",33104
+"Focus orrien",33108
+"Epée longue orrienne",33110
+"Epée longue orrienne",33112
+"Epée longue orrienne",33113
+"Epée longue orrienne",33114
+"Concasseur orrien",33119
+"Lance orrienne",33121
+"Lance orrienne",33122
+"Lance orrienne",33123
+"Arc orrien",33126
+"Arc orrien",33127
+"Arc orrien",33128
+"Arc orrien",33129
+"Masse orrienne",33132
+"Masse orrienne",33133
+"Pistolet orrien",33136
+"Pistolet orrien",33137
+"Pistolet orrien",33138
+"Pistolet orrien",33139
+"Fusil orrien",33142
+"Fusil orrien",33143
+"Fusil orrien",33144
+"Sceptre orrien",33145
+"Sceptre orrien",33147
+"Sceptre orrien",33148
+"Sceptre orrien",33149
+"Bouclier orrien",33151
+"Bouclier orrien",33153
+"Bouclier orrien",33154
+"Arc court orrien",33158
+"Arc court orrien",33159
+"Lance-harpon orrien",33162
+"Lance-harpon orrien",33163
+"Lance-harpon orrien",33164
+"Bâton orrien",33166
+"Bâton orrien",33167
+"Bâton orrien",33168
+"Bâton orrien",33169
+"Sabre orrien",33171
+"Sabre orrien",33172
+"Sabre orrien",33173
+"Torche orrienne",33178
+"Torche orrienne",33179
+"Trident orrien",33184
+"Cor de guerre orrien",33188
+"Cor de guerre orrien",33189
+"Hache orrienne de terre",33193
+"Dague orrienne de soif de sang",33196
+"Dague orrienne de terre",33197
+"Focus orrien de soif de sang",33200
+"Focus orrien de terre",33201
+"Epée longue orrienne de la géomancienne",33203
+"Epée longue orrienne de terre",33205
+"Concasseur orrien de soif de sang",33208
+"Concasseur orrien de terre",33209
+"Lance orrienne de terre",33213
+"Arc orrien du géomancien",33215
+"Arc orrien de soif de sang",33216
+"Arc orrien de terre",33217
+"Masse orrienne de la géomancienne",33219
+"Masse orrienne de soif de sang",33220
+"Masse orrienne de terre",33221
+"Pistolet orrien du géomancien",33223
+"Pistolet orrien de soif de sang",33224
+"Pistolet orrien de terre",33225
+"Fusil orrien de soif de sang",33228
+"Fusil orrien de terre",33229
+"Sceptre orrien de soif de sang",33232
+"Sceptre orrien de terre",33233
+"Bouclier orrien de soif de sang",33236
+"Bouclier orrien de terre",33237
+"Arc court orrien du géomancien",33239
+"Arc court orrien de soif de sang",33240
+"Arc court orrien de terre",33241
+"Lance-harpon orrien de terre",33245
+"Bâton orrien de soif de sang",33248
+"Bâton orrien de terre",33249
+"Sabre orrien de soif de sang",33252
+"Sabre orrien de terre",33253
+"Torche orrienne de soif de sang",33256
+"Torche orrienne de terre",33257
+"Trident orrien de soif de sang",33260
+"Trident orrien de terre",33261
+"Cor de guerre orrien de soif de sang",33264
+"Hache orrienne d'énergie",33268
+"Hache orrienne d'air",33269
+"Dague orrienne d'énergie",33272
+"Dague orrienne d'air",33273
+"Focus orrien de corruption",33275
+"Focus orrien d'énergie",33276
+"Focus orrien d'air",33277
+"Epée longue orrienne d'énergie",33280
+"Epée longue orrienne d'air",33281
+"Concasseur orrien d'énergie",33284
+"Concasseur orrien d'air",33285
+"Lance orrienne d'énergie",33288
+"Lance orrienne d'air",33289
+"Arc orrien d'eau",33290
+"Arc orrien d'énergie",33292
+"Arc orrien d'air",33293
+"Masse orrienne d'énergie",33296
+"Masse orrienne d'air",33297
+"Pistolet orrien d'eau",33298
+"Pistolet orrien de corruption",33299
+"Pistolet orrien d'énergie",33300
+"Pistolet orrien d'air",33301
+"Fusil orrien de corruption",33303
+"Fusil orrien d'énergie",33304
+"Fusil orrien d'air",33305
+"Sceptre orrien d'eau",33306
+"Sceptre orrien de corruption",33307
+"Sceptre orrien d'énergie",33308
+"Sceptre orrien d'air",33309
+"Bouclier orrien de corruption",33311
+"Bouclier orrien d'énergie",33312
+"Bouclier orrien d'air",33313
+"Arc court orrien d'eau",33314
+"Arc court orrien de corruption",33315
+"Arc court orrien d'air",33317
+"Lance-harpon orrien d'air",33321
+"Bâton orrien d'énergie",33324
+"Bâton orrien d'air",33325
+"Sabre orrien d'eau",33326
+"Sabre orrien d'énergie",33328
+"Sabre orrien d'air",33329
+"Torche orrienne d'énergie",33332
+"Torche orrienne d'air",33333
+"Trident orrien d'énergie",33336
+"Trident orrien d'air",33337
+"Cor de guerre orrien de corruption",33339
+"Cor de guerre orrien d'énergie",33340
+"Cor de guerre orrien d'air",33341
+"Hachette émoussée",33343
+"Arc long fendillé",33344
+"Couteau émoussé",33345
+"Gourdin fendillé",33349
+"Vieux pistolet",33350
+"Barre tordue",33352
+"Lame émoussée",33355
+"Trident émoussé",33359
+"Harpon craquelé",33360
+"Lance-harpon",33361
+"Hache ailée de cérémonie de rage",33365
+"Dague de cérémonie d'exactitude",33368
+"Cimeterre de cérémonie de rage",33377
+"Pistolet de cérémonie d'exactitude",33396
+"Pistolet de cérémonie de rage",33397
