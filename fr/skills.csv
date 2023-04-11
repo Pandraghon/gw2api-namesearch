@@ -248,7 +248,6 @@
 "Renouveau de la terre",5761
 "Renouveau du feu",5762
 "Renouveau de l'eau",5763
-"Armure de la terre",5777
 "Lancer",5780
 "Geyser",5782
 "Flash aveuglant",5792
@@ -527,9 +526,13 @@
 "Reflets",10202
 "Champ neutre",10203
 "Mantra de distraction",10204
+"Verrouillage de puissance",10206
 "Mantra de résolution",10207
+"Purge puissante",10209
 "Mantra de douleur",10211
+"Dissipation de puissance",10212
 "Mantra de récupération",10213
+"Regain de puissance",10214
 "Sorcier fantasmagorique",10216
 "Surin mental",10218
 "Renforcement spatial",10219
@@ -541,6 +544,7 @@
 "Signe de minuit",10234
 "Signe d'inspiration",10236
 "Mantra de concentration",10237
+"Rétablissement puissant",10238
 "Illusion de vie",10244
 "Invisibilité de masse",10245
 "Signe des illusions",10247
@@ -1002,7 +1006,6 @@
 "Terrain boueux inférieur",13938
 "Chausse-trappes mineure",14136
 "Impact agité",14268
-"Posture équilibrée mineure",14330
 "Retour",14350
 "Eviscération",14353
 "Lancer de bolas",14354
@@ -1342,6 +1345,7 @@
 "Frappe impactante",29516
 "Détonation des tourelles de caisse de provisions",29518
 "Signe d'humilité",29519
+"Champion éternel",29521
 "Bottes-fusées",29522
 "Puits de précognition",29526
 "Feu de forêt",29533
@@ -1476,11 +1480,9 @@
 " Charge éclair",30665
 "\"Ressentez cette délicieuse douleur !\"",30670
 "Rafale enflammée",30682
-"Pack de poudre à mèche longue",30686
 "Coup de paume",30693
 "Coup de tonnerre",30713
 "Lancer d'Élixir X",30725
-"\"Œil de la tempête !\"",30745
 "Déchirure spatio-temporelle",30747
 "Écho mnémonique",30769
 "Impact pulmonaire",30770
@@ -1574,9 +1576,7 @@
 "Immolation en chaîne",31760
 "Explosion de flammes",31761
 "Séisme de plate-forme",31763
-"Éclats de foi",31765
 "Distribution de magie",31769
-"Graine de vie inférieure",31776
 "Explosion",31788
 "Ectoplasme",31792
 "Tempête de balles",31793
@@ -2015,6 +2015,7 @@
 "Trait de feu",40078
 "Coup écrasant",40084
 "Spores narcotiques",40111
+"Présage de liberté",40114
 "Drain de résistance",40133
 "Frénésie de rouille",40139
 "Arc rayonnant",40160
@@ -2031,7 +2032,7 @@
 "Battage de feu",40326
 "Explosion de pression",40332
 "Conduit hydrothermique",40378
-"Couverture du tireur embusqué",40436
+"Avancée de la mort",40436
 "Courroux de Glacelame",40485
 "Tir destructeur",40497
 "Posture de vautour",40498
@@ -2079,12 +2080,14 @@
 "Broyeur d'avantages",41283
 "Bombardement de citadelle",41294
 "Hache à tête chercheuse fantasmagorique",41324
+"Livraison sans entrave",41328
 "Tir efficace",41330
 "Pitié",41372
 "Ranger le grimoire",41380
 "Mutiler",41406
 "Visée brutale",41422
 "Repli de dévoreur",41461
+"Répit réparateur",41475
 "Tir d'escarmouche",41494
 "Bombardement de citadelle",41513
 "Coup de pied",41524
@@ -2111,6 +2114,7 @@
 "Soufflet ailé",41908
 "Menace imminente",41919
 "Repli de la mort",41937
+"Célérité écrasante",41988
 "Rayon de lumière primaire",42009
 "Salve de fusil",42041
 "Cri strident accélérant",42042
@@ -2126,6 +2130,7 @@
 "Bélier",42321
 "Flux de vapeur",42330
 "Brèche effrayante",42355
+"Écho de la vérité",42360
 "Grimoire du courage",42371
 "Explosion de cendres",42379
 "Signe de pierre mineur",42470
@@ -2145,18 +2150,22 @@
 "Disque laser",42842
 "Avancée mirage",42851
 "Drain de temps",42863
+"Passage d'introduction",42864
 "Cisaillement",42867
 "Charge brutale",42894
 "Mise à terre",42907
 "Résonance de pierre inférieure",42913
 "Gonflement de sable",42917
+"Renforcement de flammes",42924
 "Dessèchement",42935
 "Activation de Forge à Photons",42938
 "Mode bestial",42944
 "Rage de Griffelame",42949
 "Frappe de fracturation",42954
+"Répit rajeunissant",42960
 "Frappe de la savane",42963
 "Holo-bond",42965
+"Hâte absolue",42983
 "Quitter le mode bestial",43014
 "Défi à la douleur",43060
 "Sable dans un sablier",43064
@@ -2208,6 +2217,7 @@
 "Surchauffe",43937
 "Ruine d'esprit",43993
 "Ruine du gaspilleur",44004
+"Voix de la vérité",44008
 "Ordre héroïque",44076
 "Mantra de la vérité",44080
 "Jugement de la mort",44087
@@ -2217,6 +2227,7 @@
 "Posture aquatique",44239
 "Zéphyr véloce mineur",44240
 "Concentration divisée",44241
+"Conclusion clarifiée",44248
 "Frappe lumineuse : tempête",44260
 "Coup mortel",44278
 "Effondrement oppressant",44296
@@ -2266,6 +2277,7 @@
 "Grimoire de résolution",45023
 "Embuscade illusoire",45046
 "Tranchage essentiel",45047
+"Ruée de flammes",45082
 "Restauration malveillante",45088
 "Jet de bourbe",45094
 "Posture du griffon",45142
@@ -2863,10 +2875,8 @@
 "Glyphe des étoiles",55024
 "Epée de la justice",55027
 "Écho ancien",55029
-"Battage",55031
 "Bouclier du vengeur",55035
 "Bouclier du vengeur",55037
-"Étreinte d'âme",55038
 "Marteau de sagesse",55040
 "Glyphe des étoiles",55046
 "Étreinte d'âme",55050
@@ -3111,6 +3121,7 @@
 "Éclatement de glace",59489
 "Supernova",59493
 "Répétition",59526
+"Lien éternel",59554
 "Entrée explosive",59562
 "Invocation du tourment",59591
 "",59627
@@ -3528,6 +3539,7 @@
 "Rappel du Mech",63089
 "Brume enveloppante",63094
 "Signe de surcadençage",63095
+"Étreinte des ombres",63107
 "Signe de déplacement",63111
 "Signe supraconducteur",63113
 "Frappe de marteau",63118
@@ -3542,7 +3554,9 @@
 "Triple menace",63154
 "Linceul de l'ombre",63155
 "Spores explosives",63157
+"Nuit éternelle",63160
 "Fortification de la forêt",63163
+"Étreinte des ombres",63167
 "Frappe énergisante",63169
 "Support aérien",63172
 "Explosion de Barrière",63174
@@ -3555,11 +3569,14 @@
 "Coup violent déchaîné",63208
 "Explosion venimeuse",63209
 "Soutien de Mech : mines sous-marines",63210
+"Repos de l'aube",63220
 "Frappe au marteau",63222
 "Tir multiple",63225
+"Repos de l'aube",63227
 "Puits de silence",63230
 "Prototype de poing-fusée",63234
 "Cirque aérien",63236
+"Choc mental",63249
 "Annulation de Linceul de l'ombre",63251
 "Signe de force",63253
 "Combo du crépuscule",63254
@@ -3586,6 +3603,7 @@
 "Tir du cœur du réacteur",63345
 "Taillade sauvage",63350
 "Projection d'ombre",63351
+"Tir de hantise",63362
 "Mornifle explosive",63365
 "Tournoiement sauvage",63366
 "Batterie de décharge",63367
@@ -3778,6 +3796,25 @@
 "Élixir d'angoisse",68113
 "Détonation de cartouches",68128
 "Élixir de félicité",68132
+"Distorsion de chantelame",68273
+"Champ de défense",68280
+"Tranchage toxique",68308
+"Panache d'échappement",68316
+"Tri-éclair",68318
+"",68326
+"Statique volatile",68327
+"Horizon double",68336
+"Lame vaporeuse toxique",68346
+"Statique volatile",68349
+"Vague gravitationnelle",68352
+"Vague gravitationnelle",68354
+"Tribocharge",68362
+"Vent crépitant",68372
+"Retour toxique",68382
+"Statique volatile",68387
+"Ultimatum foudroyant",68393
+"Mandrin massif",68402
+"Lame vaporeuse toxique",68414
 "Marteau gravitationnel",68415
 "Rupture",68420
 "Retour toxique",68425
@@ -3807,3 +3844,19 @@
 "Grimoire de résolution",68648
 "Grimoire de résolution",68649
 "Grimoire du courage",68650
+"Regain de concentration",68666
+"\"Subissez mon courroux !\"",68670
+"Signe de courage",68676
+"Gueule du dragon",68686
+"Taillade",68714
+"Torrent d'énergie",68756
+"Siphon corrompu",68807
+"Ténèbres enveloppantes",68809
+"Ténèbres enveloppantes",68865
+"Marque d'angoisse",68874
+"Flaque de lumière",68940
+"Torrent d'énergie",68942
+"Ténèbres enveloppantes",68948
+"Décharge de brume",68950
+"Embuscade",68954
+"Ténèbres enveloppantes",68958

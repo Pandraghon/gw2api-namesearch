@@ -6,37 +6,42 @@ const langs = ['fr', 'en'];
 const apiUrl = 'https://api.guildwars2.com/v2/';
 const padding = 200;
 
-langs.map(async lang => {
-	const stateFilepath = resolve(lang, 'state.json');
-	const states = await fs.readFile(stateFilepath).then(JSON.parse).catch(console.error);
-	console.log(`Current state for ${lang}`, states);
-	const jobs = Object.entries(states).map(async ([endpoint, state]) => {
-		return fetch(`${apiUrl}${endpoint}?page_size=${padding}&page=${state.page}&lang=${lang}`)
-			.then(async res => {
-				const data = await res.json();
-				const sanitizedEndpoint = endpoint.replace(/\//g, '_');
-				const lastPage = res.headers.get('x-page-total');
-				const lastSavedId = state.last_id;
-				const dataToSave = [];
-				let idToSave = false;
-				for (let i = 0, imax = data.length ; i < imax ; i++) {
-					const current = data[i];
-					// TODO: this condition doesn't work with achievements, since entries are not ordered by ids
-					if (current.id <= lastSavedId) continue;
-					dataToSave.push(`${JSON.stringify(current.name)},${current.id}`);
-					idToSave = current.id;
-				}
-				if (dataToSave.length) {
-					console.log(`Adding ${dataToSave.length} entries in ${lang}/${sanitizedEndpoint}.csv`);
-					await fs.appendFile(resolve(lang, `${sanitizedEndpoint}.csv`), `${dataToSave.join('\n')}\n`).catch(console.error);
-					state.last_id = idToSave;
-				} else {
-					console.log(`No new entries to add to ${lang}/${sanitizedEndpoint}.csv`);
-				}
-				if (lastPage > state.page) state.page++;
-			}).catch(console.error);
-	});
-	await Promise.all(jobs);
-	console.log(`Saving state in ${stateFilepath}`)
-	await fs.writeFile(stateFilepath, JSON.stringify(states));
-});
+const run = async () => {
+
+    const endpoints = await fs.readFile('endpoints.json').then(JSON.parse).catch(console.error);
+
+    await Promise.all(endpoints.map(async endpoint => {
+        // Fetch ids from API
+        const ids = await fetch(`${apiUrl}${endpoint}`).then(res => res.json());
+        const sanitizedEndpoint = endpoint.replace(/\//g, '_');
+
+        // Update names
+        return Promise.all(langs.map(async lang => {
+            const current = (await fs.readFile(resolve(lang, `${sanitizedEndpoint}.json`)).then(JSON.parse).catch(console.error)) || {};
+            const currentIds = Object.keys(current);
+            const toFetch = [];
+
+            for (let i = 0, imax = ids.length ; i < imax && toFetch.length < padding ; i++) {
+                const id = ids[i];
+                if (currentIds.indexOf(`${id}`) === -1) toFetch.push(id);
+            }
+
+            if (toFetch.length) {
+                return fetch(`${apiUrl}${endpoint}?ids=${toFetch.join(',')}&lang=${lang}`)
+                    .then(async res => {
+                        const data = await res.json();
+                        for (let i = 0, imax = data.length ; i < imax ; i++) {
+                            const { id, name } = data[i];
+                            current[id] = name;
+                        }
+                        console.log(`[${lang}] ${data.length} records added for ${endpoint}`);
+                        await fs.writeFile(resolve(lang, `${sanitizedEndpoint}.json`), JSON.stringify(current));
+                        await fs.writeFile(resolve(lang, `${sanitizedEndpoint}.csv`), Object.entries(current).map(([id, name]) => `${JSON.stringify(name)},${id}`).join('\n'));
+                    });
+            }
+        }));
+    }));
+
+};
+
+run();
