@@ -34,7 +34,7 @@ const run = async () => {
                             const { id, name } = data[i];
                             current[id] = name;
                         }
-                        console.log(`[${lang}] ${data.length} records added for ${endpoint}`);
+                        console.log(`[${lang}] ${data.length} records added for ${endpoint}: ${Object.keys(current).length}/${ids.length}`);
                         await fs.writeFile(resolve(lang, `${sanitizedEndpoint}.json`), JSON.stringify(current));
                         await fs.writeFile(resolve(lang, `${sanitizedEndpoint}.csv`), Object.entries(current).map(([id, name]) => `${JSON.stringify(name)},${id}`).join('\n'));
                     });
