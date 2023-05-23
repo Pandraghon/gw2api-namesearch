@@ -62880,6 +62880,7 @@
 "Living Water Torch",97011
 "Jade Fishing Lure",97012
 "Broken Brass Spyglass",97015
+"Special Ops Requisition: Pants",97016
 "Unholy Mackerel",97017
 "Recipe: Suun's Visage",97018
 "Jade Bot Core: Tier 7",97020
@@ -62985,6 +62986,7 @@
 "Saltspray Dragon Scarf",97146
 "Recipe: Jade Punk Sword",97147
 "Recipe: Jade Tech Medium Boots",97151
+"Special Ops Requisition: Helmet",97153
 "Togo's Guise",97154
 "Recipe: Suun's Harpoon Gun",97155
 "Suun's Warhammer",97156
@@ -64387,6 +64389,7 @@
 "Mini Materialized Shrine Guardian Infant",99403
 "Harbinger's Cache",99406
 "Soo-Won's Rending Skin",99407
+"Light Special Ops Pauldrons",99409
 "Luxon Hunter's Mace",99410
 "Soo-Won's Breath Skin",99412
 "Scale Splinter of Soo-Won",99413
@@ -64398,6 +64401,7 @@
 "Luxon Hunter's Greatsword",99421
 "Cask of Shiverpeak Stout",99422
 "Soo-Won's Argument Skin",99423
+"Heavy Special Ops Pauldrons",99425
 "Scale Splinter of Soo-Won",99427
 "Mining Air Filter, Grade A",99428
 "Replica Oni Arms",99431
@@ -64418,6 +64422,7 @@
 "Luxon Hunter's Scepter",99469
 "Soo-Won's Weight Skin",99470
 "Light Special Ops Boots",99472
+"Medium Special Ops Gloves",99476
 "Luxon Hunter's Staff",99477
 "Tahkayun's Armor Piercer",99478
 "Soo-Won's Fang Skin",99479
@@ -64426,8 +64431,10 @@
 "Luxon Hunter's Torch",99483
 "Dragonjade-Tier Reward Package",99484
 "Holo Cape Projector Skin",99486
+"Heavy Special Ops Gloves",99488
 "Soo-Won's Wing Skin",99491
 "Bestial Tides Tattoo Legs Skin",99493
+"Medium Special Ops Pauldrons",99494
 "Soo-Won's Wisdom Skin",99495
 "Mining Air Filter, Security Spec",99497
 "Tahkayun's Edge",99498
@@ -64445,6 +64452,7 @@
 "Soo-Won's Flight Skin",99520
 "Completed Memory of Soo-Won",99521
 "Special Ops Boot Locker",99522
+"Light Special Ops Gloves",99524
 "Luxon Hunter's Focus",99526
 "Catalyst's Cache",99527
 "Heavy Special Ops Boots",99531
@@ -64557,6 +64565,8 @@
 "Energized Luxon Hunter's Weapon Cache",99666
 "Energized Luxon Hunter's Pistol",99667
 "Siege Stampede: Bronze",99668
+"Special Ops Medium Boots Skin",99669
+"Special Ops Light Gloves Skin",99670
 "Energized Luxon Hunter's Staff",99671
 "Energized Luxon Hunter's Hammer",99672
 "Silent Sands: Gold",99673
@@ -64569,15 +64579,18 @@
 "Silent Sands: Bronze",99688
 "Swift Skiffs: Bronze",99691
 "Rolling into the Deep: Silver",99694
+"Special Ops Heavy Boots Skin",99695
 "Jade Bot Rally: Silver",99696
 "Energized Luxon Hunter's Axe",99697
 "Energized Luxon Hunter's Dagger",99699
 "Gyala Delve: Hero's Choice Chest",99704
 "",99711
+"Power Source: Helmet",99712
 "Power Source: Pauldrons",99713
 "Silent Sands: Silver",99714
 "Energized Luxon Hunter's Short Bow",99718
 "Repurposed Drill Leveler",99719
+"Power Source: Pants",99721
 "Energized Luxon Hunter's Greatsword",99726
 "Energized Luxon Hunter's Mace",99727
 "Energized Luxon Hunter's Torch",99730
@@ -64588,6 +64601,7 @@
 "",99751
 "Energized Luxon Hunter's Sword",99752
 "Armored Tiger Warclaw Skin",99753
+"Special Ops Pauldrons Locker",99756
 "Energized Luxon Hunter's Longbow",99757
 "Ebonhawke Crossbow Rifle Skin",99758
 "Jade Bot Rally: Bronze",99768

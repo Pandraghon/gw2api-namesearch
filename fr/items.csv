@@ -62880,6 +62880,7 @@
 "Torche de l'eau vive",97011
 "Leurre de pêche de jade",97012
 "Longue-vue cassée en cuivre",97015
+"Réquisition des forces spéciales : pantalon",97016
 "Maquereau impie",97017
 "Recette : visage de Suun",97018
 "Noyau de drone de jade : Niveau 7",97020
@@ -62985,6 +62986,7 @@
 "Étole du dragon des embruns",97146
 "Recette : épée jadepunk",97147
 "Recette : bottes intermédiaires de technologie de jade",97151
+"Réquisition des forces spéciales : heaume",97153
 "Livrée de Togo",97154
 "Recette : fusil-harpon de Suun",97155
 "Marteau de guerre de Suun",97156
@@ -64387,6 +64389,7 @@
 "Mini-enfant garde de sanctuaire matérialisé",99403
 "Cache d'augure",99406
 "Apparence de lacération de Soo-Won",99407
+"Espauliers légers des forces spéciales",99409
 "Masse de chasseur luxon",99410
 "Apparence de souffle de Soo-Won",99412
 "Éclat d'écaille de Soo-Won",99413
@@ -64398,6 +64401,7 @@
 "Espadon de chasseur luxon",99421
 "Tonneau de bière brune des Cimefroides",99422
 "Apparence d'argument de Soo-Won",99423
+"Espauliers lourds des forces spéciales",99425
 "Éclat d'écaille de Soo-Won",99427
 "Filtre à air de mineur, qualité A",99428
 "Réplique de bras d'oni",99431
@@ -64418,6 +64422,7 @@
 "Sceptre de chasseur luxon",99469
 "Apparence de poids de Soo-Won",99470
 "Bottes légères des forces spéciales",99472
+"Gants intermédiaires des forces spéciales",99476
 "Bâton de chasseur luxon",99477
 "Perce-armure de Tahkayun",99478
 "Apparence de croc de Soo-Won",99479
@@ -64426,8 +64431,10 @@
 "Torche de chasseur luxon",99483
 "Lot de récompenses de niveau jade draconique",99484
 "Apparence de projecteur de cape holographique",99486
+"Gants lourds des forces spéciales",99488
 "Apparence d'aile de Soo-Won",99491
 "Apparence de jambes à tatouage de marée bestiale",99493
+"Espauliers intermédiaires des forces spéciales",99494
 "Apparence de sagesse de Soo-Won",99495
 "Filtre à air de mineur, modèle de la Sécurité",99497
 "Lame de Tahkayun",99498
@@ -64445,6 +64452,7 @@
 "Apparence de vol de Soo-Won",99520
 "Souvenir complet de Soo-Won",99521
 "Casier de bottes des forces spéciales",99522
+"Gants légers des forces spéciales",99524
 "Focus de chasseur luxon",99526
 "Cache de catalyseur",99527
 "Bottes lourdes des forces spéciales",99531
@@ -64557,6 +64565,8 @@
 "Cache d'armes alimentées de chasseur luxon",99666
 "Pistolet alimenté de chasseur luxon",99667
 "Piétinement de siège : bronze",99668
+"Apparence de bottes intermédiaires des forces spéciales",99669
+"Apparence de gants légers des forces spéciales",99670
 "Bâton alimenté de chasseur luxon",99671
 "Marteau alimenté de chasseur luxon",99672
 "Sables silencieux : or",99673
@@ -64569,15 +64579,18 @@
 "Sables silencieux : bronze",99688
 "Esquifs véloces : bronze",99691
 "Roulade dans les profondeurs : argent",99694
+"Apparence de bottes lourdes des forces spéciales",99695
 "Rassemblement de drone de jade : argent",99696
 "Hache alimentée de chasseur luxon",99697
 "Dague alimentée de chasseur luxon",99699
 "Fosse de Gyala : coffre au choix du Héros",99704
 "",99711
+"Source de puissance : heaume",99712
 "Source de puissance : espauliers",99713
 "Sables silencieux : argent",99714
 "Arc court alimenté de chasseur luxon",99718
 "Foreuse à niveau reconvertie",99719
+"Source de puissance : pantalon",99721
 "Espadon alimenté de chasseur luxon",99726
 "Masse alimentée de chasseur luxon",99727
 "Torche alimentée de chasseur luxon",99730
@@ -64588,6 +64601,7 @@
 "",99751
 "Épée alimentée de chasseur luxon",99752
 "Apparence de razziafelis tigre cuirassé",99753
+"Casier d'espauliers des forces spéciales",99756
 "Arc long alimenté de chasseur luxon",99757
 "Apparence de fusil arbalète de Noirfaucon",99758
 "Rassemblement de drone de jade : bronze",99768
