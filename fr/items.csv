@@ -55859,6 +55859,7 @@
 "Manteau exalté de médecin du Fléau",87585
 "Apparence de focus du roi du désert",87586
 "Expert des griffons du Domaine de Kourna : or",87587
+"Second portail aux esprits de la Province de Seitung",87589
 "Recette : empaleur de Nerashi",87590
 "Tourelle de soutien automatique — Type 7, niveau 2",87591
 "Artefact de Nerashi",87592
@@ -55960,6 +55961,7 @@
 "Bottes draconiques de médecin du Fléau",87713
 "Bouteille de fumée noire",87714
 "Fragment de plan pour type 2 de TSA : 4 sur 4",87715
+"Dans les ténèbres énigmatiques",87718
 "Broyeur de perles de médecin du Fléau",87720
 "Barre de perles de médecin du Fléau",87721
 "Tourelle de soutien automatique — Type 7, niveau 3",87722
@@ -56017,6 +56019,7 @@
 "Cuissardes draconiques de médecin du Fléau",87792
 "Recette : pantalon exalté de médecin du Fléau",87793
 "Recette : grèves de Nerashi",87794
+"Premier portail aux esprits de la Province de Seitung",87795
 "Recette : heaume armorié de médecin du Fléau",87796
 "Pourpoint léger de corsaire",87797
 "Coupleur de puissance à vapeur",87798
@@ -56039,6 +56042,7 @@
 "Trancheuse de Nerashi",87823
 "Sirène de perles de médecin du Fléau",87824
 "Dressage de scaraboule de Kourna : bronze",87825
+"En quête de connaissances supérieures",87826
 "Étoile de bravoure du Détroit des gorges glacées",87827
 "Recette : Bannière du Valeureux commandant",87829
 "Pack de mini montures éveillées",87830
@@ -56047,6 +56051,7 @@
 "Dressage de scaraboule de Kourna : or",87833
 "Mini-officier Faren",87834
 "Recette : cuissardes draconiques de médecin du Fléau",87836
+"Premier portail aux esprits des Terres sauvages d'Echovald",87837
 "Marque de Verdance",87838
 "Pierre brillante",87839
 "Tord-boyaux à 210 degrés",87840
@@ -56105,17 +56110,21 @@
 "Décoration de bannière héroïque",87904
 "Tourelle de soutien automatique — Type 5, niveau 4",87905
 "Notes sur les scarabées de l'Enqueste",87906
+"Second portail aux esprits des Terres sauvages d'Echovald",87907
 "Aileron de mégalodon calcifié",87908
+"Premier portail aux esprits du Trépas du dragon",87909
 "Tourelle de soutien automatique — Type 7",87910
 "Lot d'éclats gravés",87912
 "Bouteille non étiquetée de liquide pétillant",87914
 "Recette : conque de perles de médecin du Fléau",87917
 "Bannière élevée du Valeureux commandant",87919
 "Gants exaltés de médecin du Fléau",87920
+"Se préparer au pire",87921
 "Fragment de plan pour type 4 de TSA : 4 sur 4",87922
 "Recette : carapace de perles de médecin du Fléau",87923
 "Pennon de bannière",87925
 "Morceau de viande",87926
+"C'est en forgeant qu'on devient forgeron",87928
 "Œuf de scarabées du Fléau",87929
 "Lamentation",87930
 "Recette : croquenots de Nerashi",87931
@@ -56134,6 +56143,7 @@
 "Trident de Nerashi",87948
 "Pantalon exalté de médecin du Fléau",87949
 "Malle kournane",87950
+"Invité vedette",87951
 "Objet de dos de scarabée serti de joyaux",87952
 "Cor de chasse",87953
 "Outil de bûcheron de magie volatile",87954
@@ -56168,6 +56178,7 @@
 "Recette : Pennon de bannière",87988
 "Fragment de plan pour type 5 de TSA : 3 sur 4",87989
 "Jaune d'œuf d'araignée toxique",87990
+"Premier portail aux esprits de Néo-Kaineng",87991
 "Recette : Appel du vide",87992
 "Fragment de plan pour type 2 de TSA : 3 sur 4",87993
 "Fusil-harpon de Nerashi",87994
@@ -56196,6 +56207,7 @@
 "Jambières de Nerashi",88025
 "Chevalière de Lonai",88026
 "Carapace de perles de médecin du Fléau",88027
+"Besoin d'un ami",88028
 "Recette : trancheuse de Nerashi",88029
 "Recette : gants exaltés de médecin du Fléau",88031
 "Racine insipide",88034
@@ -56216,13 +56228,16 @@
 "Apparence d'arc long du roi du désert",88053
 "Ensemble de sac à dos et mini-jambes de goule",88054
 "Grimoire poussiéreux archaïque",88055
+"La disparition de Zunraa",88056
 "Bannière du Commandant",88057
+"Second portail aux esprits de Néo-Kaineng",88058
 "Don de Verdarach",88060
 "Apparence de bouclier du roi du désert",88061
 "Recette : garde-poignets de Nerashi",88063
 "Livre de recettes d'armure de Nerashi",88065
 "Verdarach mélodieux",88066
 "Masque exalté de médecin du Fléau",88067
+"Second portail aux esprits du Trépas du dragon",88068
 "Tourelle de soutien automatique — Type 4, niveau 2",88070
 "Recette : culotte de Nerashi",88071
 "Médaillon de pourfendeur",88072
@@ -56929,8 +56944,10 @@
 "Apparence de dague du royaume démentiel",89008
 "Apparence d'arc long du royaume démentiel",89009
 "Infusion de braise",89010
+"Cage thoracique de Léviathan primordial : incurvée",89011
 "Infusion réverbérante polysaturée (grise)",89012
 "Infusion réverbérante polysaturée (grise)",89013
+"Cage thoracique de Léviathan primordial : incurvée à gauche",89014
 "Infusion de braise",89015
 "Infusion réverbérante polysaturée (grise)",89016
 "Infusion réverbérante polysaturée (violette)",89017
@@ -56989,6 +57006,7 @@
 "Infusion réverbérante polysaturée (violette)",89070
 "Infusion réverbérante polysaturée (rouge)",89071
 "Toucher du brouillard",89072
+"Cage thoracique de Léviathan primordial",89073
 "Infusion réverbérante polysaturée (grise)",89074
 "Infusion réverbérante polysaturée (rouge)",89075
 "Traité sur les principes...",89076
@@ -57189,6 +57207,7 @@
 "Infusion de jouet",89391
 "Apparence de hache orchestrale",89392
 "Ramures hivernales",89393
+"Château de glace : mur",89394
 "Apparence de fusil orchestral",89395
 "Château de glace : toit",89396
 "Épée en canne en sucre bienfaiteur de concentration",89398
@@ -57199,6 +57218,7 @@
 "Sceptre en canne en sucre bienfaiteur de concentration",89404
 "Apparence d'arc long orchestral",89405
 "Dague en gaulthérie bienfaiteur de frisson",89406
+"Château de glace : sol",89407
 "Pistolet en gaulthérie bienfaiteur de frisson",89408
 "Recycl-o-matic runique",89409
 "Apparence de harnois glorieux du Héros de la forge des Brumes en sommeil",89410
@@ -57590,6 +57610,7 @@
 "Rune de feux d'artifice supérieure",89999
 "Recette : Rune de feux d'artifice",90000
 "Mini-lanterne festive",90001
+"Statue du Sanglier",90002
 "Apparence de bâton de fortune",90003
 "Lanterne du grand Sanglier chanceux",90004
 "Lanterne du Sanglier chanceux",90006
@@ -57660,10 +57681,13 @@
 "Gâteau mythique",90080
 "Pomme épique",90081
 "Mini-calebasse de la Super Adventure",90082
+"Paroi de falaise super petite",90083
 "Apparence de sac à dos de verre rebelle",90084
 "Jetpack de la Légion",90085
 "Teinture ciel cérulé",90086
 "Super paroi de falaise",90087
+"Super paroi de falaise enneigée",90088
+"Paroi de falaise super grande",90089
 "Bonus de Super Adventure : bronze",90090
 "Chaise de la Super Adventure Box",90091
 "Fromage légendaire",90092
@@ -58449,6 +58473,7 @@
 "Fusil guérisseur d'Adina",91271
 "Heaume du dragon holographique",91273
 "Mini-petit dracaille bleu",91274
+"Cible de dragon bleue",91275
 "Deltaplane de surveillant de l'Enqueste",91276
 "Recette : potion de massacre de mordrems efficace",91277
 "Deltaplane de feux d'artifice draconiques",91278
@@ -58460,6 +58485,7 @@
 "Objet de dos de feux d'artifice draconiques",91286
 "Amant holographique",91288
 "Potion de massacre de créatures stigmatisées efficace",91289
+"Lanterne Souffle de dragon",91290
 "Feuille holographique",91291
 "Mini-petit dracaille rouge",91292
 "Potion de massacre d'hologrammes mineure",91293
@@ -58518,8 +58544,10 @@
 "Potion de massacre de mordrems mineure",91355
 "Aube holographique",91356
 "Heaume du dragon holographique",91357
+"Cible de dragon violette",91358
 "Heaume du dragon holographique",91359
 "Mini-petit dracaille doré",91361
+"Lanterne Dent du dragon",91362
 "Apparence de dracaille de la caldeira",91363
 "Apparence d'épée bioluminescente",91364
 "Apparence de bouclier bioluminescent",91365
@@ -58555,6 +58583,7 @@
 "Rune d'Orr supérieure",91399
 "Cachet du renouveau supérieur",91400
 "Rune de vitesse supérieure",91401
+"Barque du zéphyr",91402
 "Cachet d'agilité supérieur",91403
 "Rune du Défenseur supérieure",91404
 "Cachet d'impact supérieur",91405
@@ -59148,6 +59177,7 @@
 "Mini-Mémoires déments : Allumage complet",92146
 "Arc long du feu royal",92147
 "Essence d'abysses fantomatique",92148
+"Muraille de la forteresse funeste",92149
 "Mini-Mémoires déments",92150
 "Tonique fougueux pour félins",92151
 "Invitation au royaume démentiel",92152
@@ -59166,6 +59196,7 @@
 "Mini-Aurene ange gardien",92167
 "Apparence de torche des sept Faucheuses",92168
 "Derniers rituels",92169
+"Muraille d'angle de la forteresse funeste",92170
 "Écharpe de course fantomatique militaire",92171
 "Écharpe de course fantomatique",92172
 "Essence d'ombre fantomatique",92173
@@ -59443,6 +59474,7 @@
 "Apparence de bâton mythique",92568
 "Cloche musicale fissurée",92569
 "Apparence de fusil mythique",92570
+"Barre en canne en sucre",92571
 "Apparence de pistolet mythique",92573
 "Balle de jeu",92574
 "Collection complète d'armes d'hiver du Lion noir",92575
@@ -59450,6 +59482,7 @@
 "Mini-Rytlock Funko POP!",92577
 "Apparence de marteau mythique",92578
 "Apparence de bouclier mythique",92579
+"Canne en sucre géante",92581
 "Sifflet pour familier dracaille",92582
 "Gratouille",92583
 "Hache verdoyante gelée du pourvoyeur de glace",92584
@@ -59474,6 +59507,7 @@
 "Tenue du feu gelé",92605
 "Torche verdoyante frigorifiée du pourvoyeur de glace",92606
 "Ordre \"Assis\"",92607
+"Rampe en canne en sucre",92608
 "Apparence de hache mythique",92609
 "Apparence de masse mythique",92610
 "Sélection d'armes d'Hivernel du Lion noir",92611
@@ -59514,6 +59548,7 @@
 "Apparence de pistolet draconique",92648
 "Mini-essence de chance",92649
 "Apparence de bouclier draconique",92650
+"Statue du Rat",92651
 "Cape du Rat céleste",92652
 "Pioche de mineur du gardien du temps",92653
 "Figurine du Rat dorée",92654
@@ -60020,12 +60055,15 @@
 "Hache de l'Aventure défaillante",93294
 "Boîte d'armes défaillantes",93295
 "Masse de l'Aventure défaillante",93296
+"Super plate-forme feuillue",93297
 "Fiole de teinture rouge chef-d'œuvre du Lion noir",93298
 "Dague de l'Aventure défaillante",93299
 "Fusil de l'Aventure défaillante",93300
+"Super plate-forme champignon",93301
 "Focus de l'Aventure défaillante",93302
 "Teinture lion rouge",93303
 "Mini-super limon",93304
+"Super tronc d'arbre",93305
 "Teinture grenat",93306
 "Boîte virtuelle",93307
 "Fiole de teinture rouge exotique du Lion noir",93308
@@ -60034,6 +60072,7 @@
 "Boîte virtuelle",93311
 "Épée de l'Aventure défaillante",93312
 "Apparence de socque de Maguuma",93313
+"Super feuille de nénuphar",93314
 "Sceptre de l'Aventure défaillante",93315
 "Cor de guerre de l'Aventure défaillante",93316
 "Super branche d'arbre",93317
@@ -60230,6 +60269,7 @@
 "Conteneur de la Pointe du phare",93582
 "Fusil à répétition assassin",93583
 "Reliquaire de vêtement de cérémonie de l'Ourse",93585
+"Poisson cru",93586
 "Boîte de venin de la Légion des Cendres",93588
 "Capuchon de cérémonie de l'Ourse",93590
 "Point de maîtrise",93591
@@ -60294,6 +60334,7 @@
 "Pack de gobe-Zhaïtella",93671
 "Atomisation holographique enchantée",93672
 "Épaulières de dragon holographique commandant",93673
+"Plaque du Dragon",93674
 "Scène d'incrédulité",93675
 "Morceaux de piñata",93676
 "Pétard défectueux",93677
@@ -60302,6 +60343,7 @@
 "Passerelle du zéphyr",93681
 "Échafaudage du zéphyr",93682
 "Bannière de la Foire du Dragon",93683
+"Affiche triomphale de la Foire du Dragon",93684
 "Piñata du Dragon commémorative",93686
 "Colosse holographique enchanté",93687
 "Amant holographique enchanté",93688
@@ -60622,8 +60664,10 @@
 "Potion des mages ascaloniens inépuisable",94107
 "Récompense d'objectif communautaire : niveau 2",94109
 "Apparence de focus de matière noire",94110
+"Lanterne de la chauve-souris",94111
 "Dague hantée par un démon",94112
 "Torche hantée par un démon",94113
+"Lanterne de la citrouille",94114
 "Rouage de grand beffroi",94115
 "Invitation au concours de costume",94116
 "Apparence d'arc court de matière noire",94117
@@ -60815,6 +60859,7 @@
 "Masse en canne en sucre bienfaiteur de concentration",94385
 "Capuche d'hiver festive",94386
 "Hache emballée étincelante du pourvoyeur",94387
+"Étoile d'Hivernel",94388
 "Apparence de masse de l'aurore scintillante",94389
 "Apparence d'espadon de l'aurore scintillante",94390
 "Apparence de sac à dos de garde de sanctuaire",94391
@@ -60852,6 +60897,7 @@
 "Bouclier en gaulthérie bienfaiteur de frisson",94423
 "Hache en canne en sucre bienfaiteur de concentration",94424
 "Apparence de dague de l'aurore scintillante",94425
+"Guirlande d'Hivernel",94426
 "Deltaplane de l'aurore scintillante",94427
 "Arc long en canne en sucre bienfaiteur de concentration",94428
 "Apparence de cor de guerre de l'aurore scintillante",94429
@@ -60864,6 +60910,7 @@
 "Arc long en gaulthérie bienfaiteur de frisson",94437
 "Torche emballée étincelante du pourvoyeur",94438
 "Apparence de bouclier de l'aurore scintillante",94439
+"Amas de boules de neige",94440
 "Étoile brillante décorative",94441
 "Bâton en gaulthérie bienfaiteur de frisson",94442
 "Cor de guerre en gaulthérie bienfaiteur de frisson",94443
@@ -61274,12 +61321,16 @@
 "Marteau de vainqueur cramoisi",94906
 "Super main plate pointant du doigt",94907
 "Déguisement du véritable assassin",94908
+"Super main plate triste pointant du doigt",94909
 "Dague de vainqueur cramoisie",94910
 "Hache de vainqueur cramoisie",94911
 "Combo de sac à dos et deltaplane de shuriken géant",94912
 "Apparence de bâton du Dragon d'os",94913
 "Sac à dos de shuriken géant",94914
+"Super main triste pointant du doigt",94915
+"Super main plate gaie pointant du doigt",94916
 "Masse de vainqueur cramoisie",94917
+"Super main pointant du doigt",94918
 "Focus de vainqueur cramoisi",94919
 "Sceptre de vainqueur cramoisi",94920
 "Fusil de vainqueur cramoisi",94921
@@ -61394,6 +61445,7 @@
 "Apparence d'espadon de Maguuma",95039
 "Gants du dragon holographique commandant",95040
 "Cerf-volant de la Foire du Dragon",95041
+"Pylône de la Foire du Dragon",95042
 "Apparence de heaume à cornes de Pyre",95043
 "Gants du dragon holographique commandant",95044
 "Cendre glacée",95045
@@ -61417,6 +61469,7 @@
 "Apparence de marteau de Maguuma",95063
 "Apparence de bâton de combat arcanique",95064
 "Apparence de masse de Maguuma",95065
+"Générateur d'hologrammes de Jormag",95066
 "Apparence de bouclier de Maguuma",95067
 "Apparence de sceptre de Maguuma",95068
 "Chaleur printanière",95069
@@ -61571,22 +61624,30 @@
 "Combo de sac à dos et deltaplane de forgesort",95247
 "Combo de sac à dos et deltaplane à ailes en vitrail",95248
 "Combo de sac à dos et deltaplane volcaniques",95249
+"Canopée du Zéphyr",95250
 "Mini-Efram Portegloire",95251
 "Scarabée forgé",95252
 "Mini-Prisca",95253
 "Briseur de cristal",95254
+"Les Jouets de l'amour",95255
 "Coffre d'arme échangé du Bazar",95256
+"Bannière du Zéphyr",95257
 "Cape tempétueuse",95258
 "Bottes de voyage zéphyrites",95259
 "Apparence de grèves des sept Faucheuses",95260
 "Sac à dos à ailes de Sylphide",95261
 "Flamme de nuit marine",95262
+"Cœur d'épine",95263
 "Deltaplane à ailes de Sylphide",95264
 "Bottes de voyage zéphyrites céleste",95265
 "Combo de sac à dos et deltaplane à ailes Sylphide",95266
+"Prendre Cœur",95267
 "Licence d'adoption de monture des Étendues sauvages",95268
 "Bottes de voyage zéphyrites céleste",95269
 "Bottes de voyage zéphyrites céleste",95270
+"Note au sujet des \"corps célestes\"",95271
+"Écraser le dragon",95272
+"LA SUPER ADVENTURE BOX : LE ROMAN OFFICIEL",95273
 "Toile du Zéphyr",95274
 "Sélection de licence pour monture des Étendues sauvages",95275
 "Kralky en peluche",95276
@@ -61661,6 +61722,7 @@
 "Escalier effondré",95354
 "Épée rêveliée",95355
 "Hache en bronze céleste de fermeté",95356
+"Plateforme déchaînée",95357
 "Arc long en bois vert céleste de fermeté",95358
 "Spangenhelm de guerrier",95359
 "Pantalon de détrousseur céleste de voleur",95360
@@ -61675,6 +61737,7 @@
 "Pistolet en bronze céleste de fermeté",95369
 "Bottes de détrousseur célestes de voleur",95370
 "Gants de détrousseur célestes d'ingénieur",95371
+"Escalier déformé (droite)",95372
 "Coffre rêvelié d'ingénieur",95373
 "Pansière en écailles trempée céleste de gardien",95374
 "Pantalon de détrousseur céleste d'ingénieur",95375
@@ -61700,6 +61763,7 @@
 "Grèves en écailles trempées célestes de guerrier",95397
 "Marteau rêvelié",95398
 "Manteau de détrousseur céleste de voleur",95399
+"Escalier déformé (gauche)",95400
 "Boucle d'oreille en orichalque et en quartz chargé du ciel",95401
 "Masque de détrousseur céleste de rôdeur",95402
 "Reste de griffe de gargouille",95403
@@ -61874,6 +61938,7 @@
 "Poisson-couteau royal",95584
 "Apparence de chapeau de pêche",95586
 "Livraison de ravitaillement pour la sortie de \"End of Dragons\" : première semaine",95587
+"Rendre la statuette du dragon de jade à son propriétaire.",95592
 "Recette : chapeau de technologie de jade",95594
 "Recette : dague de technologie de jade",95595
 "Poisson-couteau",95596
@@ -61895,6 +61960,7 @@
 "Ver luisant",95622
 "Recette : trancheuse de Sunn",95623
 "Poisson-ogre",95624
+"Liste de pêche pour nourriture de tortue",95625
 "Pourpoint de Suun",95626
 "Chausses antiques intermédiaires berserker",95629
 "Coffrage de focus précurseur renforcé",95631
@@ -61975,6 +62041,7 @@
 "Gourami",95729
 "Amulette en orichalque et en résine polie",95730
 "Poisson-reine",95731
+"Liste de composants pour selle de tortue",95732
 "Cache de justicier",95733
 "Anneau de maître subjugueur en affinité (infusé)",95734
 "Badge de l'indomptable",95735
@@ -62060,6 +62127,7 @@
 "Recette : noyau de niveau 5",95850
 "Revolver de Suun",95852
 "Protège-épaules légers canthiens anciens ritualiste",95855
+"Liste de nourriture pour bébé de Rota",95857
 "Recette : poings de guerre de Suun",95858
 "Carpe des sables",95859
 "Sacoche de ritualiste canthien",95860
@@ -62082,6 +62150,7 @@
 "Morceau de bois flotté",95880
 "Molly voile",95881
 "Recette : tassettes de Suun",95882
+"Rendre la statuette de la porte de jade à son propriétaire.",95883
 "Astuces de navigation d'esquif",95884
 "Sextant en argent terni",95885
 "Œuf de poisson",95886
@@ -62472,6 +62541,7 @@
 "Livre de recettes d'armure de Togo",96418
 "Malle magnifiques du ministre Li",96419
 "Recette : chaussures de Togo",96420
+"Espérer le meilleur",96421
 "Apparence de protège-épaules intermédiaires canthiens anciens",96423
 "Poisson sabre",96425
 "Boîte en partie mâchouillée",96426
@@ -62523,6 +62593,7 @@
 "Cache d'augure",96492
 "Don d'Argument d'Aurene",96493
 "Poisson à nageoires noires de Shinota",96494
+"Rendre la statuette de la cathédrale de jade à son propriétaire.",96495
 "Recette : masque de technologie de jade",96496
 "Trident cassé",96500
 "Livre de recettes d'arme de Togo",96501
@@ -62719,6 +62790,7 @@
 "Badge de l'augure",96767
 "Jaque canthienne ancienne ritualiste",96768
 "Loche dorée",96769
+"Rendre la statuette de l'impératrice de jade à son propriétaire.",96770
 "Bâton de technologie de jade",96772
 "Recette : épée du serpent de l'ombre",96774
 "Carte magnétique de mineur de jade",96775
@@ -63377,6 +63449,7 @@
 "Filet de poisson fabuleux",97690
 "Écaille draconique",97691
 "Mérou étoilé",97692
+"Coffre du héros des Terres sauvages d'Echovald",97693
 "Recette : \"recycleur : fragments empyréens\"",97694
 "Recette : visage de Togo",97698
 "Boucle d'oreille en orichalque et en jade",97700
@@ -63605,9 +63678,11 @@
 "Fierté du Lion",98007
 "Sac à dos à ailes de technologie de jade",98008
 "",98009
+"Dessin grossier rapporté",98010
 "Apparence de chacal renard canthien",98012
 "Apparence d'épée du lotus d'acier",98013
 "Apparence de hache du lotus d'acier",98014
+"Lettre déchirée rapportée",98015
 "Grand marteau de duel de berserker",98016
 "Apparence de focus du lotus d'acier",98017
 "Apparence de fusil du lotus d'acier",98018
@@ -63622,9 +63697,11 @@
 "Écho du Vide draconique",98028
 "Ensemble sac à dos de l'héritage de Shiro",98029
 "Apparence d'espadon de l'héritage de Shiro",98030
+"Pièce d'engrenage de la Fusion",98031
 "Apparence de pistolet du lotus d'acier",98032
 "Deltaplane à ailes de technologie de jade",98033
 "Sac de matériaux du Lion noir : End of Dragons",98034
+"Médaille du champion du Pavillon",98035
 "Apparence de torche du lotus d'acier",98036
 "Sac à dos de gourde des mille mers",98037
 "Apparence de marteau du lotus d'acier",98039
@@ -63636,9 +63713,12 @@
 "Combo de sac à dos et deltaplane à ailes de technologie de jade",98047
 "",98048
 "Envol tactique",98049
+"Boucle propulsive du Percegarde",98050
 "",98052
 "Déverrouillage d'histoire : S1E1",98053
 "Épaulières de la Fusion",98054
+"Page froissée rapportée",98055
+"Chevalière étherlame",98056
 "Épaulières de la Fusion",98057
 "Tempête magique pacifique",98058
 "Apparence de cor de guerre du lotus d'acier",98059
@@ -63649,6 +63729,8 @@
 "Épaulières de la Fusion",98065
 "Écho du Vide draconique",98066
 "Apparence d'arc long du lotus d'acier",98067
+"Épine séchée des Cauchemars",98068
+"Trace de souvenir",98069
 "Apparence de griffon tigris canthien",98071
 "Apparence d'esquif de technologie de jade",98072
 "Leurre de pêche infini",98073
@@ -63673,10 +63755,12 @@
 "Mini-petit tigris rose",98097
 "Apparence de queue de Zhaïtan",98098
 "Apparence de persuasion de Zhaïtan",98099
+"Fragment d'écaille de Zhaïtan",98100
 "",98102
 "Apparence de morsure de Zhaïtan",98104
 "Fleur éternelle impériale",98105
 "Kit de teintures de jade",98106
+"Éther purifié de trépassé",98107
 "Apparence de griffe de Zhaïtan",98109
 "Mini-petit tigris bleu",98110
 "",98111
@@ -63691,6 +63775,7 @@
 "Ceinture utilitaire de Marjory",98121
 "Fragment d'ombres prismatiques",98122
 "",98123
+"Fragment purifié d'écaille de Zhaïtan",98124
 "Éclat d'écaille de Zhaïtan",98125
 "Chevalière étherlame",98126
 "Visière d'éther",98127
@@ -63737,10 +63822,12 @@
 "Grèves du dragon holographique commandant",98174
 "Coffre de prix de la Foire du Dragon",98175
 "Tromblon en os de dragon",98176
+"Projecteur de boost de course",98177
 "Arc court en os de dragon",98178
 "Coffre en os de dragon",98179
 "Couperet de serdragon",98180
 "Grèves du dragon holographique commandant",98181
+"Virage montant à droite de piste holographique",98182
 "Couleuvrine de serdragon",98183
 "Pistolet en os de dragon",98184
 "Partisan de serdragon",98185
@@ -63752,14 +63839,19 @@
 "Apparence de heaume à cornes de dragon mystique",98191
 "Coffre d'arme de la Foire du Dragon",98193
 "Arc long en os de dragon",98195
+"Longue ligne droite de piste holographique",98196
 "Apparence de heaume à corne de licorne",98197
 "Bouclier en os de dragon",98199
+"Virage descendant à droite de piste holographique",98200
 "Torche en os de dragon",98201
+"Virage à droite de piste holographique",98202
 "Virage montant à gauche de piste holographique",98203
 "Sceptre en os de dragon",98204
 "Bâton en os de dragon",98205
+"Rampe descendante de piste holographique",98206
 "Marteau en os de dragon",98207
 "Mini-husky",98208
+"Virage à gauche de piste holographique",98209
 "Projecteur de point de contrôle de course",98210
 "Focus en os de dragon",98211
 "Épée en os de dragon",98212
@@ -63788,6 +63880,7 @@
 "Récompense d'expérience d'aventure : volume cinq",98236
 "Récompense d'expérience d'aventure : volume trois",98237
 "Apparence de marteau de feu du renard",98238
+"Fragment purifié d'écaille de Mordremoth",98239
 "Apparence de fusil de feu du renard",98241
 "Mante draconique antique (infusée)",98243
 "Poings de guerre du Gardien",98244
@@ -63795,12 +63888,14 @@
 "Espauliers du Gardien",98246
 "Orbe corrompu par le Vide (infusé)",98247
 "Éclat d'écaille de Mordremoth",98248
+"Éther persistant de mordrem",98249
 "Souvenir complet de Mordremoth",98250
 "Livrée du Gardien",98251
 "Orbe corrompu par le Vide draconique",98252
 "Chaussures du Gardien",98253
 "Visage du Gardien",98254
 "Apparence de sac à dos de carpe koï holographique",98255
+"Fragment d'écaille de Mordremoth",98256
 "Apparence de bâton de feu du renard",98257
 "Deltaplane à cape de Néo-Kaineng",98258
 "Apparence de torche de feu du renard",98259
@@ -63819,6 +63914,7 @@
 "Apparence de focus de feu du renard",98274
 "Apparence d'aile de Mordremoth",98275
 "Apparence de canne à pêche de la grue rouge",98276
+"Éther purifié de mordrem",98277
 "Culotte du Gardien",98278
 "Fragment de flore prismatique déchargé",98279
 "Garde-poignets du Gardien",98280
@@ -63917,6 +64013,7 @@
 "Coffre d'arme cerf-volant",98597
 "Sac de cuir",98599
 "Châle zéphyrite voyageur",98606
+"Grue de quai",98612
 "Apparence d'arc long de la décennie des dragons",98623
 "Éclat d'écaille de Kralkatorrik",98629
 "Espadon mécanique",98632
@@ -63926,6 +64023,7 @@
 "Deltaplane jetpack de technologie de jade",98646
 "Mini-rottweiler",98650
 "Sac à dos jetpack de technologie de jade",98668
+"Caisse dans un filet",98697
 "Apparence de focus de la décennie des dragons",98698
 "Apparence de perspicacité de Kralkatorrik",98707
 "Apparence de fusil de la décennie des dragons",98717
@@ -64080,13 +64178,19 @@
 "Tenue de majordome",99043
 "Apparence de sagesse de Jormag",99045
 "Apparence de hache dokkaebi",99047
+"Mur en toiles d'araignées",99048
 "Espadon enchaîné",99049
 "Gants ténébreux griffeurs sinistre",99050
 "Sceptre enchaîné",99051
+"Retour auprès de Zinnia",99052
 "Apparence d'espadon dokkaebi",99053
+"Une histoire collective, volume 5",99054
+"Retour auprès de Zinnia",99055
 "Apparence de focus dokkaebi",99056
 "Boîte de gants ténébreux griffeurs",99057
+"Une histoire collective, volume 1",99058
 "Gants ténébreux griffeurs sinistre",99059
+"Une histoire collective, volume 2",99060
 "Hache enchaînée",99061
 "Arc long enchaîné",99062
 "Sourire de la moisson",99063
@@ -64095,6 +64199,7 @@
 "Mini-labrador noir",99066
 "Mini-drone de jade",99067
 "Dague enchaînée",99068
+"Note du Rôti de la reine",99069
 "Apparence d'épée dokkaebi",99070
 "Masse enchaînée",99071
 "Mini-chat noir duveteux",99072
@@ -64104,10 +64209,16 @@
 "Apparence de canne à pêche du Roi Dément",99076
 "Apparence de fusil dokkaebi",99077
 "Compagnons de la pâle lueur",99078
+"Maître des énigmes",99079
 "Cape d'ange gardien",99080
+"Sol en toiles d'araignées",99081
 "Coffre enchaîné",99082
 "Bâton enchaîné",99083
+"Retour auprès de Zinnia",99084
+"Retour auprès de Zinnia",99085
+"Une histoire collective, volume 3",99086
 "Apparence de marteau dokkaebi",99087
+"Rencontre avec Zinnia",99088
 "Mur en toiles d'araignées éphémères",99089
 "Apparence de sceptre dokkaebi",99090
 "Bouclier enchaîné",99091
@@ -64130,9 +64241,11 @@
 "Apparence d'arc court dokkaebi",99109
 "Épée enchaînée",99110
 "Apparence de bouclier dokkaebi",99111
+"Une histoire collective, volume 4",99112
 "Apparence de heaume de Gardien de la brèche",99113
 "Pistolet enchaîné",99114
 "Illusion de position assise",99115
+"Retour auprès de Zinnia",99116
 "Malle de stockage de Taimi",99118
 "Griffe de champion du Lion",99119
 "Rugissement de champion du Lion",99120
@@ -64217,7 +64330,9 @@
 "Apparence de canne de pêche aux canards",99205
 "Infusion mécanique",99206
 "Apparence de marteau du jardin enneigé",99207
+"Éther persistant de destructeur",99208
 "Infusion mécanique",99209
+"Fragment d'écaille de Primordius",99210
 "Apparence de sagesse de Primordius",99211
 "Bon de kit de teintures d'Hivernel",99212
 "Infusion mécanique",99213
@@ -64249,6 +64364,7 @@
 "Apparence de voix de Primordius",99239
 "Infusion mécanique",99240
 "Apparence de perspicacité de Primordius",99241
+"Fragment purifié d'écaille de Primordius",99242
 "Heaume de chevalier d'assaut",99243
 "Infusion mécanique",99244
 "Choix d'arme du faucheur glacial",99245
@@ -64262,6 +64378,7 @@
 "Apparence de morsure de Primordius",99253
 "Heaume de chevalier d'assaut prototype",99254
 "Éclat d'écaille de Primordius",99255
+"Éther purifié de destructeur",99256
 "Apparence de cape du seigneur de guerre",99257
 "Apparence d'arc long du jardin enneigé",99258
 "Choix d'arme forgée dans le givre",99259
@@ -64438,6 +64555,7 @@
 "Sceptre de chasseur luxon",99469
 "Apparence de poids de Soo-Won",99470
 "Bottes légères des forces spéciales",99472
+"Fragment purifié d'écaille de Soo-Won",99475
 "Gants intermédiaires des forces spéciales",99476
 "Bâton de chasseur luxon",99477
 "Perce-armure de Tahkayun",99478
@@ -64449,10 +64567,12 @@
 "Apparence de projecteur de cape holographique",99486
 "Heaume intermédiaire des forces spéciales",99487
 "Gants lourds des forces spéciales",99488
+"Éther purifié du Vide",99489
 "Apparence d'aile de Soo-Won",99491
 "Apparence de jambes à tatouage de marée bestiale",99493
 "Espauliers intermédiaires des forces spéciales",99494
 "Apparence de sagesse de Soo-Won",99495
+"Fragment d'écaille de Soo-Won",99496
 "Filtre à air de mineur, modèle de la Sécurité",99497
 "Lame de Tahkayun",99498
 "",99499
@@ -64463,6 +64583,7 @@
 "Chapeau du ministre",99506
 "Harnais léger des forces spéciales",99508
 "Apparence de griffe de Soo-Won",99509
+"Éther persistant du Vide",99511
 "Cor de guerre de chasseur luxon",99512
 "Masque de Tahkayun souriant",99513
 "Apparence de jambes à tatouage de fleur de feu",99514
@@ -64513,6 +64634,7 @@
 "Super plateau de grotte",99578
 "Apparence de hache de l'effondrement d'étoile",99579
 "Hache de génération 1",99580
+"Super stalagmite de grotte",99581
 "Boîte de gants surpuissants",99582
 "Bâton de génération 1",99583
 "Épée de génération 1",99584
@@ -64522,6 +64644,7 @@
 "Super plancher de grotte",99588
 "Pistolet de génération 1",99589
 "Apparence de cape des chaînes éternelles",99590
+"Super pilier de grotte",99591
 "Sceptre de génération 1",99593
 "Mini-babiole bleue",99594
 "Masse rétro-forgée",99595
@@ -64580,11 +64703,14 @@
 "Focus alimenté de chasseur luxon",99652
 "Foreuse à main de minage profond Xunlai",99653
 "Casier de heaume des forces spéciales",99654
+"Réponse au désastre",99655
 "Cor de guerre alimenté de chasseur luxon",99656
 "Rassemblement de drone de jade : or",99657
+"Entraînement de réponse aux menaces urbaines",99658
 "Piétinement de siège : argent",99661
 "Esquifs véloces : argent",99662
 "Piétinement de siège : or",99663
+"Entraînement de réponse aux menaces urbaines",99664
 "Source de puissance : bottes",99665
 "Cache d'armes alimentées de chasseur luxon",99666
 "Pistolet alimenté de chasseur luxon",99667
@@ -64601,47 +64727,66 @@
 "Apparence de heaume intermédiaire des forces spéciales",99679
 "Apparence d'espauliers lourds des forces spéciales",99680
 "Fusil alimenté de chasseur luxon",99682
+"Entraînement à la limitation des menaces",99683
+"Entraînement au confinement de désastre",99684
 "Badge des forces spéciales",99685
 "Source de puissance : gants",99686
 "Apparence de plastron léger des forces spéciales",99687
 "Sables silencieux : bronze",99688
 "Apparence de gants intermédiaires des forces spéciales",99690
 "Esquifs véloces : bronze",99691
+"Nettoyage de désastre",99692
 "Roulade dans les profondeurs : argent",99694
 "Apparence de bottes lourdes des forces spéciales",99695
 "Rassemblement de drone de jade : argent",99696
 "Hache alimentée de chasseur luxon",99697
 "Dague alimentée de chasseur luxon",99699
+"Entraînement à l'intervention contre les menaces",99700
 "Apparence de pantalon léger des forces spéciales",99701
+"Entraînement à l'intervention contre les menaces",99702
+"Entraînement de réponse aux menaces urbaines",99703
 "Fosse de Gyala : coffre au choix du Héros",99704
 "Apparence de heaume léger des forces spéciales",99705
+"Péril extrême",99706
 "Apparence de canne à pêche de la remontée du saumon",99707
 "Apparence de plastron lourd des forces spéciales",99709
 "",99711
 "Source de puissance : heaume",99712
 "Source de puissance : espauliers",99713
 "Sables silencieux : argent",99714
+"Entraînement au confinement de désastre",99716
 "Arc court alimenté de chasseur luxon",99718
 "Foreuse à niveau reconvertie",99719
+"Entraînement à la limitation des menaces",99720
 "Source de puissance : pantalon",99721
+"Entraînement à la recherche et au sauvetage",99722
+"Entraînement à la résolution des Puristes",99724
 "Apparence de heaume lourd des forces spéciales",99725
 "Espadon alimenté de chasseur luxon",99726
 "Masse alimentée de chasseur luxon",99727
 "Torche alimentée de chasseur luxon",99730
+"Sauvetage ciblé",99731
+"Entraînement à la résolution des Puristes",99732
 "Heaume léger de capitaine des forces spéciales",99733
+"Confinement de menace",99734
 "Apparence d'esquif cuirassé",99735
 "Esquifs véloces : or",99736
 "Apparence de bottes légères des forces spéciales",99737
 "Apparence de gants lourds des forces spéciales",99738
+"Entraînement à la résolution des Puristes",99739
 "Apparence de pantalon lourd des forces spéciales",99742
 "Bouclier alimenté de chasseur luxon",99743
+"Entraînement à la limitation des menaces",99744
 "Apparence d'espauliers intermédiaires des forces spéciales",99745
 "Source de puissance : plastron",99746
 "Casier de gants des forces spéciales",99747
+"Entraînement à l'intervention contre les menaces",99748
+"Entraînement à la recherche et au sauvetage",99749
 "Filtre à air à haute performance, forces spéciales",99750
 "",99751
 "Épée alimentée de chasseur luxon",99752
 "Apparence de razziafelis tigre cuirassé",99753
+"Recherche de survivants",99754
 "Casier d'espauliers des forces spéciales",99756
 "Arc long alimenté de chasseur luxon",99757
 "Apparence de fusil arbalète de Noirfaucon",99758
