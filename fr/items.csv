@@ -5261,6 +5261,7 @@
 "Gants de malfaiteur",5653
 "Pantalon de malfaiteur",5655
 "Garde-épaules de malfaiteur",5656
+"Bottes du Conseil des veilleurs",5657
 "Masque historique du Prieuré",5666
 "Protège-épaules historiques du Prieuré",5668
 "Pourpoint honorifique des Veilleurs",5670
@@ -5372,6 +5373,7 @@
 "Casque honorifique des Veilleurs",5864
 "Tassettes honorifiques des Veilleurs",5865
 "Harnois secret des Soupirs",5868
+"Garde-jambes du Conseil des gardes",5877
 "Grèves de plates lourdes",5879
 "Corselet de plates lourd",5880
 "Gantelets de plates lourds",5881
@@ -5462,6 +5464,7 @@
 "Protège-visage de veilleur de guilde",5978
 "Jambières de veilleur de guilde",5979
 "Garde-épaules de veilleur de guilde",5980
+"Gants galvanisés",5983
 "Manteau électromagnétique",5994
 "Haubert de troupe",6000
 "Visière de troupe",6002
@@ -5475,6 +5478,7 @@
 "Gantelets de cerf",6049
 "Spallières de cerf",6052
 "Manteau de Protecteur",6060
+"Heaume d'adepte",6074
 "Manteau de chercheur",6108
 "Pantalon de chercheur",6111
 "Manteau d'aristocrate",6114
@@ -23192,6 +23196,7 @@
 "Espadon",31652
 "Masse de la Garde du Lion",31660
 "Sceptre de la Garde du Lion",31663
+"Bouclier de la Garde du Lion",31664
 "Bras de magma",31675
 "Hache de mammouth",31677
 "Bouclier lunaire",31678

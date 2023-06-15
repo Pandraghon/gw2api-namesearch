@@ -5261,6 +5261,7 @@
 "Stalker Gloves",5653
 "Stalker Pants",5655
 "Stalker Shoulderguards",5656
+"Council Watch Boots",5657
 "Priory's Historical Mask",5666
 "Priory's Historical Shoulderpads",5668
 "Vigil's Honor Jerkin",5670
@@ -5372,6 +5373,7 @@
 "Vigil's Honor Helmet",5864
 "Vigil's Honor Tassets",5865
 "Whisper's Secret Breastplate",5868
+"Council Guard Legguards",5877
 "Heavy Plate Greaves",5879
 "Heavy Plate Chestguard",5880
 "Heavy Plate Gauntlets",5881
@@ -5462,6 +5464,7 @@
 "Guild Watchman Faceguard",5978
 "Guild Watchman Leggings",5979
 "Guild Watchman Shoulderguards",5980
+"Galvanic Gloves",5983
 "Electromagnetic Coat",5994
 "Warband Hauberk",6000
 "Warband Visor",6002
@@ -5475,6 +5478,7 @@
 "Stag Gauntlets",6049
 "Stag Spaulders",6052
 "Warden Coat",6060
+"Adept Helm",6074
 "Researcher's Coat",6108
 "Researcher's Pants",6111
 "Aristocrat's Coat",6114
@@ -23192,6 +23196,7 @@
 "Greatsword",31652
 "Lionguard Mace",31660
 "Lionguard Scepter",31663
+"Lionguard Shield",31664
 "Magmas Arm",31675
 "Mammoth Axe",31677
 "Moon Shield",31678
