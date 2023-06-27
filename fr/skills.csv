@@ -842,6 +842,11 @@
 "Invocation de la foudre",12594
 "Sables mouvants",12595
 "Renouveau de la nature",12596
+"Fusée solaire",12597
+"Invocation de la foudre",12598
+"Séisme",12599
+"Températures polaires",12600
+"Renouveau de la nature",12601
 "Appel de chasseur",12620
 "Appel de la nature",12621
 "Frappe du serpent",12622
@@ -1205,6 +1210,7 @@
 "Signe du Vampirisme",21762
 "Esprit de l'eau",21773
 "Renforcement aquatique",21775
+"Renforcement aquatique",21776
 "Venin de skelk",21778
 "Cœur glacial",21795
 "Résistance à la douleur mineure",21813
@@ -1606,6 +1612,7 @@
 "Écrasement de plate-forme",34112
 "Bombe à retardement",34152
 "Écrasement de plate-forme",34174
+"Tir brutal",34296
 "\"Recherche et sauvetage !\"",34309
 "Rétroaction",34326
 "Balayage",34335
@@ -3863,3 +3870,44 @@
 "Déchirure terrestre",69001
 "Évidage de l'ombre",69054
 "Déchirure du ciel",69065
+"",69149
+"Orbites doubles : feu et terre",69164
+"Tournoiement sauvage",69167
+"Éclat solaire",69169
+"Bourrasque des ombres malveillante",69173
+"Éclat solaire",69175
+"\"Garde !\" mineur",69183
+"Orbites doubles : feu et eau",69184
+"",69185
+"Impulsion",69203
+"Orbites doubles : eau et air",69211
+"Coup violent",69212
+"Explosion de neurotoxines",69223
+"Visage effroyable",69240
+"Esprit de l'eau",69244
+"Frappe de brèche",69245
+"Orbites doubles : air et terre",69246
+"Crochet malveillant",69250
+"Frappe impérieuse",69262
+"Maelström tranchant",69290
+"Frappe de brèche",69297
+"Esprit de la Nature",69300
+"Siphon de vie",69302
+"Appel des lames",69311
+"Jugement de la mort",69316
+"Onde de choc sauvage",69340
+"Orbites doubles : feu et air",69341
+"Visage effroyable",69343
+"Pensées persistantes",69344
+"Esprit du soleil",69349
+"Esprit de la tempête",69351
+"Vitesse effrayante",69356
+"Esprit de pierre",69378
+"Esprit du givre",69379
+"Axes de symétrie",69385
+"Rasoir fantomatique",69389
+"Frappe de brèche",69392
+"Orbites doubles : eau et terre",69413
+"",69418
+"Tranche-monde",69419
+"Frappe de brèche",69433

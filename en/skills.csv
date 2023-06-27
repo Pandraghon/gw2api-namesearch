@@ -842,6 +842,11 @@
 "Call Lightning",12594
 "Quicksand",12595
 "Nature's Renewal",12596
+"Solar Flare",12597
+"Call Lightning",12598
+"Quake",12599
+"Cold Snap",12600
+"Nature's Renewal",12601
 "Hunter's Call",12620
 "Call of the Wild",12621
 "Serpent's Strike",12622
@@ -1205,6 +1210,7 @@
 "Signet of Vampirism",21762
 "Water Spirit",21773
 "Aqua Surge",21775
+"Aqua Surge",21776
 "Skelk Venom",21778
 "Glacial Heart",21795
 "Lesser Endure Pain",21813
@@ -1606,6 +1612,7 @@
 "Platform Crush",34112
 "Time Bomb",34152
 "Platform Crush",34174
+"Brutal Shot",34296
 "\"Search and Rescue!\"",34309
 "Feedback",34326
 "Sweep",34335
@@ -3863,3 +3870,44 @@
 "Earth Render",69001
 "Shadow Gouge",69054
 "Sky Render",69065
+"",69149
+"Dual Orbits: Fire and Earth",69164
+"Wild Swing",69167
+"Solar Brilliance",69169
+"Malicious Shadowsquall",69173
+"Solar Brilliance",69175
+"Lesser \"Guard!\"",69183
+"Dual Orbits: Fire and Water",69184
+"",69185
+"Pounce",69203
+"Dual Orbits: Water and Air",69211
+"Thump",69212
+"Neurotoxin Burst",69223
+"Dread Visage",69240
+"Water Spirit",69244
+"Breaching Strike",69245
+"Dual Orbits: Air and Earth",69246
+"Malicious Hook Strike",69250
+"Overbearing Smash",69262
+"Slicing Maelstrom",69290
+"Breaching Strike",69297
+"Spirit of Nature",69300
+"Life Siphon",69302
+"Bladecall",69311
+"Death's Judgment",69316
+"Savage Shock Wave",69340
+"Dual Orbits: Fire and Air",69341
+"Dread Visage",69343
+"Lingering Thoughts",69344
+"Sun Spirit",69349
+"Storm Spirit",69351
+"Frightening Speed",69356
+"Stone Spirit",69378
+"Frost Spirit",69379
+"Axes of Symmetry",69385
+"Phantom Razor",69389
+"Breaching Strike",69392
+"Dual Orbits: Water and Earth",69413
+"",69418
+"World Cleaver",69419
+"Breaching Strike",69433
