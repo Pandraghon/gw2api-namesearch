@@ -5262,6 +5262,9 @@
 "Stalker Pants",5655
 "Stalker Shoulderguards",5656
 "Council Watch Boots",5657
+"Council Watch Chestguard",5658
+"Council Watch Gloves",5659
+"Council Watch Leggings",5661
 "Priory's Historical Mask",5666
 "Priory's Historical Shoulderpads",5668
 "Vigil's Honor Jerkin",5670
@@ -5373,6 +5376,7 @@
 "Vigil's Honor Helmet",5864
 "Vigil's Honor Tassets",5865
 "Whisper's Secret Breastplate",5868
+"Council Guard Greaves",5873
 "Council Guard Legguards",5877
 "Heavy Plate Greaves",5879
 "Heavy Plate Chestguard",5880
@@ -5464,11 +5468,22 @@
 "Guild Watchman Faceguard",5978
 "Guild Watchman Leggings",5979
 "Guild Watchman Shoulderguards",5980
+"Galvanic Boots",5981
 "Galvanic Gloves",5983
+"Galvanic Helm",5984
+"Galvanic Leggings",5985
+"Galvanic Epaulets",5986
 "Electromagnetic Coat",5994
+"Warband Boots",5999
 "Warband Hauberk",6000
+"Warband Fists",6001
 "Warband Visor",6002
+"Warband Tassets",6003
+"Warband Spaulders",6004
+"Commander's Armor",6018
+"Commander's Chausses",6021
 "Dolyak Hounskull",6038
+"Dolyak Chausses",6039
 "Eagle Greaves",6041
 "Eagle Mail",6042
 "Eagle Gauntlets",6043
@@ -5477,19 +5492,43 @@
 "Eagle Spaulders",6046
 "Stag Gauntlets",6049
 "Stag Spaulders",6052
+"Arborist Boots",6053
+"Arborist Coat",6054
+"Arborist Helm",6056
 "Warden Coat",6060
+"Adept Boots",6071
+"Adept Coat",6072
+"Adept Gloves",6073
 "Adept Helm",6074
+"Invoker's Boots",6089
+"Invoker's Gloves",6091
+"Invoker's Helm",6092
 "Researcher's Coat",6108
 "Researcher's Pants",6111
 "Aristocrat's Coat",6114
 "Sorcerer's Coat",6120
 "Sorcerer's Pants",6123
+"Sheepskin Doublet",6126
+"Sheepskin Gloves",6127
 "Sheepskin Circlet",6128
 "Snapdragon Helm",6146
 "Dryad Boots",6155
+"Protean Boots",6161
+"Protean Coat",6162
+"Protean Gloves",6163
+"Protean Helm",6164
+"Drover Boots",6179
 "Drover Coat",6180
+"Drover Gloves",6181
+"Drover Helm",6182
+"Drover Leggings",6183
+"Scout's Coat",6198
+"Wolfborn Leggings",6219
 "Wolfborn Shoulderpad",6220
 "Wolf Boots",6227
+"Evergreen Boots",6233
+"Evergreen Gloves",6235
+"Evergreen Leggings",6237
 "Evergreen Shoulderguards",6238
 "Nightshade Leggings",6243
 "Rawhide Shoulders",6258
@@ -22948,6 +22987,14 @@
 "Gearbow",31197
 "Gear Cudgel",31198
 "Gatling Pistol",31199
+"Steam Axe",31201
+"Steam Bow",31206
+"Steam Mace",31207
+"Steam Pistol",31208
+"Steam Staff",31213
+"Steamblade",31214
+"Steam Brand",31215
+"Steamcaller",31216
 "Alpine Dirk",31218
 "Alpine Talisman",31219
 "Alpine Maul",31221
@@ -23011,6 +23058,7 @@
 "Torch",31293
 "Trident",31294
 "Warhorn",31295
+"Steam Staff",31303
 "Gatling Harpoon Gun",31306
 "Geararm",31307
 "Grearstaff",31308
@@ -23080,9 +23128,15 @@
 "Priory Beacon",31414
 "Peacemaker Staff",31415
 "Priory Cornet",31416
+"Hawk Greatsword",31442
+"Hawk Harpoon",31444
 "Hawk Longbow",31445
+"Hawk Mace",31446
 "Hawk Sidearm",31447
+"Hawk Rifle",31448
 "Hawk Scepter",31449
+"Hawk Shield",31450
+"Hawk Horn",31457
 "Arcing Axe",31458
 "Arcing Edge",31459
 "Arcing Focus",31460
@@ -23157,6 +23211,7 @@
 "Adorned Warhorn",31568
 "Fen Dagger",31570
 "Hypnotic Scepter",31588
+"Jeweled Staff",31611
 "Krait Axe",31613
 "Krait Dagger",31614
 "Krait Focus",31615
@@ -23194,9 +23249,18 @@
 "Kodan Warhorn",31650
 "Lava Axe",31651
 "Greatsword",31652
+"Lionguard Axe",31653
+"Lionguard Harpoon",31658
+"Lionguard Bow",31659
 "Lionguard Mace",31660
+"Lionguard Pistol",31661
 "Lionguard Scepter",31663
 "Lionguard Shield",31664
+"Lionguard Harpoon Gun",31666
+"Lionguard Staff",31667
+"Lionguard Torch",31669
+"Lionguard Trident",31670
+"Lionguard Warhorn",31671
 "Magmas Arm",31675
 "Mammoth Axe",31677
 "Moon Shield",31678
@@ -23332,6 +23396,11 @@
 "Golden Torch",31930
 "Golden Staff",31931
 "Golden Warhorn",31932
+"Seraph Dagger",31934
+"Seraph Bow",31939
+"Seraph Harpoon Gun",31946
+"Seraph Torch",31949
+"Seraph Warhorn",31951
 "Serrated Spear",31952
 "Svanir Axe",31955
 "Svanir Focus",31957

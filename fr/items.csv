@@ -5262,6 +5262,9 @@
 "Pantalon de malfaiteur",5655
 "Garde-épaules de malfaiteur",5656
 "Bottes du Conseil des veilleurs",5657
+"Corselet du Conseil des veilleurs",5658
+"Gants du Conseil des veilleurs",5659
+"Jambières du Conseil des veilleurs",5661
 "Masque historique du Prieuré",5666
 "Protège-épaules historiques du Prieuré",5668
 "Pourpoint honorifique des Veilleurs",5670
@@ -5373,6 +5376,7 @@
 "Casque honorifique des Veilleurs",5864
 "Tassettes honorifiques des Veilleurs",5865
 "Harnois secret des Soupirs",5868
+"Grèves du Conseil des gardes",5873
 "Garde-jambes du Conseil des gardes",5877
 "Grèves de plates lourdes",5879
 "Corselet de plates lourd",5880
@@ -5464,11 +5468,22 @@
 "Protège-visage de veilleur de guilde",5978
 "Jambières de veilleur de guilde",5979
 "Garde-épaules de veilleur de guilde",5980
+"Bottes galvanisées",5981
 "Gants galvanisés",5983
+"Heaume galvanisé",5984
+"Jambières galvanisées",5985
+"Epaulettes galvanisées",5986
 "Manteau électromagnétique",5994
+"Bottes de troupe",5999
 "Haubert de troupe",6000
+"Poings de troupe",6001
 "Visière de troupe",6002
+"Tassettes de troupe",6003
+"Spallières de troupe",6004
+"Armure commandante",6018
+"Chausses commandantes",6021
 "Conique de dolyak",6038
+"Chausses de dolyak",6039
 "Grèves d'aigle",6041
 "Cotte à chaînes d'aigle",6042
 "Gantelets d'aigle",6043
@@ -5477,19 +5492,43 @@
 "Spallières d'aigle",6046
 "Gantelets de cerf",6049
 "Spallières de cerf",6052
+"Bottes d'arboriste",6053
+"Manteau d'arboriste",6054
+"Heaume d'arboriste",6056
 "Manteau de Protecteur",6060
+"Bottes d'adepte",6071
+"Manteau d'adepte",6072
+"Gants d'adepte",6073
 "Heaume d'adepte",6074
+"Bottes d'invocation",6089
+"Gants d'invocation",6091
+"Heaume d'invocation",6092
 "Manteau de chercheur",6108
 "Pantalon de chercheur",6111
 "Manteau d'aristocrate",6114
 "Manteau de sorcier",6120
 "Pantalon de sorcier",6123
+"Pourpoint en peau de mouton",6126
+"Gants en peau de mouton",6127
 "Bandeau en peau de mouton",6128
 "Heaume de brisedragon",6146
 "Bottes de Dryade",6155
+"Bottes changeantes",6161
+"Manteau changeant",6162
+"Gants changeants",6163
+"Heaume changeant",6164
+"Bottes de berger",6179
 "Manteau de berger",6180
+"Gants de berger",6181
+"Heaume de berger",6182
+"Jambières de berger",6183
+"Manteau d'éclaireur",6198
+"Jambières de la Harde",6219
 "Protège-épaules de la Harde",6220
 "Bottes de loup",6227
+"Bottes verdoyantes",6233
+"Gants verdoyants",6235
+"Jambières verdoyantes",6237
 "Garde-épaules verdoyants",6238
 "Jambières de Solanacée",6243
 "Epaulières de cuir brut",6258
@@ -22948,6 +22987,14 @@
 "Mécarc",31197
 "Mécamatraque",31198
 "Pistolet gatling",31199
+"Hache à vapeur",31201
+"Arc à vapeur",31206
+"Masse à vapeur",31207
+"Pistolet à vapeur",31208
+"Bâton à vapeur",31213
+"Lame à vapeur",31214
+"Brandon à vapeur",31215
+"Cor à vapeur",31216
 "Poignard alpin",31218
 "Talisman alpin",31219
 "Maillet alpin",31221
@@ -23011,6 +23058,7 @@
 "Torche",31293
 "Trident",31294
 "Cor de guerre",31295
+"Bâton à vapeur",31303
 "Fusil-harpon gatling",31306
 "Mécabras",31307
 "Mécabâton",31308
@@ -23080,9 +23128,15 @@
 "Fanal du Prieuré",31414
 "Bâton de Pacificateur",31415
 "Cornet du Prieuré",31416
+"Espadon du faucon",31442
+"Harpon du faucon",31444
 "Arc long du faucon",31445
+"Masse du faucon",31446
 "Pistolet du faucon",31447
+"Fusil du faucon",31448
 "Sceptre du faucon",31449
+"Bouclier du faucon",31450
+"Cor du faucon",31457
 "Hache arquée",31458
 "Fil arqué",31459
 "Focus arqué",31460
@@ -23157,6 +23211,7 @@
 "Cor de guerre ouvragé",31568
 "Dague des marais",31570
 "Sceptre hypnotique",31588
+"Bâton serti de joyaux",31611
 "Hache krait",31613
 "Dague krait",31614
 "Focus krait",31615
@@ -23194,9 +23249,18 @@
 "Cor de guerre kodan",31650
 "Hache de lave",31651
 "Espadon",31652
+"Hache de la Garde du Lion",31653
+"Harpon de la Garde du Lion",31658
+"Arc de la Garde du Lion",31659
 "Masse de la Garde du Lion",31660
+"Pistolet de la Garde du Lion",31661
 "Sceptre de la Garde du Lion",31663
 "Bouclier de la Garde du Lion",31664
+"Fusil-harpon de la Garde du lion",31666
+"Bâton de la Garde du Lion",31667
+"Torche de la Garde du Lion",31669
+"Trident de la Garde du Lion",31670
+"Cor de guerre de la Garde du Lion",31671
 "Bras de magma",31675
 "Hache de mammouth",31677
 "Bouclier lunaire",31678
@@ -23332,6 +23396,11 @@
 "Torche dorée",31930
 "Bâton doré",31931
 "Cor de guerre doré",31932
+"Dague séraphine",31934
+"Arc séraphin",31939
+"Fusil-harpon séraphin",31946
+"Torche séraphine",31949
+"Cor de guerre séraphin",31951
 "Lance dentelée",31952
 "Hache de Svanir",31955
 "Focus de Svanir",31957
