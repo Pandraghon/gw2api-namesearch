@@ -5142,6 +5142,7 @@
 "Reinforced Scale Coat",5486
 "Reinforced Scale Helm",5488
 "Reinforced Scale Pauldrons",5490
+"Splint Greaves",5491
 "Splint Gauntlets",5493
 "Splint Pauldrons",5496
 "Banded Greaves",5497
@@ -12174,6 +12175,7 @@
 "Knight's Elder Wood Harpoon Gun",14666
 "Valkyrie Elder Wood Harpoon Gun",14667
 "Cleric's Elder Wood Harpoon Gun",14668
+"Elder Wood Harpoon Gun",14669
 "Berserker's Elder Wood Harpoon Gun",14670
 "Rampager's Elder Wood Harpoon Gun",14671
 "Carrion Elder Wood Harpoon Gun",14672
@@ -27080,6 +27082,7 @@
 "Zephyrite Color Swatch: Red",36178
 "Endless Common Clothing Tonic",36179
 "Endless Khaki Clothing Tonic",36180
+"Permanent Mobile Crafting Station",36182
 "Endless Designer Hoodie Clothing Tonic",36183
 "Endless Leather Hoodie Clothing Tonic",36184
 "Endless Silk Brocade Clothing Tonic",36185
@@ -55383,6 +55386,7 @@
 "Tyrian Exchange Voucher",86804
 "Garden Cactus Seed",86805
 "Lemongrass Seed Pouch",86806
+"5 Provisioner Tokens",86807
 "Cabbage Seed Pouch",86809
 "Mini Blue Jackal Pup",86811
 "Potato Eyes Pouch",86812
@@ -60282,6 +60286,7 @@
 "Blood Legion Blood Box",93478
 "Assassin's Tengu Echo Mace",93480
 "Assassin's Tengu Echo Longbow",93481
+"Starter Kit: Meteorlogicus",93482
 "Recipe: Tengu Focus",93483
 "Chest of the United Legions' Hero",93484
 "Blood Legion Reward Box",93485
@@ -62355,6 +62360,7 @@
 "Saltspray's Voice",96051
 "Research Note",96052
 "Amberjack",96053
+"Legendary Weapon Starter Kit",96054
 "Dead Alewife",96055
 "Fortified Precursor Warhorn Mouthpiece",96056
 "Living Water Dagger",96057
@@ -62820,6 +62826,7 @@
 "Golden Dorado",96692
 "Proclamations on the Risen Threat, 1730 CC",96693
 "End of Dragons Launch Supply Drop: Week Four",96694
+"Starter Kit: Quip",96697
 "Willbender's Ring",96699
 "Jar of Lava Beetles",96700
 "Dhuum Fish",96701
@@ -63299,6 +63306,7 @@
 "The Keenest Cut",97355
 "White Bass",97356
 "Living Water Focus",97357
+"Deluxe Gear Box",97358
 "Spindrift Warhorn",97359
 "Prima Donna",97360
 "Rebirth",97361
@@ -63416,6 +63424,7 @@
 "Old Fishing Rod",97514
 "Notes on Legend Channeling",97517
 "Flame Serpent Torch",97518
+"Starter Kit: Bolt",97519
 "Master Bladesworn's Ring (Infused)",97520
 "Sheaf of Recipes: Dragon's Rending",97521
 "Vindicator's Feat",97523
@@ -64056,6 +64065,7 @@
 "Windswept Mace",98371
 "Zephyrite Shawl",98372
 "Dragon Decade Shield Skin",98385
+"Anniversary Achievement Box",98424
 "Watchwork Mace",98427
 "Water Dragon Greaves Skin",98430
 "Watchwork Short Bow",98432
@@ -64078,6 +64088,7 @@
 "Geomantic Fishing Rod Skin",98493
 "Seven Dragon Dye Pack",98496
 "Fragment of Prismatic Fury",98500
+"Birthday Gift",98501
 "Water Dragon Gauntlets Skin",98503
 "Watchwork Rifle",98506
 "Kralkatorrik's Claw Skin",98519
@@ -64115,6 +64126,7 @@
 "Dragon Decade Focus Skin",98698
 "Kralkatorrik's Insight Skin",98707
 "Dragon Decade Rifle Skin",98717
+"Emblem of Wizard's Favor",98725
 "Water Dragon Armor Skin",98726
 "Kralkatorrik's Fang Skin",98727
 "Scale Splinter of Kralkatorrik",98738
@@ -64635,6 +64647,7 @@
 "Jug of Fernhound Mead",99450
 "Special Ops Chestpiece Locker",99451
 "Soo-Won's Scale Skin",99452
+"Starter Kit: The Bifrost",99453
 "Processing-Line Control Bracer Skin",99454
 "Soo-Won's Bite Skin",99455
 "Heavy Special Ops Helmet",99456
@@ -65039,6 +65052,7 @@
 "Sun-Grown Scepter",99925
 "Secrets of the Obscure Launch Supply Drop: Week One",99926
 "Canthan Stair Bridge",99927
+"Secrets of the Obscure Launch Supply Drop: Week Two",99928
 "Silent Symphony",99929
 "Sky Runner Feathered Raptor Skin",99930
 "Silent Symphony",99932
@@ -65060,8 +65074,194 @@
 "Silent Symphony",99948
 "Sun-Grown Chest",99949
 "Black Lion Cape Voucher",99951
+"\"/Readbook\" Emote Tome",99952
 "Secrets of the Obscure Launch Supply Drop Requisition",99953
 "Recipe: Zephyrite Fish Jerky",99954
 "Zephyrite Fish Jerky",99955
 "Enchanted Music Box",99956
 "Sun-Grown Focus",99957
+"Shaman's Stormforged Torch",99958
+"Storm's Eye Short Bow",99959
+"Relic Container: Support",99960
+"Pouch of Stardust",99964
+"Relic of the Flock",99965
+"Astral Ribbons",99966
+"Deluxe Gear Box",99968
+"Recipe: Stormforged Scepter",99970
+"Bird Loot Box",99971
+"Rift Hunter Shoulders Box",99976
+"Queen's Flipper",99986
+"Deluxe Gear Box",99987
+"Permanent Crafting Station Contract",99989
+"Recipe: Relic of the Zephyrite",99990
+"Chak Cache",99991
+"Astral Ward Medium Boots",99993
+"Relic of Isgarren",99997
+"Sanctified Longbow Skin",99998
+"Extra-Sticky Tar",99999
+"",100000
+"Mini Avatar of Regret",100001
+"Sanctified Short Bow Skin",100003
+"Rabid Skyscale Scepter",100006
+"Magi's Skyforged Hammer",100007
+"Visage of Nourys",100010
+"Rift Hunter Light Coat",100011
+"Recipe: Relic of the Brawler",100012
+"Recipe: Relic of the Weaver",100015
+"Seer Artifact",100016
+"Essence of Strength",100017
+"Stardust-Infused Leather",100019
+"Deluxe Gear Box",100020
+"Skyscale Target Practice: Gold",100022
+"Rift Hunter Coat Box",100023
+"Recipe: Relic of Evasion",100025
+"Astral Ward Heavy Helm",100026
+"Recipe: Relic of the Daredevil",100028
+"Sanctified Gloves Skin",100029
+"Relic of the Monk",100031
+"Three-Eyed Carp",100032
+"Recipe: Stormforged Axe",100035
+"Turai's Journal",100036
+"Fly-by-Night: Gold",100037
+"Essence of the Natural",100039
+"Heavy-Duty Dolyak Blanket",100040
+"Pinch of Stardust",100045
+"Bastion Fish",100046
+"Shaman's Stormforged Staff",100047
+"Relic of the Ice",100048
+"Sanctified Focus Skin",100049
+"Essence of Triumph",100055
+"Common Kryptis Motivation",100060
+"Flight Training Mastery",100064
+"Dagda's Coffer",100068
+"Deldrimor Rivets",100069
+"Gluttony's Platter",100070
+"Sanctified Greatsword Skin",100073
+"Relic of Cerus",100074
+"Essence of Despair",100078
+"Recipe: Storm's Eye Sword",100079
+"",100080
+"Skyscale of Growth",100081
+"Rabid Skyscale Sword",100084
+"Rift Hunter Light Leggings",100087
+"Magi's Skyforged Greatsword",100089
+"Relic of the Dragonhunter",100090
+"Skyscale of Spirit",100094
+"Mist-Hardened Transcendent Chest",100096
+"Shrine Guardians' Gratitude",100097
+"\"/bless\" Emote Tome",100099
+"Storm's Eye Axe",100101
+"Deluxe Gear Box",100103
+"Recipe: Storm's Eye Mace",100104
+"Recipe: Stormforged Sword",100108
+"Amnytas Hoard",100109
+"Skyscale of Air",100111
+"Inspiration of Deldrimor",100114
+"Relic of Mabon",100115
+"Recipe: Relic of the Afflicted",100116
+"Recipe: Storm's Eye Warhorn",100117
+"Skyscale of Water",100118
+"Magi's Skyforged Short Bow",100120
+"Tasty Wurm Segment",100123
+"Rabid Skyscale Shield",100124
+"Shaman's Stormforged Axe",100130
+"Rich Maguuman Mahogany",100131
+"Recipe: Relic of the Cavalier",100134
+"Rift Hunter Medium Gloves",100135
+"Mini Cerus",100141
+"Ride the Ley Line",100142
+"Shaman's Stormforged Scepter",100143
+"Relic of the Warrior",100144
+"Essence of Balance",100147
+"Relic of Speed",100148
+"Tasty Wurm Segment",100150
+"Relic of the Fractal",100153
+"Wizard's Tower Trial: Gold",100154
+"Essence of the Celestial",100155
+"Inspiration of Deldrimor",100157
+"Relic of the Mirage",100158
+"Chest of the Obscure",100159
+"Recipe: Relic of Fireworks",100160
+"Astral Ward Heavy Leggings",100162
+"Skyscale of Courage",100163
+"Sanctified Axe Skin",100164
+"Storm's Eye Rifle",100166
+"Deluxe Gear Box",100169
+"Mabon's Journal",100174
+"Recipe: Relic of the Trooper",100175
+"Relic of Peitha",100177
+"Wizard's Tower Trial: Silver",100178
+"Celestial Fish",100180
+"Recipe: Relic of Antitoxin",100181
+"Recipe: Relic of Water",100186
+"Recipe: Relic of the Deadeye",100189
+"Skyforged Weapon Box",100192
+"Amnytas: Hero's Choice Chest",100193
+"Relic of the Weaver",100194
+"Skyscale Target Practice: Bronze",100195
+"Jotun Skypiercer",100205
+"Recipe: Storm's Eye Dagger",100206
+"Astral Ward Light Leggings",100207
+"A Spark of Knowledge",100210
+"Echo of Turai",100211
+"Shaman's Stormforged Greatsword",100215
+"Rift Hunter Light Helm",100217
+"Rabid Skyscale Warhorn",100218
+"Relic of the Herald",100219
+"Storm's Eye Longbow",100220
+"Recipe: Purified Kryptis Essence",100221
+"Skyscale Treat",100222
+"Shaman's Stormforged Hammer",100224
+"Recipe: Stormforged Greatsword",100228
+"Rabid Skyscale Staff",100229
+"Relic of the Krait",100230
+"Magi's Skyforged Staff",100231
+"Shaman's Stormforged Short Bow",100232
+"Lesser Essence of Gold",100233
+"Shaman's Stormforged Sword",100235
+"Skyscale of Blood",100237
+"Relic Container: Power",100240
+"Shaman's Stormforged Pistol",100249
+"Rabid Skyscale Mace",100251
+"Rift Hunter Heavy Gloves",100252
+"Recipe: Relic of Mercy",100254
+"Skyscale of Fear",100260
+"Recipe: Relic of Resistance",100261
+"Deluxe Gear Box",100264
+"Mini R'tchikk",100266
+"Case of Captured Lightning",100267
+"Infused Aurora Gloves Skin",100270
+"Relic Container: Conditions",100271
+"Air Elemental Loot Box",100272
+"Recipe: Relic of Dwayna",100274
+"Dwarven Relic",100277
+"Golden Ticket",100280
+"Astral Ward Heavy Shoulders",100282
+"Sanctified Weapon Skin Selection Box",100284
+"Rabid Skyscale Longbow",100289
+"Valkyrie Eagle Eye Scepter",100290
+"Recipe: Relic of the Thief",100292
+"Mini Dagda",100293
+"Rift Hunter Light Boots",100294
+"Strength of the Unseen",100295
+"Fly-by-Night: Silver",100296
+"Avarice's Command",100297
+"Primal Maguuma Trout",100298
+"Valkyrie Eagle Eye Warhorn",100300
+"VII: The Ballad",100301
+"Magi's Skyforged Dagger",100303
+"Recipe: Relic of the Dragonhunter",100306
+"Scales of Dragrimmar",100308
+"",100309
+"Magi's Skyforged Pistol",100312
+"Storm's Eye Mace",100315
+"Forgotten Nourys Reward Box",100320
+"XI: The Inevitable",100322
+"Recipe: Relic of the Reaper",100323
+"Skyscale Target Practice: Gold",100324
+"Recipe: Stormforged Dagger",100325
+"Astral Ward Skyscale Mount Unlock",100327
+"Recipe: Relic of the Warrior",100328
+"Storm Lord's Throne",100336
+"Kryptis Loot Box",100337
+"Infernal Envoy Staff Skin",100338

@@ -5142,6 +5142,7 @@
 "Manteau en écailles renforcé",5486
 "Heaume en écailles renforcé",5488
 "Espauliers en écailles renforcés",5490
+"Grèves fendues",5491
 "Gantelets fendus",5493
 "Espauliers fendus",5496
 "Grèves rubanées",5497
@@ -12174,6 +12175,7 @@
 "Fusil-harpon en bois ancestral chevaleresque",14666
 "Fusil-harpon en bois ancestral valkyrien",14667
 "Fusil-harpon en bois ancestral clérical",14668
+"Fusil-harpon en bois ancestral",14669
 "Fusil-harpon en bois ancestral berserker",14670
 "Fusil-harpon en bois ancestral saccageur",14671
 "Fusil-harpon en bois ancestral nécrophage",14672
@@ -27080,6 +27082,7 @@
 "Échantillon de couleur zéphyrite : rouge",36178
 "Tonique de vêtement courant inépuisable",36179
 "Tonique de vêtement kaki inépuisable",36180
+"Atelier d'artisan mobile permanent",36182
 "Tonique de blouson à capuche de marque inépuisable",36183
 "Tonique de blouson à capuche en cuir inépuisable",36184
 "Tonique de vêtement en brocart de soie inépuisable",36185
@@ -55383,6 +55386,7 @@
 "Bon d'échange tyrien",86804
 "Graine de cactus potager",86805
 "Sacoche de graines de citronnelle",86806
+"Cinq coupons de fournisseur",86807
 "Sacoche de graines de choux",86809
 "Mini-petit chacal bleu",86811
 "Sacoche d'yeux de pommes de terre",86812
@@ -60282,6 +60286,7 @@
 "Boîte de sang de la Légion Sanglante",93478
 "Masse d'écho des Tengus assassine",93480
 "Arc long d'écho des Tengus assassin",93481
+"Kit de démarrage : Météorologicus",93482
 "Recette : focus de Tengu",93483
 "Coffre du héros des Légions unies",93484
 "Boîte de récompenses de la Légion Sanglante",93485
@@ -62355,6 +62360,7 @@
 "Voix des embruns",96051
 "Note de recherche",96052
 "Sériole",96053
+"Kit de démarrage d'arme légendaire",96054
 "Gaspareau mort",96055
 "Embouchoir de cor de guerre précurseur renforcé",96056
 "Dague de l'eau vive",96057
@@ -62820,6 +62826,7 @@
 "Dourado",96692
 "Déclarations sur la menace des trépassés, 1730 CC",96693
 "Livraison de ravitaillement pour la sortie de \"End of Dragons\" : quatrième semaine",96694
+"Kit de démarrage : Répartie",96697
 "Anneau de subjugueur",96699
 "Bocal de scarabées de lave",96700
 "Poisson de Dhuum",96701
@@ -63299,6 +63306,7 @@
 "Sillon profond",97355
 "Bar blanc",97356
 "Focus de l'eau vive",97357
+"Boîte d'équipement de luxe",97358
 "Cor de guerre de Tournevol",97359
 "Prima Donna",97360
 "Renaissance",97361
@@ -63416,6 +63424,7 @@
 "Vieille canne à pêche",97514
 "Précis sur la canalisation de légende",97517
 "Torche du Serpent de feu",97518
+"Kit de démarrage : Éclair",97519
 "Anneau de maître jurelame (infusé)",97520
 "Liasse de recettes : Lacération draconique",97521
 "Parachèvement de justicier",97523
@@ -64056,6 +64065,7 @@
 "Masse de Chassevent",98371
 "Châle zéphyrite",98372
 "Apparence de bouclier de la décennie des dragons",98385
+"Boîte de succès d'anniversaire",98424
 "Masse mécanique",98427
 "Apparence de grèves du dragon des abîmes",98430
 "Arc court mécanique",98432
@@ -64078,6 +64088,7 @@
 "Apparence de canne à pêche géomantique",98493
 "Pack de teintures des sept dragons",98496
 "Fragment de furie prismatique",98500
+"Cadeau d'anniversaire",98501
 "Apparence de gantelets du dragon des abîmes",98503
 "Fusil mécanique",98506
 "Apparence de griffe de Kralkatorrik",98519
@@ -64115,6 +64126,7 @@
 "Apparence de focus de la décennie des dragons",98698
 "Apparence de perspicacité de Kralkatorrik",98707
 "Apparence de fusil de la décennie des dragons",98717
+"Emblème de faveur du sorcier",98725
 "Apparence d'armure du dragon des abîmes",98726
 "Apparence de croc de Kralkatorrik",98727
 "Éclat d'écaille de Kralkatorrik",98738
@@ -64635,6 +64647,7 @@
 "Cruche d'hydromel du Chien de fougère",99450
 "Casier de plastron des forces spéciales",99451
 "Apparence d'écaille de Soo-Won",99452
+"Kit de démarrage : Le Bifrost",99453
 "Apparence de brassards de contrôle de chaîne de traitement",99454
 "Apparence de morsure de Soo-Won",99455
 "Heaume lourd des forces spéciales",99456
@@ -65039,6 +65052,7 @@
 "Sceptre de croît-soleil",99925
 "Livraison de ravitaillement pour la sortie de \"Secrets of the Obscure\" : première semaine",99926
 "Pont à escalier canthien",99927
+"Livraison de ravitaillement pour la sortie de \"Secrets of the Obscure\" : deuxième semaine",99928
 "Symphonie silencieuse",99929
 "Apparence de raptor à plumes coureur céleste",99930
 "Symphonie silencieuse",99932
@@ -65060,8 +65074,194 @@
 "Symphonie silencieuse",99948
 "Coffre de croît-soleil",99949
 "Bon de cape du Lion noir",99951
+"Grimoire d'emote \"/lecture\"",99952
 "Demande de livraison de ravitaillement pour la sortie de \"Secrets of the Obscure\"",99953
 "Recette : poisson séché des Zéphyrites",99954
 "Poisson séché des Zéphyrites",99955
 "Boîte à musique enchantée",99956
 "Focus de croît-soleil",99957
+"Torche de forge-tempête chamanique",99958
+"Arc court d'œil de tempête",99959
+"Conteneur de relique : soutien",99960
+"Sacoche de poussière d'étoile",99964
+"Relique des ouailles",99965
+"Rubans astraux",99966
+"Boîte d'équipement de luxe",99968
+"Recette : sceptre de forge-tempête",99970
+"Boîte de butin d'oiseau",99971
+"Boîte d'épaulières des Chasseurs de brèches",99976
+"Nageoire de la Reine",99986
+"Boîte d'équipement de luxe",99987
+"Contrat d'atelier d'artisan permanent",99989
+"Recette : relique des Zéphyrites",99990
+"Cache de chak",99991
+"Bottes intermédiaires de la Garde astrale",99993
+"Relique d'Isgarren",99997
+"Apparence d'arc long sanctifié",99998
+"Goudron très collant",99999
+"",100000
+"Mini-Avatar du regret",100001
+"Apparence d'arc court sanctifié",100003
+"Sceptre de dracaille enragé",100006
+"Marteau de forge-ciel mage",100007
+"Visage de Nourys",100010
+"Manteau léger des Chasseurs de brèches",100011
+"Recette : relique de bagarreur",100012
+"Recette : relique du Tissesort",100015
+"Artefact des Prophètes",100016
+"Essence de la Force",100017
+"Cuir infusé de poussière d'étoile",100019
+"Boîte d'équipement de luxe",100020
+"Entraînement sur cible de dracaille : or",100022
+"Boîte de manteau des Chasseurs de brèches",100023
+"Recette : relique de dérobade",100025
+"Heaume lourd de la Garde astrale",100026
+"Recette : relique du fracasseur",100028
+"Apparence de gants sanctifiés",100029
+"Relique de moine",100031
+"Carpe à trois yeux",100032
+"Recette : hache de forge-tempête",100035
+"Journal de Turai",100036
+"Vol nocturne : or",100037
+"Essence du Naturel",100039
+"Couverture dolyak solide",100040
+"Pincée de poussière d'étoile",100045
+"Poisson de bastion",100046
+"Bâton de forge-tempête chamanique",100047
+"Relique de glace",100048
+"Apparence de focus sanctifié",100049
+"Essence de triomphe",100055
+"Motivation kryptis commune",100060
+"Maîtrise d'entraînement au vol",100064
+"Malle de Dagda",100068
+"Rivets de Deldrimor",100069
+"Plateau de la gourmandise",100070
+"Apparence d'espadon sanctifié",100073
+"Relique de Cérus",100074
+"Essence de désespoir",100078
+"Recette : épée d'œil de tempête",100079
+"",100080
+"Dracaille des cultures",100081
+"Épée de dracaille enragé",100084
+"Jambières légères des Chasseurs de brèches",100087
+"Espadon de forge-ciel mage",100089
+"Relique du draconnier",100090
+"Dracaille de l'esprit",100094
+"Coffre transcendantal endurci par les Brumes",100096
+"Gratitude des gardes de sanctuaire",100097
+"Grimoire d'emote \"/bénir\"",100099
+"Hache d'œil de tempête",100101
+"Boîte d'équipement de luxe",100103
+"Recette : masse d'œil de tempête",100104
+"Recette : épée de forge-tempête",100108
+"Magot d'Amnytas",100109
+"Dracaille de l'air",100111
+"Inspiration de Deldrimor",100114
+"Relique de Mabon",100115
+"Recette : relique des Affligés",100116
+"Recette : cor de guerre d'œil de tempête",100117
+"Dracaille de l'eau",100118
+"Arc court de forge-ciel mage",100120
+"Morceau savoureux de guivre",100123
+"Bouclier de dracaille enragé",100124
+"Hache de forge-tempête chamanique",100130
+"Acajou riche de Maguuma",100131
+"Recette : relique de Cavalier",100134
+"Gants intermédiaires des Chasseurs de brèches",100135
+"Mini-Cérus",100141
+"Ligne de force motrice",100142
+"Sceptre de forge-tempête chamanique",100143
+"Relique de guerrier",100144
+"Essence de l'Équilibre",100147
+"Relique de vitesse",100148
+"Morceau savoureux de guivre",100150
+"Relique de fractale",100153
+"Épreuve de la Tour du sorcier : or",100154
+"Essence de l'Avatar céleste",100155
+"Inspiration de Deldrimor",100157
+"Relique du Mirage",100158
+"Coffre de l'Obscur",100159
+"Recette : relique de feux d'artifice",100160
+"Jambières lourdes de la Garde astrale",100162
+"Dracaille du courage",100163
+"Apparence de hache sanctifiée",100164
+"Fusil d'œil de tempête",100166
+"Boîte d'équipement de luxe",100169
+"Journal de Mabon",100174
+"Recette : relique de fantassin",100175
+"Relique de Peitha",100177
+"Épreuve de la Tour du sorcier : argent",100178
+"Poisson céleste",100180
+"Recette : relique d'antitoxine",100181
+"Recette : relique d'eau",100186
+"Recette : relique du Sniper",100189
+"Boîte d'armes de forge-ciel",100192
+"Amnytas : coffre au choix du Héros",100193
+"Relique du Tissesort",100194
+"Entraînement sur cible de dracaille : bronze",100195
+"Perce-firmament jotun",100205
+"Recette : dague d'œil de tempête",100206
+"Jambières légères de la Garde astrale",100207
+"Étincelle de savoir",100210
+"Écho de Turai",100211
+"Espadon de forge-tempête chamanique",100215
+"Heaume léger des Chasseurs de brèches",100217
+"Cor de guerre de dracaille enragé",100218
+"Relique du héraut",100219
+"Arc long d'œil de tempête",100220
+"Recette : essence kryptis purifiée",100221
+"Friandise pour dracaille",100222
+"Marteau de forge-tempête chamanique",100224
+"Recette : espadon de forge-tempête",100228
+"Bâton de dracaille enragé",100229
+"Relique de Krait",100230
+"Bâton de forge-ciel mage",100231
+"Arc court de forge-tempête chamanique",100232
+"Essence mineure d'or",100233
+"Épée de forge-tempête chamanique",100235
+"Dracaille du sang",100237
+"Conteneur de relique : Puissance",100240
+"Pistolet de forge-tempête chamanique",100249
+"Masse de dracaille enragé",100251
+"Gants lourds des Chasseurs de brèches",100252
+"Recette : relique de pitié",100254
+"Dracaille de la peur",100260
+"Recette : relique de résistance",100261
+"Boîte d'équipement de luxe",100264
+"Mini-R'tchikk",100266
+"Boîte de foudre capturée",100267
+"Apparence de gants de l'aurore infusés",100270
+"Conteneur de relique : altérations",100271
+"Boîte de butin d'élémentaire d'air",100272
+"Recette : relique de Dwayna",100274
+"Relique naine",100277
+"Ticket d'or",100280
+"Épaulières lourdes de la Garde astrale",100282
+"Boîte de sélection d'apparence d'arme sanctifiée",100284
+"Arc long de dracaille enragé",100289
+"Sceptre de l'Œil de lynx valkyrien",100290
+"Recette : relique de voleur",100292
+"Mini-Dagda",100293
+"Bottes légères des Chasseurs de brèches",100294
+"Force des Invisibles",100295
+"Vol nocturne : argent",100296
+"Autorité de l'avarice",100297
+"Truite de Maguuma primitive",100298
+"Cor de guerre de l'Œil de lynx valkyrien",100300
+"VII : La Ballade",100301
+"Dague de forge-ciel mage",100303
+"Recette : relique du draconnier",100306
+"Écailles de Dragrimmar",100308
+"",100309
+"Pistolet de forge-ciel mage",100312
+"Masse d'œil de tempête",100315
+"Boîte de récompenses de Nourys oubliée",100320
+"XI : L'Inévitable",100322
+"Recette : relique du faucheur",100323
+"Entraînement sur cible de dracaille : or",100324
+"Recette : dague de forge-tempête",100325
+"Déverrouillage de monture : dracaille de la Garde astrale",100327
+"Recette : relique de guerrier",100328
+"Trône de seigneur de la tempête",100336
+"Boîte de butin des Kryptis",100337
+"Apparence de bâton d'émissaire infernal",100338
