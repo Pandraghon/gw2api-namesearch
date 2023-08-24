@@ -5325,6 +5325,7 @@
 "Arme légendaire : Le Prédateur",6968
 "Journal de Zojja : Maguuma primitive",6969
 "Entraînement sur cible de dracaille dans l'Archipel de l'observatoire céleste : argent",6970
+"Cache-cache dans la Tour du sorcier",6971
 "Engager l'Équilibre",6972
 "Mise au point éclair",6973
 "Soutenir le savoir",6974
@@ -5333,6 +5334,7 @@
 "Connaissance d'Amnytas : la place de la sagesse",6977
 "Camarades d'armes",6979
 "Arme légendaire : Givrecroc",6980
+"Cultiver continuellement le Céleste",6981
 "Tour du sorcier : Entraînement sur cible de dracaille – Argent",6982
 "Soutenir le savoir sempiternel",6983
 "Infusions d'œuf de dracaille",6984
@@ -5349,8 +5351,10 @@
 "Connaissance de la Tour : sommet",7000
 "La connaissance, c'est la moitié de la bataille",7001
 "Chasse aux brèches des Terres sauvages d'Echovald",7002
+"Collectionneur d'armes de forge-ciel",7005
 "Connaissance de l'Archipel de l'observatoire céleste : aiguillon du dieu de la guerre",7006
 "Lunettes de plongée d'Amnytas",7008
+"Tour du sorcier : Vol de nuit – Or",7009
 "La Tour des secrets",7010
 "Maître de votre destin",7013
 "Maîtrise de \"Secrets of the Obscure\" : acte 3",7014
@@ -5358,6 +5362,7 @@
 "Connaissance de l'Archipel de l'observatoire céleste : mines de Droknar",7016
 "Maîtrise de l'Archipel de l'observatoire céleste",7017
 "Tour du sorcier : Entraînement sur cible de dracaille – Maître",7019
+"Chasse aux brèches d'Amnytas",7020
 "Entraînement sur cible de dracaille dans l'Archipel de l'observatoire céleste : maître",7021
 "Connaissance de la Tour : vue plongeante",7022
 "Soutenez-la",7024
@@ -5365,6 +5370,7 @@
 "Maître des brèches",7026
 "Protecteur de la Lumière de Droknar",7027
 "Mise à l'abri",7029
+"Collectionneur d'armes d'œil de tempête",7030
 "Nourrir nonchalamment le Naturel",7031
 "Un chapitre conclu",7032
 "Fantastiques renards volants",7034
@@ -5375,12 +5381,14 @@
 "Protecteur éternel des Marches célestes",7042
 "Incursions des Terres sauvages d'Echovald",7044
 "Connaissance d'Amnytas : vigie de la grotte",7045
+"Connaissance d'Amnytas : pilastre céleste",7046
 "Les égarées de Brumaille",7048
 "Écailles de Dragrimmar",7049
 "Empreintes astrales",7051
 "Bêta-test",7052
 "Lumière sur Amnytas",7053
 "Explorateur d'Amnytas",7054
+"Renards joueurs",7055
 "Arme légendaire : Incinératrice",7056
 "Lecture de notes",7057
 "Une promesse tenue",7059
@@ -5407,6 +5415,7 @@
 "Un aller...",7092
 "Connaissance de l'Archipel de l'observatoire céleste : sanctuaire dracaille",7093
 "Chasse aux brèches de l'Archipel de l'observatoire céleste",7094
+"Protecteur de la Promenade de Rata Novus et de Maguuma primitive",7095
 "Pulsation astrale",7096
 "Tour du sorcier : Entraînement sur cible de dracaille – Or",7097
 "Allure astrale",7098
@@ -5430,6 +5439,7 @@
 "Connaissance de l'Archipel de l'observatoire céleste : fondations de Rata Novus",7125
 "Illumination de l'Archipel de l'observatoire céleste",7126
 "Une voie légendaire : dons astraux",7128
+"Priorité d'attaque de la côte fracassée : Observatoire cosmique",7130
 "Matériaux pour selle de dracaille",7134
 "Gardien de caisses",7136
 "Pistage avec Gladium",7137
@@ -5445,6 +5455,7 @@
 "Priorité d'attaque de la côte fracassée : Temple de Febe",7154
 "Missions d'attaque hebdomadaires de \"Secrets of the Obscure\"",7155
 "Protecteur de la zone d'habitation de Mechs de jade n° 3",7159
+"Arme légendaire : Répartie",7161
 "Mère des étoiles",7162
 "Mission d'attaque de l'Observatoire cosmique",7163
 "Pas de repos pour les Kryptis",7164
@@ -5498,6 +5509,7 @@
 "L'Aiguillon du monde",7221
 "Objectif Obscur",7222
 "Zigouillage d'insectes",7224
+"Un nouvel ami",7225
 "Arme légendaire : Frénésie",7226
 "Des temps incertains",7227
 "En cas de coup dur",7229
@@ -5506,6 +5518,7 @@
 "Force des Invisibles",7232
 "Arme légendaire : Éclair",7233
 "Collectionneur d'armes de dracaille",7234
+"Commandant sans cause",7236
 "Seuls les plus forts survivent",7239
 "Foulée astrale",7240
 "Protecteur éternel du Phare des Âges et de Garenhoff",7241
