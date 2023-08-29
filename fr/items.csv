@@ -65093,6 +65093,7 @@
 "Recette : sceptre de forge-tempête",99970
 "Boîte de butin d'oiseau",99971
 "Boîte d'épaulières des Chasseurs de brèches",99976
+"Outil de bûcheron glacial",99984
 "Nageoire de la Reine",99986
 "Boîte d'équipement de luxe",99987
 "Contrat d'atelier d'artisan permanent",99989
@@ -65134,6 +65135,7 @@
 "Bâton de forge-tempête chamanique",100047
 "Relique de glace",100048
 "Apparence de focus sanctifié",100049
+"Outil de moissonnage de petit dracaille",100052
 "Essence de triomphe",100055
 "Motivation kryptis commune",100060
 "Maîtrise d'entraînement au vol",100064
@@ -65168,6 +65170,7 @@
 "Arc court de forge-ciel mage",100120
 "Morceau savoureux de guivre",100123
 "Bouclier de dracaille enragé",100124
+"Boîte d'assortiment de glyphes du Lion noir",100129
 "Hache de forge-tempête chamanique",100130
 "Acajou riche de Maguuma",100131
 "Recette : relique de Cavalier",100134
@@ -65176,6 +65179,7 @@
 "Ligne de force motrice",100142
 "Sceptre de forge-tempête chamanique",100143
 "Relique de guerrier",100144
+"Outil de moissonnage du coup de tonnerre",100145
 "Essence de l'Équilibre",100147
 "Relique de vitesse",100148
 "Morceau savoureux de guivre",100150
@@ -65208,9 +65212,11 @@
 "Perce-firmament jotun",100205
 "Recette : dague d'œil de tempête",100206
 "Jambières légères de la Garde astrale",100207
+"Outil de minage de petit dracaille",100208
 "Étincelle de savoir",100210
 "Écho de Turai",100211
 "Espadon de forge-tempête chamanique",100215
+"Outil de moissonnage glacial",100216
 "Heaume léger des Chasseurs de brèches",100217
 "Cor de guerre de dracaille enragé",100218
 "Relique du héraut",100219
@@ -65219,6 +65225,7 @@
 "Friandise pour dracaille",100222
 "Marteau de forge-tempête chamanique",100224
 "Mini-Galrath",100225
+"Outil de minage choya",100227
 "Recette : espadon de forge-tempête",100228
 "Bâton de dracaille enragé",100229
 "Relique de Krait",100230
@@ -65233,6 +65240,8 @@
 "Masse de dracaille enragé",100251
 "Gants lourds des Chasseurs de brèches",100252
 "Recette : relique de pitié",100254
+"Outils de moissonnage choyas",100258
+"Outil de bûcheron de petit dracaille",100259
 "Dracaille de la peur",100260
 "Recette : relique de résistance",100261
 "Boîte d'équipement de luxe",100264
@@ -65259,6 +65268,7 @@
 "VII : La Ballade",100301
 "Dague de forge-ciel mage",100303
 "Recette : relique du draconnier",100306
+"Outil de moissonnage cosmique",100307
 "Écailles de Dragrimmar",100308
 "",100309
 "Pistolet de forge-ciel mage",100312
@@ -65325,6 +65335,7 @@
 "Pistolet de dracaille enragé",100424
 "Mini-sentinelle de sorcier",100427
 "Relique de pitié",100429
+"Outil de moissonnage vermillon",100430
 "Recette : pistolet de forge-tempête",100431
 "Relique d'Akeem",100432
 "Recette : bâton de forge-tempête",100433
@@ -65337,6 +65348,7 @@
 "Souvenir d'ascension",100451
 "Relique de l'Incendiaire",100453
 "Relique de durabilité",100455
+"Outil de bûcheron de la tempête de flammes",100458
 "Gants lourds de la Garde astrale",100459
 "Sol carrelé de la Garde astrale",100460
 "Relique de Lyhr",100461
@@ -65345,6 +65357,7 @@
 "Recette : relique d'aristocratie",100467
 "Recette : relique de moine",100468
 "Progression instantanée en parcours de récompenses",100469
+"Outil de bûcheron cosmique",100470
 "Grande charge statique",100473
 "Pièce ancienne",100477
 "Sensibilité de la malice",100483
@@ -65356,6 +65369,7 @@
 "Manteau intermédiaire de la Garde astrale",100492
 "Apparence de torche sanctifiée",100498
 "Boîte d'équipement d'Amnytas",100500
+"Outil de bûcheron vermillon",100501
 "Magot du sorcier",100502
 "Recette : relique du Mirage",100503
 "Manteau léger de la Garde astrale",100504
@@ -65492,6 +65506,7 @@
 "Dracaille de la terre",100740
 "Souvenir d'ascension",100741
 "",100743
+"Outil de minage cosmique",100745
 "Coffre-fort de l'Archipel de l'observatoire céleste",100746
 "Poisson-force",100751
 "Relique de la meute",100752
@@ -65511,6 +65526,7 @@
 "Morceau d'écorce savoureuse couverte de mousse",100784
 "Épée de l'Œil de lynx valkyrien",100785
 "Grande pincée de poussière d'étoile",100788
+"Outil de minage d'ébranleur de sol",100789
 "Dague de l'Œil de lynx valkyrien",100791
 "Recette : masse de forge-tempête",100793
 "Relique de résistance",100794
@@ -65520,6 +65536,7 @@
 "Boîte de heaume des Chasseurs de brèches",100802
 "Épaulières lourdes des Chasseurs de brèches",100804
 "Arc long de forge-tempête chamanique",100805
+"Outil de minage vermillon",100809
 "Arc court de l'Œil de lynx valkyrien",100817
 "Épreuve de la Tour du sorcier : bronze",100819
 "Recette : relique de Krait",100821
@@ -65576,6 +65593,7 @@
 "Recette : arc long de forge-tempête",100918
 "Marteau de l'Œil de lynx valkyrien",100919
 "Lame éternelle",100920
+"Outil de minage glacial",100921
 "Relique du Sniper",100924
 "Grimoire d'emote \"/possession\"",100926
 "Conteneur de relique : survie",100927
@@ -65601,6 +65619,7 @@
 "Coffre de l'Obscur",100962
 "Dague de dracaille enragé",100963
 "Ration de piste savoureuse",100966
+"Outil de bûcheron choya",100968
 "Recette : motivation kryptis rare",100969
 "Recette : fusil d'œil de tempête",100973
 "Coffre-fort d'Amnytas",100974
