@@ -55436,6 +55436,7 @@
 "Sacoche de graines d'artichauts",86854
 "Déverrouillage de teintures marron-rouges garanti",86855
 "Mini-petit chacal vert",86856
+"Cinq reliques fractales immaculées",86857
 "Recette : déverrouillage de teintures marron-rouges garanti",86858
 "300 pousses mortelles",86859
 "Sacoche de graines d'ail",86861
@@ -65101,6 +65102,7 @@
 "Recette : sceptre de forge-tempête",99970
 "Boîte de butin d'oiseau",99971
 "Boîte d'épaulières des Chasseurs de brèches",99976
+"Masse brisée berserker",99979
 "Outil de bûcheron glacial",99984
 "Nageoire de la Reine",99986
 "Boîte d'équipement de luxe",99987
@@ -65138,6 +65140,7 @@
 "Vol nocturne : or",100037
 "Essence du Naturel",100039
 "Couverture dolyak solide",100040
+"Sceptre brisé berserker",100042
 "Pincée de poussière d'étoile",100045
 "Poisson de bastion",100046
 "Bâton de forge-tempête chamanique",100047
@@ -65145,6 +65148,7 @@
 "Apparence de focus sanctifié",100049
 "Outil de moissonnage de petit dracaille",100052
 "Essence de triomphe",100055
+"Pilier de la Garde astrale",100058
 "Motivation kryptis commune",100060
 "Maîtrise d'entraînement au vol",100064
 "Malle de Dagda",100068
@@ -65157,7 +65161,9 @@
 "",100080
 "Dracaille des cultures",100081
 "Épée de dracaille enragé",100084
+"Cor de guerre brisé berserker",100085
 "Jambières légères des Chasseurs de brèches",100087
+"Bouclier brisé berserker",100088
 "Espadon de forge-ciel mage",100089
 "Relique du draconnier",100090
 "Dracaille de l'esprit",100094
@@ -65181,6 +65187,8 @@
 "Boîte d'assortiment de glyphes du Lion noir",100129
 "Hache de forge-tempête chamanique",100130
 "Acajou riche de Maguuma",100131
+"Mur de l'académie",100132
+"Colonne carrée de l'académie",100133
 "Recette : relique de Cavalier",100134
 "Gants intermédiaires des Chasseurs de brèches",100135
 "Mini-Cérus",100141
@@ -65190,10 +65198,12 @@
 "Outil de moissonnage du coup de tonnerre",100145
 "Essence de l'Équilibre",100147
 "Relique de vitesse",100148
+"Portail de la Garde astrale",100149
 "Morceau savoureux de guivre",100150
 "Relique de fractale",100153
 "Épreuve de la Tour du sorcier : or",100154
 "Essence de l'Avatar céleste",100155
+"Arc court brisé berserker",100156
 "Inspiration de Deldrimor",100157
 "Relique du Mirage",100158
 "Coffre de l'Obscur",100159
@@ -65211,13 +65221,16 @@
 "Épreuve de la Tour du sorcier : argent",100178
 "Poisson céleste",100180
 "Recette : relique d'antitoxine",100181
+"Arche partielle de l'académie",100182
 "Recette : relique d'eau",100186
+"Marteau brisé berserker",100188
 "Recette : relique du Sniper",100189
 "Boîte d'armes de forge-ciel",100192
 "Amnytas : coffre au choix du Héros",100193
 "Relique du Tissesort",100194
 "Entraînement sur cible de dracaille : bronze",100195
 "Apparence de cape du sorcier",100199
+"Mur de l'académie avec fenêtres",100204
 "Perce-firmament jotun",100205
 "Recette : dague d'œil de tempête",100206
 "Jambières légères de la Garde astrale",100207
@@ -65291,6 +65304,7 @@
 "Recette : dague de forge-tempête",100325
 "Déverrouillage de monture : dracaille de la Garde astrale",100327
 "Recette : relique de guerrier",100328
+"Bâton brisé berserker",100330
 "Trône de seigneur de la tempête",100336
 "Boîte de butin des Kryptis",100337
 "Apparence de bâton d'émissaire infernal",100338
@@ -65352,6 +65366,7 @@
 "Recette : bâton de forge-tempête",100433
 "Gants intermédiaires de la Garde astrale",100436
 "Dracaille de la mort",100437
+"Colonne ronde de l'académie",100440
 "Relique de Dwayna",100442
 "Bouclier de forge-tempête chamanique",100443
 "Relique de la Citadelle",100448
@@ -65371,6 +65386,7 @@
 "Outil de bûcheron cosmique",100470
 "Grande charge statique",100473
 "Pièce ancienne",100477
+"Mur de la Garde astrale",100480
 "Sensibilité de la malice",100483
 "Mini-Avatar de la gloutonnerie",100484
 "Heaume léger de la Garde astrale",100485
@@ -65378,6 +65394,7 @@
 "Recette : cor de guerre de forge-tempête",100490
 "Dracaille de la glace",100491
 "Manteau intermédiaire de la Garde astrale",100492
+"Espadon brisé berserker",100493
 "Apparence de torche sanctifiée",100498
 "Boîte d'équipement d'Amnytas",100500
 "Outil de bûcheron vermillon",100501
@@ -65385,6 +65402,7 @@
 "Recette : relique du Mirage",100503
 "Manteau léger de la Garde astrale",100504
 "Mini-Zizel",100505
+"Porte de la Garde astrale",100506
 "Don de prospérité magique",100512
 "Manteau intermédiaire des Chasseurs de brèches",100514
 "Recette : relique de vitesse",100515
@@ -65442,9 +65460,11 @@
 "Focus de forge-tempête chamanique",100601
 "Hache de forge-ciel mage",100603
 "Essence de l'Obscur",100605
+"Arche complète de l'académie",100606
 "Recette : relique des ouailles",100609
 "Présentoir à orbe de la Garde astrale",100610
 "Relique de dérobade",100614
+"Pistolet brisé berserker",100615
 "Morceau d'osmomateur arcanique",100617
 "Réserve de pièces astrales",100618
 "Tissu tressé de Garenhoff",100619
@@ -65479,8 +65499,10 @@
 "Apparence de griffon-hibou enchanté",100663
 "Recette : arc long d'œil de tempête",100664
 "Gants légers de la Garde astrale",100665
+"Torche brisée berserker",100667
 "Aiguillon des Oubliés",100669
 "Vol nocturne : bronze",100670
+"Fusil brisé berserker",100674
 "Patte savoureuse de chak",100677
 "Boîte d'équipement de luxe",100679
 "Poisson fracturé",100682
@@ -65500,6 +65522,7 @@
 "Apparence de sac à dos d'émissaire infernal",100708
 "Mini-Mabon",100709
 "Apparence de deltaplane d'émissaire infernal",100710
+"Grande arche de l'académie",100711
 "Recette : arc court de forge-tempête",100713
 "Focus de l'Œil de lynx valkyrien",100715
 "Recette : focus d'œil de tempête",100716
@@ -65524,6 +65547,7 @@
 "Poisson-force",100751
 "Relique de la meute",100752
 "Recette : pistolet d'œil de tempête",100755
+"Épée brisée berserker",100756
 "",100758
 "Jambières lourdes des Chasseurs de brèches",100759
 "Grimoire d'emote \"/héroïque\"",100760
@@ -65534,6 +65558,7 @@
 "Charme analytique",100766
 "Peluche de Quaggan",100769
 "Relique de Vass",100775
+"Hache brisée berserker",100776
 "Bouclier de forge-ciel mage",100777
 "Recette : relique du chronomancien",100781
 "Morceau d'écorce savoureuse couverte de mousse",100784
@@ -65582,12 +65607,14 @@
 "Recette : relique du Défenseur",100869
 "Épaulières intermédiaires des Chasseurs de brèches",100870
 "Sceptre d'œil de tempête",100874
+"Lumière de l'académie",100876
 "Focus de forge-ciel mage",100877
 "Sac de pièces (1 pièce d'or)",100878
 "Boîte de jambières des Chasseurs de brèches",100879
 "Focus d'œil de tempête",100881
 "Apparence de masse sanctifiée",100882
 "Heaume lourd des Chasseurs de brèches",100884
+"Arc long brisé berserker",100885
 "Relique de dérobade",100886
 "Maquereaummandant",100887
 "Heaume intermédiaire de la Garde astrale",100889
@@ -65628,7 +65655,9 @@
 "Peau de Kryptis savoureuse",100948
 "XXI : L'Œil",100950
 "Pistolet d'œil de tempête",100952
+"Focus brisé berserker",100953
 "Apparence d'épée sanctifiée",100957
+"Dague brisée berserker",100960
 "Coffre de l'Obscur",100962
 "Dague de dracaille enragé",100963
 "Ration de piste savoureuse",100966
@@ -65638,3 +65667,25 @@
 "Coffre-fort d'Amnytas",100974
 "Biomes divins",100975
 "Torche de l'Œil de lynx valkyrien",100977
+"Diagramme d'arme historique : bâton",100978
+"Diagramme d'arme historique : hache",100979
+"Apparence de pistolet d'efflorée de seigneur-liane",100982
+"Apparence d'espadon de sentinelle reconfigurable",100986
+"Apparence de sceptre d'efflorée de seigneur-liane",100987
+"Apparence d'arc court d'efflorée de seigneur-liane",100989
+"Apparence de torche d'efflorée de seigneur-liane",100992
+"Apparence de dague d'efflorée de seigneur-liane",100993
+"Apparence de marteau d'efflorée de seigneur-liane",100994
+"Trophée de la course aux fractales",100997
+"Apparence de focus d'efflorée de seigneur-liane",101002
+"Apparence de cor de guerre d'efflorée de seigneur-liane",101007
+"Apparence de bouclier d'efflorée de seigneur-liane",101008
+"Apparence d'espadon d'efflorée de seigneur-liane",101009
+"Apparence de masse d'efflorée de seigneur-liane",101010
+"Apparence de bâton d'efflorée de seigneur-liane",101013
+"Apparence de hache d'efflorée de seigneur-liane",101014
+"Biens volés du Lion noir : semaine 1",101016
+"Apparence de fusil d'efflorée de seigneur-liane",101017
+"Apparence d'arc long d'efflorée de seigneur-liane",101018
+"Apparence d'épée d'efflorée de seigneur-liane",101019
+"Acclamation astrale x 100",101020

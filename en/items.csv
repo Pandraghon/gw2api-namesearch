@@ -55436,6 +55436,7 @@
 "Artichoke Seed Pouch",86854
 "Guaranteed Red-Brown Dye Unlock",86855
 "Mini Green Jackal Pup",86856
+"5 Pristine Fractal Relics",86857
 "Recipe: Guaranteed Red-Brown Dye Unlock",86858
 "300 Deadly Blooms",86859
 "Garlic Seed Pouch",86861
@@ -65101,6 +65102,7 @@
 "Recipe: Stormforged Scepter",99970
 "Bird Loot Box",99971
 "Rift Hunter Shoulders Box",99976
+"Berserker's Shattered Mace",99979
 "Glacial Logging Tool",99984
 "Queen's Flipper",99986
 "Deluxe Gear Box",99987
@@ -65138,6 +65140,7 @@
 "Fly-by-Night: Gold",100037
 "Essence of the Natural",100039
 "Heavy-Duty Dolyak Blanket",100040
+"Berserker's Shattered Scepter",100042
 "Pinch of Stardust",100045
 "Bastion Fish",100046
 "Shaman's Stormforged Staff",100047
@@ -65145,6 +65148,7 @@
 "Sanctified Focus Skin",100049
 "Skyscale Hatchling Harvesting Tool",100052
 "Essence of Triumph",100055
+"Astral Ward Pillar",100058
 "Common Kryptis Motivation",100060
 "Flight Training Mastery",100064
 "Dagda's Coffer",100068
@@ -65157,7 +65161,9 @@
 "",100080
 "Skyscale of Growth",100081
 "Rabid Skyscale Sword",100084
+"Berserker's Shattered Warhorn",100085
 "Rift Hunter Light Leggings",100087
+"Berserker's Shattered Shield",100088
 "Magi's Skyforged Greatsword",100089
 "Relic of the Dragonhunter",100090
 "Skyscale of Spirit",100094
@@ -65181,6 +65187,8 @@
 "Black Lion Glyph Selection Container",100129
 "Shaman's Stormforged Axe",100130
 "Rich Maguuman Mahogany",100131
+"Academic Wall",100132
+"Square Academic Column",100133
 "Recipe: Relic of the Cavalier",100134
 "Rift Hunter Medium Gloves",100135
 "Mini Cerus",100141
@@ -65190,10 +65198,12 @@
 "Thunderstrike Harvesting Tool",100145
 "Essence of Balance",100147
 "Relic of Speed",100148
+"Astral Ward Gate",100149
 "Tasty Wurm Segment",100150
 "Relic of the Fractal",100153
 "Wizard's Tower Trial: Gold",100154
 "Essence of the Celestial",100155
+"Berserker's Shattered Short Bow",100156
 "Inspiration of Deldrimor",100157
 "Relic of the Mirage",100158
 "Chest of the Obscure",100159
@@ -65211,13 +65221,16 @@
 "Wizard's Tower Trial: Silver",100178
 "Celestial Fish",100180
 "Recipe: Relic of Antitoxin",100181
+"Partial Academic Arch",100182
 "Recipe: Relic of Water",100186
+"Berserker's Shattered Hammer",100188
 "Recipe: Relic of the Deadeye",100189
 "Skyforged Weapon Box",100192
 "Amnytas: Hero's Choice Chest",100193
 "Relic of the Weaver",100194
 "Skyscale Target Practice: Bronze",100195
 "Sorcerer's Cape Skin",100199
+"Academic Wall with Windows",100204
 "Jotun Skypiercer",100205
 "Recipe: Storm's Eye Dagger",100206
 "Astral Ward Light Leggings",100207
@@ -65291,6 +65304,7 @@
 "Recipe: Stormforged Dagger",100325
 "Astral Ward Skyscale Mount Unlock",100327
 "Recipe: Relic of the Warrior",100328
+"Berserker's Shattered Staff",100330
 "Storm Lord's Throne",100336
 "Kryptis Loot Box",100337
 "Infernal Envoy Staff Skin",100338
@@ -65352,6 +65366,7 @@
 "Recipe: Stormforged Staff",100433
 "Astral Ward Medium Gloves",100436
 "Skyscale of Death",100437
+"Round Academic Column",100440
 "Relic of Dwayna",100442
 "Shaman's Stormforged Shield",100443
 "Relic of the Citadel",100448
@@ -65371,6 +65386,7 @@
 "Cosmic Logging Tool",100470
 "Large Static Charge",100473
 "Ancient Coin",100477
+"Astral Ward Wall",100480
 "Malice's Heartstring",100483
 "Mini Avatar of Gluttony",100484
 "Astral Ward Light Helm",100485
@@ -65378,6 +65394,7 @@
 "Recipe: Stormforged Warhorn",100490
 "Skyscale of Ice",100491
 "Astral Ward Medium Coat",100492
+"Berserker's Shattered Greatsword",100493
 "Sanctified Torch Skin",100498
 "Amnytas Gear Box",100500
 "Vermilion Logging Tool",100501
@@ -65385,6 +65402,7 @@
 "Recipe: Relic of the Mirage",100503
 "Astral Ward Light Coat",100504
 "Mini Zizel",100505
+"Astral Ward Door",100506
 "Gift of Magical Prosperity",100512
 "Rift Hunter Medium Coat",100514
 "Recipe: Relic of Speed",100515
@@ -65442,9 +65460,11 @@
 "Shaman's Stormforged Focus",100601
 "Magi's Skyforged Axe",100603
 "Essence of the Obscure",100605
+"Complete Academic Arch",100606
 "Recipe: Relic of the Flock",100609
 "Astral Ward Orb Stand",100610
 "Relic of Evasion",100614
+"Berserker's Shattered Pistol",100615
 "Arcane Osmogrifier Fragment",100617
 "Stash of Astral Coins",100618
 "Garenhoff-Weave Cloth",100619
@@ -65479,8 +65499,10 @@
 "Enchanted Owl Griffon Skin",100663
 "Recipe: Storm's Eye Longbow",100664
 "Astral Ward Light Gloves",100665
+"Berserker's Shattered Torch",100667
 "Spire of the Forgotten",100669
 "Fly-by-Night: Bronze",100670
+"Berserker's Shattered Rifle",100674
 "Tasty Chak Legs",100677
 "Deluxe Gear Box",100679
 "Fractured Fish",100682
@@ -65500,6 +65522,7 @@
 "Infernal Envoy Backpack Skin",100708
 "Mini Mabon",100709
 "Infernal Envoy Glider Skin",100710
+"Tall Academic Arch",100711
 "Recipe: Stormforged Short Bow",100713
 "Valkyrie Eagle Eye Focus",100715
 "Recipe: Storm's Eye Focus",100716
@@ -65524,6 +65547,7 @@
 "Strength Fish",100751
 "Relic of the Pack",100752
 "Recipe: Storm's Eye Pistol",100755
+"Berserker's Shattered Sword",100756
 "",100758
 "Rift Hunter Heavy Leggings",100759
 "\"/Heroic\" Emote Tome",100760
@@ -65534,6 +65558,7 @@
 "Analytical Charm",100766
 "Plush Quaggan",100769
 "Relic of Vass",100775
+"Berserker's Shattered Axe",100776
 "Magi's Skyforged Shield",100777
 "Recipe: Relic of the Chronomancer",100781
 "Tasty Moss-Covered Bark",100784
@@ -65582,12 +65607,14 @@
 "Recipe: Relic of the Defender",100869
 "Rift Hunter Medium Shoulders",100870
 "Storm's Eye Scepter",100874
+"Academic Light",100876
 "Magi's Skyforged Focus",100877
 "Bag of Coins (1 Gold)",100878
 "Rift Hunter Leggings Box",100879
 "Storm's Eye Focus",100881
 "Sanctified Mace Skin",100882
 "Rift Hunter Heavy Helm",100884
+"Berserker's Shattered Longbow",100885
 "Relic of Evasion",100886
 "Codmander",100887
 "Astral Ward Medium Helm",100889
@@ -65628,7 +65655,9 @@
 "Tasty Kryptis Skin",100948
 "XXI: The Eye",100950
 "Storm's Eye Pistol",100952
+"Berserker's Shattered Focus",100953
 "Sanctified Sword Skin",100957
+"Berserker's Shattered Dagger",100960
 "Chest of the Obscure",100962
 "Rabid Skyscale Dagger",100963
 "Tasty Trail Ration",100966
@@ -65638,4 +65667,25 @@
 "Amnytas Strongbox",100974
 "Divine Biomes",100975
 "Valkyrie Eagle Eye Torch",100977
+"Historical Weapon Diagram: Staff",100978
+"Historical Weapon Diagram: Axe",100979
+"Vinelord Edgebloom Pistol Skin",100982
+"Reconfigurable Construct Greatsword Skin",100986
+"Vinelord Edgebloom Scepter Skin",100987
+"Vinelord Edgebloom Short Bow Skin",100989
+"Vinelord Edgebloom Torch Skin",100992
+"Vinelord Edgebloom Dagger Skin",100993
+"Vinelord Edgebloom Hammer Skin",100994
 "Fractal Rush Trophy",100997
+"Vinelord Edgebloom Focus Skin",101002
+"Vinelord Edgebloom Warhorn Skin",101007
+"Vinelord Edgebloom Shield Skin",101008
+"Vinelord Edgebloom Greatsword Skin",101009
+"Vinelord Edgebloom Mace Skin",101010
+"Vinelord Edgebloom Staff Skin",101013
+"Vinelord Edgebloom Axe Skin",101014
+"Week 1 Black Lion Stolen Goods",101016
+"Vinelord Edgebloom Rifle Skin",101017
+"Vinelord Edgebloom Longbow Skin",101018
+"Vinelord Edgebloom Sword Skin",101019
+"100 Astral Acclaim",101020
