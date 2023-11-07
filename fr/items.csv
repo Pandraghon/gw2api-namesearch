@@ -65159,6 +65159,7 @@
 "Relique de glace",100048
 "Apparence de focus sanctifié",100049
 "Outil de moissonnage de petit dracaille",100052
+"Torche de l'abomination vipérin",100054
 "Essence de triomphe",100055
 "Pilier de la Garde astrale",100058
 "Motivation kryptis commune",100060
@@ -65182,6 +65183,7 @@
 "Dracaille de l'esprit",100094
 "Coffre transcendantal endurci par les Brumes",100096
 "Gratitude des gardes de sanctuaire",100097
+"Caillot de cris coagulés",100098
 "Grimoire d'emote \"/bénir\"",100099
 "Hache d'œil de tempête",100101
 "Boîte d'équipement de luxe",100103
@@ -65196,6 +65198,7 @@
 "Recette : cor de guerre d'œil de tempête",100117
 "Dracaille de l'eau",100118
 "Arc court de forge-ciel mage",100120
+"Espadon de l'abomination vipérin",100121
 "Morceau savoureux de guivre",100123
 "Bouclier de dracaille enragé",100124
 "Boîte d'assortiment de glyphes du Lion noir",100129
@@ -65232,6 +65235,7 @@
 "Boîte d'équipement de luxe",100169
 "Échantillon de possession kryptis",100170
 "Apparence de heaume sanctifié",100172
+"Pistolet de l'abomination vipérin",100173
 "Journal de Mabon",100174
 "Recette : relique de fantassin",100175
 "Relique de Peitha",100177
@@ -65385,6 +65389,7 @@
 "Morceau de maîtrise de \"Secrets of the Obscure\"",100422
 "Pistolet de dracaille enragé",100424
 "Mini-sentinelle de sorcier",100427
+"Fusil de l'abomination vipérin",100428
 "Relique de pitié",100429
 "Outil de moissonnage vermillon",100430
 "Recette : pistolet de forge-tempête",100431
@@ -65481,6 +65486,7 @@
 "Huile pour selle infusée des Brumes",100576
 "Relique des Cauchemars",100579
 "Relique de nécromant",100580
+"Marteau de l'abomination vipérin",100584
 "Articulation de cheville de Forgé",100585
 "Plateforme circulaire carrelée de la Garde astrale",100586
 "Mini-Avatar de la malice",100587
@@ -65598,6 +65604,7 @@
 "Visage de Nourys",100765
 "Charme analytique",100766
 "Peluche de Quaggan",100769
+"Sceptre de l'abomination vipérin",100770
 "Relique de Vass",100775
 "Hache brisée berserker",100776
 "Bouclier de forge-ciel mage",100777
@@ -65706,6 +65713,7 @@
 "Coffre de l'Obscur",100962
 "Dague de dracaille enragé",100963
 "Ration de piste savoureuse",100966
+"Arc long de l'abomination vipérin",100967
 "Outil de bûcheron choya",100968
 "Recette : motivation kryptis rare",100969
 "Recette : fusil d'œil de tempête",100973
@@ -65836,43 +65844,69 @@
 "Relique de Febe",101116
 "Gants lourds maudits",101119
 "",101121
+"Courroux d'Ignaxious",101122
 "Kit de démarrage d'arme légendaire : ensemble n° 2",101123
+"Lieu noir fantôme",101127
 "Apparence de hache sanctifiée noire",101135
 "Apparence de sceptre sanctifié noir",101136
 "Relique du Roi de minuit",101139
 "Mini-incarnation de la terreur",101140
 "Outil de minage exalté",101142
+"Fiole d'énergies cosmiques",101144
 "Apparence d'arc long sanctifié noir",101145
 "Licence d'adoption de monture des délices arcaniques",101147
+"Nodule d'essence kryptis",101148
 "Apparence de masse sanctifiée noire",101154
+"Recette : hache de Saryx consacrée",101158
 "Apparence de marteau sanctifié noir",101164
 "Relique de la Reine des démons",101166
 "Malle magnifique de Dagda",101172
+"Mini-Jugement",101175
+"Gants légers maudits",101177
 "Coffre au choix de gants maudits",101178
 "Apparence de dague sanctifiée noire",101180
 "Apparence d'épée sanctifiée noire",101182
+"Recette : arc long de Saryx consacré",101184
 "Apparence de torche sanctifiée noire",101188
 "Relique de Nourys",101191
+"Nayos intérieur : coffre au choix du Héros",101195
 "Relique de Nayos",101198
 "Infusion de flux arcanique",101199
 "Note pour Arina",101201
 "Apparence de cape sanctifiée",101205
+"Poisson-glouton",101209
+"Recette : arc court de Saryx consacré",101216
 "Apparence de fusil sanctifié noir",101217
 "Apparence de bâton sanctifié noir",101222
 "Apparence de cor de guerre sanctifié noir",101224
 "Boîte de sélection d'apparence d'arme sanctifiée noire",101227
+"Magot de Nayos",101228
+"Recette : cor de guerre de Saryx consacré",101230
 "Infusion de flux arcanique",101234
 "Sac de butin",101235
+"Infusion de flux arcanique",101237
 "Sélection de licence pour monture des délices arcaniques",101238
+"Poisson-fléau",101240
+"Poisson-rêveur",101241
+"Nodule d'essence kryptis",101245
+"Recette : bâton de Saryx consacré",101252
+"Recette : épée de Saryx consacrée",101254
 "Infusion de flux arcanique",101261
+"Boîte d'arme de Saryx",101265
 "Apparence de pistolet sanctifié noir",101267
 "Relique de Karakosa",101268
+"Nodule d'essence kryptis",101274
 "Infusion jotun",101276
+"Recette : espadon de Saryx consacré",101277
+"Infusion de flux arcanique",101278
 "Infusion de flux arcanique",101279
 "Apparence de focus sanctifié noir",101281
 "Maîtrise des convergences",101282
 "Apparence d'espadon sanctifié noir",101285
 "Apparence de bouclier sanctifié noir",101287
+"Magot de Nayos",101288
+"Recette : dague de Saryx consacrée",101293
 "Grand halètement calcifié",101297
+"Motivation kryptis instable",101298
 "Boîte d'arme abominable",101299
 "Apparence d'arc court sanctifié noir",101300
