@@ -64708,6 +64708,7 @@
 "Mini-oni",99504
 "Siège de comptoir de nouilles",99505
 "Chapeau du ministre",99506
+"Kit de démarrage : La Herse",99507
 "Harnais léger des forces spéciales",99508
 "Apparence de griffe de Soo-Won",99509
 "Éther persistant du Vide",99511
@@ -65177,6 +65178,7 @@
 "Bouclier brisé berserker",100088
 "Espadon de forge-ciel mage",100089
 "Relique du draconnier",100090
+"Arc court de l'abomination vipérin",100092
 "Dracaille de l'esprit",100094
 "Coffre transcendantal endurci par les Brumes",100096
 "Gratitude des gardes de sanctuaire",100097
@@ -65204,6 +65206,7 @@
 "Recette : relique de Cavalier",100134
 "Gants intermédiaires des Chasseurs de brèches",100135
 "Coffre d'achèvement hebdomadaire de la chambre forte du sorcier",100137
+"Épée de Saryx sinistre",100139
 "Mini-Cérus",100141
 "Ligne de force motrice",100142
 "Sceptre de forge-tempête chamanique",100143
@@ -65228,6 +65231,7 @@
 "Fusil d'œil de tempête",100166
 "Boîte d'équipement de luxe",100169
 "Échantillon de possession kryptis",100170
+"Apparence de heaume sanctifié",100172
 "Journal de Mabon",100174
 "Recette : relique de fantassin",100175
 "Relique de Peitha",100177
@@ -65235,6 +65239,7 @@
 "Poisson céleste",100180
 "Recette : relique d'antitoxine",100181
 "Arche partielle de l'académie",100182
+"Dague de chair démoniaque sinistre",100183
 "Recette : relique d'eau",100186
 "Marteau brisé berserker",100188
 "Recette : relique du Sniper",100189
@@ -65290,6 +65295,7 @@
 "Acclamation astrale x 10",100275
 "Relique naine",100277
 "Ticket d'or",100280
+"Bouclier de l'abomination enragé",100281
 "Épaulières lourdes de la Garde astrale",100282
 "Boîte de sélection d'apparence d'arme sanctifiée",100284
 "Arc long de dracaille enragé",100289
@@ -65331,6 +65337,7 @@
 "Gants légers des Chasseurs de brèches",100346
 "Masse de l'Œil de lynx valkyrien",100348
 "Manteau lourd de la Garde astrale",100349
+"Bâton de Saryx sinistre",100350
 "Apparence de sceptre sanctifié",100351
 "Boîte d'équipement de luxe",100352
 "Visage de Nourys",100353
@@ -65357,10 +65364,12 @@
 "Relique de la Garde astrale",100388
 "Relique d'antitoxine",100390
 "Bottes lourdes de la Garde astrale",100392
+"Arc long de Saryx sinistre",100394
 "Écho du passé",100395
 "Apparence de marteau sanctifié",100398
 "Jokopu",100399
 "Relique du Sans-soleil",100400
+"Apparence de manteau sanctifié",100401
 "Boîte d'équipement de luxe",100405
 "Tempête magique pacifique",100409
 "Relique de fantassin",100411
@@ -65384,13 +65393,17 @@
 "Gants intermédiaires de la Garde astrale",100436
 "Dracaille de la mort",100437
 "Colonne ronde de l'académie",100440
+"Arc court de chair démoniaque sinistre",100441
 "Relique de Dwayna",100442
 "Bouclier de forge-tempête chamanique",100443
+"Focus de chair démoniaque sinistre",100444
 "Relique de la Citadelle",100448
+"Apparence de jambières sanctifiées",100449
 "Relique du chronomancien",100450
 "Souvenir d'ascension",100451
 "Relique de l'Incendiaire",100453
 "Relique de durabilité",100455
+"Espadon de Saryx sinistre",100456
 "Outil de bûcheron de la tempête de flammes",100458
 "Gants lourds de la Garde astrale",100459
 "Sol carrelé de la Garde astrale",100460
@@ -65401,7 +65414,10 @@
 "Recette : relique de moine",100468
 "Progression instantanée en parcours de récompenses",100469
 "Outil de bûcheron cosmique",100470
+"Bouclier de Saryx sinistre",100472
 "Grande charge statique",100473
+"Masse de l'abomination enragé",100474
+"Dague de l'abomination vipérin",100476
 "Pièce ancienne",100477
 "Mur de la Garde astrale",100480
 "Sensibilité de la malice",100483
@@ -65412,6 +65428,7 @@
 "Dracaille de la glace",100491
 "Manteau intermédiaire de la Garde astrale",100492
 "Espadon brisé berserker",100493
+"Hache de l'abomination vipérin",100494
 "Apparence de torche sanctifiée",100498
 "Boîte d'équipement d'Amnytas",100500
 "Outil de bûcheron vermillon",100501
@@ -65437,6 +65454,7 @@
 "Fusil de dracaille enragé",100539
 "Relique de Cavalier",100542
 "Don de l'Archipel de l'observatoire céleste",100544
+"Cor de guerre de chair démoniaque sinistre",100546
 "Archipel de l'observatoire céleste : coffre au choix du Héros",100547
 "Apparence de fusil sanctifié",100548
 "VIII : L'Indulgence",100549
@@ -65448,6 +65466,7 @@
 "Relique de la Tour du sorcier",100557
 "Boîte de butin du Sommet de Pierre",100558
 "Carapace savoureuse de dévoreur",100559
+"Fusil de chair démoniaque sinistre",100560
 "Relique d'aventurier",100561
 "Relique de durabilité",100562
 "Recette : relique de charisme",100564
@@ -65456,6 +65475,7 @@
 "Essence kryptis purifiée",100569
 "XII : L'Infini",100570
 "Boîte d'équipement de luxe",100571
+"Cor de guerre de l'abomination vipérin",100572
 "Bottes intermédiaires des Chasseurs de brèches",100574
 "Essence du Savoir",100575
 "Huile pour selle infusée des Brumes",100576
@@ -65478,6 +65498,7 @@
 "Hache de forge-ciel mage",100603
 "Essence de l'Obscur",100605
 "Arche complète de l'académie",100606
+"Marteau de Saryx sinistre",100608
 "Recette : relique des ouailles",100609
 "Présentoir à orbe de la Garde astrale",100610
 "Relique de dérobade",100614
@@ -65519,10 +65540,12 @@
 "Torche brisée berserker",100667
 "Aiguillon des Oubliés",100669
 "Vol nocturne : bronze",100670
+"Masse de Saryx sinistre",100672
 "Fusil brisé berserker",100674
 "Patte savoureuse de chak",100677
 "Boîte d'équipement de luxe",100679
 "Poisson fracturé",100682
+"Sceptre de chair démoniaque sinistre",100684
 "Recette : relique du héraut",100686
 "Mini-Lyhr",100688
 "Vol nocturne : bronze",100690
@@ -65541,6 +65564,7 @@
 "Apparence de deltaplane d'émissaire infernal",100710
 "Grande arche de l'académie",100711
 "Recette : arc court de forge-tempête",100713
+"Hache de Saryx sinistre",100714
 "Focus de l'Œil de lynx valkyrien",100715
 "Recette : focus d'œil de tempête",100716
 "Mini-drone chak céleste",100717
@@ -65621,6 +65645,8 @@
 "Malle de Cérus",100858
 "Papier de verre élonien",100861
 "Recette : relique de la Citadelle",100865
+"Bâton de l'abomination enragé",100866
+"Focus de l'abomination enragé",100868
 "Recette : relique du Défenseur",100869
 "Épaulières intermédiaires des Chasseurs de brèches",100870
 "Sceptre d'œil de tempête",100874
@@ -65651,6 +65677,7 @@
 "Marteau de l'Œil de lynx valkyrien",100919
 "Lame éternelle",100920
 "Outil de minage glacial",100921
+"Pistolet de Saryx sinistre",100923
 "Relique du Sniper",100924
 "Grimoire d'emote \"/possession\"",100926
 "Conteneur de relique : survie",100927
@@ -65806,9 +65833,46 @@
 "Aqua-respirateur en tissu",101113
 "Fusil de la machine sinistre",101114
 "Épée de la machine sinistre",101115
+"Relique de Febe",101116
+"Gants lourds maudits",101119
+"",101121
+"Kit de démarrage d'arme légendaire : ensemble n° 2",101123
+"Apparence de hache sanctifiée noire",101135
+"Apparence de sceptre sanctifié noir",101136
+"Relique du Roi de minuit",101139
 "Mini-incarnation de la terreur",101140
+"Outil de minage exalté",101142
+"Apparence d'arc long sanctifié noir",101145
+"Licence d'adoption de monture des délices arcaniques",101147
+"Apparence de masse sanctifiée noire",101154
+"Apparence de marteau sanctifié noir",101164
+"Relique de la Reine des démons",101166
+"Malle magnifique de Dagda",101172
+"Coffre au choix de gants maudits",101178
+"Apparence de dague sanctifiée noire",101180
+"Apparence d'épée sanctifiée noire",101182
+"Apparence de torche sanctifiée noire",101188
+"Relique de Nourys",101191
+"Relique de Nayos",101198
+"Infusion de flux arcanique",101199
 "Note pour Arina",101201
+"Apparence de cape sanctifiée",101205
+"Apparence de fusil sanctifié noir",101217
+"Apparence de bâton sanctifié noir",101222
+"Apparence de cor de guerre sanctifié noir",101224
+"Boîte de sélection d'apparence d'arme sanctifiée noire",101227
+"Infusion de flux arcanique",101234
 "Sac de butin",101235
+"Sélection de licence pour monture des délices arcaniques",101238
+"Infusion de flux arcanique",101261
+"Apparence de pistolet sanctifié noir",101267
+"Relique de Karakosa",101268
+"Infusion jotun",101276
+"Infusion de flux arcanique",101279
+"Apparence de focus sanctifié noir",101281
 "Maîtrise des convergences",101282
+"Apparence d'espadon sanctifié noir",101285
+"Apparence de bouclier sanctifié noir",101287
 "Grand halètement calcifié",101297
 "Boîte d'arme abominable",101299
+"Apparence d'arc court sanctifié noir",101300
