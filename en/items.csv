@@ -5134,6 +5134,7 @@
 "Scale Helm",5476
 "Scale Legs",5477
 "Scale Pauldrons",5478
+"Pit Fighter Greaves",5479
 "Pit Fighter Chestguard",5480
 "Pit Fighter Wristguards",5481
 "Pit Fighter Helm",5482
@@ -5145,6 +5146,7 @@
 "Reinforced Scale Pauldrons",5490
 "Splint Greaves",5491
 "Splint Gauntlets",5493
+"Splint Legs",5495
 "Splint Pauldrons",5496
 "Banded Greaves",5497
 "Banded Coat",5498
@@ -5197,6 +5199,7 @@
 "Cabalist Hood",5554
 "Cabalist Legs",5555
 "Cabalist Shoulders",5556
+"Acolyte Gloves",5559
 "Acolyte Pants",5561
 "Conjurer Chest",5564
 "Conjurer Gloves",5565
@@ -23013,6 +23016,7 @@
 "Alpine Shield",31228
 "Alpine Short Bow",31229
 "Alpine Harpoonthrower",31230
+"Alpine Beacon",31233
 "Alpine Trident",31234
 "Alpine Warhorn",31235
 "Dwayna's Longbow",31236
@@ -23366,6 +23370,7 @@
 "Flame Rifle",31882
 "Flame Scepter",31883
 "Flame Harpoon Gun",31886
+"Flame Staff",31887
 "Flame Blade",31888
 "Flame Carrier",31889
 "Flame Warhorn",31891
@@ -23464,6 +23469,7 @@
 "Valley Harpoongun",32037
 "Valley Staff",32038
 "Valley Sword",32039
+"Valley Torch",32040
 "Valley Trident",32041
 "Vigil Axe",32043
 "Vigil Dagger",32044
@@ -23492,6 +23498,7 @@
 "Forest Bow",32071
 "Forest Mace",32072
 "Forest Pistol",32073
+"Forest Rifle",32074
 "Forest Scepter",32075
 "Forest Shield",32076
 "Forest Short Bow",32077

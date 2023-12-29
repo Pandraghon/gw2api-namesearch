@@ -5134,6 +5134,7 @@
 "Heaume en écailles",5476
 "Cuissardes en écailles",5477
 "Espauliers en écailles",5478
+"Grèves de lutteur",5479
 "Corselet de lutteur",5480
 "Garde-poignets de lutteur",5481
 "Heaume de lutteur",5482
@@ -5145,6 +5146,7 @@
 "Espauliers en écailles renforcés",5490
 "Grèves fendues",5491
 "Gantelets fendus",5493
+"Cuissardes fendues",5495
 "Espauliers fendus",5496
 "Grèves rubanées",5497
 "Manteau rubané",5498
@@ -5197,6 +5199,7 @@
 "Capuchon de cabaliste",5554
 "Cuissardes de cabaliste",5555
 "Epaulières de cabaliste",5556
+"Gants d'acolyte",5559
 "Pantalon d'acolyte",5561
 "Pansière de conjurateur",5564
 "Gants de conjurateur",5565
@@ -23013,6 +23016,7 @@
 "Bouclier alpin",31228
 "Ar court alpin",31229
 "Lanceur de harpons alpin",31230
+"Fanal alpin",31233
 "Trident alpin",31234
 "Cor de guerre alpin",31235
 "Arc long de Dwayna",31236
@@ -23366,6 +23370,7 @@
 "Fusil de feu",31882
 "Sceptre de feu",31883
 "Fusil-harpon de feu",31886
+"Bâton de feu",31887
 "Lame de feu",31888
 "Convoyeur de feu",31889
 "Cor de guerre de feu",31891
@@ -23464,6 +23469,7 @@
 "Fusil-harpon de vallée",32037
 "Bâton de vallée",32038
 "Epée de vallée",32039
+"Torche de vallée",32040
 "Trident de vallée",32041
 "Hache des Veilleurs",32043
 "Dague des Veilleurs",32044
@@ -23492,6 +23498,7 @@
 "Arc sylvestre",32071
 "Masse sylvestre",32072
 "Pistolet sylvestre",32073
+"Fusil sylvestre",32074
 "Sceptre sylvestre",32075
 "Bouclier sylvestre",32076
 "Arc court sylvestre",32077
