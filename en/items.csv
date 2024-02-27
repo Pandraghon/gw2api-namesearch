@@ -65475,6 +65475,7 @@
 "Astral Ward Light Coat",100504
 "Mini Zizel",100505
 "Astral Ward Door",100506
+"Arcanum of Astral Heartbeat",100509
 "Gift of Magical Prosperity",100512
 "Rift Hunter Medium Coat",100514
 "Recipe: Relic of Speed",100515
@@ -65600,6 +65601,7 @@
 "Shaman's Stormforged Rifle",100703
 "Astral Ward Light Shoulders",100704
 "Recipe: Relic of the Sunless",100705
+"Arcanum of Astral Thought",100706
 "Infernal Envoy Backpack Skin",100708
 "Mini Mabon",100709
 "Infernal Envoy Glider Skin",100710
@@ -66150,8 +66152,10 @@
 "Massive Calcified Gasp",101448
 "Necrotic Essence Short Bow Skin",101450
 "Necrotic Essence Axe Skin",101451
+"Mastery Point",101454
 "Solar Astrolabe Torch Skin",101457
 "Ancient Scroll of Astral Ward Weapons",101458
+"Obsidian Light Mantle",101462
 "Solar Astrolabe Hammer Skin",101463
 "Solar Astrolabe Warhorn Skin",101464
 "Skysage's Boots Skin",101469
@@ -66161,31 +66165,43 @@
 "Chest of the Obscure",101477
 "Weaponmaster Training Document",101481
 "Inner Nayos: Hero's Chest",101482
+"Recipe: Legendary Obsidian Armor",101483
 "Necrotic Essence Longbow Skin",101484
 "Solar Astrolabe Selection Box",101485
 "Solar Astrolabe Rifle Skin",101486
 "Fashionable Kilt Skin",101488
+"Obsidian Light Regalia",101499
+"Obsidian Light Pants",101501
 "Necrotic Essence Shield Skin",101507
 "Knaebelag's Fang",101510
 "Shattered Kryptis Carapace",101512
+"Obsidian Light Crown",101516
 "",101518
 "Gift of Relics",101519
 "Frenzied Cephalopod",101523
 "Cyberhowl Greatsword Skin",101529
 "Skysage's Helm Skin",101533
+"Obsidian Light Shoes",101535
+"Obsidian Light Gloves",101536
 "Solar Astrolabe Pistol Skin",101537
 "Mystic Facet",101540
 "Solar Astrolabe Scepter Skin",101543
+"Obsidian Heavy Helmet",101544
 "Ancient Scroll",101547
 "Necrotic Essence Mace Skin",101550
+"Obsidian Heavy Pauldrons",101551
 "Solar Astrolabe Greatsword Skin",101553
+"Obsidian Medium Jacket",101556
+"Nugget of Kryptis Essence",101558
 "Knaebelag's Hoard",101560
 "Necrotic Essence Pistol Skin",101561
 "Solar Astrolabe Sword Skin",101562
 "Solar Astrolabe Dagger Skin",101566
+"Obsidian Heavy Cuisses",101568
 "Cat Tree Chair",101574
 "Solar Astrolabe Longbow Skin",101576
 "Necrotic Essence Staff Skin",101578
+"Obsidian Medium Leggings",101579
 "Legendary Relic",101582
 "Necrotic Essence Torch Skin",101584
 "Solar Astrolabe Mace Skin",101591
@@ -66196,6 +66212,8 @@
 "Solar Astrolabe Shield Skin",101599
 "Necrotic Essence Greatsword Skin",101601
 "Reclaimed Bonds Mount Adoption License",101604
+"Obsidian Heavy Gauntlets",101609
+"Banner of the Bastion of Strength",101615
 "Mastery Point",101616
 "Leaf Glider",101617
 "Buried Angst",101622
