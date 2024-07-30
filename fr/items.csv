@@ -60689,6 +60689,7 @@
 "Vision bénie par le soleil",93931
 "Siège de lotus mystique",93932
 "Titre : Divinité du McM",93933
+"Arc court zéphyrite béni par le soleil",93934
 "Pistolet zéphyrite béni par le soleil",93935
 "Vision bénie par le soleil",93936
 "Boîte de succès d'anniversaire du dévouement",93937
@@ -60713,7 +60714,9 @@
 "Combo de sac à dos et deltaplane de chasseur des Cimefroides",93957
 "Coupon du festival",93958
 "Combo de deltaplane et sac à dos d'assaut de la citadelle",93959
+"Torche zéphyrite bénie par le soleil",93960
 "Kit de teintures norns",93961
+"Cor de guerre zéphyrite béni par le soleil",93962
 "Vision bénie par le soleil",93963
 "Vision bénie par le soleil",93964
 "Combo de sac à dos et deltaplane d'alchimiste",93965
@@ -66652,9 +66655,11 @@
 "Boîte d'aqua-respirateur à infuser",102094
 "Apparence de bracelet de plage",102095
 "Apparence de bouclier d'éventail déguisé",102097
+"Épée de Ventesable",102098
 "Torche de héros corrompu",102099
 "Cape magique",102100
 "Sceptre de héros corrompu",102101
+"Espadon de Ventesable",102102
 "Sceptre de héros corrompu",102103
 "Masse de héros corrompu",102104
 "Fusil de héros corrompu",102107
@@ -66663,7 +66668,11 @@
 "Masse de héros corrompu",102111
 "Marteau de héros corrompu",102112
 "Goutte d'expérience McM instantanée",102113
+"Cor de guerre de Ventesable",102114
+"Bouclier de Ventesable",102115
+"Torche de Ventesable",102116
 "Arc long tonitruant",102117
+"Marteau de Ventesable",102119
 "Preuve de gloire en argent",102121
 "Cor de guerre tonitruant",102122
 "Cor de guerre de héros corrompu",102123
@@ -66671,10 +66680,12 @@
 "Arc court de héros corrompu",102125
 "Combo de sac à dos et deltaplane à ailes foudroyantes",102126
 "Colonne de jardin krytien",102128
+"Mini-tortue marine",102129
 "Boîte de récompenses en monnaie de tournoi JcJ bronze",102130
 "Arc long de héros corrompu",102131
 "Apparence d'épée à rayonnement divin",102132
 "Marteau de héros corrompu",102133
+"Dague de Ventesable",102134
 "Cristal d'harmonisation de maître infusé des Brumes",102135
 "Bouclier de héros corrompu",102136
 "Épée de héros corrompu",102137
@@ -66682,10 +66693,12 @@
 "Espadon de héros corrompu",102139
 "Preuve de gloire en or",102140
 "Focus de héros corrompu",102141
+"Coffre de Ventesable",102142
 "Lance de héros corrompu",102144
 "Fusil de héros corrompu",102146
 "Hache de héros corrompu",102147
 "Torche de héros corrompu",102148
+"Arc long de Ventesable",102149
 "Combo de sac à dos et deltaplane en pierre brisée",102150
 "Arc long de héros corrompu",102151
 "Combo de sac à dos et deltaplane d'émissaire infernal",102152
@@ -66694,6 +66707,7 @@
 "Arc court de héros corrompu",102155
 "Focus de héros corrompu",102156
 "Combo de sac à dos et deltaplane d'éventail géant",102157
+"Hache de Ventesable",102158
 "Dague de héros corrompu",102159
 "Boîte de récompenses en monnaie de tournoi JcJ argent",102160
 "Apparence de canne à pêche du cœur de l'océan",102161
@@ -66701,13 +66715,17 @@
 "Dague de héros corrompu",102163
 "Catalyseur de jade infusé des Brumes",102164
 "Cor de guerre de héros corrompu",102166
+"Fusil de Ventesable",102168
 "Bâton de héros corrompu",102169
 "Coffre d'arme échangé du Bazar",102170
 "Pistolet de héros corrompu",102171
+"Grimoire d'emote \"/lancerpétale\"",102172
 "Combo de sac à dos et deltaplane de phénix canthien",102173
+"Coffre de croît-soleil de marchand",102175
 "Espadon de héros corrompu",102176
 "Épée de héros corrompu",102177
 "Lance de héros corrompu",102178
+"Lance de Ventesable",102179
 "Apparence de dracaille manticore",102180
 "Preuve de gloire en bronze",102181
 "Auvent de bazar élonien",102182
