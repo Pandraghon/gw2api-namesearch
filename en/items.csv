@@ -25136,6 +25136,7 @@
 "Aureate Warhammer of Corruption",34063
 "Aureate Warhammer of Energy",34064
 "Aureate Warhammer of Air",34065
+"Aureate Spear of Water",34066
 "Aureate Spear of Corruption",34067
 "Aureate Spear of Energy",34068
 "Aureate Spear of Air",34069
@@ -30613,6 +30614,10 @@
 "Potent Master Tuning Crystal",43449
 "Potent Master Maintenance Oil",43450
 "Potent Superior Sharpening Stone",43451
+"Potent Simple Sharpening Stone",43463
+"Potent Standard Sharpening Stone",43464
+"Potent Quality Sharpening Stone",43465
+"Potent Hardened Sharpening Stone",43466
 "Recipe: Potent Master Maintenance Oil",43482
 "Recipe: Potent Superior Sharpening Stones",43483
 "Recipe: Potent Master Tuning Crystals",43484
@@ -32878,6 +32883,7 @@
 "Sam",46467
 "All Seeing",46468
 "Plush Moto Backpack Cover",46492
+"Plush Moto Backpack Cover",46493
 "Mini Super Banana",46494
 "Mini Super Raccoon",46495
 "Mini Super Yeti",46496
@@ -62370,6 +62376,7 @@
 "Red Crane Rifle Skin",95953
 "Ritualist's Ancient Ritualist Gloves",95954
 "Chest of Fish",95956
+"Starter Kit: Twilight",95957
 "Exquisite Polished-Resin Jewel",95958
 "Recipe: Ancient Tahkayun Leggings",95959
 "Krytan Crawfish",95961
@@ -64153,6 +64160,7 @@
 "Windswept Mace",98371
 "Zephyrite Shawl",98372
 "Dragon Decade Shield Skin",98385
+"Birthday Gift",98397
 "Anniversary Achievement Box",98424
 "Watchwork Mace",98427
 "Water Dragon Greaves Skin",98430
@@ -65712,6 +65720,7 @@
 "Shaman's Stormforged Longbow",100805
 "Possession Infusion",100806
 "Vermilion Mining Tool",100809
+"Sorrow's Claw",100816
 "Valkyrie Eagle Eye Short Bow",100817
 "Wizard's Tower Trial: Bronze",100819
 "Recipe: Relic of the Krait",100821
@@ -66559,19 +66568,25 @@
 "",101959
 "Skyscale Longbow Skin",101960
 "Wayfinder's Versatile Table",101961
+"Berserker's Serpent's Wrath Short Bow",101962
+"Berserker's Serpent's Wrath Pistol",101963
 "Bonfire Axe",101964
 "Serpent's Wrath Focus Skin",101966
 "Disguised Umbrella Sword Skin",101967
+"Berserker's Serpent's Wrath Rifle",101968
 "Sacred Crystal Warhorn",101969
 "Chromatic Assassin Short Bow Skin",101970
 "Sacred Crystal Torch",101971
 "Chromatic Assassin Greatsword Skin",101972
+"Berserker's Serpent's Wrath Dagger",101973
 "Sacred Crystal Sword",101974
 "Unbound Magic Harvesting Blast",101975
+"Berserker's Serpent's Wrath Warhorn",101976
 "Sacred Crystal Short Bow",101977
 "Serpent's Wrath Hammer Skin",101978
 "Chromatic Assassin Rifle Skin",101979
 "Chromatic Assassin Pistol Skin",101980
+"Berserker's Serpent's Wrath Shield",101981
 "Sacred Crystal Spear",101982
 "Luxury Speeder Skiff Skin",101983
 "Chromatic Assassin Hammer Skin",101984
@@ -66579,18 +66594,31 @@
 "Chromatic Assassin Mace Skin",101986
 "Eldritch Horror Logging Tool",101987
 "Serpent's Wrath Rifle Skin",101988
+"Volatile Magic Mining Tool",101989
+"Herald of Aurene Harvesting Tool",101990
 "Sacred Crystal Rifle",101991
+"Volatile Magic Logging Tool",101992
 "Commander's Holographic Dragon Cuisses",101993
+"Berserker's Serpent's Wrath Mace",101994
+"Berserker's Serpent's Wrath Scepter",101995
+"Berserker's Serpent's Wrath Spear",101996
+"Berserker's Serpent's Wrath Greatsword",101997
 "Chromatic Assassin Warhorn Skin",101998
 "Serpent's Wrath Sword Skin",101999
 "Eldritch Horror Harvesting Tool",102000
 "Striated Caprine Warclaw Skin",102001
 "Trader's Dragonrender Chest",102002
+"Berserker's Serpent's Wrath Longbow",102003
 "Charged Caprine Warclaw Skin",102005
+"Volatile Magic Harvesting Tool",102006
+"Spirit of Bear Mining Tool",102007
+"Spirit of Wolf Logging Tool",102008
 "Commander's Holographic Dragon Cuisses",102009
 "Serpent's Wrath Pistol Skin",102010
+"Berserker's Serpent's Wrath Hammer",102011
 "Sacred Crystal Scepter",102012
 "Chromatic Assassin Spear Skin",102013
+"Berserker's Serpent's Wrath Staff",102014
 "Serpent's Wrath Weapon Skin Choice Box",102015
 "Dragon Bash Weapon Chest",102016
 "Chromatic Assassin Longbow Skin",102017
@@ -66599,26 +66627,33 @@
 "Serpent's Wrath Scepter Skin",102020
 "Serpent's Wrath Axe Skin",102021
 "Sacred Crystal Pistol",102022
+"Berserker's Serpent's Wrath Torch",102023
+"Berserker's Serpent's Wrath Sword",102024
 "Holographic Dragon Cuisses",102025
 "Chromatic Assassin Focus Skin",102026
 "Flowing Scaled Cape",102027
 "Chromatic Assassin Sword Skin",102028
 "Serpent's Wrath Staff Skin",102030
 "Eldritch Horror Mining Tool",102031
+"Herald of Aurene Mining Tool",102032
 "Wrought Iron Dragon Statue",102033
 "Chromatic Assassin Torch Skin",102034
 "Wrought Iron Dragon Tail",102035
 "Sacred Crystal Chest",102036
 "Bonfire Longbow",102037
 "Serpent's Wrath Dagger Skin",102038
+"Berserker's Serpent's Wrath Focus",102039
 "Wrought Iron Dragon Body",102040
 "Chromatic Assassin Dagger Skin",102041
 "Serpent's Wrath Shield Skin",102042
 "Sacred Crystal Hammer",102043
 "Serpent's Wrath Mace Skin",102044
 "Commander's Holographic Dragon Cuisses",102045
+"Spirit of Raven Harvesting Tool",102046
 "Mini Mystical Blue Orb",102047
 "Sacred Crystal Shield",102048
+"Herald of Aurene Logging Tool",102049
+"Berserker's Serpent's Wrath Axe",102050
 "Serpent's Wrath Warhorn Skin",102051
 "Sacred Crystal Greatsword",102052
 "Serpent's Wrath Greatsword Skin",102053
@@ -66746,3 +66781,168 @@
 "Corrupted Hero Pistol",102184
 "Corrupted Hero Weapon Locker",102185
 "Beach House Spiral Stairs",102186
+"Recipe: Bronze Mordremoth Trophy",102187
+"Recipe: Titanplate Heavy Pauldrons",102188
+"Homestead Upgrade: Wood Trade Capacity",102196
+"Relic of the Blightbringer",102199
+"Recipe: Bronze Sabetha Trophy",102201
+"Magi's Full Moon Short Bow",102203
+"Refined Homestead Metal",102205
+"Homestead Recipe Book: Misc. Items, Volume 2",102207
+"Void Corrupted Spear Skin",102208
+"Mini Stoic Alder",102211
+"Warclaw Treat",102213
+"Magi's Full Moon Dagger",102216
+"Glyph of the Leatherworker",102220
+"Wayfinder's Versatile Table Decoration",102230
+"",102231
+"Janthir Wilds Kodan Loot Box",102236
+"Recipe: Titanplate Light Regalia",102241
+"Honeycomb",102244
+"Relic of Atrocity",102245
+"Titanplate Medium Mask",102247
+"Minor Kodan Cache",102250
+"Void Corrupted Mace Skin",102253
+"Rotted Titan Amber",102255
+"Endless Janthiri Floppy Fish Tonic",102256
+"Glyph of the Watchknight",102259
+"Janthir Wilds: Hero's Choice Chest",102265
+"Onyx Spider's Selection Box",102269
+"Lowland Shore Adventure: Silver",102273
+"Magi's Full Moon Greatsword",102276
+"Titanplate Light Gloves",102278
+"Recipe: Basic Pedestal",102281
+"Janthiri Gear Box",102283
+"Recipe: Bronze Xera Trophy",102284
+"Borrowed Bait",102292
+"Mini Mr. Ribbington",102293
+"Lowland Shore Adventure: Gold",102301
+"Meteor-Wielder's Glove",102303
+"Homestead Upgrade: Fiber Trade Capacity",102304
+"Refined Homestead Fiber",102306
+"Recipe: Bronze Cardinal Sabir Trophy",102311
+"Void Corrupted Warhorn Skin",102315
+"Recipe: Bronze White Mantle Abomination Trophy",102323
+"Glyph of Volatility",102327
+"Recipe: Bronze Ether Djinn Trophy",102333
+"Onyx Spider's Scepter Skin",102336
+"Titanplate Medium Gloves",102340
+"Precious Lowland Shore Gear Box",102346
+"Onyx Spider's Longbow Skin",102348
+"Homestead Upgrade: Wood Trade Capacity",102351
+"Glyph of Alchemy",102352
+"Janthir Syntri Adventure: Gold",102357
+"Endless Warclaw Kitten Tonic",102362
+"Lowland Kodan Expertise",102370
+"Polychromatic Medium Gloves",102373
+"Janthir Wilds Greer Loot Box",102377
+"Glyph of the Forester",102378
+"Glyph of the Crucible",102382
+"Janthir Wilds Launch Supply Drop Requisition",102383
+"Polychromatic Glove Box",102387
+"Titanplate Light Regalia",102389
+"Lowland Shore Strongbox",102391
+"Onyx Spider's Mace Skin",102392
+"Wayfinder's Versatile Table Recipe",102393
+"Recipe: Bronze Desmina Trophy",102399
+"Woad Heavy Coat",102412
+"Homestead Upgrade: Ore Trade Efficiency",102415
+"Homestead Upgrade: Ore Trade Efficiency",102416
+"Titanplate Boots Recipe Book",102417
+"Fish Bone Whistle",102420
+"Void Corrupted Pistol Skin",102421
+"Homestead Recipe Book: Elonian Architecture",102423
+"Dredge Heat-Ablation Plates",102424
+"Titanplate Light Crown",102427
+"Lesser Kodan Cache",102430
+"Mouse-Eared Octopus",102437
+"Polychromatic Heavy Gauntlets",102439
+"Polychromatic Coat Box",102443
+"",102446
+"Magi's Ursan Ornamented Pistol",102449
+"Homestead Recipe Book: Tables",102450
+"Lowland Grunt",102451
+"Void Corrupted Hammer Skin",102452
+"Onyx Spider's Staff Skin",102457
+"Onyx Spider's Axe Skin",102458
+"Prismatic Spear",102459
+"Homestead Recipe Book: Statues",102461
+"Glyph of the Scavenger",102462
+"Titanplate Light Pants",102464
+"Lowland Shore Adventure: Bronze",102465
+"Green Rock",102466
+"Neutralized Titan Alloy",102467
+"Janthir Hoard",102468
+"Yellow Rock",102470
+"Recipe: Titanplate Medium Jacket",102472
+"Magi's Ursan Ornamented Scepter",102473
+"Eldritch Horror Logging Tool Container",102477
+"Recipe: Titanplate Heavy Breastplate",102482
+"Void Corrupted Axe Skin",102486
+"Recipe: Bronze Triple Trouble Trophy",102492
+"Curious Mursaat Currency",102494
+"Recipe: Bronze Vale Guardian Trophy",102495
+"Polychromatic Light Pants",102497
+"Homestead Upgrade: Ore Trade Capacity",102500
+"Lowland Pine Log",102503
+"Woad Medium Coat",102504
+"Heat Core Infusion",102508
+"Magi's Full Moon Torch",102510
+"Janthir Wilds Warclaw Skin",102512
+"Ornamented Bearkin Claw",102516
+"Skysteel Chair",102519
+"Mohawk Bream",102523
+"Mastery Point",102524
+"Glyph of the Herbalist",102528
+"Glyph of Virtue",102529
+"Onyx Spider's Shield Skin",102533
+"Shred of Janthir Wilds Mastery",102535
+"Mythical Kodan Cache",102536
+"Homestead Upgrade: Wood Trade Efficiency",102537
+"Recipe: Titanplate Light Gloves",102543
+"Titanplate Leggings Recipe Book",102544
+"Brown Rock",102545
+"Homestead Recipe Book: Solid Ocean Fractal",102549
+"Polychromatic Heavy Greaves",102557
+"Honey Flower",102558
+"Woad Heavy Shoulders",102561
+"Recipe: Titanplate Light Cowl",102563
+"Glyph of Alchemy",102567
+"Polychromatic Light Crown",102568
+"Recipe: Bronze Qadim Trophy",102575
+"Homestead Upgrade: Wood Trade Capacity",102576
+"Titanplate Light Mantle",102578
+"Janthir Wilds Decima Loot Box",102579
+"Red Rock",102580
+"Eldritch Horror Mining Tool Container",102583
+"Homestead Recipe Book: Cushions",102585
+"Honeycomb-Covered Gear Bag",102592
+"Woad Heavy Boots",102594
+"Relic of the Stormsinger",102595
+"Longhorn Boxfish",102600
+"Pink Rock",102601
+"Glyph of the Prospector",102603
+"Homestead Upgrade: Wood Trade Capacity",102604
+"Titanplate Medium Leggings",102609
+"Glyph of Virtue",102613
+"Void Corrupted Longbow Skin",102614
+"Glyph of the Forester",102624
+"Void Corrupted Scepter Skin",102627
+"Onyx Spider's Rifle Skin",102629
+"Wildflowers",102632
+"Skysteel Glider",102635
+"Titanplate Heavy Greaves",102638
+"Magi's Ursan Ornamented Warhorn",102639
+"Magi's Ursan Ornamented Torch",102643
+"Janthir Wilds Gear Box",102645
+"Borrowed Fishing Lure",102647
+"Homestead Recipe Book: Guild Arena",102649
+"Eldritch Horror Harvesting Tool Container",102651
+"Janthir Syntri Strongbox",102652
+"Homestead Upgrade: Ore Trade Capacity",102653
+"Secret Missive",102656
+"Crystalline Diode",102663
+"Recipe: Titanplate Medium Mask",102665
+"Recipe: Bronze Samarog Trophy",102666
+"Indigo Drakefish",102667
+"Magi's Full Moon Mace",102672

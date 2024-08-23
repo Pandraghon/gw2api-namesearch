@@ -25136,6 +25136,7 @@
 "Marteau de guerre chamarré de corruption",34063
 "Marteau de guerre chamarré d'énergie",34064
 "Marteau de guerre chamarré d'air",34065
+"Lance chamarrée d'eau",34066
 "Lance chamarrée de corruption",34067
 "Lance chamarrée d'énergie",34068
 "Lance chamarrée d'air",34069
@@ -30613,6 +30614,10 @@
 "Cristal d'harmonisation de maître absolu",43449
 "Huile de maintenance de maître absolue",43450
 "Pierre à affûter supérieure absolue",43451
+"Pierre à affûter simple absolue",43463
+"Pierre à affûter ordinaire absolue",43464
+"Pierre à affûter de qualité absolue",43465
+"Pierre à affûter durcie absolue",43466
 "Recette : huiles de maintenance de maître absolues",43482
 "Recette : pierres à affûter supérieure absolues",43483
 "Recette : cristaux d'harmonisation de maître absolus",43484
@@ -32878,6 +32883,7 @@
 "Sam",46467
 "Omnivision",46468
 "Couvre-sac à dos de Moto en peluche",46492
+"Couvre-sac à dos de Moto en peluche",46493
 "Mini-super banane",46494
 "Mini-super raton laveur",46495
 "Mini-super yéti",46496
@@ -62370,6 +62376,7 @@
 "Apparence de fusil de la grue rouge",95953
 "Gants d'ancien ritualiste ritualiste",95954
 "Coffre de poisson",95956
+"Kit de démarrage : Crépuscule",95957
 "Bijou exquis en résine polie",95958
 "Recette : jambières d'ancienne Tahkayun",95959
 "Écrevisse de Kryte",95961
@@ -64153,6 +64160,7 @@
 "Masse de Chassevent",98371
 "Châle zéphyrite",98372
 "Apparence de bouclier de la décennie des dragons",98385
+"Cadeau d'anniversaire",98397
 "Boîte de succès d'anniversaire",98424
 "Masse mécanique",98427
 "Apparence de grèves du dragon des abîmes",98430
@@ -65712,6 +65720,7 @@
 "Arc long de forge-tempête chamanique",100805
 "Infusion de possession",100806
 "Outil de minage vermillon",100809
+"Griffe de Brumaille",100816
 "Arc court de l'Œil de lynx valkyrien",100817
 "Épreuve de la Tour du sorcier : bronze",100819
 "Recette : relique de Krait",100821
@@ -66560,19 +66569,25 @@
 "",101959
 "Apparence d'arc court de dracaille",101960
 "Table polyvalente de Guide",101961
+"Arc court de colère serpentine berserker",101962
+"Pistolet de colère serpentine berserker",101963
 "Hache de feu de joie",101964
 "Apparence de focus de colère serpentine",101966
 "Apparence d'épée parapluie déguisé",101967
+"Fusil de colère serpentine berserker",101968
 "Cor de guerre du cristal sacré",101969
 "Apparence d'arc court d'assassin chromatique",101970
 "Torche du cristal sacré",101971
 "Apparence d'espadon d'assassin chromatique",101972
+"Dague de colère serpentine berserker",101973
 "Épée du cristal sacré",101974
 "Explosion de moissonnage de magie déliée",101975
+"Cor de guerre de colère serpentine berserker",101976
 "Arc court du cristal sacré",101977
 "Apparence de marteau de colère serpentine",101978
 "Apparence de fusil d'assassin chromatique",101979
 "Apparence de pistolet d'assassin chromatique",101980
+"Bouclier de colère serpentine berserker",101981
 "Lance du cristal sacré",101982
 "Apparence d'esquif hors-bord de luxe",101983
 "Apparence de marteau d'assassin chromatique",101984
@@ -66580,18 +66595,31 @@
 "Apparence de masse d'assassin chromatique",101986
 "Outil de bûcheron d'horreur surnaturelle",101987
 "Apparence de fusil de colère serpentine",101988
+"Outil de minage de magie volatile",101989
+"Outil de récolte de héraut d'Aurene",101990
 "Fusil du cristal sacré",101991
+"Outil de bûcheron de magie volatile",101992
 "Cuissières de dragon holographique commandant",101993
+"Masse de colère serpentine berserker",101994
+"Sceptre de colère serpentine berserker",101995
+"Lance de colère serpentine berserker",101996
+"Espadon de colère serpentine berserker",101997
 "Apparence de cor de guerre d'assassin chromatique",101998
 "Apparence d'épée de colère serpentine",101999
 "Outil de moissonnage d'horreur surnaturelle",102000
 "Apparence de razziafelis caprin strié",102001
 "Coffre d'Apaizdragon de marchand",102002
+"Arc long de colère serpentine berserker",102003
 "Apparence de razziafelis caprin chargé",102005
+"Outil de moissonnage de magie volatile",102006
+"Outil de minage de l'esprit de l'Ourse",102007
+"Outil de bûcheron de l'esprit du Loup",102008
 "Cuissières de dragon holographique commandant",102009
 "Apparence de pistolet de colère serpentine",102010
+"Marteau de colère serpentine berserker",102011
 "Sceptre du cristal sacré",102012
 "Apparence de lance d'assassin chromatique",102013
+"Bâton de colère serpentine berserker",102014
 "Boîte de choix d'apparence d'arme de colère serpentine",102015
 "Coffre d'arme de la Foire du Dragon",102016
 "Apparence d'arc long d'assassin chromatique",102017
@@ -66600,26 +66628,33 @@
 "Apparence de sceptre de colère serpentine",102020
 "Apparence de hache de colère serpentine",102021
 "Pistolet du cristal sacré",102022
+"Torche de colère serpentine berserker",102023
+"Épée de colère serpentine berserker",102024
 "Cuissières de dragon holographique",102025
 "Apparence de focus d'assassin chromatique",102026
 "Cape fluide en écailles",102027
 "Apparence d'épée d'assassin chromatique",102028
 "Apparence de bâton de colère serpentine",102030
 "Outil de minage d'horreur surnaturelle",102031
+"Outil de minage de héraut d'Aurene",102032
 "Statue de dragon en fer forgé",102033
 "Apparence de torche d'assassin chromatique",102034
 "Queue de dragon en fer forgé",102035
 "Coffre du cristal sacré",102036
 "Arc long de feu de joie",102037
 "Apparence de dague de colère serpentine",102038
+"Focus de colère serpentine berserker",102039
 "Corps de dragon en fer forgé",102040
 "Apparence de dague d'assassin chromatique",102041
 "Apparence de bouclier de colère serpentine",102042
 "Marteau du cristal sacré",102043
 "Apparence de masse de colère serpentine",102044
 "Cuissières de dragon holographique commandant",102045
+"Outil de moissonnage de l'esprit du Corbeau",102046
 "Mini-orbe bleu mystique",102047
 "Bouclier du cristal sacré",102048
+"Outil de bûcheron de héraut d'Aurene",102049
+"Hache de colère serpentine berserker",102050
 "Apparence de cor de guerre de colère serpentine",102051
 "Espadon du cristal sacré",102052
 "Apparence d'espadon de colère serpentine",102053
@@ -66747,3 +66782,168 @@
 "Pistolet de héros corrompu",102184
 "Casier d'arme de héros corrompu",102185
 "Escalier en colimaçon de maison de plage",102186
+"Recette : trophée de bronze de Mordremoth",102187
+"Recette : épaulières lourdes de plates de Titan",102188
+"Amélioration de pavillon : capacité d'échange de bois",102196
+"Relique du porte-fléau",102199
+"Recette : trophée de bronze de Sabetha",102201
+"Arc court de la pleine lune mage",102203
+"Métal de pavillon raffiné",102205
+"Livre de recettes pour pavillon : divers objets, volume 2",102207
+"Apparence de lance corrompue par le vide",102208
+"Miniature d'Aulne stoïque",102211
+"Friandise pour razziafelis",102213
+"Dague de la pleine lune mage",102216
+"Glyphe du travailleur du cuir",102220
+"Décoration de table versatile de Guide",102230
+"",102231
+"Boîte de butin de Kodan des Terres sauvages de Janthir",102236
+"Recette : parure légère de plates de Titan",102241
+"Rayon de miel",102244
+"Relique d'atrocité",102245
+"Masque intermédiaire en plaques de Titans",102247
+"Cache kodan mineure",102250
+"Apparence de masse corrompue par le vide",102253
+"Ambre de Titan putrescent",102255
+"Tonique de poisson flapi inépuisable de Janthir",102256
+"Glyphe du factionnaire mécanique",102259
+"Terres sauvages de Janthir : coffres au choix du Héros",102265
+"Boîte de sélection de l'araignée d'onyx",102269
+"Aventure de la Côte des basses terres : argent",102273
+"Espadon de la pleine lune mage",102276
+"Gants légers en plaques de Titans",102278
+"Recette : piédestal basique",102281
+"Boîte d'équipement de Janthir",102283
+"Recette : trophée de bronze de Xera",102284
+"Appât emprunté",102292
+"Miniature de Monsieur Coâ",102293
+"Aventure de la Côte des basses terres : or",102301
+"Gant de porte-météore",102303
+"Amélioration de pavillon : capacité d'échange de fibres",102304
+"Fibre de pavillon raffinée",102306
+"Recette : trophée de bronze du cardinal Sabir",102311
+"Apparence de cor de guerre corrompu par le vide",102315
+"Recette : trophée de bronze d'abomination du Blanc-Manteau",102323
+"Glyphe de volatilité",102327
+"Recette : trophée de bronze de djinn éthéré",102333
+"Apparence de sceptre de l'araignée d'onyx",102336
+"Gants intermédiaires en plaques de Titans",102340
+"Boîte d'équipement précieux de la Côte des basses terres",102346
+"Apparence d'arc long de l'araignée d'onyx",102348
+"Amélioration de pavillon : capacité d'échange de bois",102351
+"Glyphe d'alchimie",102352
+"Aventure de la Syntri de Janthir : or",102357
+"Tonique de jeune razziafelis inépuisable",102362
+"Expertise des Kodans des basses terres",102370
+"Gants intermédiaires polychromes",102373
+"Boîte de butin de Greer des Terres sauvages de Janthir",102377
+"Glyphe du forestier",102378
+"Glyphe du creuset",102382
+"Demande de livraison de ravitaillement pour la sortie de \"Janthir Wilds\"",102383
+"Boîte de gants polychromes",102387
+"Tenue régalienne légère en plaques de Titans",102389
+"Coffre-fort de la Côte des basses terres",102391
+"Apparence de masse de l'araignée d'onyx",102392
+"Recette : table versatile de Guide",102393
+"Recette : trophée de bronze de Desmina",102399
+"Manteau lourd pastel",102412
+"Amélioration de pavillon : rendement d'échange de minerai",102415
+"Amélioration de pavillon : rendement d'échange de minerai",102416
+"Livre de recettes de bottes de plates de Titan",102417
+"Sifflet en arête de poisson",102420
+"Apparence de pistolet corrompu par le vide",102421
+"Livre de recettes pour pavillon : architecture élonienne",102423
+"Plates d'ablation thermique draguerres",102424
+"Couronne légère en plaques de Titans",102427
+"Cache kodan inférieure",102430
+"Pieuvre à oreilles de souris",102437
+"Gantelets lourds polychromes",102439
+"Boîte de manteau polychrome",102443
+"",102446
+"Pistolet ornementé ursin mage",102449
+"Livre de recettes pour pavillon : tables",102450
+"Gorette des basses terres",102451
+"Apparence de marteau corrompu par le vide",102452
+"Apparence de bâton de l'araignée d'onyx",102457
+"Apparence de hache de l'araignée d'onyx",102458
+"Lance prismatique",102459
+"Livre de recettes pour pavillon : statues",102461
+"Glyphe du récupérateur",102462
+"Pantalon léger en plaques de Titans",102464
+"Aventure de la Côte des basses terres : bronze",102465
+"Pierre verte",102466
+"Alliage de Titan neutralisé",102467
+"Trésor de Janthir",102468
+"Pierre jaune",102470
+"Recette : veste intermédiaire de plates de Titan",102472
+"Sceptre ornementé ursin mage",102473
+"Boîte à outil de bûcheron d'horreur surnaturelle",102477
+"Recette : plastron lourd de plates de Titan",102482
+"Apparence de hache corrompue par le vide",102486
+"Recette : trophée de bronze de Triple terreur",102492
+"Monnaie mursaat étrange",102494
+"Recette : trophée de bronze du Gardien de la Vallée",102495
+"Pantalon léger polychrome",102497
+"Amélioration de pavillon : capacité d'échange de minerai",102500
+"Rondin de pin des basses terres",102503
+"Manteau intermédiaire pastel",102504
+"Infusion de noyau chauffé",102508
+"Torche de la pleine lune mage",102510
+"Apparence de razziafelis des Terres sauvages de Janthir",102512
+"Griffe de Kodan ornementée",102516
+"Siège en aciel",102519
+"Brème à crête",102523
+"Point de maîtrise",102524
+"Glyphe de l'herboriste",102528
+"Glyphe de vertu",102529
+"Apparence de bouclier de l'araignée d'onyx",102533
+"Lambeau de maîtrise de \"Janthir Wilds\"",102535
+"Cache kodan mythique",102536
+"Amélioration de pavillon : rendement d'échange de bois",102537
+"Recette : gants légers de plates de Titan",102543
+"Livre de recettes de jambières de plates de Titan",102544
+"Pierre marron",102545
+"Livre de recettes pour pavillon : fractale de l'océan solide",102549
+"Grèves lourdes polychromes",102557
+"Fleur de miel",102558
+"Épaulières lourdes pastel",102561
+"Recette : capuche légère de plates de Titan",102563
+"Glyphe d'alchimie",102567
+"Couronne légère polychrome",102568
+"Recette : trophée de bronze de Qadim",102575
+"Amélioration de pavillon : capacité d'échange de bois",102576
+"Houppelande légère en plaques de Titans",102578
+"Boîte de butin de Decima des Terres sauvages de Janthir",102579
+"Pierre rouge",102580
+"Boîte à outil de minage d'horreur surnaturelle",102583
+"Livre de recettes pour pavillon : coussins",102585
+"Sac d'équipement couvert de rayons de miel",102592
+"Bottes lourdes pastel",102594
+"Relique de l'antienne de la tempête",102595
+"Poisson-coffre à cornes longues",102600
+"Pierre rose",102601
+"Glyphe du prospecteur",102603
+"Amélioration de pavillon : capacité d'échange de bois",102604
+"Jambières intermédiaires en plaques de Titans",102609
+"Glyphe de vertu",102613
+"Apparence d'arc long corrompu par le vide",102614
+"Glyphe du forestier",102624
+"Apparence de sceptre corrompu par le vide",102627
+"Apparence de fusil de l'araignée d'onyx",102629
+"Fleurs sauvages",102632
+"Deltaplane en aciel",102635
+"Grèves lourdes en plaques de Titans",102638
+"Cor de guerre ornementé ursin mage",102639
+"Torche ornementée ursine mage",102643
+"Boîte d'équipement des Terres sauvages de Janthir",102645
+"Leurre de pêche emprunté",102647
+"Livre de recettes pour pavillon : arène de guilde",102649
+"Boîte à outil de moissonnage d'horreur surnaturelle",102651
+"Coffre-fort de la Syntri de Janthir",102652
+"Amélioration de pavillon : capacité d'échange de minerai",102653
+"Missive secrète",102656
+"Diode cristalline",102663
+"Recette : masque intermédiaire de plates de Titan",102665
+"Recette : trophée de bronze de Samarog",102666
+"Poisson-drake indigo",102667
+"Masse de la pleine lune mage",102672
