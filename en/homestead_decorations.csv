@@ -1,5 +1,6 @@
 "Wagon",2
 "Partial Disciplines Research Commemorative Statue",4
+"Spooky Dining Table",6
 "Red Cushion",7
 "Obstacle: Knockback Turret",14
 "Kodan Hero Statue",21
@@ -12,18 +13,22 @@
 "Kodan Cottage Wall",35
 "Potted Gold Fern",36
 "Obstacle: White Torch",37
+"Seance Candle",40
 "Kodan Feast",42
 "Raven Spirit Statue",45
 "Lattice Planter with Blue Petunias",46
+"Pumpkin Lanterns",48
 "Fancy Chair",52
 "Arrow Cart Siege",55
 "Potted Maguuma Lily (Double Bloom)",57
 "Obstacle: Vortex Trap",59
 "Blue Pirate Flag",61
+"Skewed Stairway (Left)",62
 "Potted Tree",63
 "Thin Candlestick",65
 "Bronze Gorseval Trophy",68
 "Kodan Woodsy Cabinet",70
+"Pot of Chrysanthemums",71
 "Broken Mast Pole",74
 "Weathered Elonian Column",79
 "Typical Drizzlewood Coast Tree",83
@@ -33,7 +38,9 @@
 "Wave of the Solid Ocean",93
 "Slab of the Solid Ocean",94
 "Basic Pedestal",99
+"Mad Moon",100
 "Spire of the Solid Ocean",101
+"Primordial Leviathan Rib Cage",104
 "Trebuchet Siege",108
 "Loaded Wagon",111
 "Bronze Triple Trouble Trophy",112
@@ -51,12 +58,15 @@
 "Guild Catapult Siege",136
 "Sandstone Pillar",140
 "Kodan Woodsy Trunk",143
+"Skewed Stairway (Right)",144
+"Ominous Fortress Wall: Corrupted",147
 "Djinn Launching Device",148
 "Signal Lantern",149
 "Empty Square Planter",150
 "Mushroom",152
 "Potted Broad Paddlefrond",153
 "Kodan Writing Desk",154
+"Primordial Leviathan Rib Cage: Curved",156
 "Comprehensive Disciplines Research Commemorative Statue",158
 "Effervescent Pod",162
 "Elonian Teapot",164
@@ -65,10 +75,12 @@
 "Potted Fan Palm",169
 "Basic Commemorative Statue",171
 "Mists Drake Statue",173
+"Clock Tower's Broken Beam",176
 "Obstacle: Lava Floor",179
 "Tea Set",184
 "Square Candlestick",185
 "Basic Signpost",186
+"Ghostly Dining Table",187
 "Squat Thorny Mushroom",188
 "Elonian Wood Chair",190
 "Potted Maguuma Lily",191
@@ -77,10 +89,12 @@
 "Bonfire",197
 "Obstacle: Purple Torch",198
 "Bronze Conjured Amalgamate Trophy",200
+"Jack-o'-Lantern",201
 "Kodan Decorative Wardrobe",202
 "Guild Ballista Siege",211
 "Steel Pan",213
 "Floral Canthan Rug",215
+"Primordial Leviathan Rib Cage: Right Curved",222
 "Kodan Table Setting",224
 "Kodan Fancy Bed",225
 "Red Throw Pillow",226
@@ -98,9 +112,11 @@
 "Marriner Statue",249
 "Kodan Painting",250
 "Basic Flagpole",251
+"Clock Tower Gear",254
 "Broken Square Pillar",264
 "Obstacle: Tall Wall",267
 "Ceramic Planter",269
+"Hanging Tree",272
 "Red Bowl",275
 "Red Bowl of Food",276
 "Streets of Divinity's Reach",278
@@ -120,6 +136,7 @@
 "Canthan Condiments",309
 "Kodan Crystal Candle",312
 "Kodan Heritage Chest",315
+"Reaching Twisted Tree",316
 "Bronze Cardinal Adina Trophy",320
 "Catapult Siege",321
 "Basic Table",325
@@ -129,6 +146,7 @@
 "Bronze Mordremoth Trophy",333
 "Elonian Hawk Statue",340
 "Block Topiary",341
+"Haunted Armchair",345
 "Armor Stand",350
 "Potted Lady Palm",357
 "Majority Disciplines Research Commemorative Statue",359
@@ -138,6 +156,7 @@
 "Pumpkin",367
 "Massive Balloon Bouquet",369
 "Festival Tent",371
+"Spider's Web Floor",373
 "Wayfinder's Versatile Table",375
 "Basic Shrub",376
 "Broken Sandstone Pillar",377
@@ -154,12 +173,14 @@
 "Small Elonian Planter",404
 "Potted Palm",405
 "Charr Statue",406
+"Ephemeral Spider's Web Wall",414
 "Kodan Timber Stool",419
 "Guild Arrow Cart Siege",423
 "Guild Trebuchet Siege",424
 "Guild Stool",427
 "Keg",429
 "Well",431
+"Raptor Rental Post",434
 "Kodan Woodsy Cabinet (Tall)",436
 "Guild Barstool",440
 "Green Balloon",445
@@ -172,8 +193,11 @@
 "Basic Grave Marker",455
 "Gilded Banner",457
 "Plush Rug",471
+"Visage of Madness",472
 "Bronze Deimos Trophy",482
 "Kodan Decorative Torch",483
+"Demon Statue",485
+"Bundle of Corn Stalks",487
 "Red Pirate Flag",490
 "Basic Bookshelf",491
 "Bronze Vale Guardian Trophy",492
@@ -192,12 +216,16 @@
 "Basic Planter",529
 "Tranquil Birdbath",530
 "Flame Ram Siege",531
+"Ghostly Dining Chair",532
 "Fancy Armchair",537
 "Short Elonian Column",539
 "Griffon Statue",540
 "Bronze Keep Construct Trophy",547
+"Ominous Fortress Wall",550
 "Kournan Brazier",552
 "Rug",554
+"Primordial Leviathan Rib Cage: Left Curved",556
+"Spooky Cauldron",559
 "Kodan Lantern",565
 "Thick Drizzlewood Coast Tree",566
 "Obstacle: Wide Tall Wall",569
@@ -210,6 +238,7 @@
 "Kodan Sink",589
 "Lattice Planter with Loosestrife",591
 "Jade Bot Workbench",594
+"Bat Lanterns",597
 "Potted Paddlefrond",598
 "Potted Junglerice",600
 "Potted Night Thistle Bud",601
@@ -228,15 +257,21 @@
 "Elonian Cairn Stones",635
 "Cheery Balloon Bundle",639
 "Kodan Woodsy Cabinet (High)",641
+"Shattered Stairway",643
+"Ephemeral Spider's Web Floor",645
 "Elonian Lattice",647
 "Lattice",648
 "Large Crystal Block of the Solid Ocean",650
+"Scarecrow",651
 "Tall Candlestick",653
 "Ice Sheet",654
+"Unchained Platform",655
 "Mounted Dolyak Head",656
 "Vined Lattice",662
 "Guild Initiative Banner",664
+"Mausoleum",665
 "Blue Cushion",666
+"Thorny Jack-o'-Lantern",670
 "Potted Djinn's Tongue",673
 "Owl Spirit Statue",676
 "Obstacle: Blue Torch",678
@@ -255,12 +290,15 @@
 "Potted Croton",707
 "The Heart of the Priory",708
 "Ascalonian Pillar",709
+"Ominous Fortress Wall: Angled",712
 "Lion Statue",713
 "Utensil Rack",715
+"Spooky Dining Chair",718
 "Bronze Shatterer Trophy",719
 "Obstacle: Heal Turret",721
 "Rectangular Planter",722
 "Lynx Statue",723
+"Gramophone",725
 "Large Elonian Planter",726
 "Kodan Kitchen Hearth",727
 "Cannon Siege",728
@@ -279,13 +317,18 @@
 "Bronze Desmina Trophy",757
 "Bronze Mursaat Overseer Trophy",758
 "Kodan Joined Wooden Divider",759
+"Spider's Web Wall",761
 "Significant Disciplines Research Commemorative Statue",763
 "Elonian Snake Statue",767
+"Haunted Love Seat",770
 "Lattice Planter with Daisies",778
 "Basic Boulder",781
+"Creepy Jack-o'-Lantern",786
+"Grand Clock Tower Gear",787
 "Bronze Slothasor Trophy",790
 "Potted Petticoat Palm",796
 "Chunk of the Solid Ocean",798
+"Writhing Twisted Tree",800
 "Elonian Railing",806
 "Red Balloon",808
 "Basic Chair",810
