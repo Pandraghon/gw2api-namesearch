@@ -66857,6 +66857,7 @@
 "Recette : trophée d'argent de Desmina",102365
 "Expertise des Kodans des basses terres",102370
 "Gants intermédiaires polychromes",102373
+"Don de propriétaire tyrien",102376
 "Boîte de butin de Greer des Terres sauvages de Janthir",102377
 "Glyphe du forestier",102378
 "Recette : trophée d'argent de Titan du fort",102380
@@ -66869,6 +66870,7 @@
 "Recette : table versatile de Guide",102393
 "Recette : trophée de bronze de Desmina",102399
 "Recette : coupon de Desmina",102408
+"Don de Terres nues",102411
 "Manteau lourd pastel",102412
 "Amélioration de pavillon : rendement d'échange de minerai",102415
 "Amélioration de pavillon : rendement d'échange de minerai",102416
@@ -66915,6 +66917,7 @@
 "Infusion de noyau chauffé",102508
 "Torche de la pleine lune mage",102510
 "Apparence de razziafelis des Terres sauvages de Janthir",102512
+"Don du Pourvoyeur-chasseur",102515
 "Griffe de Kodan ornementée",102516
 "Siège en aciel",102519
 "Brème à crête",102523
@@ -66975,6 +66978,7 @@
 "Boîte à outil de moissonnage d'horreur surnaturelle",102651
 "Coffre-fort de la Syntri de Janthir",102652
 "Amélioration de pavillon : capacité d'échange de minerai",102653
+"[[1111481]]",102655
 "Missive secrète",102656
 "Recette : trophée d'argent de Mordremoth",102661
 "Diode cristalline",102663
@@ -67180,7 +67184,9 @@
 "Recette : fragment de Cairn l'Indomptable",103231
 "Recette : trophée d'argent de Samarog",103232
 "Boîte de butin de sentinelle de jade des Terres sauvages de Janthir",103233
+"Don de l'Ours",103236
 "Glyphe du tailleur",103241
+"Don de Refuge accueillant",103242
 "Livre de recettes pour pavillon : Halloween, volume 2",103245
 "Recette : œil de régent chak",103246
 "Amélioration de pavillon : capacité d'échange de minerai",103247
@@ -67309,6 +67315,7 @@
 "Anneau runique en bois",103576
 "Recette : gants lourds de plates de Titan",103577
 "Montre des pierres dressées",103578
+"Éclat de pavillon",103587
 "Apparence de fusil corrompu par le vide",103588
 "Apparence de jambières de traque-putrescence",103589
 "Sac de butin",103591
@@ -67462,28 +67469,36 @@
 "Apparence de dracaille mécanique",103749
 "Recette : atelier d'huile de maintenance somptueuse",103751
 "Mousquet naturel",103753
+"Coupon de Decima",103754
 "Preuve d'expertise en siège",103755
 "Artefact naturel",103756
 "Preuve d'expertise en siège",103757
 "Tas de pièces recyclées de balistes",103758
 "Livre de recettes pour pavillon : tableaux, murs et fontaines",103760
+"Bouclier de la lune de sang de sang",103761
 "Relique des geysers",103763
 "Marteau de guerre naturel",103765
+"Souvenir des chasses des Kodans",103766
 "Livre de recettes pour pavillon : dieux humains",103767
 "Apparence de marteau de l'araignée d'albâtre",103768
 "Aiguillon naturel",103769
 "Apparence de torche de l'araignée d'albâtre",103770
 "Recette : atelier d'élimination de démon",103772
+"Réminiscence des chasses des Kodans",103775
 "Recette : atelier de robustesse de karkas",103776
 "Masse de la lune de sang de sang",103777
+"Épée de vague verre-de-mer",103780
 "Malle de Greer",103783
 "Apparence de hache de l'araignée d'albâtre",103784
 "Livrée naturelle",103785
+"Bottes intermédiaires kodans sylvestres",103786
 "Boîte de pièces de siège recyclées",103788
 "Apparence de razziafelis enchanté",103789
+"Bottes lourdes kodans sylvestres",103791
 "",103795
 "Mécanisme de baliste",103796
 "Marteau de la lune de sang de sang",103797
+"Pistolet de la lune de sang de sang",103798
 "Boîte de composants d'essence de brèche purifiée",103799
 "Preuve d'expertise en siège",103801
 "Empaleur naturel",103803
@@ -67494,8 +67509,11 @@
 "Apparence de Perce-tempête",103808
 "Preuve d'expertise en siège",103809
 "Jambières naturelles",103810
+"Mini-jeune razziafelis gris",103813
 "Livre de recettes pour pavillon : labyrinthes en haies",103814
+"Cor de guerre de la lune de sang de sang",103816
 "Garde-poignets naturels",103817
+"Lance de vague verre-de-mer",103818
 "Marteau de vague verre-de-mer",103819
 "Kit de démarrage de dons légendaires",103820
 "Apparence de focus de l'araignée d'albâtre",103822
@@ -67503,19 +67521,25 @@
 "Apparence d'esquif béni de l'astre",103824
 "Tas de pièces recyclées de générateurs de bouclier",103826
 "Baguette naturelle",103830
+"Coffre de gants de Decima",103831
 "Clé de démarrage d'arme légendaire : ensemble n° 6",103832
 "Mécanisme de trébuchet",103834
+"Masse de vague verre-de-mer",103835
 "Recette : atelier de cristal d'harmonisation magnanime",103836
 "Arc court de la lune de sang de sang",103837
 "Atelier d'élimination de démon",103838
 "Clé de démarrage d'arme légendaire : ensemble n° 6",103839
 "Apparence de dague de l'araignée d'albâtre",103840
 "Apparence d'épée de l'araignée d'albâtre",103841
+"Convergences du mont Balrior : coffre au choix du Guide",103842
 "Poings de guerre naturels",103843
+"Focus de vague verre-de-mer",103844
 "Mécanisme de bélier de feu",103845
 "Éclat de la Syntri de Janthir à prix réduit",103846
+"Tas de pièces recyclées de chariots à flèches",103851
 "Mini-cavaleur putrescent",103853
 "Boîte de pièces de siège recyclées",103854
+"Réminiscence des adversaires des Kodans",103855
 "Siège canin",103858
 "Boîte de bottes kodans sylvestres",103859
 "Preuve d'expertise en siège",103860
@@ -67528,6 +67552,7 @@
 "Tourelle sentinelle des Brumes",103871
 "Relique du mont Balrior",103872
 "Boule de résidu d'esprit ancestral",103875
+"Plan de bélier de feu infini",103878
 "Harnois naturel",103881
 "Poignes naturelles",103882
 "Pourpoint naturel",103883
@@ -67536,34 +67561,49 @@
 "Apparence d'arc long de l'araignée d'albâtre",103887
 "Visage naturel",103889
 "Grand arc naturel",103891
+"Mini-Kodan des sources chaudes (bleu)",103892
 "Mécanisme de chariot à flèches",103894
 "Fusil de vague verre-de-mer",103895
 "Masse à ailettes naturelle",103896
+"Cor de guerre de vague verre-de-mer",103897
 "Héraut naturel",103900
 "Relique de la marée des Brumes",103901
 "Livre de recettes pour pavillon : statues et trophées",103902
 "Apparence de fusil de l'araignée d'albâtre",103903
+"Fusil de la lune de sang de sang",103905
 "Lame naturelle",103906
+"Hache de vague verre-de-mer",103908
 "Dague de la lune de sang de sang",103909
 "Tas d'équipement de siège recyclé",103913
 "Culotte naturelle",103917
 "Coffre d'arme élevée du sorcier",103918
 "Boîte de pièces de siège recyclées",103919
+"Boîte de pièces de siège recyclées",103920
 "Bastion naturel",103922
+"Malle de Decima",103926
 "Claymore naturelle",103928
 "Apparence d'arc court de l'araignée d'albâtre",103930
 "Livre de recettes pour pavillon : éclairages, volume 2",103931
 "Atelier de robustesse de karkas",103932
 "Mécanisme de générateur de bouclier",103935
+"Sceptre de la lune de sang de sang",103936
 "Tas de pièces recyclées de béliers de feu",103937
 "Apparence de bouclier de l'araignée d'albâtre",103940
+"Percevapeur d'Ura",103944
+"Malle d'Ura",103946
 "Grèves naturelles",103951
 "Trident naturel",103953
+"Arc long de vague verre-de-mer",103954
 "Arc court de vague verre-de-mer",103955
+"Point de maîtrise",103956
+"Boîte de pièces de siège recyclées",103957
 "Mécanisme de catapulte",103959
 "Boîte de sélection de l'araignée d'albâtre",103961
 "Recette : atelier de cristal d'harmonisation toxique",103962
+"Mini-jeune razziafelis orange",103964
+"Torche de la lune de sang de sang",103965
 "Livre de recettes pour pavillon : divers objets, volume 3",103967
+"Mini-jeune razziafelis blanc",103968
 "Apparence de pistolet de l'araignée d'albâtre",103971
 "Apparence de sceptre de l'araignée d'albâtre",103972
 "Boîte de pièces de siège recyclées",103974
@@ -67575,6 +67615,7 @@
 "Apparence de cor de guerre de l'araignée d'albâtre",103983
 "Relique de la réunification",103984
 "Lance de la lune de sang de sang",103987
+"Bottes légères kodans sylvestres",103988
 "Apparence de masse de l'araignée d'albâtre",103990
 "Éclat de la Côte des basses terres à prix réduit",103991
 "Apparence d'espadon de l'araignée d'albâtre",103994
@@ -67583,20 +67624,41 @@
 "Livre de recettes pour pavillon : arbres, volume 2",104000
 "Visière naturelle",104001
 "Croquenots naturels",104002
+"Mini-Kodan des sources chaudes (jaune)",104003
+"Pistolet de vague verre-de-mer",104006
+"Atelier d'huile de maintenance magnanime",104008
 "Épée de la lune de sang de sang",104010
 "Mécanisme de golem de siège",104012
 "Arc long de la lune de sang de sang",104014
+"Torche de vague verre-de-mer",104015
 "Boîte d'équipement marécageux de la Côte des basses terres",104017
 "Bâton de la lune de sang de sang",104021
 "Relique de la vapeur fulminante",104022
+"Bâton de vague verre-de-mer",104025
 "Cristal de Gaets",104026
 "Revolver naturel",104029
 "Tassettes naturelles",104030
 "Nodule d'essence de brèche",104031
 "Recette : atelier d'huile de maintenance magnanime",104032
+"Mode défi de convergence : or",104033
+"Mini-conduit intelligent",104034
 "Tas de pièces recyclées de catapultes",104036
+"Réminiscence des victoires des Kodans",104037
 "Apparence de lance de l'araignée d'albâtre",104039
 "Apparence de bâton de l'araignée d'albâtre",104040
 "Masque naturel",104041
 "Livre de recettes pour pavillon : arches et piliers",104042
 "Coffre d'armure élevée du sorcier",104044
+"Sceptre de vague verre-de-mer",104046
+"Coupon de Greer",104047
+"Fusil-harpon naturel",104048
+"Toucher porte-fléau de Greer",104049
+"Focus de la lune de sang de sang",104050
+"Extraction de brèche",104051
+"Espadon de vague verre-de-mer",104052
+"Épaulettes naturelles",104053
+"Brasero naturel",104055
+"Livre de recettes pour pavillon : diverses plantes, volume 3",104057
+"Boîte de pièces de siège recyclées",104059
+"Atelier de cristal d'harmonisation toxique",104060
+"Mini-Tirevent",104061
