@@ -62424,6 +62424,7 @@
 "Watertight Bag",96003
 "Togo's Masque",96005
 "",96006
+"Starter Kit: Kudzu",96007
 "Echovald Cathedral Backpiece",96008
 "Jade Tech Axe",96009
 "Recipe: Scavenger Protocol: Wood",96012
@@ -66812,6 +66813,7 @@
 "Wayfinder's Versatile Table Decoration",102230
 "",102231
 "Janthir Wilds Kodan Loot Box",102236
+"Recipe: River of Souls Token",102237
 "Recipe: Titanplate Light Regalia",102241
 "Honeycomb",102244
 "Relic of Atrocity",102245
@@ -66848,11 +66850,14 @@
 "Homestead Upgrade: Wood Trade Capacity",102351
 "Glyph of Alchemy",102352
 "Janthir Syntri Adventure: Gold",102357
+"Rot Stalker Boots Skin",102358
 "Endless Warclaw Kitten Tonic",102362
+"Recipe: Silver Desmina Trophy",102365
 "Lowland Kodan Expertise",102370
 "Polychromatic Medium Gloves",102373
 "Janthir Wilds Greer Loot Box",102377
 "Glyph of the Forester",102378
+"Recipe: Silver Keep Construct Trophy",102380
 "Glyph of the Crucible",102382
 "Janthir Wilds Launch Supply Drop Requisition",102383
 "Polychromatic Glove Box",102387
@@ -66861,6 +66866,7 @@
 "Onyx Spider's Mace Skin",102392
 "Wayfinder's Versatile Table Recipe",102393
 "Recipe: Bronze Desmina Trophy",102399
+"Recipe: Desmina's Token",102408
 "Woad Heavy Coat",102412
 "Homestead Upgrade: Ore Trade Efficiency",102415
 "Homestead Upgrade: Ore Trade Efficiency",102416
@@ -66871,8 +66877,10 @@
 "Dredge Heat-Ablation Plates",102424
 "Titanplate Light Crown",102427
 "Lesser Kodan Cache",102430
+"Recipe: Silver Ether Djinn Trophy",102432
 "Mouse-Eared Octopus",102437
 "Polychromatic Heavy Gauntlets",102439
+"Recipe: Bloodstone Turret Fragment",102440
 "Polychromatic Coat Box",102443
 "",102446
 "Magi's Ursan Ornamented Pistol",102449
@@ -66911,6 +66919,7 @@
 "Mastery Point",102524
 "Glyph of the Herbalist",102528
 "Glyph of Virtue",102529
+"Recipe: Silver Cardinal Adina Trophy",102530
 "Onyx Spider's Shield Skin",102533
 "Shred of Janthir Wilds Mastery",102535
 "Mythical Kodan Cache",102536
@@ -66919,12 +66928,16 @@
 "Titanplate Leggings Recipe Book",102544
 "Brown Rock",102545
 "Homestead Recipe Book: Solid Ocean Fractal",102549
+"Rot Stalker Coat Skin",102554
 "Polychromatic Heavy Greaves",102557
 "Honey Flower",102558
 "Woad Heavy Shoulders",102561
 "Recipe: Titanplate Light Cowl",102563
 "Glyph of Alchemy",102567
 "Polychromatic Light Crown",102568
+"Shard of Lowland Shore",102569
+"Recipe: Silver Qadim Trophy",102570
+"Recipe: Silver Conjured Amalgamate Trophy",102574
 "Recipe: Bronze Qadim Trophy",102575
 "Homestead Upgrade: Wood Trade Capacity",102576
 "Titanplate Light Mantle",102578
@@ -66935,6 +66948,7 @@
 "Honeycomb-Covered Gear Bag",102592
 "Woad Heavy Boots",102594
 "Relic of the Stormsinger",102595
+"Recipe: Sabetha Flamethrower Fragment",102599
 "Longhorn Boxfish",102600
 "Pink Rock",102601
 "Glyph of the Prospector",102603
@@ -66943,7 +66957,9 @@
 "Titanplate Medium Leggings",102609
 "Glyph of Virtue",102613
 "Void Corrupted Longbow Skin",102614
+"Recipe: Shatterer Crystal",102615
 "Glyph of the Forester",102624
+"Recipe: Silver White Mantle Abomination Trophy",102625
 "Void Corrupted Scepter Skin",102627
 "Onyx Spider's Rifle Skin",102629
 "Wildflowers",102632
@@ -66958,6 +66974,7 @@
 "Janthir Syntri Strongbox",102652
 "Homestead Upgrade: Ore Trade Capacity",102653
 "Secret Missive",102656
+"Recipe: Silver Mordremoth Trophy",102661
 "Crystalline Diode",102663
 "Recipe: Titanplate Medium Mask",102665
 "Recipe: Bronze Samarog Trophy",102666
@@ -66985,6 +67002,7 @@
 "Recipe: Bronze Statue of Grenth Trophy",102741
 "Polychromatic Light Regalia",102743
 "Glyph of the Herbalist",102745
+"Recipe: Cardinal Adina's Token",102747
 "Glyph of the Leatherworker",102750
 "Frozen Regalia Outfit",102752
 "Glyph of the Crucible",102756
@@ -66998,6 +67016,7 @@
 "Janthir Syntri Adventure: Bronze",102774
 "Mini Poised Arrow",102777
 "Polychromatic Heavy Cuisses",102779
+"Recipe: Silver River of Souls Trophy",102780
 "Igneous Regalia Outfit",102781
 "Onyx Spider's Pistol Skin",102785
 "Polychromatic Shoulders Box",102786
@@ -67012,12 +67031,15 @@
 "Mini Waiting Sorrow",102797
 "Homestead Upgrade: Fiber Trade Efficiency",102803
 "Magi's Full Moon Scepter",102807
+"Recipe: Silver Sabetha Trophy",102808
+"Recipe: Fragment of Saul's Burden",102809
 "Bearkin War Helm",102814
 "Onyx Spider's Greatsword Skin",102816
 "Lowland Shore Renown Token",102818
 "Wool Ball",102822
 "Glyph of the Unbound",102823
 "Polychromatic Medium Leggings",102826
+"Recipe: Silver Cardinal Sabir Trophy",102827
 "Local Writ of Renown",102833
 "Magi's Full Moon Sword",102834
 "Magi's Full Moon Warhorn",102838
@@ -67031,6 +67053,7 @@
 "Endless Bearkin Combat Tonic",102858
 "Recipe: Titanplate Light Shoes",102860
 "Magi's Ursan Ornamented Hammer",102861
+"Recipe: Silver Slothasor Trophy",102863
 "Magi's Full Moon Hammer",102866
 "Recipe: Bronze Keep Construct Trophy",102868
 "Woad Light Boots",102878
@@ -67047,6 +67070,9 @@
 "Magi's Full Moon Spear",102911
 "Glyph of the Prospector",102912
 "Recipe: Bronze Gorseval Trophy",102917
+"Recipe: Xera's Ribbon Scrap",102918
+"Recipe: Twin Largos' Token",102920
+"Recipe: Triple Trouble Tooth",102925
 "Glyph of the Leatherworker",102926
 "Woad Heavy Leggings",102927
 "Gift of Lowland Shore",102929
@@ -67056,9 +67082,11 @@
 "Recipe: Titanplate Medium Shoulders",102939
 "Meteor-Wielder's Glove",102940
 "Recipe: Titanplate Medium Leggings",102943
+"Recipe: Gorseval Tentacle",102944
 "Legendary Weapon Starter Kit—Set 5",102946
 "Magi's Ursan Ornamented Spear",102948
 "Meteor-Wielder's Glove Selection",102949
+"Recipe: Ether Djinn's Token",102953
 "Flower Diadem Skin",102954
 "Gift of Janthir Syntri",102958
 "Titanplate Headpiece Recipe Book",102964
@@ -67068,7 +67096,10 @@
 "Glyph of Alchemy",102972
 "Stash of Ursus Obliges",102973
 "Homestead Recipe Book: Plants, Volume 1",102974
+"Recipe: Tequatl Tailbone",102978
+"Recipe: Silver Twin Largos Trophy",102980
 "Recipe: Bronze Twin Largos Trophy",102986
+"Recipe: Impaled Prisoner",102987
 "Homestead Upgrade: Fiber Trade Capacity",102989
 "Homestead Recipe Book: Balloons",102993
 "Void Corrupted Torch Skin",102998
@@ -67083,8 +67114,10 @@
 "Relic of Rivers",103015
 "Meteor-Wielder's Glove",103018
 "Glyph of the Tailor",103019
+"Recipe: Silver Chak Gerent Trophy",103021
 "Bearkin Carved Shell",103023
 "Magi's Ursan Ornamented Shield",103035
+"Recipe: Qadim's Token",103037
 "Curious Lowland Honeycomb",103038
 "",103041
 "Titanplate Heavy Gauntlets",103044
@@ -67106,6 +67139,7 @@
 "Woad Light Leggings",103091
 "Gray Rock",103092
 "Woad Medium Gloves",103098
+"Recipe: Silver Shatterer Trophy",103100
 "Warclaw Loot Cache",103101
 "Sweet-Treated Pine Plank",103103
 "Borrowed Bait",103104
@@ -67122,22 +67156,31 @@
 "Recipe: Titanplate Light Pants",103144
 "Homestead Upgrade: Ore Trade Capacity",103146
 "Void Corrupted Weapon Choice",103150
+"Recipe: Silver Mursaat Overseer Trophy",103163
 "Titanplate Medium Shoulders",103167
+"Recipe: Silver Xera Trophy",103172
 "Janthir Wilds Elemental Loot Box",103182
+"Recipe: Dhuum's Token",103183
 "Janthir Wilds Expedition Contract",103184
+"Recipe: Silver Deimos Trophy",103186
 "Glyph of the Prospector",103188
 "Woad Shoulders Box",103189
 "Large Stash of Ursus Obliges",103193
 "Recipe: Titanplate Heavy Greaves",103195
 "Local Writ of Renown",103196
+"Recipe: Silver Siege the Stronghold Trophy",103203
 "Homestead Recipe Book: Pillars",103208
 "Woad Medium Helm",103209
 "Magi's Full Moon Pistol",103215
+"Recipe: Vale Guardian Pieces",103218
 "Wisteria Spear Skin",103222
 "Homestead Recipe Book: Rugs",103228
+"Recipe: Cairn the Indomitable Shard",103231
+"Recipe: Silver Samarog Trophy",103232
 "Janthir Wilds Jade Construct Loot Box",103233
 "Glyph of the Tailor",103241
 "Homestead Recipe Book: Halloween, Volume 2",103245
+"Recipe: Chak Gerent Eye",103246
 "Homestead Upgrade: Ore Trade Capacity",103247
 "Woad Light Gloves",103249
 "Ursan Weapon Chest",103253
@@ -67146,6 +67189,7 @@
 "Rot Stalker Gloves Skin",103258
 "Rot Stalker Helm Skin",103261
 "Woad Light Coat",103263
+"Recipe: Keep Construct Rubble",103266
 "Lowland Spear Unlock",103268
 "Magi's Full Moon Shield",103269
 "Violet Screamer",103274
@@ -67161,15 +67205,23 @@
 "Locked Mythical Kodan Cache",103293
 "Mechanical Frame",103294
 "Onyx Spider's Sword Skin",103298
+"Recipe: Mordremoth Mandible",103299
+"Shard of Janthir Syntri",103316
 "Lowland Shore Adventure: Bronze",103318
 "Maguuma Jungle Fishing License",103320
 "Titanplate Heavy Pauldrons",103323
 "Recipe: Bronze Conjured Amalgamate Trophy",103329
 "Magi's Ursan Ornamented Short Bow",103330
 "Woad Leggings Box",103332
+"Recipe: Silver Triple Trouble Trophy",103335
+"Recipe: Rec Room Floor Tile",103336
+"Recipe: Statue of Grenth Token",103341
+"Recipe: Silver Cairn the Indomitable Trophy",103343
 "Mini Malice Swordshadow",103349
 "Mursaat Runestone",103351
+"Recipe: Silver Gorseval Trophy",103353
 "Glyph of the Scavenger",103354
+"Recipe: Slothasor Mushroom",103356
 "Recipe: Bronze Cardinal Adina Trophy",103359
 "Mini Lucid Boulder",103361
 "Homestead Recipe Book: Basic Decorations",103364
@@ -67186,9 +67238,12 @@
 "Magi's Ursan Ornamented Longbow",103382
 "Magi's Full Moon Focus",103385
 "Woad Heavy Helm",103387
+"Recipe: Silver Statue of Grenth Trophy",103388
+"Recipe: Silver Tequatl Trophy",103390
 "Springer Treat",103395
 "Titanplate Heavy Cuisses",103397
 "Magi's Full Moon Axe",103398
+"Recipe: Cardinal Sabir's Token",103402
 "Woad Coat Box",103403
 "Onyx Spider's Dagger Skin",103406
 "Polychromatic Heavy Helmet",103407
@@ -67201,12 +67256,17 @@
 "Relic of Sorrow",103424
 "Magi's Ursan Ornamented Focus",103428
 "Homestead Upgrade: Fiber Trade Capacity",103432
+"Recipe: White Mantle Abomination Crystal",103433
+"Standing Stones Timepiece Remnant",103435
 "Onyx Spider's Hammer Skin",103436
 "Falling Star Quest License",103437
 "Edible Mushroom",103441
 "Warclaw-Fur Liner",103444
 "Homestead Upgrade: Fiber Trade Capacity",103447
 "Glyph of Virtue",103448
+"Recipe: Conjured Amalgamate's Token",103449
+"Bearkin War Helm Remnant",103450
+"Recipe: Silver Vale Guardian Trophy",103454
 "Homestead Recipe Book: Trees",103458
 "Recipe: Titanplate Medium Gloves",103459
 "Pale Branch Spear",103460
@@ -67239,6 +67299,7 @@
 "",103547
 "Titanplate Shoulders Recipe Book",103550
 "Flame Legion Darksteel",103552
+"Recipe: Silver Dhuum Trophy",103553
 "Onyx Spider's Short Bow Skin",103556
 "Wild Roar Mount Select License",103568
 "Magi's Full Moon Rifle",103569
@@ -67247,6 +67308,7 @@
 "Recipe: Titanplate Heavy Gauntlets",103577
 "Standing Stones Timepiece",103578
 "Void Corrupted Rifle Skin",103588
+"Rot Stalker Leggings Skin",103589
 "Bag of Loot",103591
 "Black Lion Plush Bear Head Pal Recipe",103594
 "Blissful Boots Skin",103595
@@ -67396,5 +67458,143 @@
 "Foefire Rifle Skin",103747
 "Foefire Torch Skin",103748
 "Steamwork Skyscale Skin",103749
+"Recipe: Bountiful Maintenance Oil Station",103751
+"Natural Musket",103753
+"Proof of Siege Expertise",103755
+"Natural Artifact",103756
+"Proof of Siege Expertise",103757
+"Pile of Recycled Ballistae",103758
+"Homestead Recipe Book: Paintings, Walls, Fountains",103760
+"Relic of Geysers",103763
+"Natural Warhammer",103765
+"Homestead Recipe Book: Human Gods",103767
+"Alabaster Spider's Hammer Skin",103768
+"Natural Spire",103769
+"Alabaster Spider's Torch Skin",103770
+"Recipe: Demon-Slaying Station",103772
+"Recipe: Karka Toughness Station",103776
+"Blood Moon Mace of Blood",103777
+"Greer's Coffer",103783
+"Alabaster Spider's Axe Skin",103784
+"Natural Guise",103785
+"Box of Scavenged Siege Parts",103788
+"Enchanted Warclaw Skin",103789
 "",103795
+"Ballista Mechanism",103796
+"Blood Moon Hammer of Blood",103797
+"Box of Purified Rift Essence Components",103799
+"Proof of Siege Expertise",103801
+"Natural Impaler",103803
+"Homestead Recipe Book: Tables and Chairs",103804
+"Natural Razor",103805
+"Blood Moon Greatsword of Blood",103806
+"Blood Moon Weapon Box",103807
+"The Stormpiercer Spear Skin",103808
+"Proof of Siege Expertise",103809
+"Natural Leggings",103810
+"Homestead Recipe Book: Hedge Mazes",103814
+"Natural Wristguards",103817
+"Sea-Glass Wave Hammer",103819
+"Legendary Gift Starter Kit",103820
+"Alabaster Spider's Focus Skin",103822
+"Rift Extraction",103823
+"Star Blessed Skiff Skin",103824
+"Pile of Recycled Shield Generators",103826
+"Natural Wand",103830
+"Legendary Weapon Starter Key—Set 6",103832
+"Trebuchet Mechanism",103834
+"Recipe: Magnanimous Tuning Crystal Station",103836
+"Blood Moon Short Bow of Blood",103837
+"Demon-Slaying Station",103838
+"Legendary Weapon Starter Key—Set 6",103839
+"Alabaster Spider's Dagger Skin",103840
+"Alabaster Spider's Sword Skin",103841
+"Natural Warfists",103843
+"Flame Ram Mechanism",103845
+"Discounted Shard of Janthir Syntri",103846
+"Mini Rot Strider",103853
+"Box of Scavenged Siege Parts",103854
+"Dog Bench Chair",103858
 "Woodland Kodan Boots Box",103859
+"Proof of Siege Expertise",103860
+"Magnanimous Tuning Crystal Station",103861
+"Natural Footwear",103863
+"Pile of Recycled Siege Golems",103864
+"Sea-Glass Wave Shield",103866
+"Lump of Mithrillium",103867
+"Blood Moon Axe of Blood",103870
+"Mist Sentry Turret",103871
+"Relic of Mount Balrior",103872
+"Glob of Elder Spirit Residue",103875
+"Natural Breastplate",103881
+"Natural Grips",103882
+"Natural Doublet",103883
+"Bountiful Maintenance Oil Station",103885
+"Pile of Recycled Trebuchets",103886
+"Alabaster Spider's Longbow Skin",103887
+"Natural Visage",103889
+"Natural Greatbow",103891
+"Arrow Cart Mechanism",103894
+"Sea-Glass Wave Rifle",103895
+"Natural Flanged Mace",103896
+"Natural Herald",103900
+"Relic of the Mists Tide",103901
+"Homestead Recipe Book: Statues and Trophies",103902
+"Alabaster Spider's Rifle Skin",103903
+"Natural Blade",103906
+"Blood Moon Dagger of Blood",103909
+"Pile of Recycled Siege Equipment",103913
+"Natural Breeches",103917
+"Wizard's Ascended Weapon Chest",103918
+"Box of Scavenged Siege Parts",103919
+"Natural Bastion",103922
+"Natural Claymore",103928
+"Alabaster Spider's Short Bow Skin",103930
+"Homestead Recipe Book: Lights, Volume 2",103931
+"Karka Toughness Station",103932
+"Shield Generator Mechanism",103935
+"Pile of Recycled Flame Rams",103937
+"Alabaster Spider's Shield Skin",103940
+"Natural Greaves",103951
+"Natural Trident",103953
+"Sea-Glass Wave Short Bow",103955
+"Catapult Mechanism",103959
+"Alabaster Spider's Selection Box",103961
+"Recipe: Toxic Tuning Crystal Station",103962
+"Homestead Recipe Book: Misc. Items, Volume 3",103967
+"Alabaster Spider's Pistol Skin",103971
+"Alabaster Spider's Scepter Skin",103972
+"Box of Scavenged Siege Parts",103974
+"Natural Reaver",103975
+"Homestead Recipe Book: Fractal Goods",103976
+"Relic of the Beehive",103977
+"Natural Shoulderguard",103979
+"Natural Short Bow",103982
+"Alabaster Spider's Warhorn Skin",103983
+"Relic of Reunification",103984
+"Blood Moon Spear of Blood",103987
+"Alabaster Spider's Mace Skin",103990
+"Discounted Shard of Lowland Shore",103991
+"Alabaster Spider's Greatsword Skin",103994
+"Natural Pauldrons",103997
+"Mists Vault Access Key",103998
+"Homestead Recipe Book: Trees, Volume 2",104000
+"Natural Visor",104001
+"Natural Striders",104002
+"Blood Moon Sword of Blood",104010
+"Siege Golem Mechanism",104012
+"Blood Moon Longbow of Blood",104014
+"Swampworn Lowland Shore Gear Box",104017
+"Blood Moon Staff of Blood",104021
+"Relic of the Steamshrieker",104022
+"Gaeting Crystal",104026
+"Natural Revolver",104029
+"Natural Tassets",104030
+"Nugget of Rift Essence",104031
+"Recipe: Magnanimous Maintenance Oil Station",104032
+"Pile of Recycled Catapults",104036
+"Alabaster Spider's Spear Skin",104039
+"Alabaster Spider's Staff Skin",104040
+"Natural Masque",104041
+"Homestead Recipe Book: Arches and PiIllars",104042
+"Wizard's Ascended Armor Chest",104044
