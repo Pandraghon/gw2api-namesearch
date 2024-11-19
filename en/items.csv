@@ -66855,6 +66855,7 @@
 "Recipe: Silver Desmina Trophy",102365
 "Lowland Kodan Expertise",102370
 "Polychromatic Medium Gloves",102373
+"Gift of the Homesteader",102376
 "Janthir Wilds Greer Loot Box",102377
 "Glyph of the Forester",102378
 "Recipe: Silver Keep Construct Trophy",102380
@@ -66867,6 +66868,7 @@
 "Wayfinder's Versatile Table Recipe",102393
 "Recipe: Bronze Desmina Trophy",102399
 "Recipe: Desmina's Token",102408
+"Gift of Uncovered Grounds",102411
 "Woad Heavy Coat",102412
 "Homestead Upgrade: Ore Trade Efficiency",102415
 "Homestead Upgrade: Ore Trade Efficiency",102416
@@ -66913,6 +66915,7 @@
 "Heat Core Infusion",102508
 "Magi's Full Moon Torch",102510
 "Janthir Wilds Warclaw Skin",102512
+"Gift of Janthir Wilds",102514
 "Gift of Gatherer of the Hunt",102515
 "Ornamented Bearkin Claw",102516
 "Skysteel Chair",102519
@@ -66974,6 +66977,7 @@
 "Eldritch Horror Harvesting Tool Container",102651
 "Janthir Syntri Strongbox",102652
 "Homestead Upgrade: Ore Trade Capacity",102653
+"[[1111481]]",102655
 "Secret Missive",102656
 "Recipe: Silver Mordremoth Trophy",102661
 "Crystalline Diode",102663
@@ -67181,6 +67185,7 @@
 "Janthir Wilds Jade Construct Loot Box",103233
 "Gift of the Ursus",103236
 "Glyph of the Tailor",103241
+"Gift of Embracing Refuge",103242
 "Homestead Recipe Book: Halloween, Volume 2",103245
 "Recipe: Chak Gerent Eye",103246
 "Homestead Upgrade: Ore Trade Capacity",103247
@@ -67472,6 +67477,7 @@
 "Blood Moon Shield of Blood",103761
 "Relic of Geysers",103763
 "Natural Warhammer",103765
+"Memory of the Bearkin's Hunts",103766
 "Homestead Recipe Book: Human Gods",103767
 "Alabaster Spider's Hammer Skin",103768
 "Natural Spire",103769
@@ -67558,12 +67564,14 @@
 "Arrow Cart Mechanism",103894
 "Sea-Glass Wave Rifle",103895
 "Natural Flanged Mace",103896
+"Sea-Glass Wave Warhorn",103897
 "Natural Herald",103900
 "Relic of the Mists Tide",103901
 "Homestead Recipe Book: Statues and Trophies",103902
 "Alabaster Spider's Rifle Skin",103903
 "Blood Moon Rifle of Blood",103905
 "Natural Blade",103906
+"Sea-Glass Wave Axe",103908
 "Blood Moon Dagger of Blood",103909
 "Pile of Recycled Siege Equipment",103913
 "Natural Breeches",103917
@@ -67580,6 +67588,9 @@
 "Blood Moon Scepter of Blood",103936
 "Pile of Recycled Flame Rams",103937
 "Alabaster Spider's Shield Skin",103940
+"Ura's Steampiercer",103944
+"Ura's Coffer",103946
+"Proof of Siege Expertise",103949
 "Natural Greaves",103951
 "Natural Trident",103953
 "Sea-Glass Wave Longbow",103954
@@ -67593,6 +67604,7 @@
 "Blood Moon Torch of Blood",103965
 "Homestead Recipe Book: Misc. Items, Volume 3",103967
 "Mini White Warclaw Cub",103968
+"Handguards of Decima",103970
 "Alabaster Spider's Pistol Skin",103971
 "Alabaster Spider's Scepter Skin",103972
 "Box of Scavenged Siege Parts",103974
@@ -67608,11 +67620,13 @@
 "Alabaster Spider's Mace Skin",103990
 "Discounted Shard of Lowland Shore",103991
 "Alabaster Spider's Greatsword Skin",103994
+"Ura's Token",103996
 "Natural Pauldrons",103997
 "Mists Vault Access Key",103998
 "Homestead Recipe Book: Trees, Volume 2",104000
 "Natural Visor",104001
 "Natural Striders",104002
+"Mini Hot Springs Bearkin (Yellow)",104003
 "Sea-Glass Wave Pistol",104006
 "Magnanimous Maintenance Oil Station",104008
 "Blood Moon Sword of Blood",104010
@@ -67620,6 +67634,7 @@
 "Blood Moon Longbow of Blood",104014
 "Sea-Glass Wave Torch",104015
 "Swampworn Lowland Shore Gear Box",104017
+"Recipe: Greer's Token",104020
 "Blood Moon Staff of Blood",104021
 "Relic of the Steamshrieker",104022
 "Sea-Glass Wave Staff",104025
@@ -67649,3 +67664,4 @@
 "Homestead Recipe Book: Plants, Volume 3",104057
 "Box of Scavenged Siege Parts",104059
 "Toxic Tuning Crystal Station",104060
+"Mini Ventshot",104061
