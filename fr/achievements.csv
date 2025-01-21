@@ -313,6 +313,8 @@
 "Défenseur de la veuve et de l'orphelin",570
 "Briseur d'alliance",571
 "Un feu de ralliement",572
+"Champion de lancer de crabe",618
+"Voleur de crabe",622
 "Pas si secret",648
 "L'ambiance de la Foire du Dragon",649
 "Affaire classée (2013)",662
@@ -4305,6 +4307,7 @@
 "Gestion forestière : Plage des sirènes",5824
 "Retour dans \"La fin du confesseur\"",5825
 "Gestion forestière : Mont Draconis",5826
+"Chef de guerre communautaire",5827
 "Chasseur de trésor : Vallée du prospecteur",5828
 "Retour dans les Contrées sauvages d'argent 1",5829
 "Scarlet à l'étude",5830
@@ -4553,6 +4556,7 @@
 "Augure certifié par le Ministère",6108
 "Je suis très flottant",6109
 "Pêcheur enthousiaste de classe internationale",6110
+"Poisson parmi les Eaux",6111
 "Analyse comportementale des golems",6112
 "Plus rapide qu'un boulet de canon",6113
 "Résolution",6114
@@ -4960,6 +4964,7 @@
 "Récursion de fractale : Fournaise de la Fusion",6531
 "Marcheur du Vide",6532
 "Nouveaux amis, nouveaux ennemis",6533
+"Voie la plus ardue",6534
 "Étude d'investigation 1",6535
 "Fête paisible",6536
 "Pourfendeur de ligue – Trente-deuxième saison de conquête",6537
