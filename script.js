@@ -2,7 +2,7 @@ import { promises as fs } from 'fs';
 import { resolve } from 'path';
 import fetch from 'node-fetch';
 
-const langs = ['fr', 'en'];
+const langs = ['fr', 'en', 'de'];
 const apiUrl = 'https://api.guildwars2.com/v2/';
 const padding = 200;
 
