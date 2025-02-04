@@ -49,8 +49,10 @@
 "Spezial-Rüstungen der Sylvari",97
 "Explorator der Zittergipfel",100
 "Explorator von Ascalon",101
+"Explorator von Maguuma",102
 "Explorator von Orr",103
 "Meister des Dreizacks",107
+"Meister des Speers",108
 "Auserwählter",114
 "Näher an den Sternen",116
 "Legende der Nebel",119
@@ -68,6 +70,8 @@
 "Behem-Spießrutenlauf",156
 "Verschüttete Archive",158
 "Höhlenforscher-Senke",160
+"Zwickmühle hoch drei",163
+"Erzielte Fässer",164
 "Abgefangene Fässer",166
 "Zurückgeholte Fässer",167
 "Verursachte Fasspatzer",168
@@ -76,6 +80,7 @@
 "Retter der Zuflucht",190
 "Feind der Flammenzitadelle",191
 "Greifenturmstrecke",193
+"Die Zerschmetterten Eisruinen",194
 "Obsidianrefugium",198
 "Fawcetts Beute",199
 "Die Roheisen-Grube",201
@@ -111,6 +116,7 @@
 "Bleibt draußen!",319
 "Kalt erwischt",322
 "König der Kostüm-Rauferei",336
+"Füttern verboten",338
 "Zerschmettert",340
 "Brutaler Sonnenbrand",342
 "Tötet die Hydra-Königin",343
@@ -132,10 +138,13 @@
 "Stabilisator des Fraktals \"Untergrundeinrichtung\"",383
 "Stabilisator des Fraktals \"Felswand\"",386
 "Stabilisator des Fraktals \"Nicht kategorisiert\"",387
+"Stabilisator des Fraktals \"Schneeblind\"",388
 "Stabilisator des Fraktals \"Unterwasserruinen\"",389
 "Stabilisator des Fraktals \"Urbanes Schlachtfeld\"",390
+"Der Boden besteht aus Lava. Nicht drauftreten!",391
 "Kakophonie des Donnergrollens",392
 "Steine hüpfen lassen",400
+"Unter neuer Leitung",401
 "Täglicher Nebelwachen-Schlächter",437
 "Flüchtlingshelfer",460
 "Der aufziehende Sturm",461
@@ -154,6 +163,7 @@
 "Magister der Sphären, Welt 1",558
 "Doktor der Sphären, Welt 1",559
 "Nebenfach Ausflucht",560
+"Das erste Super Adventure des Explorators",562
 "Unersättlich nach Bestrafung",563
 "Kampf gegen die Kriegsmaschinerie",569
 "Rächer der Vertriebenen",570
@@ -201,6 +211,7 @@
 "Scarlet-Störer",831
 "Wahlloser Gegner",832
 "Interventionist bei der Weltweiten Invasion",835
+"Ich war ein Wachtritter",837
 "Großmeister Waffenschmied",855
 "Großmeister Waidmann",856
 "Schmerz-Connaisseur",858
@@ -232,6 +243,7 @@
 "Das lässt Euch kalt",928
 "Geerdet",930
 "Ein wahrer Freund Turmas",933
+"Geheimnisse im Wald",934
 "Großmeister Lederer",941
 "Großmeister Schneider",942
 "Täglicher WvW-Meister der Monumente",946
@@ -264,6 +276,7 @@
 "Albtraum-Einschläferer",1208
 "Albtraum-Vertreiber",1209
 "Spielzeugmacher-Geselle",1248
+"Wintertag-Schneeballwerfer",1261
 "Winterwunderland-Gewinner",1262
 "Verbreitung der Wintertag-Freuden",1264
 "Marionetten-Verteidiger",1305
@@ -277,6 +290,7 @@
 "Die Ursprünge des Wahnsinns Komplettierer",1317
 "Wurm-Phytotoxinsammler",1332
 "Wurmkotze",1335
+"Wurmkleptomane",1337
 "Wurmeirührer",1340
 "Detektei Delaqua",1345
 "Jäger der verlorenen Teile",1346
@@ -290,13 +304,17 @@
 "Vorsprung der Nebel",1373
 "Brückenbrecher",1374
 "Generatorengenerator",1376
+"Eindringlingsalarm",1377
 "Klingen im Nebel",1382
+"Zusammenarbeit II",1384
 "Alles ist möglich",1385
 "Zusammenarbeit IV",1387
 "Zusammenarbeit V",1388
 "Ätherklingen-Brecher",1390
 "Zum Ausgang bitte hier entlang",1392
 "Hinterbezirk-Beschützer",1394
+"Erinnerungen zum Anfassen",1396
+"Gegengift",1397
 "Kalter Trost",1399
 "Kämpfer von Fort Marriner",1401
 "Zusammenarbeit III",1421
@@ -326,6 +344,7 @@
 "Verschlingung",1659
 "Keine Spielchen",1660
 "Schmetterlinge und Eingeweide",1663
+"Vor Regen geschützt",1664
 "Sterben wie die Fliegen",1666
 "Zeit wartet nicht",1667
 "Runter damit",1669
@@ -335,13 +354,16 @@
 "Doch nicht so schlagfertig",1677
 "Bringt es zu Ende",1679
 "Nicht während meiner Schicht",1680
+"Geburtstag – 2. Jahr",1682
 "Geburtstag – 5. Jahr",1685
+"Geburtstag – 6. Jahr",1686
 "Geburtstag – 7. Jahr",1687
 "Geburtstag – 9. Jahr",1689
 "Geburtstag – 10. Jahr",1690
 "Vergrabener Schatz: Herausfordererklippen",1692
 "Lizenzierter leidenschaftlicher legendärer Lama-Lokalisator",1693
 "Überfallstopper",1696
+"Rock 'n' Roller",1697
 "Meister der Versammlung",1699
 "Kraftquetscher",1701
 "Unheilstifter",1702
@@ -364,6 +386,7 @@
 "Akolyth der Dwayna",1736
 "Traumdistel-Waffensammlung",1739
 "Pyro-Waffensammlung",1740
+"Phönix-Waffensammlung",1743
 "Jormag-Abwehrwegweiser",1744
 "Zodiak-Waffensammlung",1747
 "Exotischer Jäger",1748
@@ -385,6 +408,7 @@
 "Kupfer",1798
 "Der Henker",1801
 "Das A und O",1804
+"Kaufmännischer Söldner",1805
 "Verlorene Abzeichen",1810
 "Verteidiger: Rotstein-Bastion",1811
 "Verteidiger: Bernstein-Wanderdüne",1812
@@ -400,6 +424,7 @@
 "Helfer des Botschafters",1836
 "Täglicher Erntearbeiter von Ascalon",1838
 "Täglicher Panorama-Genießer von Kryta",1839
+"Täglicher WvW-Turm-Eroberer",1843
 "Täglicher WvW-Zielobjekt-Verteidiger",1844
 "Täglicher WvW-Festeneroberer",1845
 "Täglicher WvW-Karawanen-Zerstörer",1847
@@ -434,6 +459,7 @@
 "Tägliches Sprungrätsel: Unter neuer Leitung",1917
 "Tägliches Sprungrätsel: Der Turm des Wesirs",1918
 "Tägliches Sprungrätsel: Weyandts Rache",1923
+"Tägliches Sprungrätsel: Absturzstelle",1924
 "Tägliches Sprungrätsel: Dämonenraupen-Gruben",1926
 "Tägliches Sprungrätsel: Die Roheisen-Grube",1927
 "Tägliches Sprungrätsel: Morgans Sprung",1929
@@ -446,6 +472,7 @@
 "Tägliche Event-Koryphäe der Fluchküste",1941
 "Tägliche Event-Koryphäe der Meerenge der Verwüstung",1942
 "Tägliche Event-Koryphäe der Gendarran-Felder",1943
+"Tägliche Event-Koryphäe der Flammenkamm-Steppe",1946
 "Tägliche Event-Koryphäe des Funkenschwärmersumpfs",1947
 "Tägliche Event-Koryphäe der Felder der Verwüstung",1952
 "Tägliche Event-Koryphäe der Wanderer-Hügel",1953
@@ -471,6 +498,7 @@
 "Täglicher Erntearbeiter der Zittergipfel",1985
 "Täglicher Gefrorener Schlund",2022
 "Tägliche Klaue von Jormag",2026
+"Wintertag-Spielzeug-Waffen-Sammlung",2029
 "Mordrem-Waffensammlung",2050
 "Lumineszierende Kopfbedeckung",2051
 "Verzerrte Reflexion",2056
@@ -479,12 +507,14 @@
 "Kein Zurück",2060
 "Felsvermeider",2061
 "Buschbomber",2062
+"Bienenzüchter-Zermalmer",2064
 "Zerfetzer-Zersetzer",2065
 "Tauchmeister: Trockendock-Riss",2066
 "Rankenzorn-Tilger",2068
 "Von Bienen bedeckt!",2069
 "Jetzt bloß nicht hinsehen!",2070
 "Verschlinger-Beschützer",2072
+"Eine funkelnde Demonstration",2079
 "Drachenball-Teilnehmer",2080
 "Drachenball-Boss",2082
 "\"Karmesinrote Löwen\"-Waffensammlung",2083
@@ -498,6 +528,7 @@
 "Einsicht Grasgrüne Schwelle: Distelranken-Klamm",2145
 "Einsicht Grasgrüne Schwelle: Zwingen-Senke",2146
 "Einsicht Grasgrüne Schwelle: Knirsch-Höhlen",2147
+"Einsicht Grasgrüne Schwelle: Vor den Adligen-Vorsprüngen",2148
 "Einsicht Grasgrüne Schwelle: Herzloser Pass",2150
 "Potentaten-Töter",2151
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 11",2153
@@ -515,7 +546,10 @@
 "Rodgort I: Die Experimentelle Fackel",2180
 "Widergeehrt",2181
 "Düsternis III: Dämmerung",2183
+"Düsternis II: Das Perfektionierte Nachtschwert",2184
+"Der Bifröst III: Die Legende",2187
 "Pöse Pilze!: Silber",2188
+"Ley-Stein-Rüstung",2190
 "Kudzu I: Der Experimentelle Langbogen",2193
 "Todlose Flucht",2195
 "Verrückte Flugmanöver",2197
@@ -528,6 +562,7 @@
 "Explorator: Widerstand des Drachen",2212
 "Schatulle \"Stolz von Löwenstein\"",2214
 "Drohnen-Rennen: Silber",2215
+"Versteckte Amphibie",2216
 "Explorator der Grasgrünen Schwelle",2222
 "Bezwinger von Stabmeister Adryn",2224
 "Tasche des Agenten",2227
@@ -540,11 +575,13 @@
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 27",2239
 "Der Minnesänger III: Der Barde",2242
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 33",2244
+"Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 24",2245
 "Unkrautbereiniger",2254
 "Renovierer",2255
 "Nebelwächter-Beinschützer",2258
 "Träger des Eis",2263
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 35",2266
+"Einsicht Güldener Talkessel: Ostwacht-Klippe",2267
 "Astralaria IV: Der Kosmos",2268
 "Heuler I: Das Experimentelle Kriegshorn",2270
 "Draufgänger-Adept",2272
@@ -590,6 +627,7 @@
 "Schrotter-Meister",2353
 "HOFFNUNG II: Entwicklung",2354
 "Blitz II: Das Perfektionierte Schwert",2356
+"Traumkrieger",2357
 "Bearbeiteter Streitkolben",2359
 "Tasche des Recken",2360
 "Suchen und Retten",2361
@@ -597,6 +635,7 @@
 "Schatulle \"Cryptonym\"",2365
 "Ad Infinitum III: Ohne Grenzen",2368
 "Chak-Zermalmer",2371
+"Eine Studie in Gold",2373
 "Der Bierrat III: Der Energetisierer",2374
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 37",2377
 "Noch immer schneller als das Licht",2379
@@ -613,9 +652,11 @@
 "Ohne Fesseln",2403
 "Bearbeiteter Dolch",2404
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 4",2405
+"Klingen-Rüstung",2407
 "Lektionen der Qual",2408
 "Nebelwächter-Plattenpanzer",2413
 "Munitionsumwandlung",2414
+"Nordwind",2418
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 8",2422
 "Mutter der Wyvern",2423
 "Schreiber",2426
@@ -628,6 +669,7 @@
 "Tarnflug",2439
 "Begrabene Einsichten",2443
 "Chak-Killer: Meister",2444
+"Schatulle \"Ebenen von Golghein\"",2446
 "Meteorlogikus III: Sturm",2449
 "HOFFNUNG I: Forschung",2450
 "Archäotechnik-Adept",2453
@@ -649,9 +691,12 @@
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 2",2477
 "Frostfang I: Die Experimentelle Axt",2478
 "Blitz III: Schockangriff",2480
+"Kraitkin I: Der Experimentelle Dreizack",2483
+"Herold-Adept",2485
 "Wiedergänger: Verwüstung",2486
 "Dschungeltotem-Jäger",2489
 "Fraktal-Erfahrung",2493
+"Bergungsmaterial-Grube: Silber",2494
 "Meister des Mauls von Mordremoth",2496
 "Chak-Killer: Experte",2497
 "Bergungsmaterial-Grube: Gold",2499
@@ -676,6 +721,7 @@
 "Nebelwächter-Kopfbandage",2529
 "Wurzeln des Schreckens",2531
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 31",2533
+"Das Raubtier I: Das Experimentelle Gewehr",2534
 "Die Flammensucher-Prophezeiungen III: Die Auserwählten",2536
 "Keine Hinterhalte",2537
 "Schatulle \"Drachenmacher\"",2538
@@ -709,6 +755,7 @@
 "Feuerspringer",2590
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 39",2591
 "Druiden-Meister",2593
+"Mordrem-Ex",2594
 "Wyvern-Bändiger",2595
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 41",2598
 "Eierlauf",2599
@@ -727,6 +774,7 @@
 "Rettung der Stadt aus Gold",2622
 "Schatulle \"Donnerbrecher\"",2624
 "Bo",2626
+"Tasche der Magistra",2628
 "Bearbeiteter Hammer",2629
 "Rauferei am Refugium: Silber",2633
 "Tarir-Herausforderungs-Sieger",2634
@@ -746,6 +794,7 @@
 "Ex und hopp",2667
 "Liga-Wiedergänger – Veteran",2671
 "Schwingen des Ruhms – Elite",2673
+"Liga-Elementarmagier – Elite",2674
 "Liga-Mesmer – Veteran",2675
 "Liga-Klassenkämpfer – Rekrut",2677
 "Schwingen des Ruhms – Champion",2678
@@ -777,6 +826,7 @@
 "Täglicher Liga-Teilnehmer – Elite",2735
 "Sammler Mystischer Essenz – Rekrut",2737
 "Beginn der Reise zu \"Der Aufstieg\"",2740
+"Liga-Waldläufer – Champion",2742
 "Liga-Waldläufer – Veteran",2743
 "Liga-Elementarmagier – Veteran",2744
 "Liga-Wiedergänger – Elite",2745
@@ -870,9 +920,12 @@
 "Täglicher Abschluss: Unterwasserruinen, Rang 3",2964
 "Fraktal-Eingeweihter",2965
 "Täglicher Abschluss: Feuriger Boss, Rang 4",2966
+"Tägliche Event-Koryphäe: Verschlungene Tiefen",2968
+"Tägliches Abenteuer: Rauferei am Refugium",2969
 "Täglicher Abschluss: Solider Ozean, Rang 2",2971
 "Chuka und Champawat IV: Eine unkonventionelle Familie",2974
 "Tägliches Abenteuer: Käfer im Geäst",2975
+"Täglicher Abschluss: Feuriger Hochofen, Rang 1",2976
 "Täglicher Abschluss: Kapitän Mai Trin Boss, Rang 1",2978
 "Täglicher Abschluss: Feuriger Boss, Rang 1",2979
 "Tägliches Abenteuer: Pöse Pilze!",2980
@@ -891,6 +944,7 @@
 "Ley-Linien-Forschung",3006
 "Hindernis für die Inquestur",3009
 "Durchquert das Verdrehte Schloss",3010
+"Ausweichmanöver",3011
 "Abgebaut",3014
 "Kundige Politik",3015
 "Zerlegt",3017
@@ -975,6 +1029,7 @@
 "Tägliche Beerenbeschaffung des Bitterfrost-Grenzlands",3197
 "Bergungstrupp",3199
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 67",3201
+"Kodex: Kodan",3206
 "Elixier-Zubereitung",3207
 "Noch eine Schleimpfütze",3208
 "Bittere Kälte",3210
@@ -1003,14 +1058,17 @@
 "Unerbittliche Legende",3265
 "Goldene Großzügigkeit",3270
 "Skrupellose Legende",3272
+"Geisterwacht-Angreifer",3280
 "Baumknutscher-Knutscher",3282
 "\"Hammer des Himmels\"-Verteidiger",3283
 "Einsicht Doric-See: Melandrus Zuflucht",3284
 "Doric-See im Visier",3285
 "Mondlichtaktion",3286
 "Kyhlo-Verteidiger",3291
+"Einzelhaft",3292
 "Armee für die Schlachtbank",3295
 "Stimme der Verstorbenen",3296
+"Mechanischer Schlächter",3298
 "Sabotage in Fort Evennia",3301
 "Täglicher Doric-See: Wie ein Uhrwerk",3305
 "Stiller-Sturm-Angreifer",3307
@@ -1037,6 +1095,7 @@
 "Täglicher Doric-See: Bosse",3346
 "Beherrschung \"Der Kopf der Schlange\"",3348
 "Einsicht Doric-See: Wächtersenke",3350
+"Wer sumpft, der findet ...",3351
 "Erleuchtung",3354
 "Einsicht Doric-See: Seeufer-Basar",3358
 "Sieg in Niflhel",3359
@@ -1075,8 +1134,10 @@
 "Wurm-Schlürfer",3424
 "Täglicher Wurmboss oder Kraftanzug-Boss von Draconis Mons",3426
 "Gruft-Hüter",3427
+"Schrecken der Siedenden See",3428
 "Lektionen gelernt",3429
 "Verrückte Flugmanöver",3430
+"Feuerring",3433
 "Frisch gesotten",3434
 "Ein Steinkreis in der Fremde",3436
 "Teurer Geschmack",3437
@@ -1087,9 +1148,11 @@
 "Erwachen des Druidensteins",3445
 "Jagd auf einen Gott",3446
 "Sprießen des Druidensteins",3447
+"Andenken-Waffensammlung",3448
 "Täglicher Teilnehmer an einem PvP-Turnier",3450
 "Vielseitig",3451
 "Lama-Zusammentrieb",3453
+"Reaktionsfreudig",3455
 "Ein schneller Tod",3456
 "Legendärer Rüstmeister",3459
 "Aus reiner Gier",3460
@@ -1106,6 +1169,7 @@
 "Aurora II: Stärkung",3489
 "Meister des Doric-Sees",3491
 "Wandmalerei-Künstler",3493
+"Meister der Zaubersängerlände",3495
 "Einfach tierisch",3496
 "Reinigungskraft",3497
 "Auferstandenen-Forschung",3498
@@ -1163,6 +1227,7 @@
 "Verlorenes Wissen des Wüsten-Hochlands",3594
 "Zwergen-Relikte",3596
 "Schnitter der Erweckten",3598
+"Einsicht Ödland: Teersteintränen",3600
 "Mumien-Legion",3602
 "Täglicher Demolierer",3607
 "Dynastisches Ende",3608
@@ -1187,6 +1252,7 @@
 "Verlorenes Wissen der Elon-Flusslande",3632
 "Offener Himmel: Kristalloase",3634
 "Kostümprobe",3635
+"Legendäre Kopfgeldaufträge Domäne Vaabi",3638
 "Steintrotz-Henkersbeil",3639
 "Einsicht Wüsten-Hochland: Riesenzweig",3640
 "Kaadsseo die Weise",3643
@@ -1218,8 +1284,10 @@
 "Schatten-Informationen: Gold",3696
 "Entziehen verboten",3698
 "Geisterhaftes Trio",3699
+"Der Bankeinbruch: Tresor 3",3702
 "Einsicht Elon-Flusslande: Säulen der Souveränität",3704
 "Blumen für Jimoh",3706
+"Schweberochen-Suche",3707
 "Schatten-Informationen: Silber",3708
 "Elon-Flusslande: Kopfgeldrundreise",3711
 "Erhaltung der Magie",3712
@@ -1234,20 +1302,26 @@
 "Der Wahrheit stellen",3733
 "Der Bankeinbruch: Tresor 2",3735
 "Offener Himmel: Zufluchtsort der Sonnenspeere",3736
+"Schatten-Vorräte",3737
 "Wettlauf bis zum Ziel: Wüsten-Hochland",3741
 "Champion-Kopfgeldaufträge Wüsten-Hochland",3743
 "Nur ein Schluck",3744
 "Kettklinge",3745
 "Feuertänzer",3746
 "Holoschmied-Meister",3750
+"Sterbesakramente",3753
 "Legendäre Kopfgeldaufträge Wüsten-Hochland",3754
 "Einsicht Wüsten-Hochland: Stillstand-Spitze",3755
 "Ausmerzung",3756
 "Täglicher Erntearbeiter der Wüste",3760
+"Einsicht Kristalloase: Alt-Amnoon",3763
 "Legendäre Kopfgeldaufträge Kristalloase",3764
 "Nachschubeinsatz Vehjin: Silber",3765
+"Karottensammler",3766
 "Fangzahn Mokèlés",3768
 "Einsicht Wüsten-Hochland: Hochsprunghügel",3769
+"Kristalloase: Kopfgeldrundreise",3773
+"Geschichte der Altehrwürdigen",3777
 "Täglicher Kopfgeldjäger des Ödlands",3779
 "Täglicher Kopfgeldjäger des Wüsten-Hochlands",3784
 "Führer der Verlorenen",3787
@@ -1263,6 +1337,7 @@
 "Einsicht Kristalloase: Sifuri-Treibsand",3805
 "Dünenreiter",3806
 "Kriegshunde",3809
+"Das Ödland: Kopfgeldrundreise",3812
 "Explorator der Kristallwüste",3815
 "Wer braucht schon ein magisches Schwert?",3820
 "Dschinnflaschen-Abfüller",3821
@@ -1323,6 +1398,7 @@
 "Schlangen-Töter",3924
 "Uralter Groll",3925
 "Champion des Glockenturms",3926
+"Schrecken des Labyrinths",3927
 "Tour durch das Labyrinth",3930
 "Herold-Auszubildender des Verrückten Königs",3931
 "Gegen den König",3933
@@ -1350,6 +1426,8 @@
 "Täglicher Abenteurer der Domäne Istan",3974
 "Ihr habt was vergessen",3975
 "Evakuierung Amnoons",3976
+"Greifen-Experte Istan: Silber",3980
+"Einsicht Istan: Säule der Ungläubigen",3981
 "Pichelschlich",3982
 "Meuterei!",3983
 "Qais: Fall erledigt",3984
@@ -1366,6 +1444,7 @@
 "Forschung über Brandstein",4000
 "Elektrische Stadt",4002
 "Täglicher Rennteilnehmer der Domäne Istan",4005
+"Täglicher Abschluss: Zwielichtoase, Rang 2",4006
 "Kein Durst",4007
 "Die Korsarin überzeugen",4009
 "Zank im Suff",4012
@@ -1374,6 +1453,7 @@
 "Gottheit der Nebel",4018
 "Tot und still",4020
 "Uralte Waffen: Silber",4021
+"Gespräch mit Verbündeten",4022
 "Täglicher Abschluss: Zwielichtoase, Rang 1",4028
 "Einsicht Istan: Koloss von Palawadan",4029
 "Täglicher Abschluss: Zwielichtoase, Rang 3",4030
@@ -1384,16 +1464,19 @@
 "Augenschmerz",4036
 "3 Statuen in 5 Minuten",4037
 "Eisbrecher",4038
+"Stellung halten",4039
 "Champions Erwachen",4040
 "Nieder mit Joko!",4042
 "Festival-Automat (jährlich)",4045
 "Zeitalter der Spielzeukalypse (jährlich)",4046
 "Spielzeukalypse-Überlebender",4047
+"Feiertagsmusik (jährlich)",4048
 "Winterwunderland-Beherrschung",4049
 "Gletscher-Waffensammlung",4050
 "Festliche Großzügigkeit (jährlich)",4051
 "Schneegleiter (jährlich)",4052
 "Rennen im Schnee",4053
+"Feiertag-Nahrungssammlung",4054
 "Ullas Rivale",4056
 "Furchtloser Spender",4057
 "Sprung über den Schnee (jährlich)",4059
@@ -1403,6 +1486,7 @@
 "Goldener Zündler",4066
 "Erleuchteter Himmel (jährlich)",4067
 "Herz des Drachen (jährlich)",4068
+"Drachenball-Champion",4069
 "Feuerwerkskörper-Finder",4074
 "Freunde an höchster Stelle",4076
 "Erleuchteter Himmel",4078
@@ -1425,6 +1509,7 @@
 "Täglicher Inquestur-Bezwinger der Sandgepeitschten Inseln",4113
 "Der Weg nach Rata Primus",4114
 "Täglicher Kopfgeldjäger der Sandgepeitschten Inseln",4118
+"Wyvern-Treffer",4119
 "Wettlauf bis zum Ziel: Olmakhan-Docks",4121
 "Sturmpause",4122
 "Mir steht der Golem",4126
@@ -1440,13 +1525,16 @@
 "Rettungskommando",4143
 "Beeinflussbare Jugend",4145
 "Greifen-Experte Sandgepeitschte Inseln: Silber",4147
+"Champion-Jäger der Sandgepeitschten Inseln",4148
 "Einsicht Sandgepeitschte Inseln: Invariante Enklave",4150
 "Welt 2: Vorbereitung (jährlich)",4153
+"Welt 1: Vorbereitung (jährlich)",4154
 "Flug der Hummelmöpse (jährlich)",4156
 "Für Ravious",4157
 "Sitze der Welt",4159
 "Welt 2: Herausforderung (jährlich)",4160
 "Inquestur-Waffensammlung Typ II",4162
+"Im Transit verloren",4165
 "Vergebliche Invasion",4166
 "Erhebung über wichtige Themen",4167
 "Wiedererweckte Gefahr",4169
@@ -1471,12 +1559,14 @@
 "Mehr als ein Held",4207
 "Dezimierung",4209
 "Täglicher Abschluss: Tiefenstein, Rang 3",4210
+"[FTG 403]: Fortschrittliche Dynamik – Heilende Aura, Stufe 4",4212
 "Einsicht Domäne Kourna: Dabiji-Senken",4213
 "[FTG 305]: Kompetente Dynamik – Segenswelle, Stufe 3",4215
 "[FTG 100]: Einführung in die Feldtechnologie-Geschützturm-Dynamik",4216
 "Unfreiwilliges Publikum",4217
 "[FTG 202]: Mittlere Dynamik – Gebietsschaden, Stufe 2",4219
 "Leise aber tödlich",4220
+"Krabben treten",4222
 "[FTG 301]: Kompetente Dynamik – Direktschaden, Stufe 3",4226
 "Käferquetschen",4227
 "Einsicht Domäne Kourna: Dunlon-Quellen",4228
@@ -1527,6 +1617,7 @@
 "Königsbezwinger",4300
 "Himmelsstürmer in den Klippen",4301
 "Bündel-Plünderer",4303
+"Abbild-Löscher",4304
 "Piraten-Prügler",4305
 "Dreifache Bedrohung",4307
 "Bis Blut fließt",4308
@@ -1534,6 +1625,7 @@
 "Bossblitz: Erledigt Pyroxis",4310
 "Fleischloser Mörder",4311
 "Aspekt-Sammler",4312
+"Glibber Kleckse",4315
 "Pavillonjäger",4316
 "Schneller als Vier Winde",4317
 "Einen nassen Charr hat niemand gern",4318
@@ -1553,6 +1645,7 @@
 "Eine zerschmetterte Nation",4342
 "Ich habe jemanden mitgebracht",4343
 "Chaostheorie",4346
+"Platsch!",4347
 "Tür zur Vergangenheit",4348
 "Helden der Schmiede",4355
 "Requiem: Experiment 6",4357
@@ -1573,6 +1666,7 @@
 "Greifen-Meister Jahai-Klippen: Gold",4385
 "Einsicht Jahai: Harpyien-Stein",4386
 "Schwerter und Schilde stapeln",4388
+"Historische Ambition",4389
 "Vermächtnis",4392
 "Kapsel-Stampfer",4393
 "Nicht ins Wasser gehen",4397
@@ -1584,6 +1678,7 @@
 "Worte der Genesung",4408
 "Mythenschreiber-Gelehrter",4409
 "Täglicher Erfolg Jahai-Klippen: Kampf dem Todesgebrandmarkten Zerschmetterer!",4410
+"Koaleszenz II: Das Geschenk",4412
 "Kleine Demontage",4416
 "Endlich aus der Flasche",4421
 "Mit den Klauen zur Mauer",4424
@@ -1602,6 +1697,7 @@
 "Adel verpflichtet (jährlich)",4452
 "Verteidiger des Dschinn-Reichs",4455
 "Kraft des Dschinns",4456
+"Zustimmung Yasmis",4458
 "Günstling des Dschinns",4460
 "Roll-Ass: Seeuferschleife",4461
 "Roll-Rennteilnehmer: Tropental-Rennstrecke",4463
@@ -1631,6 +1727,7 @@
 "Es wird heiß hier drin",4503
 "Gebrandmarkte am Stiel",4506
 "Geschichtenjagd: Weg des Wanderers",4508
+"Geister-Meider",4509
 "Elektrophobie",4510
 "Geschichtenjagd: Machtwille",4511
 "Geschichtenjagd: Blutdurst",4512
@@ -1642,6 +1739,8 @@
 "Hydra-Rodeo",4522
 "Einsicht Donnerkopf-Gipfel: Eisenhammerkreuzung",4524
 "Einsicht Donnerkopf-Gipfel: Spießrutenlauf Brechnars",4525
+"Geschichtenjagd: Kritischer Instinkt",4527
+"Geschichtenjagd: Wie eine verwundete Bestie",4528
 "Geschichtenjagd: Ein Licht im Dunkeln",4531
 "Geschichtenjagd: Mirren der Manipulator",4535
 "Nachladen: Gold",4538
@@ -1658,6 +1757,7 @@
 "Plünderer von Zwergen-Schätzen",4559
 "Geschichtenjagd: Mouglon der Wachsame",4560
 "Geschichtenjagd: Meister des Duells",4561
+"Geschichtenjagd: Kobbel der Poetische",4562
 "Geschichtenjagd: Schlachtruf",4563
 "Großer Preis",4564
 "Sturheit",4567
@@ -1693,6 +1793,7 @@
 "Geschichtenjagd: Asaliea die Kanalisiererin",4619
 "Schrottsuche",4621
 "Geschichtenjagd: Höhenflieger",4622
+"\"Trotziges Glas\"-Waffensammlung",4627
 "Sturmhelm der Kriegsklaue",4628
 "Konsolenkracher",4630
 "Ist das ein Kratzbaum?",4632
@@ -1753,6 +1854,7 @@
 "Ruhm der Drachen",4744
 "Herz an Herz",4747
 "Himmelsschuppen-Reiter: Ascalon",4750
+"Himmelsschuppen-Reiter: Befleckte Küste",4752
 "Landung",4753
 "Gemeinschaftsziel-Belohnung: Rang 2 (Meta-Event)",4755
 "Bonus-Event: Meta-Event-Ansturm",4756
@@ -1763,6 +1865,7 @@
 "Visionen der Donnerkopf-Gipfel",4764
 "Visionen von Istan",4765
 "Bonus-Event: Meta-Event-Ansturm",4769
+"Visionen von Jahai",4770
 "Gemeinschaftsziel-Belohnung: Rang 5 (Meta-Event)",4772
 "\"Forscher\" der Mystischen Schmiede",4775
 "König der Arena",4777
@@ -1772,11 +1875,13 @@
 "Passierschein nach Ahdashim",4781
 "Kraftschub",4785
 "Ritter der Arena",4786
+"Herzogin der Arena",4789
 "Gelehrter von Ahdashim",4790
 "Tümpelfest",4791
 "Gezähmtes Gelände",4796
 "Verrückt vor Kraft",4800
 "Sturmjäger",4801
+"Felsenfest",4803
 "Koaleszenz III: Kulmination",4805
 "Herzog der Arena",4806
 "Prinz der Arena",4807
@@ -1789,6 +1894,7 @@
 "Piñata-Profi",4822
 "Den Himmel einfärben",4823
 "Hoch hinaus",4824
+"Zhaitans Echte",4825
 "Teilnahme am Drachen-Gepolter",4827
 "Rekord geschlagen",4831
 "Hologramm-Zähmer",4834
@@ -1806,6 +1912,7 @@
 "Piraten-Prügler (jährlich)",4862
 "Formidabler Flieger (jährlich)",4863
 "Bossblitz: Bezwingt Bumm-Bumm (jährlich)",4864
+"Bräuche der Vier Winde (jährlich)",4865
 "Bossblitz: Vernichtet Sparcus (jährlich)",4869
 "Zentauren-Zermalmer (jährlich)",4870
 "Bossblitz: Besiegt Kuraii (jährlich)",4871
@@ -1844,12 +1951,15 @@
 "VIP-Berechtigung",4931
 "Nicht aus der Rolle fallen",4933
 "Pikant",4936
+"Täglicher Grothmar-Sucher",4937
 "Ballon-Ziele",4939
 "\"Durch Blut gebunden\"-Beherrschung",4940
 "Viehhüter",4942
 "Schoten-Sammler",4946
 "Große Tour von Grothmar: Spitzenposition",4948
+"Grothmar-Tal-Historiker",4949
 "Geheimnisse des Khan-Ur",4951
+"Täglicher Grothmar-Schoten-Sammler",4952
 "Grothmar-Legionär",4953
 "Zusicherung",4956
 "Böses Blut",4957
@@ -1860,6 +1970,7 @@
 "Asche-Trainingsstrecke: Gold",4966
 "Täglicher Feld-Assistent des Grothmar-Tals",4969
 "Siegreich im Zerstörungs-Derby",4970
+"Rechte Hand des Khan-Ur",4972
 "Tiefer und tiefer",4974
 "Täglicher Säuberer vom Schrein des Schicksalswissens",4977
 "Zündet es an!",4978
@@ -1870,6 +1981,7 @@
 "Brand zerstampft",4991
 "Professioneller Rausschmeißer",4995
 "Gnade des Verrückten Königs",4999
+"\"Extra Life\"-Spender",5000
 "\"Extra Life\"-Spenderziel",5001
 "Verrückte Rüstkammer: Sterbesakramente",5003
 "\"Königliche Flamme\"-Waffen",5004
@@ -1877,6 +1989,7 @@
 "Täglicher Gefallene-Jäger",5007
 "Tägliche Prüfung Kodas",5008
 "Ins Eis",5011
+"Raben-Linsen-Gelehrter",5014
 "Tägliche Helfende Pfote der Kodan",5015
 "Nachwuchsermittler",5016
 "Gunst des Raben",5017
@@ -1922,6 +2035,7 @@
 "Jagd ohne Hindernisse",5099
 "Kodan-Ausweicher",5100
 "Vom Finden verlorener Geister",5102
+"Er kommt immer wieder",5104
 "Das war zu knapp",5106
 "Geheimnis der westlichen Sümpfe",5110
 "Koda sei gepriesen",5112
@@ -1932,6 +2046,7 @@
 "Geheimnis des verborgenen Turms",5119
 "Vortex-Unterbrechnung",5126
 "Springt hoch oder seid angeschlagen",5127
+"Geister-Jagd",5130
 "Geheimnis von Drakkars Unterschlupf",5131
 "Rutschlos",5132
 "Ertragreicher Zeitvertreib",5134
@@ -1951,6 +2066,7 @@
 "Esst köstliche Kuchen",5153
 "An 5 Events teilnehmen",5154
 "PvP-Liga-Komplettierer",5157
+"Belohnungspfad: Skin für Gilden-Reiter-Kriegsklaue",5160
 "Liga-Bezwinger – Saison 21",5161
 "Aller Anfang ist schwer",5163
 "Tutorial-Beherrschung",5164
@@ -1969,6 +2085,8 @@
 "Beschaffung vor Ort",5191
 "Heißer die Höhlen nie sengen ...",5192
 "Experimentieren",5193
+"Prioritätsangriff: \"Knochenhäuter\"",5194
+"Nicabar Stahlwebers Fußstapfen",5196
 "Badetag",5197
 "Wappen des Turniersieges",5199
 "Notwartung",5200
@@ -1978,6 +2096,8 @@
 "Prioritätsangriff: \"Geflüster des Jormag\"",5210
 "Ausgestattet für den Norden",5211
 "Späher",5212
+"Wappen des Sieges",5213
+"Rechte Hand des Zenturios",5214
 "Visionen der Vergangenheit: \"Nördliche Nolan-Brutstätte\"",5215
 "Visionen der Vergangenheit: \"Canachs Unterschlupf\"",5218
 "Wappen des Eroberers",5220
@@ -1996,6 +2116,7 @@
 "Sondermission: Stärkt die Minen",5244
 "Meister-Diplomat",5245
 "Informationen erhalten",5248
+"Sondermission: Säubert den Hafen",5249
 "Welt-Hintergrundgeschichte: Gyala-Senke",5250
 "Täglicher Minenräumer der Nieselwald-Küste",5251
 "Tengu-Waffensammler",5252
@@ -2024,6 +2145,7 @@
 "Sondermission: Stärkt den Hafen",5294
 "Tägliche Nieselwald-Küsten-Belagerung der Wolfskreuzung",5296
 "Lager-Jäger",5297
+"Ruhm der Eisen-Legion",5298
 "Sondermission: Durst!",5300
 "Sondermission: Falsche Abbilder",5305
 "Spezialkräfte",5308
@@ -2037,6 +2159,8 @@
 "Umschwung",5329
 "Einsicht Nieselwald-Küste: Spitzen-Lager",5333
 "Einsicht Nieselwald-Küste: Fuchs-Straße",5336
+"Liga-Teilnehmer – 3v3-Saison eins",5337
+"Ruhm der Asche-Legion",5338
 "Sondermission: Genießt die Ruhe",5339
 "Sondermission: Plündert das Fort",5340
 "Liga-Teilnehmer – Eroberungs-Staffel 22",5341
@@ -2085,6 +2209,7 @@
 "Mit weit geöffneten Ohren",5424
 "Tägliche Arena des Vielfraßes: Nieselwald-Küste",5425
 "Sondermission: Seht die Macht von Heilgeschossen",5428
+"Liga-Eroberer – Eroberungs-Staffel 23",5434
 "Tobendes Feuer",5440
 "Adepten-Fraktal-Kämpfer",5441
 "Respekt für die Toten",5442
@@ -2101,6 +2226,7 @@
 "Gemeinschaftsziel Fraktal-Ansturm: Rang 5",5459
 "Gemeinschaftsziel Fraktal-Ansturm: Rang 4",5460
 "Gemeinschaftsziel Fraktal-Ansturm: Rang 2",5465
+"\"Dunkle Materie\"-Waffensammlung",5470
 "Liga-Teilnehmer – Eroberungs-Staffel 24",5471
 "Liga-Bezwinger – Eroberungs-Staffel 24",5472
 "Liga-Eroberer – Eroberungs-Staffel 24",5473
@@ -2142,6 +2268,7 @@
 "Einsicht des Champions: Feste Donnerkopf",5540
 "Drachentöter-Waffensammler",5541
 "Gefrorene Gezeiten",5546
+"\"Schimmernde Aurora\"-Waffensammlung",5549
 "Liga-Teilnehmer – Eroberungs-Staffel 25",5551
 "Liga-Eroberer – Eroberungs-Staffel 25",5552
 "Top-Dracheninterventionist: Doric-See",5555
@@ -2162,6 +2289,7 @@
 "Täglich: Tengu-Missionen",5597
 "Erhabenen-Unterstützer",5598
 "Tägliche Drachenhilfe-Mission der Feste Donnerkopf",5599
+"Mond-Heimkehr: Provinz Metrica",5601
 "Mond-Heimkehr: Caledon-Wald",5604
 "Hellglänzende Inquisitor-Waffensammlung",5606
 "Mond-Heimkehr: Wanderer-Hügel",5607
@@ -2176,6 +2304,7 @@
 "Täglich: Skritt-Missionen",5635
 "Täglich: Olmakhan-Gegner",5636
 "Liga-Bezwinger – Eroberungs-Saison 26",5639
+"Not-Dracheninterventionist: Feuerherzhügel",5640
 "Not-Dracheninterventionist: Blutstrom-Küste",5642
 "Versammeln der Kodan",5645
 "Tägliche Drachenhilfe-Mission des Feuerherzhügels",5646
@@ -2213,7 +2342,9 @@
 "Erneuter Besuch im Verborgenen Hain",5718
 "Forstarbeit: Glutbucht",5720
 "Zweiter Tauchgang: Blutsteinsumpf",5721
+"Rückkehr zu \"Bittere Kälte\"",5722
 "Rückkehr zu \"Die Wegmarken rekalibrieren\"",5725
+"Einsatz vor Ort: Silberwüste 2",5726
 "Ernteeinbringer: Silberwüste",5730
 "Rückkehr zu \"Die Taten eines Schattens\"",5732
 "Ernteeinbringer: Glutbucht",5734
@@ -2233,6 +2364,7 @@
 "Rückkehr zur Silberwüste 2",5758
 "Rückkehr zu \"Begegnung mit den Asura\"",5761
 "Rückkehr zu \"Abgestürzte Hoffnung\"",5762
+"Überwindet erneut das Fallen-Labyrinth",5764
 "Überwindet erneut die Verborgenen Tiefen",5765
 "Rache des Entfesselten Wächters",5766
 "Rückkehr zu \"Die Mysteriöse Höhle\"",5768
@@ -2241,6 +2373,7 @@
 "Den Sengenden Aufstieg erneut überwinden",5777
 "Ernteeinbringer: Draconis Mons",5778
 "Rückkehr zu \"Caithes Aufklärungstrupp\"",5784
+"Schatzjäger: Hochland",5785
 "Hablions Rache",5786
 "Ernteeinbringer: Trockenkuppe",5787
 "Saisons der Drachen",5790
@@ -2260,6 +2393,7 @@
 "Rückkehr zu \"Ministerversammlung\"",5816
 "Forstarbeit: Zaubersängerlände",5824
 "Gemeinschafts-Kriegsherr",5827
+"Schatzjäger: Schürftal",5828
 "Rückkehr zu Silberwüste 1",5829
 "Erz-Bergarbeiter: Glutbucht",5833
 "Rückkehr zu \"Forschung in Rata Novus\"",5834
@@ -2301,6 +2435,7 @@
 "Forstarbeit: Bjora-Sümpfe",5906
 "Rache des Zornbringers",5909
 "Ernteeinbringer: Nieselwald-Küste",5911
+"Angesehener Held: Domäne Istan",5912
 "Kehrt zurück zu \"Hinter feindlichen Linien\"",5913
 "Kehrt zurück zu \"Brechender Stahl\"",5914
 "Rache von Kuda",5917
@@ -2314,11 +2449,13 @@
 "Forstarbeit: Jahai-Klippen",5935
 "Ernteeinbringer: Bjora-Sümpfe",5936
 "Forstarbeit: Sandgepeitschte Inseln",5938
+"Forstarbeit: Donnerkopf-Gipfel",5941
 "Zweiter Einsatz: Caledon-Wald",5944
 "Erz-Bergarbeiter: Domäne Kourna",5945
 "Angesehener Held: Domäne Kourna",5947
 "Kehrt zurück zur Domäne Istan",5948
 "Angesehener Held: Jahai-Klippen",5949
+"Kehrt zurück zu \"Der Held von Istan\"",5950
 "Zweiter Einsatz: Schneekuhlenhöhen",5951
 "Zweiter Einsatz: Blutstrom-Küste",5952
 "Angesehener Held: Donnerkopf-Gipfel",5959
@@ -2352,6 +2489,7 @@
 "Kehrt zurück zu \"Ende des Champions\"",6011
 "Erz-Bergarbeiter: Stahlschmiede",6016
 "Rache von Murakai",6020
+"Kehrt zurück zu \"Hereinspaziert!\"",6021
 "Kehrt zurück zu den Donnerkopf-Gipfeln",6023
 "Kehrt zurück zu \"Bjora-Sümpfe 2\"",6024
 "Zweiter Einsatz: Feuerherzhügel",6025
@@ -2369,6 +2507,7 @@
 "Liga-Teilnehmer – 3v3-Saison fünf",6054
 "Liga-Bezwinger – 3v3-Saison fünf",6055
 "Liga-Eroberer – Eroberungs-Saison 31",6056
+"Abgrundpirscher-Waffensammlung",6058
 "Liga-Teilnehmer – Eroberungs-Saison 30",6059
 "Liga-Bezwinger – Eroberungs-Saison 30",6061
 "Liga-Bezwinger – Eroberungs-Saison 31",6064
@@ -2411,6 +2550,7 @@
 "Buchstäblicher Diebstahl",6147
 "Machenschaften im Hafen von Seitung",6150
 "Ehren-Klempner",6151
+"Eifriger Zittergipfel-Fischer",6153
 "Für die Lebenden, nicht die Toten",6154
 "Täglicher Jadebruderschaft-Bezwinger der Echowald-Wildnis",6155
 "Im Namen des Gesetzes",6156
@@ -2426,6 +2566,7 @@
 "Einzig und allein",6172
 "Gnadenstoß",6173
 "Blick zurück",6175
+"Herumstampfen",6176
 "Einsicht Neu-Kaineng: Wegmarke Ministeriumsviertel",6177
 "Fangt mich doch",6178
 "Zittergipfel-Fischer",6179
@@ -2448,14 +2589,17 @@
 "Gut, Euch zu sehen",6204
 "Täglicher Leere-Bezwinger der Echowald-Wildnis",6206
 "Nikas Rache",6208
+"Ewige Puristen-Machenschaften",6209
 "Eintrags-Datum 1331",6210
 "Tägliche Event-Koryphäe der Echowald-Wildnis",6212
 "Einsicht Neu-Kaineng: Versteinerte Handelsdocks",6214
+"Täglicher Zuchtmeister der Provinz Seitung",6216
 "Intervention",6218
 "Tägliche Event-Koryphäe der Stadt Neu-Kaineng",6222
 "Täglicher Geister-Bezwinger der Echowald-Wildnis",6223
 "Laser-Leichtfuß",6225
 "Einsicht Echowald-Wildnis: Qinkaishi-Becken",6226
+"Abgehakt",6232
 "Stets auf dem Posten",6235
 "Raptor-Ritt: Heilige Halle des Krebses",6236
 "Bluthund",6237
@@ -2515,6 +2659,7 @@
 "Geschaffte Brüder",6319
 "Respekt erwiesen",6320
 "Wöchentliche Jadeschatz-Rückholung der Provinz Seitung",6321
+"Kleine Umwege",6323
 "Vereitelte Rache",6325
 "Cantha durchwandern",6328
 "Das System ist aus",6329
@@ -2527,19 +2672,24 @@
 "Einsicht Neu-Kaineng: Lutgardis-Markt",6341
 "Unheimlich heimlich",6343
 "Maguuma-Fischer",6344
+"Meister-Mechaniker",6348
 "Enthüllte Ritualisten",6349
 "Unbesiegt",6350
 "Einsicht Echowald-Wildnis: Katakomben der Altrumm-Minen",6351
+"Prioritäts-Cantha-Angriffsmission: Ätherklingen-Unterschlupf",6353
+"Ätherklingen-Unterschlupf",6354
 "Verlorene Überlieferung",6356
 "Liebes Tagebuch",6357
 "Raptor-Läufer: Stadt Neu-Kaineng",6358
 "Einsicht Drachen-Ende: Dach des Schreins",6360
 "Bis zum nächsten Mal",6362
 "Orrianischer Fischer",6363
+"Täglicher Fischer des Maguuma-Dschungels",6364
 "Einsicht Neu-Kaineng: Schiffsfriedhof",6365
 "Tödliche Delikatessen",6368
 "Die Einer-Kombo",6371
 "Lutgardis-Maestro",6372
+"Das waren andere Zeiten",6373
 "Täglicher Jadebruderschaft-Bezwinger in Neu-Kaineng",6374
 "Steckt Schlund-Kristalle ein",6375
 "Einsicht Neu-Kaineng: Südliche Ruinen von Alt-Kaineng",6379
@@ -2547,6 +2697,8 @@
 "Einsicht Echowald-Wildnis: Heilige Halle von Wrunkenstein",6382
 "Schrecken der Schutzzauber",6386
 "Arborstein-Springer",6387
+"Puristen-Machenschaften",6388
+"Zum Schweigen gebracht",6391
 "Täglicher Puristen-Bezwinger in Neu-Kaineng",6392
 "Einsicht Drachen-Ende: Steinbruch-Kran",6395
 "Reinigungsdienst",6398
@@ -2577,8 +2729,10 @@
 "Erst denken, dann springen",6442
 "Die Tragödie nachvollziehen",6443
 "Fortentwicklung im Verfall",6446
+"Ewige Probleme aus der Tiefe",6447
 "Das Schicksal des Hauses zu Heltzer",6448
 "Einsicht Neu-Kaineng: Lutgardis-Platz",6449
+"Respektiert die Ältesten",6451
 "Sprecher-Saboteur",6452
 "Rohrreiniger",6454
 "Albax der Pechvogel",6455
@@ -2613,6 +2767,7 @@
 "Beherrschung von End of Dragons, 2. Akt",6504
 "Fischer von Drachen-Ende",6506
 "Einsicht Neu-Kaineng: Becken der Ruhe",6507
+"Nicht in dieser Nachbarschaft",6508
 "Eifriger Wüsten-Fischer",6509
 "Erntetempel",6513
 "Retter der Versorgungskette",6514
@@ -2630,7 +2785,9 @@
 "Forschungsstudie 1",6535
 "Eine ruhige Feier",6536
 "Liga-Bezwinger – Eroberungs-Saison 32",6537
+"Allianz-Ermittlungen",6538
 "Beherrschung: Flamme und Frost",6539
+"Seite an Seite",6543
 "Aus dem Fokus",6546
 "Gegen die Allianz",6547
 "Feuriges Denkmal",6548
@@ -2638,8 +2795,10 @@
 "Liga-Eroberer – Eroberungs-Saison 32",6552
 "Wegweisende Zeichen",6554
 "Liga-Teilnehmer – Eroberungs-Saison 32",6555
+"Zeremonie-Überlebender",6556
 "Der Aspekt von Schatten und Tod",6558
 "Bergung von Wertsachen",6561
+"Schach-Maat",6563
 "Himmelspiraten-Beherrschung",6564
 "Die Himmelspiraten ausrauben",6565
 "Fall abgeschlossen",6566
@@ -2692,6 +2851,7 @@
 "Nahrungs-Verbrauchsgegenstände verwenden",6641
 "Skins transmutieren",6642
 "Handwerksstufen erreichen IV",6645
+"Story-Kapitel abschließen IV",6649
 "Die Inquestur bezwingen",6650
 "Die Zerstörer besiegen",6651
 "Liga-Bezwinger – 2v2-Saison sieben",6655
@@ -2706,6 +2866,7 @@
 "Hilfsverbrauchsgegenstände",6676
 "Welt gegen Welt betreten",6677
 "Emotes verwenden",6678
+"Die Karka in der Südlicht-Bucht besiegen",6681
 "Die Scherben aufsammeln",6688
 "Die Ansprache der Königin",6694
 "Die Aspekte des Kristalls und der Wut",6698
@@ -2725,6 +2886,7 @@
 "Dekade der Champions: Gefrorener Schlund",6736
 "Dekade der Champions: Schatten-Behemoth",6737
 "Dekade der Champions: Klaue von Jormag",6739
+"Dekade der Champions: Großer Dschungelwurm",6740
 "Wegmarken entdecken II",6746
 "Krait-Albtraum nochmals abgewendet",6747
 "Kampf an der Ziellinie",6748
@@ -2760,9 +2922,11 @@
 "Liga-Bezwinger – Eroberungs-Saison 36",6840
 "Schwarzlöwen-Beschaffungsmission Woche 1",6842
 "Ein Atemzug gefilterte Luft",6845
+"Blutdurst-Manifest",6847
 "Erinnerungen an Wasser und Leben",6848
 "Kontakt zur Basis",6850
 "Wanderer-Weben",6853
+"Werkzeuge der Luxon-Jäger",6854
 "Stiller Sand",6856
 "Schwarzlöwen-Beschaffungsmission Woche 3",6857
 "(Wöchentlich) Turmfürst",6858
@@ -2802,6 +2966,7 @@
 "Freigesetzte Emotionen",6921
 "Skiff-Rennteilnahme in Neu-Kaineng: Gold",6923
 "Tägliche Event-Koryphäe der Gyala-Senke",6924
+"Belagerungsschildkröten-Ass der Provinz Seitung: Gold",6925
 "Belagerungsschildkröten-Ass der Gyala-Senke: Gold",6926
 "Täglicher Kappa -Bezwinger der Gyala-Senke",6927
 "Jade-Bot-Rennteilnahme in Neu-Kaineng: Silber",6929
@@ -2832,6 +2997,7 @@
 "Gleichgewicht herstellen",6972
 "Blitzartig in den Fokus",6973
 "Wissen fördern",6974
+"Taucherbrille: Säulentaucher",6975
 "Einsicht Amnytas: Der Platz der Weisheit",6977
 "Legendäre Waffe: Frostfang",6980
 "Turm des Zauberers: Himmelsschuppen-Zielübungen – Silber",6982
@@ -2839,6 +3005,7 @@
 "Himmelsschuppen-Ei-Infusionen",6984
 "Helft Mabon",6985
 "Rissjagd in den Verschlungenen Tiefen",6986
+"Erweckt die Erinnerung zum Leben",6987
 "Zojjas Tagebuch: Verwüstetes Garrenhoff",6989
 "Amnytas-Beherrschung",6991
 "Himmelsschuppen-Erstausstattung",6993
@@ -2846,8 +3013,10 @@
 "Ewiger Himmelswacht-Archipel: Den Turm des Zauberers entriegeln",6995
 "Überfälle in den Verschlungenen Tiefen",6996
 "Der fehlende Aspekt",6997
+"Einsicht Amnytas: Von Wolken verdeckt",6999
 "Einsicht Turm: Der höchste Punkt",7000
 "Einsicht Himmelswacht-Archipel: Turm des Kriegsgottes",7006
+"Amnytas-Taucherbrille",7008
 "Rissjagd in der Domäne Istan",7012
 "Secrets of the Obscure: Beherrschung 3. Akt",7014
 "Beherrschung \"Himmelswacht-Archipel\"",7017
@@ -2869,6 +3038,7 @@
 "Erleuchtung von Amnytas",7053
 "Explorator von Amnytas",7054
 "Überfälle in den Elon-Flusslanden",7060
+"Vergessene Überlieferung",7062
 "Legendäre Waffe: Der Träumer",7063
 "Überfälle an den Baumgrenzen-Fällen",7064
 "Himmelsschuppen-Zielübungen im Himmelswacht-Archipel: Gold",7065
@@ -2890,6 +3060,7 @@
 "Tentakel-Stürzer",7102
 "Zojjas Tagebuch: Droknars Licht",7103
 "Weg mit dem Müll",7106
+"\"Turm des Zauberers\"-Prüfung: Silber",7107
 "Überfälle am Doric-See",7108
 "Überfälle an der Blutstrom-Küste",7109
 "Sammler von Adlerauge-Waffen",7110
@@ -2897,6 +3068,7 @@
 "\"Horn von Maguuma\"-Fischer",7114
 "Tempel von Febe",7116
 "Ewiges \"Auf dem Weg zum Turm des Zauberers\"",7119
+"Erster Kontakt",7122
 "Einsicht Amnytas: Windklippe",7124
 "Einsicht Himmelswacht-Archipel: Rata-Novus-Grundfesten",7125
 "Beleuchtung des Himmelswacht-Archipels",7126
@@ -2919,6 +3091,7 @@
 "Mutter der Sterne",7162
 "Keine Ruhe für die Kryptis",7164
 "Lacht, als würde Lyhr Euch zusehen",7165
+"Einsicht Himmelswacht-Archipel: Über dem Dschungel",7171
 "Verrat",7172
 "Legendäre Waffe: Der Minnesänger",7174
 "Einsicht Himmelswacht-Archipel: Südliche Lichtung",7177
@@ -2933,6 +3106,7 @@
 "Legendäre Waffe: Kraitkin",7198
 "Zojjas Tagebuch: Promenade von Rata Novus",7199
 "Das beruht auf Gegenseitigkeit",7204
+"Grenzenlos Gleichgewicht geben",7205
 "Zojjas Tagebuch: Jade-Mech-Siedlungszone 03",7207
 "Stärke stabilisieren",7208
 "Einsicht Amnytas: Das Arboretum",7209
@@ -2941,10 +3115,12 @@
 "Wir sind jetzt Freunde",7215
 "Einsicht Himmelswacht-Archipel: Unter den Dünen",7216
 "Astraler Griff",7219
+"Der Weltenturm",7221
 "Weggezappt",7224
 "Legendäre Waffe: Raserei",7226
 "Ungewisse Zeiten",7227
 "Taucherbrille: Freier Fall von Neu-Kaineng",7230
+"Rissversiegler",7231
 "Legendäre Waffe: Blitz",7233
 "Rissjagd in den Elon-Flusslanden",7237
 "Astraler Schritt",7240
@@ -2968,11 +3144,14 @@
 "Astraler Handlanger",7452
 "Verliestieftaucher: Zwielichtgarten",7489
 "Verliestieftaucher: Flammenzitadelle",7512
+"Rückhol-Event für gestohlene Schwarzlöwen-Waren: Woche 3 – Voll",7530
 "Verlies-Ansturm-Champion",7537
 "Fraktal-Ansturm-Adept",7538
+"Täglicher Fraktal-Ansturm",7566
 "\"Rankenfürst Randblüte\"-Waffensammlung",7573
 "\"Welt gegen Welt\"-Ansturm-Champion",7608
 "Täglicher PvP-Wettkämpfer",7609
+"WvW-Ansturm-Wachenschinder 2",7610
 "PvP-Ansturm-Sieger",7613
 "WvW-Ansturm-Landbeansprucher 2",7614
 "WvW-Ansturm-Lager-Eroberer",7616
@@ -3006,6 +3185,7 @@
 "Einsicht Inneres Nayos: Verlorener Altar",7694
 "Erfrischendes Schläfchen",7695
 "Sammler von geweihten Saryx-Waffen",7696
+"Dicke Luft",7698
 "Tote Luft",7701
 "Hinter den dämonischen Fronten",7705
 "(Wöchentliche) Konvergenzen",7706
@@ -3044,6 +3224,7 @@
 "Waffenkünstler: Stab des Kriegers",7810
 "Waffenkünstler: Zepter des Wiedergängers",7813
 "Neidische Atempause",7818
+"Grenzenloser Optimismus",7819
 "Apathisch",7820
 "Inneres Nayos: Retter der Alten Siedlung",7822
 "Waffenkünstler: Kurzbogen des Ingenieurs",7823
@@ -3056,6 +3237,7 @@
 "Inneres Nayos: Retter des Marktviertels",7834
 "Tentakel-Eliminierung",7835
 "Einsicht Inneres Nayos: Hoch gelegenes Himmelsschuppen-Nest",7836
+"Die Vorräte gehören uns, Eparch. Uns!",7837
 "Waffenkünstler: Pistole des Wächters",7838
 "Kryptis-Champion-Bezwinger",7839
 "Klarer Himmel",7840
@@ -3069,6 +3251,7 @@
 "Wiedergeborene Gegner: Chak",7859
 "Ultimatives Vorbild",7861
 "Einsatz vor Ort: Grasgrüne Schwelle",7863
+"Nur keine Höhenangst",7864
 "Schatzjäger: Silberwüste (Wöchentlich)",7865
 "Rache von Mordremoth",7867
 "Sagenumwobener Ehrwürdiger",7868
@@ -3093,6 +3276,7 @@
 "Sagenumwobener Jäger",7907
 "Tägliche Silberwüste",7910
 "Rächer des Reiches IX",7912
+"Ultimativer Ehrwürdiger",7919
 "Sagenumwobenes Phantom",7920
 "Überwindet erneut den Absturzstellen-Aufstieg (wöchentlich)",7922
 "Sagenumwobenes Genie",7923
@@ -3157,6 +3341,7 @@
 "Event-Sammlung: Der Mitternachts-Abgrund",8023
 "\"Ruinen von Surmia\"-Veteran",8025
 "Maguuma-Veteran",8029
+"\"Steinkreis von Denravi\"-Veteran",8030
 "Eredon-Terrasse-Veteran",8032
 "Nayos-Erkundungstour: Gold",8034
 "Himmelsschuppen-Zielübungen im Inneren Nayos: Silber",8036
@@ -3170,6 +3355,7 @@
 "Konvergenz-Herausforderungsmodus – Schreckensschwinge: Silber",8057
 "Himmelsschuppen-Zielübungen in Amnytas: Meisterschaft",8059
 "Der Stab des Obskuren",8061
+"Ehmry-Bucht-Veteran",8063
 "Legendäre Rüstung Rang 2: Durchfluteter Obsidian",8064
 "\"Tor des Wahnsinns\"-Veteran",8065
 "\"Fels der Weissagung\"-Veteran",8066
@@ -3206,12 +3392,14 @@
 "Tägliche Erforschung: Glutbucht",8127
 "Versunkener-Schatz-Woche: Mahlstromgipfel",8128
 "Versunkener-Schatz-Woche: Riff der Sirene",8129
+"Überwindet erneut das Fallen-Labyrinth (wöchentlich)",8130
 "Versunkener-Schatz-Woche: Baumgrenzen-Fälle",8132
 "Rache des Entfesselten Wächters (wöchentlich)",8134
 "Überwindet erneut Abaddons Aufstieg (wöchentlich)",8136
 "Einsatz vor Ort: Draconis Mons (wöchentlich)",8141
 "Meistertaucher: Riff der Sirene",8142
 "Zweiter Tauchgang: Blutsteinsumpf (wöchentlich)",8143
+"Einsatz vor Ort: Doric-See (wöchentlich)",8144
 "Einsatz vor Ort: Glutbucht (wöchentlich)",8147
 "Wahres Ende: Die Stunde der Wahrheit",8148
 "Überwindet erneut den \"Kelch der Tränen\" (wöchentlich)",8149
@@ -3236,6 +3424,7 @@
 "Einsicht Tiefland-Küste: Abgetrennte Insel",8176
 "Nährt die Flammen",8177
 "Pflegedienst",8178
+"Einsicht Janthir Syntri: Turbulenter Baum",8181
 "Informationen ernten",8182
 "Sicherheit am Arbeitsplatz",8184
 "Einsicht Janthir Syntri: Moderwald-Ecke",8186
@@ -3247,7 +3436,9 @@
 "Die Sternschnuppe: Meteor-Träger",8195
 "Zieht los, ihr Lachse!",8197
 "Füttert die Bestie",8198
+"Versteckspiel: Bronze",8200
 "Überfälle an der Tiefland-Küste",8201
+"Kriegsklauen-Rennen-Abenteuer: Bronze",8202
 "Bloß nicht fallen lassen",8203
 "Und Tote reden doch",8204
 "Trolle füttern",8206
@@ -3266,7 +3457,9 @@
 "Event-Sammlung: Südöstliches Janthir Syntri",8229
 "(Wiederholbar) Tiefland-Küste: Ansehen-Herz des Wanderling-Außenpostens",8233
 "Einsicht Tiefland-Küste: Grübelfelder",8235
+"Einsicht Tiefland-Küste: \"Schlacht des Eises\"-Gedenkstätte",8238
 "Gewitterwolken über Janthir",8240
+"Wettbewerbskultur",8242
 "Wabenwusler",8245
 "Trautes Heim",8247
 "Gemeinsam sind wir stark",8248
@@ -3285,6 +3478,7 @@
 "Einsicht Janthir Syntri: Rachenstein",8277
 "Legendäre Waffe: Gaben für \"Klobjarne Geirr\"",8278
 "Alle lieben die Demokratie",8279
+"Freund der Trolle",8282
 "Erschaffer im Schlepptau",8284
 "Leere-verdorbene Waffensammlung",8285
 "Streichelt wilde Tiere",8286
@@ -3301,6 +3495,8 @@
 "Freund der Fische",8306
 "Einsicht Tiefland-Küste: Quellenstand",8307
 "Einsicht Janthir Syntri: Blutbaums Umfeld",8308
+"Liebende unter dem Schicksalsstern",8309
+"Wildtierforschung",8312
 "Bibliothek des Meisters der Lehren",8317
 "Mulchmeister",8318
 "Einsicht Tiefland-Küste: Lupinentraum",8321
@@ -3312,6 +3508,7 @@
 "(Wiederholbar) Tiefland-Küste: Ansehen-Herz von Herbsttal",8330
 "Titanplatten-Rüstungssammler",8331
 "Zurück zur Natur",8333
+"Feuerwache",8334
 "Geheimer Mondlager-Lachszug: Bronze",8338
 "Kriegsklauen-Rennen: Gold",8340
 "(Wiederholbar) Janthir Syntri: Ansehen-Herz von Sammlersruh",8341
@@ -3331,6 +3528,7 @@
 "Einsatz vor Ort: Domäne Istan (wöchentlich)",8370
 "Rache des Zornbringers (wöchentlich)",8373
 "Rache von Kuda (wöchentlich)",8374
+"Die Staffeln erneut durchleben – 4",8375
 "Einsatz vor Ort: Domäne Vaabi",8376
 "Einsatz vor Ort: Jahai-Klippen (wöchentlich)",8377
 "Abenteurergeist: Domäne Istan (wöchentlich)",8378
@@ -3359,10 +3557,12 @@
 "Tägliche Erforschung: Donnerkopf-Gipfel",8431
 "Feindfeuer-Waffensammlung",8436
 "Klobjarne Geirr: Schlachtzug- oder Konvergenz-Siege",8442
+"Rechtzeitige Eliminierung",8443
 "Klobjarne Geirr: Reise der Klaue",8444
 "(Wiederholbar) Berg Balrior: Titanen-Aufspürer",8445
 "(Wöchentliche) Konvergenzen: Titanenversteck",8448
 "Lernpause",8453
+"Schlachtzug: Greer, der Pestilenzbringer",8454
 "Janthir Wilds: Götterbrut-Beherrschung",8455
 "(Wiederholbar) Berg Balrior: Kalibrierungs-Sammler",8458
 "Ein Augenblick der Stille",8459
