@@ -64993,6 +64993,7 @@
 "Source de puissance : espauliers",99713
 "Sables silencieux : argent",99714
 "Entraînement au confinement de désastre",99716
+"Kit de démarrage : Frénésie",99717
 "Arc court alimenté de chasseur luxon",99718
 "Foreuse à niveau reconvertie",99719
 "Entraînement à la limitation des menaces",99720
@@ -66818,6 +66819,7 @@
 "Escalier en colimaçon de maison de plage",102186
 "Recette : trophée de bronze de Mordremoth",102187
 "Recette : épaulières lourdes de plates de Titan",102188
+"Recette : trophée d'or de Cairn l'Indomptable",102191
 "Amélioration de pavillon : capacité d'échange de bois",102196
 "Relique du porte-fléau",102199
 "Recette : trophée de bronze de Sabetha",102201
@@ -66836,6 +66838,7 @@
 "Recette : parure légère de plates de Titan",102241
 "Rayon de miel",102244
 "Relique d'atrocité",102245
+"Recette : trophée d'or de Desmina",102246
 "Masque intermédiaire en plaques de Titans",102247
 "Cache kodan mineure",102250
 "Apparence de masse corrompue par le vide",102253
@@ -66844,12 +66847,14 @@
 "Glyphe du factionnaire mécanique",102259
 "Terres sauvages de Janthir : coffres au choix du Héros",102265
 "Boîte de sélection de l'araignée d'onyx",102269
+"Recette : trophée d'or de Mordremoth",102272
 "Aventure de la Côte des basses terres : argent",102273
 "Espadon de la pleine lune mage",102276
 "Gants légers en plaques de Titans",102278
 "Recette : piédestal basique",102281
 "Boîte d'équipement de Janthir",102283
 "Recette : trophée de bronze de Xera",102284
+"Recette : trophée d'or de Tequatl",102285
 "Appât emprunté",102292
 "Miniature de Monsieur Coâ",102293
 "Aventure de la Côte des basses terres : or",102301
@@ -66865,6 +66870,7 @@
 "Apparence de sceptre de l'araignée d'onyx",102336
 "Gants intermédiaires en plaques de Titans",102340
 "Don de Conteur de souvenirs",102342
+"Recette : trophée d'or des jumeaux largos",102344
 "Boîte d'équipement précieux de la Côte des basses terres",102346
 "Apparence d'arc long de l'araignée d'onyx",102348
 "Amélioration de pavillon : capacité d'échange de bois",102351
@@ -66873,6 +66879,7 @@
 "Apparence de bottes de traque-putrescence",102358
 "Tonique de jeune razziafelis inépuisable",102362
 "Recette : trophée d'argent de Desmina",102365
+"Recette : trophée d'or du Destructeur",102366
 "Expertise des Kodans des basses terres",102370
 "Gants intermédiaires polychromes",102373
 "Don de propriétaire tyrien",102376
@@ -66887,6 +66894,7 @@
 "Apparence de masse de l'araignée d'onyx",102392
 "Recette : table versatile de Guide",102393
 "Recette : trophée de bronze de Desmina",102399
+"Recette : trophée d'or d'amalgame conjuré",102405
 "Recette : coupon de Desmina",102408
 "Don de Terres nues",102411
 "Manteau lourd pastel",102412
@@ -66909,6 +66917,7 @@
 "Livre de recettes pour pavillon : tables",102450
 "Gorette des basses terres",102451
 "Apparence de marteau corrompu par le vide",102452
+"Recette : trophée d'or de Samarog",102454
 "Apparence de bâton de l'araignée d'onyx",102457
 "Apparence de hache de l'araignée d'onyx",102458
 "Lance prismatique",102459
@@ -66922,6 +66931,7 @@
 "Pierre jaune",102470
 "Recette : veste intermédiaire de plates de Titan",102472
 "Sceptre ornementé ursin mage",102473
+"Recette : trophée d'or de Dhuum",102474
 "Boîte à outil de bûcheron d'horreur surnaturelle",102477
 "Recette : plastron lourd de plates de Titan",102482
 "Apparence de hache corrompue par le vide",102486
@@ -66952,6 +66962,7 @@
 "Livre de recettes de jambières de plates de Titan",102544
 "Pierre marron",102545
 "Livre de recettes pour pavillon : fractale de l'océan solide",102549
+"Recette : trophée d'or de Deimos",102551
 "Apparence de manteau de traque-putrescence",102554
 "Grèves lourdes polychromes",102557
 "Fleur de miel",102558
@@ -66997,6 +67008,7 @@
 "Boîte à outil de moissonnage d'horreur surnaturelle",102651
 "Coffre-fort de la Syntri de Janthir",102652
 "Amélioration de pavillon : capacité d'échange de minerai",102653
+"Recette : trophée d'or de Qadim",102654
 "[[1111481]]",102655
 "Missive secrète",102656
 "Recette : trophée d'argent de Mordremoth",102661
@@ -67070,6 +67082,7 @@
 "Épée de la pleine lune mage",102834
 "Cor de guerre de la pleine lune mage",102838
 "Aventure de la Côte des basses terres : or",102841
+"Recette : trophée d'or de djinn éthéré",102844
 "Aventure de la Syntri de Janthir : bronze",102845
 "Apparence d'espadon en aciel",102847
 "Heaume de guerre kodan valkyrien",102848
@@ -67082,23 +67095,27 @@
 "Recette : trophée d'argent de Paressor",102863
 "Marteau de la pleine lune mage",102866
 "Recette : trophée de bronze de Titan du fort",102868
+"Recette : trophée d'or du surveillant mursaat",102874
 "Bottes légères pastel",102878
 "Gage de renommée de la Syntri de Janthir",102881
 "Bâton de la pleine lune mage",102882
 "Amélioration de pavillon : capacité d'échange de fibres",102883
 "Dague ornementée ursine mage",102884
+"Recette : trophée d'or de la cardinale Adina",102886
 "Anneau du crustacé",102899
 "Don de Klobjarne Geirr",102901
 "Livre de recettes pour pavillon : diverses plantes, volume 2",102902
 "Boîte d'armes gravées d'une lune",102904
 "Aventure de la Syntri de Janthir : argent",102905
 "Jambières intermédiaires pastel",102907
+"Recette : trophée d'or de la statue de Grenth",102908
 "Bottes intermédiaires en plaques de Titans",102910
 "Lance de la pleine lune mage",102911
 "Glyphe du prospecteur",102912
 "Recette : trophée de bronze de Gorseval",102917
 "Recette : morceau de ruban de Xera",102918
 "Recette : coupon des jumeaux largos",102920
+"Recette : trophée d'or d'abomination du Blanc-Manteau",102924
 "Recette : dent de Triple terreur",102925
 "Glyphe du travailleur du cuir",102926
 "Jambières lourdes pastel",102927
@@ -67129,6 +67146,7 @@
 "Recette : prisonnier empalé",102987
 "Amélioration de pavillon : capacité d'échange de fibres",102989
 "Livre de recettes pour pavillon : ballons",102993
+"Recette : trophée d'or de Triple terreur",102997
 "Apparence de torche corrompue par le vide",102998
 "Champignon doré",103000
 "Arc long de la pleine lune mage",103001
@@ -67176,14 +67194,19 @@
 "Récompense de pêche de Janthir",103117
 "Recette : trophée de bronze de Dhuum",103121
 "Apparence de focus de l'araignée d'onyx",103126
+"Recette : trophée d'or de Paressor",103127
 "Miniature de lacérateur de fragment-ruine",103130
+"Boîte de butin d'Ura des Terres sauvages de Janthir",103132
 "Recette : bottes intermédiaires de plates de Titan",103133
 "Friandise pour raptor",103137
 "Boîte de butin de Mursaat des Terres sauvages de Janthir",103141
 "Recette : pantalon léger de plates de Titan",103144
 "Amélioration de pavillon : capacité d'échange de minerai",103146
+"Recette : trophée d'or de la Rivière des âmes",103149
 "Choix d'arme corrompue par le vide",103150
+"Recette : trophée d'or de Sabetha",103158
 "Recette : trophée d'argent du surveillant mursaat",103163
+"Recette : trophée d'or de Gorseval",103165
 "Épaulières intermédiaires en plaques de Titans",103167
 "Recette : trophée d'argent de Xera",103172
 "Boîte de butin d'élémentaire des Terres sauvages de Janthir",103182
@@ -67202,6 +67225,7 @@
 "Pistolet de la pleine lune mage",103215
 "Recette : morceaux du Gardien de la Vallée",103218
 "Apparence de lance de Wisteria",103222
+"Recette : trophée d'or de Titan du fort",103223
 "Livre de recettes pour pavillon : tapis",103228
 "Recette : fragment de Cairn l'Indomptable",103231
 "Recette : trophée d'argent de Samarog",103232
@@ -67280,9 +67304,11 @@
 "Heaume lourd polychrome",103407
 "Livre de recettes pour pavillon : bancs, chaises et tabourets",103409
 "Glyphe de volatilité",103412
+"Recette : trophée d'or de Xera",103417
 "Pierre bleue",103419
 "Heaume lourd en plaques de Titans",103420
 "Livre de recettes pour pavillon : Halloween, volume 1",103421
+"Recette : trophée d'or du régent chak",103422
 "Houppelande légère polychrome",103423
 "Relique des lamentations",103424
 "[[1108937]]",103427
@@ -67298,6 +67324,7 @@
 "Glyphe de vertu",103448
 "Recette : coupon d'amalgame conjuré",103449
 "Reste de heaume de guerre kodan",103450
+"Recette : trophée d'or du cardinal Sabir",103452
 "Recette : trophée d'argent du Gardien de la Vallée",103454
 "Livre de recettes pour pavillon : arbres",103458
 "Recette : gants intermédiaires de plates de Titan",103459
@@ -67312,6 +67339,7 @@
 "Recette : trophée de bronze du régent chak",103478
 "Licence d'adoption de monture du rugissement sauvage",103482
 "Apparence de cor de guerre de l'araignée d'onyx",103483
+"Recette : trophée d'or de l'événement \"Assiéger la forteresse\"",103485
 "Point de maîtrise",103488
 "Apparence d'épée corrompue par le vide",103493
 "Boîte de butin de créatures des Terres sauvages de Janthir",103494
@@ -67328,6 +67356,7 @@
 "Recette : trophée de bronze de Paressor",103541
 "Apparence de bâton corrompu par le vide",103543
 "Apparence d'épaulières de traque-putrescence",103544
+"Recette : trophée d'or du Gardien de la Vallée",103545
 "",103547
 "Livre de recettes d'épaulières de plates de Titan",103550
 "Acier sombre de la Légion de la Flamme",103552
@@ -67684,7 +67713,9 @@
 "Visière naturelle",104001
 "Croquenots naturels",104002
 "Mini-Kodan des sources chaudes (jaune)",104003
+"Clé de démarrage d'arme légendaire : ensemble n° 7",104004
 "Pistolet de vague verre-de-mer",104006
+"Clé de démarrage d'arme légendaire : ensemble n° 7",104007
 "Atelier d'huile de maintenance magnanime",104008
 "Apparence de deltaplane d'esprit naga",104009
 "Épée de la lune de sang de sang",104010
@@ -67878,3 +67909,82 @@
 "Recette : statue de choya de l'imaginarium cruel du Lion noir",104226
 "Apparence de fusil de fleur éternelle impériale",104227
 "Apparence de lance de fleur éternelle impériale",104228
+"Fiole d'obsidienne liquide fondue des Titans",104229
+"Recette pour pavillon : statue de nian canthien",104230
+"Livre de recettes pour pavillon : Fractales des Brumes, volume 2",104231
+"Licence de quête du follet rétif",104233
+"Apparence d'épaulières du chevalier de la Garde",104234
+"Licence d'adoption de monture des fusions féroces",104239
+"Dague d'obsidienne pillée sinistre",104243
+"Livre de recettes pour pavillon : Kryte, volume 1",104250
+"Apparence de bottes du chevalier de la Garde",104251
+"Recette pour pavillon : fragments de statue de Beetletun",104252
+"Apparence de fusil de vieille pousse",104253
+"Signe de reconnaissance envers Lahar habile",104261
+"Recette : relique de golemancien",104262
+"Recette pour pavillon : statue de Joko le Redoutable",104269
+"Apparence de torche de vieille pousse",104270
+"Apparence d'arc long de vieille pousse",104276
+"Ressource de minerai de Titan chargé pour zone personnelle",104278
+"Recette : relique de feu",104283
+"Cor de guerre d'obsidienne pillée sinistre",104285
+"Pistolet d'obsidienne pillée sinistre",104289
+"Arc long d'obsidienne pillée sinistre",104291
+"Apparence de jambières de l'aurore infusées",104293
+"Apparence de lance de vieille pousse",104295
+"Boîte de sélection de vieille pousse",104312
+"Trône du sage céleste",104315
+"Recette : relique de montée en puissance",104317
+"Recette pour pavillon : micro-ondes à technologie de jade",104318
+"Recette pour pavillon : statue de Joko le Victorieux",104321
+"Livre de recettes pour pavillon : Amnytas, volume 1",104323
+"Recette pour pavillon : statue de Joko le majestueux",104326
+"Apparence d'espadon de vieille pousse",104328
+"Fragment de ruine mursaat étrange",104331
+"Recette : relique de l'Holographiste",104336
+"Apparence de lance de l'aurore scintillante",104341
+"Apparence de hache de vieille pousse",104342
+"Apparence de pistolet de vieille pousse",104344
+"Espadon d'obsidienne pillée sinistre",104345
+"Lance d'obsidienne pillée sinistre",104351
+"Apparence d'arc court de vieille pousse",104365
+"Sélection de licence d'adoption de monture des fusions féroces",104366
+"Apparence de marteau de vieille pousse",104368
+"Hache d'obsidienne pillée sinistre",104374
+"Recette pour pavillon : aiguille stigmatisée",104378
+"Livre de recettes pour pavillon : Éveillés, volume 1",104379
+"Recette : relique des épines",104380
+"Bâton d'obsidienne pillée sinistre",104381
+"Recette : relique de l'aigle",104394
+"Arc court d'obsidienne pillée sinistre",104397
+"Ressource de fleur de miel pour zone personnelle",104400
+"Recette pour pavillon : parapluie de la ville de Kaineng",104402
+"Apparence de cor de guerre de vieille pousse",104407
+"Gant de cuir kodan sylvestre",104414
+"Apparence de dague de vieille pousse",104417
+"Recette : relique de la liche",104421
+"Livre de recettes pour pavillon : Nayos intérieur, volume 1",104425
+"Recette : relique de vampirisme",104428
+"Ressource de pousse de pin des basses terres pour zone personnelle",104437
+"Apparence de masse de vieille pousse",104438
+"Ressource d'ambre de Titan putrescent pour zone personnelle",104442
+"Livre de recettes pour pavillon : Repli du dragon, volume 1",104447
+"Livre de recettes pour pavillon : Trépas du dragon, volume 1",104449
+"Recette : relique de corsaire",104450
+"",104451
+"Recette : relique de terre",104452
+"Livre de recettes pour pavillon : Vallée de Grothmar, volume 1",104460
+"Coffre-fort des Landes de Feu-de-Brume",104463
+"Recette : relique d'altruisme",104465
+"Livre de recettes pour pavillon : Archipel de l'observatoire céleste, volume 1",104470
+"Épée d'obsidienne pillée sinistre",104473
+"Recette pour pavillon : statue de Joko le puissant",104475
+"Apparence de gants du chevalier de la Garde",104476
+"Apparence de focus de vieille pousse",104477
+"Apparence de bâton de vieille pousse",104486
+"Livre de recettes pour pavillon : Bassin aurique, volume 1",104489
+"Livre de recettes pour pavillon : statues de lion, volume 1",104492
+"Apparence d'épée de vieille pousse",104495
+"Recette pour pavillon : statue de Joko l'Indomptable",104496
+"Recette : relique d'Ogre",104499
+"Boîte d'armes d'obsidienne pillée",104502

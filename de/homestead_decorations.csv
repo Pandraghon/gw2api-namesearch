@@ -5,13 +5,18 @@
 "Seitung-Brücke",5
 "Unheimlicher Speisesaaltisch",6
 "Rotes Kissen",7
+"Statue Jokos des Mächtigen",8
 "Holo-Tänzer der Norn",9
 "Feuerwerkskörper",10
 "\"Faulenzender Tiger\"-Statue",12
 "Super-Waldhaus",13
 "Hindernis: Rückschlag-Geschützturm",14
+"Akademische Wand",15
 "Goldene Hasenstatue",16
+"Holografische Strecke: Aufwärtsrampe",17
 "Hindernis: Furcht-Geschützturm",18
+"Statue von Joko dem Erlauchten",19
+"Unvollständiger akademischer Torbogen",20
 "Kodan-Heldenstatue",21
 "Melandru-Statue",22
 "Viereckiger Kübel",23
@@ -24,6 +29,7 @@
 "\"Fluss der Seelen\"-Bronzetrophäe",30
 "Saison 1: Gilden-Herausforderungs-Bronzetrophäe",31
 "Immense Löwenstatue",32
+"Teleporter-Ausgang",33
 "Kodan-Hüttenwand",35
 "Goldfarn im Topf",36
 "Hindernis: Weiße Fackel",37
@@ -40,6 +46,7 @@
 "Kürbis-Laterne",48
 "Zwillings-Largos-Marke",49
 "Infinirarium-Deck",50
+"Gipfelbanner der Charr",51
 "Ausgefallener Stuhl",52
 "Dreifacher Ärger-Silbertrophäe",53
 "Ochsenstatue",54
@@ -48,40 +55,56 @@
 "Maguuma-Lilie (Doppelblüte) im Topf",57
 "Rote Laterne",58
 "Hindernis: Strudel-Falle",59
+"Drachenteller",60
 "Blaue Piraten-Flagge",61
 "Verdrehte Treppe (links)",62
 "Baum im Topf",63
 "Götterfels-Lampe",64
 "Dünner Kerzenständer",65
+"Saison 4: Gilden-Herausforderungs-Goldtrophäe",66
+"Phönix-Laterne",67
 "Gorseval-Bronzetrophäe",68
+"Rennstrecke: Rechte Aufwärtskurve",69
 "Rustikale Kodan-Vitrine",70
 "Topf mit Chrysanthemen",71
 "Schneehügel",72
 "Super-Lagerfeuer",73
 "Beschädigter Mastbaum",74
+"Luxus-Wyvern-Trophäe",75
+"Tyria-Globus",76
 "Rotes Festzelt",77
+"Holografische Strecke: Gerade",78
 "Verwitterte elonische Säule",79
 "Festenkonstrukt-Silbertrophäe",80
 "Super-Seerosenblatt",81
 "Siegreiches Drachen-Gepolter-Plakat",82
 "Typischer Nieselwald-Küsten-Baum",83
+"Super-Truhe",84
+"Hoher akademischer Torbogen",85
+"Brunnen des Springenden Löwen",86
 "Buchsbaumhecke \"Spitze\"",87
 "\"Weißer Mantel-Abscheulichkeit\"-Bronzetrophäe",88
 "Xeras Bandrest",89
+"Super-Regenbogen-Bogen",90
 "Xera-Bronzetrophäe",91
 "Sabetha-Silbertrophäe",92
 "Welle des Soliden Ozeans",93
 "Stück des Soliden Ozeans",94
 "Drachen-Gepolter-Pylon",95
+"Gipfelbanner der Norn",96
 "Gorseval-Silbertrophäe",97
 "Eberstatue",98
 "Standard-Podest",99
 "Verrückter Mond",100
 "Spitze des Soliden Ozeans",101
+"Fragmente des Soliden Ozeans",102
 "Super-Schnee-Boden",103
 "Ur-Leviathan-Brustkorb",104
+"Holografische Strecke: Rechte Abwärtskurve",105
+"Mursaat-Aufseher-Goldtrophäe",106
 "Bodenplatte des Erholungsraums",107
 "Trébuchet für Belagerung",108
+"Erweckten-Teertropfer",109
 "Canthanische Gartenmauer",110
 "Beladener Wagen",111
 "Dreifacher Ärger-Bronzetrophäe",112
@@ -89,32 +112,40 @@
 "Hindernis: Fächerfalle",114
 "Super-Verschneite Felswand",115
 "Marke des Äther-Dschinns",116
+"Rennstrecke: Gerade",117
 "Großer Block des Soliden Ozeans",118
 "Abgenutzte Säule",119
 "Schneemann-Eisskulptur",120
+"Saison 1: Gilden-Herausforderungs-Goldtrophäe",121
 "Dornenpilz",122
 "Grenth-Statue-Silbertrophäe",123
 "Kurzer Gilden-Banketttisch",124
 "Traditionelles Kodan-Bett",125
+"Drachenhologramm-Generator",126
 "Grenth-Statue-Bronzetrophäe",127
 "Aufgespießter Gefangener",128
 "Spielzeugmacher-Maschine",129
+"Kodan-Gemälde 3",130
 "Veredelter Kodan-Beistelltisch",131
 "Elegante quadratische Säule",132
 "Hindernis: Kühle-Geschützturm",133
 "WvW-Mörser für Belagerung",134
+"Gitterlaube",135
 "Gilden-Katapult für Belagerung",136
 "Marke Qadims",137
 "Kleiner canthanischer Kirschbaum",139
 "Sandsteinsäule",140
 "Kunstvolle Sandsteinsäule",141
+"Uzolans Mechanisches Orchester",142
 "Rustikale Kodan-Truhe",143
 "Verdrehte Treppe (rechts)",144
 "Grenth-Statue",145
+"Kodan-Freiluftbad",146
 "Unheilvolle Festungsmauer: verdorben",147
 "Dschinn-Schleuder",148
 "Signal-Laterne",149
 "Leerer viereckiger Kübel",150
+"Charr-Kopter-Plattform",151
 "Pilz",152
 "Breiter Paddelwedel im Topf",153
 "Kodan Schreibtisch",154
@@ -122,6 +153,7 @@
 "Ur-Leviathan-Brustkorb: Gebogen",156
 "Überlegenes Trébuchet für Belagerung",157
 "Gedenkstatue für die Erforschung umfassender Disziplinen",158
+"Holografische Strecke: Rechtskurve",159
 "Gletscher-Überhang",160
 "Luxus-Rankenwand",161
 "Sprudelnde Kapsel",162
@@ -140,6 +172,7 @@
 "Faultierion-Silbertrophäe",175
 "Zerbrochener Strahl des Uhrturms",176
 "Greifen-Vermietungsposten",177
+"Holografische Strecke: Rechte Aufwärtskurve",178
 "Hindernis: Lavaboden",179
 "Silbertrophäe Qadims",180
 "Weißes Wintertag-Geschenk",181
@@ -156,6 +189,7 @@
 "Chak-Potentaten-Auge",192
 "Frost-Legion-Maschine",193
 "Kronleuchter",194
+"Goldtrophäe Qadims",195
 "Quadratischer Astralwachen-Boden",196
 "Signalfeuer",197
 "Hindernis: Lilafarbene Fackel",198
@@ -167,10 +201,15 @@
 "Super-Pilz-Plattform",204
 "Wintertag-Baum",206
 "Ascalonische Lampe",207
+"Astralwachen-Treppe",208
+"Statue von Joko dem Schrecklichen",209
 "Gilden-Balliste für Belagerung",211
+"Zerschmetterer-Goldtrophäe",212
 "Stahl-Pfanne",213
+"Rennstrecke: Kurvenrampe",214
 "Geblümter Cantha-Teppich",215
 "Kristall der \"Weißer Mantel\"-Abscheulichkeit",216
+"Mordremoth-Goldtrophäe",217
 "Schneemacher",218
 "Heckensäule",220
 "Saison 4: Gilden-Herausforderungs-Silbertrophäe",221
@@ -180,11 +219,13 @@
 "Kunstvolles Kodan-Bett",225
 "Rotes Dekorationskissen",226
 "Plüschiger Sessel",227
+"Holografische Strecke: Kurvenrampe",229
 "Zephyr-Segelboot",230
 "Super-Königsfrosch",231
 "Statue von Frosties Herz",232
 "Desmina-Marke",233
 "Lilafarbener Ballon",234
+"Langer ausgefallener Tisch",235
 "Edler Rüstungsständer",236
 "Einfaches Regal",237
 "Golem für Belagerung",238
@@ -205,18 +246,25 @@
 "Kleine Statue von Joko dem Unsterblichen",253
 "Uhrturm-Zahnrad",254
 "Hafenkran",255
+"Flache frohe Super-Zeigehand",256
 "Super-Blatt-Plattform",257
 "\"Fluss der Seelen\"-Marke",258
 "Blühender Moa-Farn im Topf",259
 "Hahn-Statue",260
 "Pfeilmuster-Schneeflocken-Plattform",261
+"Frohe Super-Zeigehand",262
 "Kodan-Hängelaterne",263
 "Beschädigte quadratische Säule",264
+"Rüstungs-Schaukasten – Modellpuppe",265
+"Kryptis-Plattform",266
 "Hindernis: Hohe Mauer",267
 "Überlegener Golem für Belagerung",268
 "Keramikkübel",269
+"Holografische Strecke: Linke Abwärtskurve",270
+"Quadratischer Kryptis-Boden",271
 "Galgenbaum",272
 "Mordremoth-Silbertrophäe",273
+"Primordus-Hologramm-Generator",274
 "Rote Schüssel",275
 "Rote Schüssel mit Essen",276
 "Charr-Schrottkanone",277
@@ -224,29 +272,42 @@
 "Kodan-Aquarium",279
 "Grünes Kissen",280
 "Zephyr-Koi-Laterne",281
+"Saison 2: Gilden-Herausforderungs-Goldtrophäe",282
 "Monument des Gebrandmarkten Verschlingers",283
 "Würfel aus Schnee",284
+"Saison 3: Gilden-Herausforderungs-Goldtrophäe",285
+"Beetletun-Statuen-Fragmente",287
 "Elonisches Zelt",288
+"Geflieste kreisförmige Astralwachen-Plattform",289
+"Kryptis-Tür (Groß und breit)",290
 "Schneehaufen",291
 "Janthir-Gras (klein)",292
+"Astralwachen-Tor",293
+"\"Beschworene Verschmelzung\"-Goldtrophäe",294
 "Widderstatue",295
 "Abgenutzter Bogen",296
 "Zephyr-Wassertopf",297
 "Schildgenerator für Belagerung",298
 "Hindernis: Grüne Fackel",299
 "Kodan-Hüttenwand (klein)",300
+"Rennen: Power-Up-Projektor",301
 "Ausgefallener Tisch",302
 "Gitterkübel",303
+"Fraktal-Konsole",304
 "Hindernis: Mauer",305
 "Kodan-Waschtisch",306
 "Standard-Säule",307
 "Viereckige Vitrine",308
 "Canthanische Würzmittel",309
+"Holografische Strecke: Breite Kurvenrampe",310
 "Zephyr-Laufsteg",311
 "Kodan-Kristallkerze",312
+"Grenth-Statue-Goldtrophäe",313
+"Deimos-Goldtrophäe",314
 "Kodan-Vermächtnistruhe",315
 "Greifender Verdrehter Baum",316
 "Zephyr-Sonnendach",317
+"Xera-Goldtrophäe",318
 "Drapierte Wintertag-Girlande",319
 "\"Kardinal Adina\"-Bronzetrophäe",320
 "Katapult für Belagerung",321
@@ -257,34 +318,46 @@
 "Fuchsien-Ballon",328
 "Überlegene Balliste für Belagerung",329
 "Super-Felswand",330
+"Gipfelflagge der Charr",331
 "Elegante Säule",332
 "Mordremoth-Bronzetrophäe",333
+"Astralwachen-Wand",334
 "Nebel-Greifen-Statue",335
 "Dekorierter Sarg",336
 "Deimos-Silbertrophäe",337
 "Zephyr-Gerüst",338
+"Vollständiger akademischer Torbogen",339
 "Elonische Falkenstatue",340
 "Buchsbaumhecke \"Block\"",341
+"Tal-Wächter-Goldtrophäe",342
 "Ausgefallener Rundtisch",343
 "Verdorbener Ochsen-Schrein",344
 "Verwunschener Sessel",345
 "Verwitterter elonischer Obelisk",346
 "Saison 6: Gilden-Herausforderungs-Bronzetrophäe",347
+"Großer Holo-Tänzer der Norn",348
+"Runde akademische Säule",349
 "Rüstungsständer",350
 "Drachenzahn-Laterne",351
 "Roter Festschirm",352
 "Mond-Bogen",353
+"Goldene Säule mit Kapitell",354
 "Lilafarbenes Drachenziel",355
+"Traurige Super-Zeigehand",356
 "Steckenpalme im Topf",357
+"Sabetha-Goldtrophäe",358
 "Gedenkstatue für die Erforschung mehrheitlicher Disziplinen",359
+"Gorseval-Goldtrophäe",360
 "Hindernis: Breiter Lavaboden",361
 "Zephyr-Unterstützung",362
+"Goldene Wand",363
 "Superhöhlen-Stalagmit",364
 "Dhuum-Bronzetrophäe",365
 "Tiefer Topf",366
 "Kürbis",367
 "Hecke",368
 "Gewaltiges Ballonbukett",369
+"\"Belagert die Festung\"-Goldtrophäe",370
 "Festzelt",371
 "Dhuum-Silbertrophäe",372
 "Spinnennetz-Boden",373
@@ -294,6 +367,7 @@
 "Beschädigte Sandsteinsäule",377
 "Überlegenes Katapult für Belagerung",378
 "Unscheinbarer Königsfrosch",379
+"Äther-Dschinn-Goldtrophäe",380
 "Zypresse im Topf",381
 "Kurze Gilden-Theke",382
 "Gelbes Kissen",383
@@ -305,18 +379,23 @@
 "Großer Würfel aus Schnee",389
 "Zephyr-Laterne",390
 "Äther-Dschinn-Bronzetrophäe",391
+"Gipfelflagge",392
 "Samarog-Bronzetrophäe",393
 "Essenz des Eichenherzens",394
 "Saison 6: Gilden-Herausforderungs-Silbertrophäe",395
 "[[1100540]]",396
 "Festliche Straßenlaterne",397
 "Verschönerter Wintertag-Stern",398
+"Saison 5: Gilden-Herausforderungs-Goldtrophäe",399
 "Kormir-Statue",400
+"Festenkonstrukt-Goldtrophäe",401
 "Janthir-Gras (groß)",402
+"Gipfelbanner",403
 "Kleiner elonischer Pflanzkübel",404
 "Palme im Topf",405
 "Charr-Statue",406
 "Nebel-Felsenhund-Statue",407
+"Nebel-Dolyak-Statue",408
 "Veredelte Straßenlaterne",409
 "Tigerstatue",410
 "\"Belagert die Festung\"-Silbertrophäe",411
@@ -324,14 +403,19 @@
 "Marke Kardinal Sabirs",413
 "Vergängliche Spinnennetz-Wand",414
 "Saison 3: Gilden-Herausforderungs-Silbertrophäe",415
+"Statue des Springenden Löwen",416
 "Saison 2: Gilden-Herausforderungs-Silbertrophäe",417
+"Statue von Joko dem Siegreichen",418
 "Gezimmerter Kodan-Hocker",419
+"Rennstrecke: Abwärtsrampe",420
 "\"Beschworene Verschmelzung\"-Silbertrophäe",421
 "Plüschiges Sofa",422
 "Gilden-Pfeilwagen für Belagerung",423
 "Gilden-Trébuchet für Belagerung",424
+"Super-Zeigehand",425
 "Blaues Drachenziel",426
 "Gilden-Hocker",427
+"Erweckten-Teergrube",428
 "Fass",429
 "Windmühlenrad",430
 "Brunnen",431
@@ -340,10 +424,13 @@
 "Raptoren-Vermietungsposten",434
 "Super-Klippenwand",435
 "Rustikale Kodan-Vitrine (Groß)",436
+"Rüstungs-Schaukasten",437
 "Super-Buche",438
+"Rollkäfer-Vermietungsposten",439
 "Gilden-Schemel",440
 "Canthanische Treppenbrücke",442
 "Lyssa-Statue",443
+"\"Kardinal Adina\"-Goldtrophäe",444
 "Grüner Ballon",445
 "Grüne Piraten-Flagge",446
 "Gebrandmarkter Kristall",447
@@ -355,18 +442,28 @@
 "Gedenk-Waffenständer",453
 "\"Kardinal Sabir\"-Bronzetrophäe",454
 "Standard-Grabmarkierung",455
+"Kryptis-Treppe",456
 "Vergoldetes Banner",457
 "[[1102512]]",458
 "Zephyr-Fensterscheibe",461
+"Holografische Strecke: Abwärtsrampe",462
 "Große Bambusbüschel",463
 "Äther-Dschinn-Silbertrophäe",464
+"Chak-Potentat-Goldtrophäe",465
+"Astralwachen-Kugelständer",466
 "Dunst-Maschine",467
+"Rennstrecke: Linke Aufwärtskurve",468
+"Akademisches Licht",469
+"Gipfelbanner der Sylvari",470
 "Plüschiger Läufer",471
 "Antlitz des Irrsinns",472
+"Rennstrecke: Rechtskurve",473
 "Ausgefallene Urne",474
 "Geschmiedete Flammenschale",475
 "Geweihmuster-Schneeflocken-Plattform",476
+"Astralwachen-Tür",477
 "Überlegener Flammenbock für Belagerung",478
+"Statue von Joko dem Unbeugsamen",479
 "Pfefferminz-Pfeil",480
 "Super-Baum-Stamm",481
 "Deimos-Bronzetrophäe",482
@@ -374,6 +471,7 @@
 "Dämonen-Statue",485
 "Kodan-Wandspiegel",486
 "Bündel Maishalme",487
+"Elonische Urne",488
 "Buchsbaumhecke \"Schale\"",489
 "Rote Piraten-Flagge",490
 "Standard-Bücherregal",491
@@ -385,23 +483,32 @@
 "Palme Grenths",497
 "Elonischer Holztisch",498
 "Porträt von Caudecus",499
+"Rennstrecke: Aufwärtsrampe",500
 "Elonischer Steinturm",501
 "Fragment von Sauls Bürde",502
 "Bronzetrophäe Qadims",503
 "Beschädigte ascalonische Säule",504
+"Gipfelflagge der Sylvari",505
 "Hohe elonische Säule",506
 "Mursaat-Aufseher-Silbertrophäe",507
+"Kryptis-Schleimfläche",508
+"Holografische Strecke: Linke Aufwärtskurve",509
 "Beleuchteter Wagen",510
 "Greifen-Brunnen",511
+"Kryptis-Mauer",512
 "Elonische Vase",513
+"\"Fluss der Seelen\"-Goldtrophäe",514
 "Bibliotheksregal",515
 "Zephyr-Ruderboot",516
 "Buckliger Pilz",517
 "Mastbaum",518
 "Kristall-Block des Soliden Ozeans",519
+"Erweckten-Knochenwand",520
 "Thron",521
 "Saison 5: Gilden-Herausforderungs-Silbertrophäe",522
 "Dschungelgras im Topf",523
+"Holografische Strecke: Große Kurvenrampe",524
+"Desmina-Goldtrophäe",525
 "Gilden-Theke",526
 "\"Kardinal Adina\"-Silbertrophäe",527
 "Super-Fels",528
@@ -409,18 +516,24 @@
 "Beschauliches Vogelbad",530
 "Flammenbock für Belagerung",531
 "Geisterhafter Speisesaalstuhl",532
+"Holografische Strecke: Linkskurve",533
 "Maguuma-Lilie (Drillingsblüte) im Topf",534
 "Wintertag-Girlande",535
+"Canthanische Nian-Statue",536
 "Ausgefallener Sessel",537
+"Gipfelbanner der Asura",538
 "Kleine elonische Säule",539
 "Greifen-Statue",540
 "\"Beschworene Verschmelzung\"-Marke",541
 "Hindernis: Flammen-Geschützturm",543
 "Zephyr-Brücke",544
+"Goldene Säule",545
+"Astralwachen-Säule",546
 "Festenkonstrukt-Bronzetrophäe",547
 "Super-Felsrampe",548
 "Superhöhlen-Säule",549
 "Unheilvolle Festungsmauer",550
+"Gipfelflagge der Menschen",551
 "Kournische Flammenschale",552
 "Zuckerstangen-Strahl",553
 "Läufer",554
@@ -431,6 +544,9 @@
 "Grusel-Kessel",559
 "Heckenecke",560
 "Drachen-Gepolter-Windfänger",561
+"Schirm aus der Stadt Kaineng",562
+"Gipfelflagge der Asura",563
+"Jormag-Hologramm-Generator",564
 "Kodan-Laterne",565
 "Dichter Nieselwald-Küsten-Baum",566
 "Wintertag-Stern",567
@@ -444,10 +560,13 @@
 "Sabetha-Bronzetrophäe",575
 "Pfefferminz-Plattform",576
 "Chak-Potentat-Bronzetrophäe",577
+"Große Holo-Tänzerin der Norn",578
+"Faultierion-Goldtrophäe",579
 "Überlegener Schildgenerator für Belagerung",580
 "Ewige Flamme",581
 "Kisten im Netz",582
 "Eisschloss: Dach",583
+"Stilisierter Stein-Drachenkopf",584
 "Stumpenkerze",585
 "Kodan-Suppenkessel",586
 "Zwillings-Largos-Silbertrophäe",587
@@ -465,21 +584,26 @@
 "Super-Niedrige Felswand",599
 "Schamahirse im Topf",600
 "Nachtdistelknospe im Topf",601
+"Luxus-Charr-Kopter",602
 "Samarog-Silbertrophäe",603
 "Super-Riesige Wolke",604
 "Zephyr-Banner",605
 "Nachtdistel im Topf",606
 "Super-Hohe Felswand",607
 "Große Zypresse im Topf",608
+"Akademische Wand mit Fenstern",609
 "Rustikaler Kodan-Sessel",610
 "Ausladender goldener Farn im Topf",611
 "Buckliger Dornenpilz",612
 "Rustikaler Kodan-Esstisch",613
 "Gitterkübel mit roten Petunien",614
+"Elonischer Gong",615
 "Rote Flagge",616
 "Super-Blume",617
 "Bankreihe",618
 "Gelber Ballon",619
+"Schmuck-Schaukasten",620
+"Saison 6: Gilden-Herausforderungs-Goldtrophäe",621
 "Knöchernes Kodan-Bücherregal",622
 "Scherbe von Cairn dem Unbeugsamen",623
 "Super-Pilz",624
@@ -487,23 +611,29 @@
 "Ausladender blauer Farn im Topf",626
 "Tequatl-Silbertrophäe",627
 "Kodan-Hängematte",628
+"Tequatl-Goldtrophäe",629
 "Stuhl mit hoher Lehne",630
 "Kleiner Super-Fels",631
 "Triumphales Drachen-Gepolter-Plakat",632
 "Heckenkübel",633
 "\"Cairn der Unbeugsame\"-Silbertrophäe",634
 "Elonische Markierungssteine",635
+"Teleporter-Eingang",636
 "Faultierions Pilz",637
 "Nebel-Minotauren-Statue",638
 "Fröhliches Ballonbündel",639
 "Rustikale Kodan-Vitrine (Hoch)",641
+"Dhuum-Goldtrophäe",642
 "Zerschmetterte Treppe",643
 "Überlegener Pfeilwagen für Belagerung",644
 "Vergänglicher Spinnennetz-Boden",645
+"Gipfelflagge der Norn",646
 "Elonisches Gitter",647
 "Gitter",648
+"Erweckten-Knochensäule",649
 "Großer Kristall-Block des Soliden Ozeans",650
 "Vogelscheuche",651
+"\"Weißer Mantel-Abscheulichkeit\"-Goldtrophäe",652
 "Hoher Kerzenständer",653
 "Eisdecke",654
 "Entfesselte Plattform",655
@@ -519,8 +649,10 @@
 "Blaues Kissen",666
 "Chak-Potentat-Silbertrophäe",667
 "\"Fluss der Seelen\"-Silbertrophäe",668
+"Großer canthanischer Kirschbaum",669
 "Stachelige Halloween-Laterne",670
 "Ecke aus Schnee",671
+"Rennstrecke: Rechte Abwärtskurve",672
 "Bogenhanf im Topf",673
 "Elonischer Weihrauchständer",674
 "Gorsevals Tentakel",675
@@ -538,22 +670,27 @@
 "Zerstörter Mastbaum",687
 "Saison 3: Gilden-Herausforderungs-Bronzetrophäe",688
 "Großes Festzelt",689
+"Quadratische akademische Säule",690
 "Verdorbener Vielfraß-Schrein",691
 "Gekringelter Kodan-Teppich",692
 "Rentier-Eisskulptur",693
 "Hindernis: Rote Fackel",694
 "Zwillings-Largos-Bronzetrophäe",695
+"Gebrandmarkter Zackenstab",696
+"Super-Wolkenwand",697
 "Balliste für Belagerung",698
 "Zephyr-Segel",699
 "Bambus im Topf",700
 "Holzfeuergrill",701
 "Eisrutsche",702
+"Fass des Braumeisters",703
 "Geschmiedete Feuerwand",704
 "Hohes Gitter",705
 "Baumfarn im Topf",706
 "Krebsblume im Topf",707
 "Das Herz der Abtei",708
 "Ascalonische Säule",709
+"Gilden-Banketttisch",710
 "Blaue Orchidee im Topf",711
 "Unheilvolle Festungsmauer: gewinkelt",712
 "Löwenstatue",713
@@ -567,6 +704,7 @@
 "Hindernis: Heilungs-Geschützturm",721
 "Rechteckiger Kübel",722
 "Luchsstatue",723
+"Globus der Gerüchte",724
 "Grammofon",725
 "Großer elonischer Pflanzkübel",726
 "Kodan-Küchenherd",727
@@ -583,10 +721,14 @@
 "\"Cairn der Unbeugsame\"-Bronzetrophäe",739
 "Gewebter Kodan-Raumtrenner",740
 "Super-Pagodensäule",741
+"Dreifacher Ärger-Goldtrophäe",742
+"Rennstrecke: Linkskurve",743
 "Drachenatem-Laterne",744
 "\"Belagert die Festung\"-Bronzetrophäe",745
 "Fassständer",746
 "Geschmiedeter Pylon",747
+"Kryptis-Säule",748
+"Rennstrecke: Linke Abwärtskurve",749
 "Lagerfeuer",750
 "Festliches Ballonbündel",751
 "Einfacher Tisch",752
@@ -601,6 +743,7 @@
 "Spinnennetz-Wand",761
 "Super-Eiswand",762
 "Gedenkstatue für die Erforschung signifikanter Disziplinen",763
+"Flache Super-Zeigehand",764
 "Blauer Moa-Farn im Topf",765
 "Palme",766
 "Elonische Schlangenstatue",767
@@ -608,19 +751,27 @@
 "Erleuchteter Brunnen",769
 "Verwunschenes Zweiersofa",770
 "Große Ecke aus Schnee",771
+"\"Cairn der Unbeugsame\"-Goldtrophäe",772
 "Eisschloss: Geschützturm",773
 "Halbkugel aus Schnee",774
+"Rennen: Kontrollpunkt-Projektor",775
+"Holografische Strecke: Lange Gerade",776
 "Breites Bibliotheksregal",777
 "Gitterkübel mit Gänseblümchen",778
+"Gipfelbanner der Menschen",779
 "Standard-Felsbrocken",781
 "Super-Baum-Ast",782
 "Unglaubliche Bühne",783
 "Verdorbener Adler-Schrein",784
+"\"Kardinal Sabir\"-Goldtrophäe",785
 "Gruselige Halloween-Laterne",786
 "\"Großer Uhrturm\"-Zahnrad",787
+"Samarog-Goldtrophäe",788
 "Fragment von Sabethas Flammenwerfer",789
 "Faultierion-Bronzetrophäe",790
+"Flache traurige Super-Zeigehand",791
 "Zahn von Dreifacher Ärger",792
+"Rennstrecke: Lange Gerade",793
 "Zerschmetterer-Silbertrophäe",794
 "Grenth-Statuen-Marke",795
 "Petticoat-Palme im Topf",796
@@ -630,6 +781,7 @@
 "Sich windender Verdrehter Baum",800
 "Hindernis: Gift-Geschützturm",801
 "Superhöhlen-Boden",802
+"Zwillings-Largos-Goldtrophäe",803
 "Rattenstatue",804
 "Grüner Baum",805
 "Elonisches Geländer",806
@@ -667,13 +819,18 @@
 "Verwunschene Glocke",840
 "Bronzetrophäe Decima",841
 "Silbertrophäe Greer",842
+"Goldtrophäe Decima",843
 "Silbertrophäe Decima",844
 "Uras Marke (Heimstatt)",845
 "Silbertrophäe Ura",846
 "Bronzetrophäe Greer",847
+"Goldtrophäe Ura",848
 "Greers Marke (Heimstatt)",849
 "Bronzetrophäe Ura",850
 "Rollkäfer-Schubpolster",851
+"Jade-Tech-Mikrowelle",852
+"Goldtrophäe Greer",853
+"Charr-Abbild",854
 "Decimas Marke (Heimstatt)",855
 "Sternenlicht-Schnur",856
 "Eiszapfen",857
@@ -695,3 +852,9 @@
 "\"Verdrehtes Imaginarium\"-Vitrine",873
 "\"Verdrehtes Imaginarium\"-Pilz",874
 "\"Verdrehtes Imaginarium\"-Choya-Statue",875
+"Kunstvoller kleiner Läufer",876
+"Lotus-Läufer",877
+"Kunstvoller quadratischer Läufer",878
+"Dekorativer Läufer für den Außenbereich",879
+"Robuster Läufer für den Außenbereich",880
+"Zauberer-Läufer",881

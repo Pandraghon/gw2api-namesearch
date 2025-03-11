@@ -64924,6 +64924,7 @@
 "Energiequelle: Schulterschutz",99713
 "Stiller Sand: Silber",99714
 "Katastrophenmanagement-Training",99716
+"Starter-Kit: Raserei",99717
 "Energetisierter Luxon-Jäger-Kurzbogen",99718
 "Umfunktionierter Bohr-Nivellierer",99719
 "Bedrohungslinderung-Training",99720
@@ -65206,6 +65207,7 @@
 "Seltene Riss-Essenz",100055
 "Astralwachen-Säule",100058
 "Edle Riss-Motivation",100060
+"Relikt der Brandung",100063
 "Flugtrainings-Beherrschung",100064
 "Besessenheits-Infusion",100065
 "Dagdas Kiste",100068
@@ -65323,6 +65325,7 @@
 "Geringere Essenz des Goldes",100233
 "Schamanisches Sturmgeschmiedetes Schwert",100235
 "Himmelsschuppe des Blutes",100237
+"Relikt des Lich",100238
 "Reliktbehälter: Kraft",100240
 "Topf mit gefährlichen Geistern",100244
 "Kryptis-Himmelsschuppe",100245
@@ -65369,6 +65372,7 @@
 "Kosmisches Erntewerkzeug",100307
 "Dragrimmars Waage",100308
 "",100309
+"Relikt des Ogers",100311
 "Magische Himmelsgeschmiedete Pistole",100312
 "Sturmauge-Streitkolben",100315
 "Vergessene Nourys-Belohnungskiste",100320
@@ -65424,6 +65428,7 @@
 "Jokopu",100399
 "Relikt des Sonnenlosen",100400
 "Skin für Geheiligtes Wams",100401
+"Relikt des Golemanten",100403
 "Luxusausrüstungskiste",100405
 "Besessenheits-Infusion",100407
 "Besänftigter Magie-Sturm",100409
@@ -65446,6 +65451,7 @@
 "Rezept: Sturmgeschmiedete Pistole",100431
 "Relikt von Akeem",100432
 "Rezept: Sturmgeschmiedeter Stab",100433
+"Relikt der Erde",100435
 "Mittlere Astralwachen-Handschuhe",100436
 "Himmelsschuppe des Todes",100437
 "Runde akademische Säule",100440
@@ -65476,6 +65482,7 @@
 "Viperhafter Abscheulichkeits-Streitkolben",100474
 "Viperhafter Abscheulichkeits-Dolch",100476
 "Antike Münze",100477
+"Relikt des Freibeuters",100479
 "Astralwachen-Wand",100480
 "Gefühlswelt der Bosheit",100483
 "Mini Avatar der Unersättlichkeit",100484
@@ -65605,6 +65612,7 @@
 "Echo des Obskuren",100671
 "Finsterer Saryx-Streitkolben",100672
 "Berserkerhaftes Zerborstenes Gewehr",100674
+"Relikt des Vampirismus",100676
 "Knuspriges Chak-Bein",100677
 "Luxusausrüstungskiste",100679
 "Fraktal-Fisch",100682
@@ -65737,6 +65745,7 @@
 "Satteltasche der Lagerung",100901
 "Himmelsschuppen-Zielübungen: Silber",100902
 "Obskurer Fisch",100904
+"Relikt des Holoschmieds",100908
 "Jadegesponnener Seidenfaden",100909
 "Mini Avatar der Verzweiflung",100910
 "Besessenheits-Infusion",100913
@@ -66748,6 +66757,7 @@
 "Strandhaus-Wendeltreppe",102186
 "Rezept: Mordremoth-Bronzetrophäe",102187
 "Rezept: Schwerer Titanplatten-Schulterschutz",102188
+"Rezept: \"Cairn der Unbeugsame\"-Goldtrophäe",102191
 "Heimstatt-Aufwertung: Holztausch-Kapazität",102196
 "Relikt des Pestilenzbringers",102199
 "Rezept: Sabetha-Bronzetrophäe",102201
@@ -66766,6 +66776,7 @@
 "Rezept: Leichter Titanplatten-Ornat",102241
 "Honigwabe",102244
 "Relikt der Gräueltat",102245
+"Rezept: Desmina-Goldtrophäe",102246
 "Mittlere Titanplatten-Maske",102247
 "Geringes Kodan-Lager",102250
 "Skin für Leere-verdorbener Streitkolben",102253
@@ -66774,12 +66785,14 @@
 "Glyphe des Wachtritters",102259
 "Janthir Syntri: Truhe der Helden-Auswahl",102265
 "Onyxspinnen-Auswahlkiste",102269
+"Rezept: Mordremoth-Goldtrophäe",102272
 "Tiefland-Küsten-Abenteuer: Silber",102273
 "Magischer Vollmond-Großschwert",102276
 "Leichte Titanplatten-Handschuhe",102278
 "Rezept: Standard-Podest",102281
 "Janthir-Ausrüstungskiste",102283
 "Rezept: Xera-Bronzetrophäe",102284
+"Rezept: Tequatl-Goldtrophäe",102285
 "Geliehenes Lockmittel",102292
 "Mini Herr Hoppinger",102293
 "Tiefland-Küsten-Abenteuer: Gold",102301
@@ -66795,6 +66808,7 @@
 "Skin für Onyxspinnen-Zepter",102336
 "Mittlere Titanplatten-Handschuhe",102340
 "Gabe von Bewahrte Erinnerung",102342
+"Rezept: Zwillings-Largos-Goldtrophäe",102344
 "Kostbare Tiefland-Küsten-Ausrüstungskiste",102346
 "Skin für Onyxspinnen-Langbogen",102348
 "Heimstatt-Aufwertung: Holztausch-Kapazität",102351
@@ -66803,6 +66817,7 @@
 "Skin für Fäulnispirscher-Stiefel",102358
 "Endloser Kriegsklauen-Junges-Trank",102362
 "Rezept: Desmina-Silbertrophäe",102365
+"Rezept: Zerschmetterer-Goldtrophäe",102366
 "Tiefland-Kodan-Fachkenntnisse",102370
 "Mittlere polychromatische Handschuhe",102373
 "Gabe des Heimstätten-Siedlers",102376
@@ -66817,6 +66832,7 @@
 "Skin für Onyxspinnen-Streitkolben",102392
 "Rezept für Vielseitiger Wegfinder-Tisch",102393
 "Rezept: Desmina-Bronzetrophäe",102399
+"Rezept: \"Beschworene Verschmelzung\"-Goldtrophäe",102405
 "Rezept: Desminas Marke",102408
 "Gabe von Unberührter Boden",102411
 "Schweres Färberwaid-Wams",102412
@@ -66839,6 +66855,7 @@
 "Heimstätten-Rezeptbuch: Tische",102450
 "Tiefland-Grunzer",102451
 "Skin für Leere-verdorbener Hammer",102452
+"Rezept: Samarog-Goldtrophäe",102454
 "Skin für Onyxspinnen-Stab",102457
 "Skin für Onyxspinnen-Axt",102458
 "Prismatischer Speer",102459
@@ -66852,9 +66869,11 @@
 "Gelber Felsen",102470
 "Rezept: Mittlere Titanplatten-Jacke",102472
 "Magischer Verziertes Zepter der Bärin",102473
+"Rezept: Dhuum-Goldtrophäe",102474
 "Eldritch-Schrecken-Holzfällerwerkzeug-Behälter",102477
 "Rezept: Schwere Titanplatten-Brustplatte",102482
 "Skin für Leere-verdorbene Axt",102486
+"Mini Stacheltal",102487
 "Rezept: \"Dreifacher Ärger\"-Bronzetrophäe",102492
 "Seltsame Mursaat-Währung",102494
 "Rezept: Tal-Wächter-Bronzetrophäe",102495
@@ -66882,6 +66901,7 @@
 "Rezeptbuch für Titanplatten-Beinkleid",102544
 "Brauner Felsen",102545
 "Heimstätten-Rezeptbuch: Fraktal \"Solider Ozean\"",102549
+"Rezept: Deimos-Goldtrophäe",102551
 "Skin für Fäulnispirscher-Wams",102554
 "Schwere polychromatische Beinschienen",102557
 "Honigblume",102558
@@ -66927,6 +66947,7 @@
 "Eldritch-Schrecken-Erntewerkzeug-Behälter",102651
 "\"Janthir Syntri\"-Schatulle",102652
 "Heimstatt-Aufwertung: Erztausch-Kapazität",102653
+"Rezept: Qadim-Goldtrophäe",102654
 "[[1111481]]",102655
 "Geheimes Schreiben",102656
 "Rezept: Mordremoth-Silbertrophäe",102661
@@ -67000,6 +67021,7 @@
 "Magischer Vollmond-Schwert",102834
 "Magischer Vollmond-Kriegshorn",102838
 "Tiefland-Küsten-Abenteuer: Gold",102841
+"Rezept: Äther-Dschinn-Goldtrophäe",102844
 "\"Janthir Syntri\"-Abenteuer: Bronze",102845
 "Skin für Himmelsstahl-Großschwert",102847
 "Walkürischer Bärling-Kriegshelm",102848
@@ -67012,23 +67034,27 @@
 "Rezept: Faultierion-Silbertrophäe",102863
 "Magischer Vollmond-Hammer",102866
 "Rezept: Festenkonstrukt-Bronzetrophäe",102868
+"Rezept: Mursaat-Aufseher-Goldtrophäe",102874
 "Leichte Färberwaid-Stiefel",102878
 "Ansehen-Marke: Janthir Syntri",102881
 "Magischer Vollmond-Stab",102882
 "Heimstatt-Aufwertung: Fasertausch-Kapazität",102883
 "Magischer Verzierter Dolch der Bärin",102884
+"Rezept: \"Kardinal Adina\"-Goldtrophäe",102886
 "Ring des Krustentiers",102899
 "Gabe von Klobjarne Geirr",102901
 "Heimstätten-Rezeptbuch: Pflanzen, Band 2",102902
 "Mondgeätzte Waffenkiste",102904
 "\"Janthir Syntri\"-Abenteuer: Silber",102905
 "Mittleres Färberwaid-Beinkleid",102907
+"Rezept: Grenth-Statue-Bronzetrophäe",102908
 "Mittlere Titanplatten-Stiefel",102910
 "Magischer Vollmond-Speer",102911
 "Glyphe des Prospektors",102912
 "Rezept: Gorseval-Bronzetrophäe",102917
 "Rezept: Xeras Bandrest",102918
 "Rezept: Zwillings-Largos-Marke",102920
+"Rezept: \"Weißer Mantel-Abscheulichkeit\"-Goldtrophäe",102924
 "Rezept: Zahn von Dreifacher Ärger",102925
 "Glyphe des Lederers",102926
 "Schweres Färberwaid-Beinkleid",102927
@@ -67059,6 +67085,7 @@
 "Rezept: Aufgespießter Gefangener",102987
 "Heimstatt-Aufwertung: Fasertausch-Kapazität",102989
 "Heimstätten-Rezeptbuch: Ballons",102993
+"Rezept: \"Dreifacher Ärger\"-Goldtrophäe",102997
 "Skin für Leere-verdorbene Fackel",102998
 "Goldener Pilz",103000
 "Magischer Vollmond-Langbogen",103001
@@ -67106,14 +67133,19 @@
 "Angelbelohnung von Janthir",103117
 "Rezept: Dhuum-Bronzetrophäe",103121
 "Skin für Onyxspinnen-Fokus",103126
+"Rezept: Faultierion-Goldtrophäe",103127
 "Mini Ruinenscherben-Zermalmer",103130
+"\"Janthir Wilds\"-Ura-Beutekiste",103132
 "Rezept: Mittlere Titanplatten-Stiefel",103133
 "Raptoren-Leckerei",103137
 "\"Janthir Wilds\"-Mursaat-Beutekiste",103141
 "Rezept: Leichte Titanplatten-Hosen",103144
 "Heimstatt-Aufwertung: Erztausch-Kapazität",103146
+"Rezept: \"Fluss der Seelen\"-Goldtrophäe",103149
 "Leere-verdorbene Waffen: Auswahl",103150
+"Rezept: Sabetha-Goldtrophäe",103158
 "Rezept: Mursaat-Aufseher-Silbertrophäe",103163
+"Rezept: Gorseval-Goldtrophäe",103165
 "Mittlere Titanplatten-Schultern",103167
 "Rezept: Xera-Silbertrophäe",103172
 "\"Janthir Wilds\"-Elementar-Beutekiste",103182
@@ -67132,6 +67164,7 @@
 "Magischer Vollmond-Pistole",103215
 "Rezept: Tal-Wächter-Stücke",103218
 "Skin für Glyzinien-Speer",103222
+"Rezept: Festenkonstrukt-Goldtrophäe",103223
 "Heimstätten-Rezeptbuch: Teppiche",103228
 "Rezept: Scherbe von Cairn dem Unbeugsamen",103231
 "Rezept: Samarog-Silbertrophäe",103232
@@ -67210,9 +67243,11 @@
 "Schwerer polychromatischer Sturmhelm",103407
 "Heimstätten-Rezeptbuch: Bänke, Stühle, Hocker",103409
 "Glyphe der Flüchtigkeit",103412
+"Rezept: Xera-Goldtrophäe",103417
 "Blauer Felsen",103419
 "Schwerer Titanplatten-Sturmhelm",103420
 "Heimstätten-Rezeptbuch: Halloween, Band 1",103421
+"Rezept: Chak-Potentat-Goldtrophäe",103422
 "Leichter polychromatischer Überwurf",103423
 "Relikt von Kummer",103424
 "[[1108937]]",103427
@@ -67228,6 +67263,7 @@
 "Glyphe der Tugend",103448
 "Rezept: \"Beschworene Verschmelzung\"-Marke",103449
 "Überrest eines Bärling-Kriegshelms",103450
+"Rezept: \"Kardinal Sabir\"-Goldtrophäe",103452
 "Rezept: Tal-Wächter-Silbertrophäe",103454
 "Heimstätten-Rezeptbuch: Bäume",103458
 "Rezept: Mittlere Titanplatten-Handschuhe",103459
@@ -67242,6 +67278,7 @@
 "Rezept: Chak-Potentat-Bronzetrophäe",103478
 "\"Wildes Gebrüll\"-Reittier-Adoptionslizenz",103482
 "Skin für Onyxspinnen-Kriegshorn",103483
+"Rezept: \"Belagert die Festung\"-Goldtrophäe",103485
 "Beherrschungspunkt",103488
 "Skin für Leere-verdorbenes Schwert",103493
 "\"Janthir Wilds\"-Kreaturen-Beutekiste",103494
@@ -67258,6 +67295,7 @@
 "Rezept: Faultierion-Bronzetrophäe",103541
 "Skin für Leere-verdorbener Stab",103543
 "Skin für Fäulnispirscher-Schultern",103544
+"Rezept: Tal-Wächter-Goldtrophäe",103545
 "",103547
 "Rezeptbuch für Titanplatten-Schultern",103550
 "Flammen-Legion-Dunkelstahl",103552
@@ -67614,7 +67652,9 @@
 "Natürliches Visier",104001
 "Natürliche Schreiter",104002
 "Mini Thermalquellen-Bärling (Gelb)",104003
+"Legendäre Waffe: Starter-Schlüssel – Set 7",104004
 "Seeglas-Wellen-Pistole",104006
+"Legendäre Waffe: Starter-Schlüssel – Set 7",104007
 "Großherziges-Wartungsöl-Station",104008
 "Skin für Naga-Geist-Gleitschirm",104009
 "Blutmond-Schwert des Blutes",104010
@@ -67631,6 +67671,7 @@
 "Seeglas-Wellen-Stab",104025
 "Gaets-Kristall",104026
 "Bronzetrophäe Greer",104027
+"Rezept: Goldtrophäe Greer",104028
 "Natürlicher Revolver",104029
 "Natürliche Schenkelstücke",104030
 "Nugget von Riss-Essenz",104031
@@ -67808,3 +67849,119 @@
 "Rezept für Schwarzlöwen-\"Verdrehtes Imaginarium\"-Choya-Statue",104226
 "Skin für \"Kaiserliche Immerblüte\"-Gewehr",104227
 "Skin für \"Kaiserliche Immerblüte\"-Speer",104228
+"Phiole mit titanengeschmolzenem flüssigem Obsidian",104229
+"Heimstatt-Rezept: Cantha-Nian-Statue",104230
+"Heimstatt-Rezeptbuch: Fraktale der Nebel, Band 2",104231
+"Lizenz für die \"Eigensinniges Irrlicht\"-Aufgabe",104233
+"Skin für Wachenritter-Schultern",104234
+"Langnasen-Papageifisch",104237
+"Finsterer Geplünderter Obsidian-Schild",104238
+"Wilde Fusionen: Reittier-Adoptionslizenz",104239
+"Relikt des Adlers",104241
+"Finsterer Geplünderter Obsidian-Dolch",104243
+"Rezept für \"Wahrer Blick\"-Rüstung: Schultern",104245
+"Heimstatt-Rezeptbuch: Kryta, Band 1",104250
+"Skin für Wachenritter-Stiefel",104251
+"Heimstatt-Rezept: Beetletun-Statuen-Fragmente",104252
+"Skin für Altbestand-Gewehr",104253
+"Relikt des Altruismus",104256
+"Anerkennung für Hurtiger Lahar",104261
+"Rezept: Relikt des Golemanten",104262
+"Abenteuer im Nebelbrand-Ödland: Silber",104263
+"Heimstatt-Rezept: Statue von Joko dem Schrecklichen",104269
+"Skin für Altbestand-Fackel",104270
+"Skin für Altbestand-Langbogen",104276
+"Heimatinstanz-Knoten für aufgeladenes Titanen-Erz",104278
+"Fischschwanz-Frosch",104280
+"Scherbe des Nebelbrand-Ödlands",104282
+"Rezept: Relikt des Feuers",104283
+"Finsterer Geplündertes Obsidian-Kriegshorn",104285
+"Finsterer Geplünderte Obsidian-Pistole",104289
+"Finsterer Geplünderter Obsidian-Langbogen",104291
+"Skin für \"Infundierte Aurora\"-Beinkleid",104293
+"Finsterer Geplünderte Obsidian-Fackel",104294
+"Skin für Altbestand-Speer",104295
+"Gefiederte Schnecke",104298
+"Skin für Altbestand-Zepter",104299
+"Rezept für \"Wahrer Blick\"-Rüstung: Stiefel",104301
+"Heimstatt-Rezeptbuch: Gipfelflaggen, Band 1",104302
+"Greers Kiste",104306
+"Altbestand-Auswahlkiste",104312
+"Himmelsweisen-Thron",104315
+"Rezept: Relikt der Brandung",104317
+"Heimstatt-Rezept: Jade-Tech-Mikrowelle",104318
+"Heimstatt-Rezept: Statue von Joko dem Siegreichen",104321
+"Heimstatt-Rezeptbuch: Amnytas, Band 1",104323
+"Heimstatt-Rezept: Statue von Joko dem Erlauchten",104326
+"Skin für Altbestand-Großschwert",104328
+"Finsterer Geplündertes Obsidian-Zepter",104330
+"Seltsame Mursaat-Ruinenscherbe",104331
+"Finsterer Geplündertes Obsidian-Gewehr",104333
+"Heimstatt-Rezeptbuch: Gipfelbanner, Band 1",104335
+"Rezept: Relikt des Holoschmieds",104336
+"Skin für \"Schimmernde Aurora\"-Speer",104341
+"Skin für Altbestand-Axt",104342
+"Skin für Altbestand-Pistole",104344
+"Finsterer Geplündertes Obsidian-Großschwert",104345
+"Finsterer Geplünderter Obsidian-Speer",104351
+"Rezept für \"Wahrer Blick\"-Rüstung: Wämser",104359
+"Skin für Altbestand-Schild",104360
+"Rezept für \"Wahrer Blick\"-Rüstung: Handschuhe",104363
+"Skin für Altbestand-Kurzbogen",104365
+"Wilde Fusionen: Reittier-Auswahllizenz",104366
+"Skin für Altbestand-Hammer",104368
+"Mini Janthir-Warg",104371
+"Finsterer Geplünderte Obsidian-Axt",104374
+"Heimstatt-Rezept: Gebrandmarkter Zackenstab",104378
+"Heimstatt-Rezeptbuch: Erweckte, Band 1",104379
+"Rezept: Relikt der Dornen",104380
+"Finsterer Geplünderter Obsidian-Stab",104381
+"Rezept für \"Wahrer Blick\"-Rüstung: Beinkleider",104393
+"Rezept: Relikt des Adlers",104394
+"Finsterer Geplünderter Obsidian-Kurzbogen",104397
+"Heimatinstanz-Knoten für Honigblumen",104400
+"Abenteuer im Nebelbrand-Ödland: Gold",104401
+"Heimstatt-Rezept: \"Stadt Kaineng\"-Regenschirm",104402
+"Finsterer Geplünderter Obsidian-Hammer",104403
+"Skin für Altbestand-Kriegshorn",104407
+"Decimas Kiste",104410
+"Waldkodan-Lederhandschuh",104414
+"Skin für Altbestand-Dolch",104417
+"Rezept: Relikt des Lich",104421
+"Relikt der Dornen",104424
+"Heimstatt-Rezeptbuch: Inneres Nayos, Band 1",104425
+"Rezept: Relikt des Vampirismus",104428
+"Vermessungsergebnis-Truhe: Tal der Qual",104431
+"Herabgesetzte Scherbe des Nebelbrand-Ödlands",104433
+"Heimatinstanz-Knoten für Tiefland-Kiefernschössling",104437
+"Skin für Altbestand-Streitkolben",104438
+"Vermessungsergebnis-Truhe: Blutstein-Korridor",104440
+"Heimatinstanz-Knoten für Vermoderter Titanen-Bernstein",104442
+"Finsterer Geplünderter Obsidian-Streitkolben",104445
+"Heimstatt-Rezeptbuch: Widerstand des Drachen, Band 1",104447
+"Heimstatt-Rezeptbuch: Drachen-Ende, Band 1",104449
+"Rezept: Relikt des Freibeuters",104450
+"",104451
+"Rezept: Relikt der Erde",104452
+"Einsiedler-Titanenkrebs",104459
+"Heimstatt-Rezeptbuch: Grothmar-Tal, Band 1",104460
+"Vermessungsergebnis-Truhe: Gespensterpass",104461
+"Nebelbrand-Ödland-Schatulle",104463
+"Rezept: Relikt des Altruismus",104465
+"Heimstatt-Rezeptbuch: Himmelswacht-Archipel, Band 1",104470
+"Finsterer Geplündertes Obsidian-Schwert",104473
+"Heimstatt-Rezept: Statue von Joko dem Mächtigen",104475
+"Skin für Wachenritter-Handschuhe",104476
+"Skin für Altbestand-Fokus",104477
+"Rezept für \"Wahrer Blick\"-Rüstung: Masken",104478
+"Skin für Altbestand-Stab",104486
+"Finsterer Geplünderter Obsidian-Fokus",104488
+"Heimstatt-Rezeptbuch: Güldener Talkessel, Band 1",104489
+"Abenteuer im Nebelbrand-Ödland: Bronze",104490
+"Heimstatt-Rezeptbuch: Löwenstatuen, Band 1",104492
+"Skin für Altbestand-Schwert",104495
+"Heimstatt-Rezept: Statue von Joko dem Unbeugsamen",104496
+"Rezept: Relikt des Ogers",104499
+"Heimstatt-Rezeptbuch: Diverse Gegenstände, Band 4",104500
+"Relikt des Feuers",104501
+"Kiste mit Geplünderten Obsidian-Waffen",104502

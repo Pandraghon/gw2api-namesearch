@@ -5,13 +5,18 @@
 "Seitung Bridge",5
 "Spooky Dining Table",6
 "Red Cushion",7
+"Statue of Joko the Powerful",8
 "Male Norn Holo-Dancer",9
 "Firecracker",10
 "Lounging Tiger Statue",12
 "Super Forest House",13
 "Obstacle: Knockback Turret",14
+"Academic Wall",15
 "Golden Rabbit Statue",16
+"Holographic Track Upward Ramp",17
 "Obstacle: Fear Turret",18
+"Statue of Joko the Majestic",19
+"Partial Academic Arch",20
 "Kodan Hero Statue",21
 "Melandru Statue",22
 "Square Planter",23
@@ -24,6 +29,7 @@
 "Bronze River of Souls Trophy",30
 "Season 1: Bronze Guild Challenger Trophy",31
 "Immense Lion Statue",32
+"Teleporter Exit",33
 "Kodan Cottage Wall",35
 "Potted Gold Fern",36
 "Obstacle: White Torch",37
@@ -40,6 +46,7 @@
 "Pumpkin Lanterns",48
 "Twin Largos' Token",49
 "Infinirarium Deck",50
+"Charr Summit Banner",51
 "Fancy Chair",52
 "Silver Triple Trouble Trophy",53
 "Ox Statue",54
@@ -48,40 +55,56 @@
 "Potted Maguuma Lily (Double Bloom)",57
 "Red Lantern",58
 "Obstacle: Vortex Trap",59
+"Dragon Plate",60
 "Blue Pirate Flag",61
 "Skewed Stairway (Left)",62
 "Potted Tree",63
 "Divinity Lamp",64
 "Thin Candlestick",65
+"Season 4: Gold Guild Challenger Trophy",66
+"Phoenix Lantern",67
 "Bronze Gorseval Trophy",68
+"Racetrack Upward Right Curve",69
 "Kodan Woodsy Cabinet",70
 "Pot of Chrysanthemums",71
 "Snow Mound",72
 "Super Campfire",73
 "Broken Mast Pole",74
+"Deluxe Wyvern Trophy",75
+"Tyrian Globe",76
 "Red Festival Tent",77
+"Holographic Track Straightaway",78
 "Weathered Elonian Column",79
 "Silver Keep Construct Trophy",80
 "Super Lily Pad",81
 "Victorious Dragon Bash Poster",82
 "Typical Drizzlewood Coast Tree",83
+"Super Chest",84
+"Tall Academic Arch",85
+"Leaping Lion Fountain",86
 "Spire Topiary",87
 "Bronze White Mantle Abomination Trophy",88
 "Xera's Ribbon Scrap",89
+"Super Rainbow Arch",90
 "Bronze Xera Trophy",91
 "Silver Sabetha Trophy",92
 "Wave of the Solid Ocean",93
 "Slab of the Solid Ocean",94
 "Dragon Bash Pylon",95
+"Norn Summit Banner",96
 "Silver Gorseval Trophy",97
 "Boar Statue",98
 "Basic Pedestal",99
 "Mad Moon",100
 "Spire of the Solid Ocean",101
+"Fragments of the Solid Ocean",102
 "Super Snow Floor",103
 "Primordial Leviathan Rib Cage",104
+"Holographic Track Downward Right Curve",105
+"Gold Mursaat Overseer Trophy",106
 "Rec Room Floor Tile",107
 "Trebuchet Siege",108
+"Awakened Tar Drip",109
 "Canthan Garden Wall",110
 "Loaded Wagon",111
 "Bronze Triple Trouble Trophy",112
@@ -89,32 +112,40 @@
 "Obstacle: Fan Trap",114
 "Super Snowy Cliff Face",115
 "Ether Djinn's Token",116
+"Racetrack Straightaway",117
 "Large Block of the Solid Ocean",118
 "Worn Pillar",119
 "Snowman Ice Sculpture",120
+"Season 1: Gold Guild Challenger Trophy",121
 "Thorny Mushroom",122
 "Silver Statue of Grenth Trophy",123
 "Short Guild Banquet Table",124
 "Traditional Kodan Bed",125
+"Dragon Hologram Generator",126
 "Bronze Statue of Grenth Trophy",127
 "Impaled Prisoner",128
 "Toymaker's Machine",129
+"Kodan Painting 3",130
 "Kodan Refined End Table",131
 "Elegant Square Pillar",132
 "Obstacle: Chill Turret",133
 "WvW Mortar Siege",134
+"Lattice Arbor",135
 "Guild Catapult Siege",136
 "Qadim's Token",137
 "Small Canthan Cherry Tree",139
 "Sandstone Pillar",140
 "Elaborate Sandstone Pillar",141
+"Uzolan's Mechanical Orchestra",142
 "Kodan Woodsy Trunk",143
 "Skewed Stairway (Right)",144
 "Grenth Statue",145
+"Kodan Outdoor Bath",146
 "Ominous Fortress Wall: Corrupted",147
 "Djinn Launching Device",148
 "Signal Lantern",149
 "Empty Square Planter",150
+"Charr Heliplatform",151
 "Mushroom",152
 "Potted Broad Paddlefrond",153
 "Kodan Writing Desk",154
@@ -122,6 +153,7 @@
 "Primordial Leviathan Rib Cage: Curved",156
 "Superior Trebuchet Siege",157
 "Comprehensive Disciplines Research Commemorative Statue",158
+"Holographic Track Right Curve",159
 "Glacier Overhang",160
 "Deluxe Vine Wall",161
 "Effervescent Pod",162
@@ -140,6 +172,7 @@
 "Silver Slothasor Trophy",175
 "Clock Tower's Broken Beam",176
 "Griffon Rental Post",177
+"Holographic Track Upward Right Curve",178
 "Obstacle: Lava Floor",179
 "Silver Qadim Trophy",180
 "White Wintersday Gift",181
@@ -156,6 +189,7 @@
 "Chak Gerent Eye",192
 "Frost Legion Machine",193
 "Chandelier",194
+"Gold Qadim Trophy",195
 "Astral Ward Square Floor",196
 "Bonfire",197
 "Obstacle: Purple Torch",198
@@ -167,10 +201,15 @@
 "Super Mushroom Platform",204
 "Wintersday Tree",206
 "Ascalonian Lamp",207
+"Astral Ward Staircase",208
+"Statue of Joko the Fearsome",209
 "Guild Ballista Siege",211
+"Gold Shatterer Trophy",212
 "Steel Pan",213
+"Racetrack Curved Ramp",214
 "Floral Canthan Rug",215
 "White Mantle Abomination Crystal",216
+"Gold Mordremoth Trophy",217
 "Snow Maker",218
 "Hedge Pillar",220
 "Season 4: Silver Guild Challenger Trophy",221
@@ -180,11 +219,13 @@
 "Kodan Fancy Bed",225
 "Red Throw Pillow",226
 "Plush Armchair",227
+"Holographic Track Curved Ramp",229
 "Zephyr Sailboat",230
 "Super King Frog",231
 "Freezie's Heart Statue",232
 "Desmina's Token",233
 "Purple Balloon",234
+"Long Fancy Table",235
 "Fine Armor Stand",236
 "Simple Shelf",237
 "Golem Siege",238
@@ -205,18 +246,25 @@
 "Petite Statue of Joko the Immortal",253
 "Clock Tower Gear",254
 "Dock Crane",255
+"Super Pointing Flat Glad Hand",256
 "Super Leaf Platform",257
 "River of Souls Token",258
 "Potted Blooming Moa Fern",259
 "Rooster Statue",260
 "Arrow Pattern Snowflake Platform",261
+"Super Pointing Glad Hand",262
 "Kodan Hanging Lantern",263
 "Broken Square Pillar",264
+"Armor Display Case—Mannequin",265
+"Kryptis Platform",266
 "Obstacle: Tall Wall",267
 "Superior Golem Siege",268
 "Ceramic Planter",269
+"Holographic Track Downward Left Curve",270
+"Kryptis Square Floor",271
 "Hanging Tree",272
 "Silver Mordremoth Trophy",273
+"Primordus Hologram Generator",274
 "Red Bowl",275
 "Red Bowl of Food",276
 "Charr Scrap Cannon",277
@@ -224,29 +272,42 @@
 "Kodan Fish Tank",279
 "Green Cushion",280
 "Zephyr Koi Lantern",281
+"Season 2: Gold Guild Challenger Trophy",282
 "Branded Devourer Monument",283
 "Cube of Snow",284
+"Season 3: Gold Guild Challenger Trophy",285
+"Beetletun Statue Fragments",287
 "Elonian Tent",288
+"Astral Ward Tiled Circular Platform",289
+"Kryptis Door (Tall and Wide)",290
 "Snow Pile",291
 "Janthir Grass (Small)",292
+"Astral Ward Gate",293
+"Gold Conjured Amalgamate Trophy",294
 "Ram Statue",295
 "Worn Arch",296
 "Zephyr Waterpot",297
 "Shield Generator Siege",298
 "Obstacle: Green Torch",299
 "Kodan Cottage Wall (Small)",300
+"Racing Power-Up Projector",301
 "Fancy Table",302
 "Lattice Planter",303
+"Fractal Console",304
 "Obstacle: Wall",305
 "Kodan Vanity",306
 "Basic Column",307
 "Square Cabinet",308
 "Canthan Condiments",309
+"Holographic Track Wide Curved Ramp",310
 "Zephyr Walkway",311
 "Kodan Crystal Candle",312
+"Gold Statue of Grenth Trophy",313
+"Gold Deimos Trophy",314
 "Kodan Heritage Chest",315
 "Reaching Twisted Tree",316
 "Zephyr Canopy",317
+"Gold Xera Trophy",318
 "Draped Wintersday Garland",319
 "Bronze Cardinal Adina Trophy",320
 "Catapult Siege",321
@@ -257,34 +318,46 @@
 "Fuchsia Balloon",328
 "Superior Ballista Siege",329
 "Super Rock Wall",330
+"Charr Summit Flag",331
 "Elegant Pillar",332
 "Bronze Mordremoth Trophy",333
+"Astral Ward Wall",334
 "Mists Griffon Statue",335
 "Decorated Casket",336
 "Silver Deimos Trophy",337
 "Zephyr Scaffolding",338
+"Complete Academic Arch",339
 "Elonian Hawk Statue",340
 "Block Topiary",341
+"Gold Vale Guardian Trophy",342
 "Fancy Round Table",343
 "Corrupted Ox Shrine",344
 "Haunted Armchair",345
 "Weathered Elonian Obelisk",346
 "Season 6: Bronze Guild Challenger Trophy",347
+"Large Male Norn Holo-Dancer",348
+"Round Academic Column",349
 "Armor Stand",350
 "Dragon's Tooth Lantern",351
 "Red Festival Umbrella",352
 "Lunar Arch",353
+"Capped Gold Pillar",354
 "Purple Dragon Target",355
+"Super Pointing Sad Hand",356
 "Potted Lady Palm",357
+"Gold Sabetha Trophy",358
 "Majority Disciplines Research Commemorative Statue",359
+"Gold Gorseval Trophy",360
 "Obstacle: Wide Lava Floor",361
 "Zephyr Support",362
+"Gold Wall",363
 "Super Cave Stalagmite",364
 "Bronze Dhuum Trophy",365
 "Deep Pot",366
 "Pumpkin",367
 "Hedge",368
 "Massive Balloon Bouquet",369
+"Gold Siege the Stronghold Trophy",370
 "Festival Tent",371
 "Silver Dhuum Trophy",372
 "Spider's Web Floor",373
@@ -294,6 +367,7 @@
 "Broken Sandstone Pillar",377
 "Superior Catapult Siege",378
 "Unimpressive King Frog",379
+"Gold Ether Djinn Trophy",380
 "Potted Cypress",381
 "Short Guild Bar",382
 "Yellow Cushion",383
@@ -305,18 +379,23 @@
 "Large Cube of Snow",389
 "Zephyr Lantern",390
 "Bronze Ether Djinn Trophy",391
+"Summit Flag",392
 "Bronze Samarog Trophy",393
 "Oakheart's Essence",394
 "Season 6: Silver Guild Challenger Trophy",395
 "[[1100540]]",396
 "Festive Streetlamp",397
 "Embellished Wintersday Star",398
+"Season 5: Gold Guild Challenger Trophy",399
 "Kormir Statue",400
+"Gold Keep Construct Trophy",401
 "Janthir Grass (Large)",402
+"Summit Banner",403
 "Small Elonian Planter",404
 "Potted Palm",405
 "Charr Statue",406
 "Mists Rock Dog Statue",407
+"Mists Dolyak Statue",408
 "Refined Streetlamp",409
 "Tiger Statue",410
 "Silver Siege the Stronghold Trophy",411
@@ -324,14 +403,19 @@
 "Cardinal Sabir's Token",413
 "Ephemeral Spider's Web Wall",414
 "Season 3: Silver Guild Challenger Trophy",415
+"Leaping Lion Statue",416
 "Season 2: Silver Guild Challenger Trophy",417
+"Statue of Joko the Victorious",418
 "Kodan Timber Stool",419
+"Racetrack Downward Ramp",420
 "Silver Conjured Amalgamate Trophy",421
 "Plush Sofa",422
 "Guild Arrow Cart Siege",423
 "Guild Trebuchet Siege",424
+"Super Pointing Hand",425
 "Blue Dragon Target",426
 "Guild Stool",427
+"Awakened Tar Pit",428
 "Keg",429
 "Windmill Wheel",430
 "Well",431
@@ -340,10 +424,13 @@
 "Raptor Rental Post",434
 "Super Cliff Face",435
 "Kodan Woodsy Cabinet (Tall)",436
+"Armor Display Case",437
 "Super Beech Tree",438
+"Roller Beetle Rental Post",439
 "Guild Barstool",440
 "Canthan Stair Bridge",442
 "Lyssa Statue",443
+"Gold Cardinal Adina Trophy",444
 "Green Balloon",445
 "Green Pirate Flag",446
 "Branded Crystal",447
@@ -355,18 +442,28 @@
 "Commemorative Weapon Stand",453
 "Bronze Cardinal Sabir Trophy",454
 "Basic Grave Marker",455
+"Kryptis Stair",456
 "Gilded Banner",457
 "[[1102512]]",458
 "Zephyr Window Pane",461
+"Holographic Track Downward Ramp",462
 "Large Bamboo Clump",463
 "Silver Ether Djinn Trophy",464
+"Gold Chak Gerent Trophy",465
+"Astral Ward Orb Stand",466
 "Fog Machine",467
+"Racetrack Upward Left Curve",468
+"Academic Light",469
+"Sylvari Summit Banner",470
 "Plush Rug",471
 "Visage of Madness",472
+"Racetrack Right Curve",473
 "Fancy Urn",474
 "Forged Brazier",475
 "Antler Pattern Snowflake Platform",476
+"Astral Ward Door",477
 "Superior Flame Ram Siege",478
+"Statue of Joko the Indomitable",479
 "Peppermint Arrow",480
 "Super Tree Trunk",481
 "Bronze Deimos Trophy",482
@@ -374,6 +471,7 @@
 "Demon Statue",485
 "Kodan Wall Mirror",486
 "Bundle of Corn Stalks",487
+"Elonian Urn",488
 "Bowl Topiary",489
 "Red Pirate Flag",490
 "Basic Bookshelf",491
@@ -385,23 +483,32 @@
 "Grenth's Palm",497
 "Elonian Wood Table",498
 "Portrait of Caudecus",499
+"Racetrack Upward Ramp",500
 "Elonian Stone Tower",501
 "Fragment of Saul's Burden",502
 "Bronze Qadim Trophy",503
 "Broken Ascalonian Pillar",504
+"Sylvari Summit Flag",505
 "Tall Elonian Column",506
 "Silver Mursaat Overseer Trophy",507
+"Kryptis Goo Plane",508
+"Holographic Track Upward Left Curve",509
 "Lit Wagon",510
 "Griffon Fountain",511
+"Kryptis Wall",512
 "Elonian Vase",513
+"Gold River of Souls Trophy",514
 "Library Shelf",515
 "Zephyr Rowboat",516
 "Crooked Mushroom",517
 "Mast Pole",518
 "Crystal Block of the Solid Ocean",519
+"Awakened Bone Wall",520
 "Throne",521
 "Season 5: Silver Guild Challenger Trophy",522
 "Potted Jungle Grass",523
+"Holographic Track Large Curved Ramp",524
+"Gold Desmina Trophy",525
 "Guild Bar",526
 "Silver Cardinal Adina Trophy",527
 "Super Rock",528
@@ -409,18 +516,24 @@
 "Tranquil Birdbath",530
 "Flame Ram Siege",531
 "Ghostly Dining Chair",532
+"Holographic Track Left Curve",533
 "Potted Maguuma Lily (Triple Bloom)",534
 "Wintersday Garland",535
+"Canthan Nian Statue",536
 "Fancy Armchair",537
+"Asuran Summit Banner",538
 "Short Elonian Column",539
 "Griffon Statue",540
 "Conjured Amalgamate's Token",541
 "Obstacle: Flame Turret",543
 "Zephyr Bridge",544
+"Gold Pillar",545
+"Astral Ward Pillar",546
 "Bronze Keep Construct Trophy",547
 "Super Rock Ramp",548
 "Super Cave Pillar",549
 "Ominous Fortress Wall",550
+"Human Summit Flag",551
 "Kournan Brazier",552
 "Candy Cane Beam",553
 "Rug",554
@@ -431,6 +544,9 @@
 "Spooky Cauldron",559
 "Hedge Corner",560
 "Dragon Bash Windcatcher",561
+"Kaineng City Umbrella",562
+"Asuran Summit Flag",563
+"Jormag Hologram Generator",564
 "Kodan Lantern",565
 "Thick Drizzlewood Coast Tree",566
 "Wintersday Star",567
@@ -444,10 +560,13 @@
 "Bronze Sabetha Trophy",575
 "Peppermint Platform",576
 "Bronze Chak Gerent Trophy",577
+"Large Female Norn Holo-Dancer",578
+"Gold Slothasor Trophy",579
 "Superior Shield Generator Siege",580
 "Eternal Flame",581
 "Netted Crates",582
 "Ice Castle: Roof",583
+"Stylized Stone Dragon Head",584
 "Pillar Candle",585
 "Kodan Soup Kettle",586
 "Silver Twin Largos Trophy",587
@@ -465,21 +584,26 @@
 "Super Short Cliff Face",599
 "Potted Junglerice",600
 "Potted Night Thistle Bud",601
+"Deluxe Charr Copter",602
 "Silver Samarog Trophy",603
 "Super Giant Cloud",604
 "Zephyr Banner",605
 "Potted Night Thistle",606
 "Super Tall Cliff Face",607
 "Potted Tall Cypress",608
+"Academic Wall with Windows",609
 "Kodan Woodsy Armchair",610
 "Potted Reaching Gold Fern",611
 "Crooked Thorny Mushroom",612
 "Kodan Woodsy Dining Table",613
 "Lattice Planter with Red Petunias",614
+"Elonian Gong",615
 "Red Flag",616
 "Super Flower",617
 "Pew",618
 "Yellow Balloon",619
+"Jewelry Display Case",620
+"Season 6: Gold Guild Challenger Trophy",621
 "Kodan Bone Bookshelf",622
 "Cairn the Indomitable Shard",623
 "Super Mushroom",624
@@ -487,23 +611,29 @@
 "Potted Reaching Blue Fern",626
 "Silver Tequatl Trophy",627
 "Kodan Hammock",628
+"Gold Tequatl Trophy",629
 "Highback Chair",630
 "Super Small Rock",631
 "Triumphant Dragon Bash Poster",632
 "Hedge Planter",633
 "Silver Cairn the Indomitable Trophy",634
 "Elonian Cairn Stones",635
+"Teleporter Entrance",636
 "Slothasor Mushroom",637
 "Mists Minotaur Statue",638
 "Cheery Balloon Bundle",639
 "Kodan Woodsy Cabinet (High)",641
+"Gold Dhuum Trophy",642
 "Shattered Stairway",643
 "Superior Arrow Cart Siege",644
 "Ephemeral Spider's Web Floor",645
+"Norn Summit Flag",646
 "Elonian Lattice",647
 "Lattice",648
+"Awakened Bone Column",649
 "Large Crystal Block of the Solid Ocean",650
 "Scarecrow",651
+"Gold White Mantle Abomination Trophy",652
 "Tall Candlestick",653
 "Ice Sheet",654
 "Unchained Platform",655
@@ -519,8 +649,10 @@
 "Blue Cushion",666
 "Silver Chak Gerent Trophy",667
 "Silver River of Souls Trophy",668
+"Large Canthan Cherry Tree",669
 "Thorny Jack-o'-Lantern",670
 "Wedge of Snow",671
+"Racetrack Downward Right Curve",672
 "Potted Djinn's Tongue",673
 "Elonian Incense Stand",674
 "Gorseval Tentacle",675
@@ -538,22 +670,27 @@
 "Demolished Mast Pole",687
 "Season 3: Bronze Guild Challenger Trophy",688
 "Large Festival Tent",689
+"Square Academic Column",690
 "Corrupted Wolverine Shrine",691
 "Kodan Swirl Rug",692
 "Reindeer Ice Sculpture",693
 "Obstacle: Red Torch",694
 "Bronze Twin Largos Trophy",695
+"Branded Spire",696
+"Super Cloud Wall",697
 "Ballista Siege",698
 "Zephyr Sail",699
 "Potted Bamboo",700
 "Woodfire Grill",701
 "Ice Slide",702
+"Master Brewer's Keg",703
 "Forged Fire Wall",704
 "Tall Lattice",705
 "Potted Fern Tree",706
 "Potted Croton",707
 "The Heart of the Priory",708
 "Ascalonian Pillar",709
+"Guild Banquet Table",710
 "Potted Blue Orchid",711
 "Ominous Fortress Wall: Angled",712
 "Lion Statue",713
@@ -567,6 +704,7 @@
 "Obstacle: Heal Turret",721
 "Rectangular Planter",722
 "Lynx Statue",723
+"Globe of Whispers",724
 "Gramophone",725
 "Large Elonian Planter",726
 "Kodan Kitchen Hearth",727
@@ -583,10 +721,14 @@
 "Bronze Cairn the Indomitable Trophy",739
 "Kodan Woven Divider",740
 "Super Pagoda Column",741
+"Gold Triple Trouble Trophy",742
+"Racetrack Left Curve",743
 "Dragon's Breath Lantern",744
 "Bronze Siege the Stronghold Trophy",745
 "Keg Rack",746
 "Forged Pylon",747
+"Kryptis Pillar",748
+"Racetrack Downward Left Curve",749
 "Campfire",750
 "Festive Balloon Bundle",751
 "Simple Table",752
@@ -601,6 +743,7 @@
 "Spider's Web Wall",761
 "Super Ice Wall",762
 "Significant Disciplines Research Commemorative Statue",763
+"Super Pointing Flat Hand",764
 "Potted Blue Moa Fern",765
 "Palm Tree",766
 "Elonian Snake Statue",767
@@ -608,19 +751,27 @@
 "Illuminated Fountain",769
 "Haunted Love Seat",770
 "Large Wedge of Snow",771
+"Gold Cairn the Indomitable Trophy",772
 "Ice Castle: Turret",773
 "Hemisphere of Snow",774
+"Racing Checkpoint Projector",775
+"Holographic Track Long Straightaway",776
 "Wide Library Shelf",777
 "Lattice Planter with Daisies",778
+"Human Summit Banner",779
 "Basic Boulder",781
 "Super Tree Branch",782
 "Incredulous Stage",783
 "Corrupted Eagle Shrine",784
+"Gold Cardinal Sabir Trophy",785
 "Creepy Jack-o'-Lantern",786
 "Grand Clock Tower Gear",787
+"Gold Samarog Trophy",788
 "Sabetha Flamethrower Fragment",789
 "Bronze Slothasor Trophy",790
+"Super Pointing Flat Sad Hand",791
 "Triple Trouble Tooth",792
+"Racetrack Long Straightaway",793
 "Silver Shatterer Trophy",794
 "Statue of Grenth Token",795
 "Potted Petticoat Palm",796
@@ -630,6 +781,7 @@
 "Writhing Twisted Tree",800
 "Obstacle: Poison Turret",801
 "Super Cave Floor",802
+"Gold Twin Largos Trophy",803
 "Rat Statue",804
 "Green Tree",805
 "Elonian Railing",806
@@ -669,13 +821,18 @@
 "Haunted Bell",840
 "Bronze Decima Trophy",841
 "Silver Greer Trophy",842
+"Gold Decima Trophy",843
 "Silver Decima Trophy",844
 "Ura's Token (Homestead)",845
 "Silver Ura Trophy",846
 "Bronze Greer Trophy",847
+"Gold Ura Trophy",848
 "Greer's Token (Homestead)",849
 "Bronze Ura Trophy",850
 "Roller Beetle Boost Pad",851
+"Jade Tech Microwave",852
+"Gold Greer Trophy",853
+"Charr Effigy",854
 "Decima's Token (Homestead)",855
 "Star Light String",856
 "Icicle",857
@@ -697,3 +854,9 @@
 "Twisted Imaginarium Cabinet",873
 "Twisted Imaginarium Mushroom",874
 "Twisted Imaginarium Choya Statue",875
+"Fancy Small Rug",876
+"Lotus Rug",877
+"Fancy Square Rug",878
+"Decorative Outdoor Rug",879
+"Sturdy Outdoor Rug",880
+"Wizard Rug",881
