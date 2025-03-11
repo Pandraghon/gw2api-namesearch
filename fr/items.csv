@@ -65276,6 +65276,7 @@
 "Essence de triomphe",100055
 "Pilier de la Garde astrale",100058
 "Motivation kryptis commune",100060
+"Relique de montée en puissance",100063
 "Maîtrise d'entraînement au vol",100064
 "Infusion de possession",100065
 "Malle de Dagda",100068
@@ -65393,6 +65394,7 @@
 "Essence mineure d'or",100233
 "Épée de forge-tempête chamanique",100235
 "Dracaille du sang",100237
+"Relique de la liche",100238
 "Conteneur de relique : Puissance",100240
 "Pot d'esprits dangereux",100244
 "Dracaille kryptis",100245
@@ -65439,6 +65441,7 @@
 "Outil de moissonnage cosmique",100307
 "Écailles de Dragrimmar",100308
 "",100309
+"Relique d'Ogre",100311
 "Pistolet de forge-ciel mage",100312
 "Masse d'œil de tempête",100315
 "Boîte de récompenses de Nourys oubliée",100320
@@ -65494,6 +65497,7 @@
 "Jokopu",100399
 "Relique du Sans-soleil",100400
 "Apparence de manteau sanctifié",100401
+"Relique de golemancien",100403
 "Boîte d'équipement de luxe",100405
 "Infusion de possession",100407
 "Tempête magique pacifique",100409
@@ -65516,6 +65520,7 @@
 "Recette : pistolet de forge-tempête",100431
 "Relique d'Akeem",100432
 "Recette : bâton de forge-tempête",100433
+"Relique de terre",100435
 "Gants intermédiaires de la Garde astrale",100436
 "Dracaille de la mort",100437
 "Colonne ronde de l'académie",100440
@@ -65546,6 +65551,7 @@
 "Masse de l'abomination enragé",100474
 "Dague de l'abomination vipérin",100476
 "Pièce ancienne",100477
+"Relique de corsaire",100479
 "Mur de la Garde astrale",100480
 "Sensibilité de la malice",100483
 "Mini-Avatar de la gloutonnerie",100484
@@ -65675,6 +65681,7 @@
 "Écho de l'Obscur",100671
 "Masse de Saryx sinistre",100672
 "Fusil brisé berserker",100674
+"Relique de vampirisme",100676
 "Patte savoureuse de chak",100677
 "Boîte d'équipement de luxe",100679
 "Poisson fracturé",100682
@@ -65807,6 +65814,7 @@
 "Sacoche de stockage",100901
 "Entraînement sur cible de dracaille : argent",100902
 "Poisson-obscur",100904
+"Relique de l'Holographiste",100908
 "Fil de soie tissé de jade",100909
 "Mini-Avatar du désespoir",100910
 "Infusion de possession",100913
@@ -66935,6 +66943,7 @@
 "Boîte à outil de bûcheron d'horreur surnaturelle",102477
 "Recette : plastron lourd de plates de Titan",102482
 "Apparence de hache corrompue par le vide",102486
+"Miniature de Vallée hérissée",102487
 "Recette : trophée de bronze de Triple terreur",102492
 "Monnaie mursaat étrange",102494
 "Recette : trophée de bronze du Gardien de la Vallée",102495
@@ -67532,6 +67541,7 @@
 "Bouclier de la lune de sang de sang",103761
 "Preuve d'expertise en siège",103762
 "Relique des geysers",103763
+"Recette : trophée d'or d'Ura",103764
 "Marteau de guerre naturel",103765
 "Souvenir des chasses des Kodans",103766
 "Livre de recettes pour pavillon : dieux humains",103767
@@ -67663,6 +67673,7 @@
 "Sceptre de la lune de sang de sang",103936
 "Tas de pièces recyclées de béliers de feu",103937
 "Apparence de bouclier de l'araignée d'albâtre",103940
+"Recette : trophée d'or de Decima",103942
 "Percevapeur d'Ura",103944
 "Recette : trophée d'argent de Decima",103945
 "Malle d'Ura",103946
@@ -67732,6 +67743,7 @@
 "Bâton de vague verre-de-mer",104025
 "Cristal de Gaets",104026
 "Trophée de bronze de Greer",104027
+"Recette : trophée d'or de Greer",104028
 "Revolver naturel",104029
 "Tassettes naturelles",104030
 "Nodule d'essence de brèche",104031
@@ -67914,77 +67926,152 @@
 "Livre de recettes pour pavillon : Fractales des Brumes, volume 2",104231
 "Licence de quête du follet rétif",104233
 "Apparence d'épaulières du chevalier de la Garde",104234
+"Poisson-perroquet à bec long",104237
+"Bouclier d'obsidienne pillée sinistre",104238
 "Licence d'adoption de monture des fusions féroces",104239
+"Relique de l'aigle",104241
 "Dague d'obsidienne pillée sinistre",104243
+"Recette d'armure de vue véritable : épaulières",104245
+"Masque intermédiaire de vue véritable",104247
 "Livre de recettes pour pavillon : Kryte, volume 1",104250
 "Apparence de bottes du chevalier de la Garde",104251
 "Recette pour pavillon : fragments de statue de Beetletun",104252
 "Apparence de fusil de vieille pousse",104253
+"Gants lourds de vue véritable",104254
+"Relique d'altruisme",104256
 "Signe de reconnaissance envers Lahar habile",104261
 "Recette : relique de golemancien",104262
+"Aventure des Landes de Feu-de-Brume : argent",104263
+"Mini-Yagon",104264
 "Recette pour pavillon : statue de Joko le Redoutable",104269
 "Apparence de torche de vieille pousse",104270
+"Crabe à dos épineux",104275
 "Apparence d'arc long de vieille pousse",104276
 "Ressource de minerai de Titan chargé pour zone personnelle",104278
+"Grenouille à queue de poisson",104280
+"Bottes lourdes de vue véritable",104281
+"Éclat des Landes de Feu-de-Brume",104282
 "Recette : relique de feu",104283
 "Cor de guerre d'obsidienne pillée sinistre",104285
 "Pistolet d'obsidienne pillée sinistre",104289
 "Arc long d'obsidienne pillée sinistre",104291
 "Apparence de jambières de l'aurore infusées",104293
+"Torche d'obsidienne pillée sinistre",104294
 "Apparence de lance de vieille pousse",104295
+"Escargot à plumes",104298
+"Apparence de sceptre de vieille pousse",104299
+"Recette d'armure de vue véritable : bottes",104301
+"Livre de recettes pour pavillon : drapeaux de faîte, volume 1",104302
+"Anguille pêcheuse",104303
+"Masque léger de vue véritable",104304
+"Bottes légères de vue véritable",104305
+"Malle de Greer",104306
 "Boîte de sélection de vieille pousse",104312
+"Don des Landes de Feu-de-Brume",104313
 "Trône du sage céleste",104315
 "Recette : relique de montée en puissance",104317
 "Recette pour pavillon : micro-ondes à technologie de jade",104318
 "Recette pour pavillon : statue de Joko le Victorieux",104321
+"Gants de cuir kodans sylvestres",104322
 "Livre de recettes pour pavillon : Amnytas, volume 1",104323
 "Recette pour pavillon : statue de Joko le majestueux",104326
 "Apparence d'espadon de vieille pousse",104328
+"Sceptre d'obsidienne pillée sinistre",104330
 "Fragment de ruine mursaat étrange",104331
+"Fusil d'obsidienne pillée sinistre",104333
+"Livre de recettes pour pavillon : bannières de faîte, volume 1",104335
 "Recette : relique de l'Holographiste",104336
 "Apparence de lance de l'aurore scintillante",104341
 "Apparence de hache de vieille pousse",104342
 "Apparence de pistolet de vieille pousse",104344
 "Espadon d'obsidienne pillée sinistre",104345
+"Masque lourd de vue véritable",104346
+"Gants légers de vue véritable",104350
 "Lance d'obsidienne pillée sinistre",104351
+"Jambières légères de vue véritable",104352
+"Gants de cuir kodans sylvestres",104356
+"Infusion de pierre de sang",104357
+"Ravitaillement de niveau supérieur du mont Balrior",104358
+"Recette d'armure de vue véritable : manteaux",104359
+"Apparence de bouclier de vieille pousse",104360
+"Recette d'armure de vue véritable : gants",104363
 "Apparence d'arc court de vieille pousse",104365
 "Sélection de licence d'adoption de monture des fusions féroces",104366
 "Apparence de marteau de vieille pousse",104368
+"Manteau lourd de vue véritable",104369
+"Mini-warg de Janthir",104371
+"Manteau léger de vue véritable",104373
 "Hache d'obsidienne pillée sinistre",104374
 "Recette pour pavillon : aiguille stigmatisée",104378
 "Livre de recettes pour pavillon : Éveillés, volume 1",104379
 "Recette : relique des épines",104380
 "Bâton d'obsidienne pillée sinistre",104381
+"Infusion de pierre de sang",104386
+"Épaulières lourdes de vue véritable",104391
+"Follet sylvestre",104392
+"Recette d'armure de vue véritable : jambières",104393
 "Recette : relique de l'aigle",104394
 "Arc court d'obsidienne pillée sinistre",104397
+"Malle magnifique de Greer",104399
 "Ressource de fleur de miel pour zone personnelle",104400
+"Aventure des Landes de Feu-de-Brume : or",104401
 "Recette pour pavillon : parapluie de la ville de Kaineng",104402
+"Marteau d'obsidienne pillée sinistre",104403
+"Mini-Rhianwyn",104406
 "Apparence de cor de guerre de vieille pousse",104407
+"Gants intermédiaires de vue véritable",104409
+"Malle de Decima",104410
+"Tonique de Yagon inépuisable",104411
+"Bottes intermédiaires de vue véritable",104412
 "Gant de cuir kodan sylvestre",104414
 "Apparence de dague de vieille pousse",104417
+"Boîte d'armes d'obsidienne pillée",104418
+"Épaulières intermédiaires de vue véritable",104419
+"Jambières lourdes de vue véritable",104420
 "Recette : relique de la liche",104421
+"Jambières intermédiaires de vue véritable",104422
+"Relique des épines",104424
 "Livre de recettes pour pavillon : Nayos intérieur, volume 1",104425
 "Recette : relique de vampirisme",104428
+"Manteau intermédiaire de vue véritable",104430
+"Coffre de résultat d'exploration de la vallée de l'agonie",104431
+"Éclat des Landes de Feu-de-Brume à prix réduit",104433
+"Infusion de follet sylvestre",104435
 "Ressource de pousse de pin des basses terres pour zone personnelle",104437
 "Apparence de masse de vieille pousse",104438
+"Malle d'Ura",104439
+"Coffre de résultat d'exploration du couloir de la pierre de sang",104440
 "Ressource d'ambre de Titan putrescent pour zone personnelle",104442
+"Masse d'obsidienne pillée sinistre",104445
 "Livre de recettes pour pavillon : Repli du dragon, volume 1",104447
 "Livre de recettes pour pavillon : Trépas du dragon, volume 1",104449
 "Recette : relique de corsaire",104450
 "",104451
 "Recette : relique de terre",104452
+"Épaulières légères de vue véritable",104455
+"Infusion de pierre de sang",104456
+"Bernard-l'ermite titanesque",104459
 "Livre de recettes pour pavillon : Vallée de Grothmar, volume 1",104460
+"Coffre de résultat d'exploration du col du spectre",104461
 "Coffre-fort des Landes de Feu-de-Brume",104463
 "Recette : relique d'altruisme",104465
 "Livre de recettes pour pavillon : Archipel de l'observatoire céleste, volume 1",104470
+"Infusion de pierre de sang",104472
 "Épée d'obsidienne pillée sinistre",104473
 "Recette pour pavillon : statue de Joko le puissant",104475
 "Apparence de gants du chevalier de la Garde",104476
 "Apparence de focus de vieille pousse",104477
+"Recette d'armure de vue véritable : masques",104478
+"Infusion de pierre de sang",104481
+"Gants de cuir kodans sylvestres",104485
 "Apparence de bâton de vieille pousse",104486
+"Focus d'obsidienne pillée sinistre",104488
 "Livre de recettes pour pavillon : Bassin aurique, volume 1",104489
+"Aventure des Landes de Feu-de-Brume : bronze",104490
 "Livre de recettes pour pavillon : statues de lion, volume 1",104492
 "Apparence d'épée de vieille pousse",104495
 "Recette pour pavillon : statue de Joko l'Indomptable",104496
 "Recette : relique d'Ogre",104499
+"Livre de recettes pour pavillon : divers objets, volume 4",104500
+"Relique de feu",104501
 "Boîte d'armes d'obsidienne pillée",104502
