@@ -525,6 +525,7 @@
 "Petite colonne élonienne",539
 "Statue de griffon",540
 "Coupon d'amalgame conjuré",541
+"Évier en or",542
 "Obstacle : tourelle lance-flammes",543
 "Pont du Zéphyr",544
 "Pilier en or",545
@@ -860,3 +861,10 @@
 "Tapis extérieur décoratif",879
 "Tapis extérieur robuste",880
 "Tapis de sorcier",881
+"Station à boissons du café\n<c=@flavor>Fournit des boissons à servir aux clients.</c>",882
+"Transporteur du café\n<c=@flavor>Si elle est placée, les clients entreront et sortiront de votre pavillon par le biais de cette décoration, au lieu d'utiliser le point de passage.</c>",883
+"Chaise de café\n<c=@flavor>Les clients s'installeront ici pour commander ! Veuillez noter qu'ils auront des difficultés à atteindre les chaises en hauteur.</c>",884
+"Station à nourriture du café\n<c=@flavor>Fournit de la nourriture à servir aux clients.</c>",885
+"Station de souvenirs du café\n<c=@flavor>Fournit des colifichets à servir aux clients.</c>",886
+"Console de café\n<c=@flavor>Gère les essais, l'ouverture et les améliorations de votre café.</c>",887
+"Fanal guide du café\n<c=@flavor>Les clients suivront les fanaux pour éviter les obstacles en cherchant à s'installer.</c>",888

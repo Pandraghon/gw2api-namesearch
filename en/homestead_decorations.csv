@@ -525,6 +525,7 @@
 "Short Elonian Column",539
 "Griffon Statue",540
 "Conjured Amalgamate's Token",541
+"Golden Sink",542
 "Obstacle: Flame Turret",543
 "Zephyr Bridge",544
 "Gold Pillar",545
@@ -860,3 +861,10 @@
 "Decorative Outdoor Rug",879
 "Sturdy Outdoor Rug",880
 "Wizard Rug",881
+"Café Drink Station\n<c=@flavor>Provides drinks for delivery to café customers.</c>",882
+"Café Transporter\n<c=@flavor>When this decoration is placed, café customers will enter and exit from it instead of from the waypoint.</c>",883
+"Café Chair\n<c=@flavor>Café customers will sit here to order! Note that customers will have difficulty reaching seats high off the ground.</c>",884
+"Café Food Station\n<c=@flavor>Provides food to deliver to café customers.</c>",885
+"Café Souvenir Station\n<c=@flavor>Provides trinkets to deliver to café customers.</c>",886
+"Café Console\n<c=@flavor>Handles testing, opening, and upgrades for your café.</c>",887
+"Café Guide Beacon\n<c=@flavor>Café customers will follow beacons to avoid obstacles on the way to seating.</c>",888

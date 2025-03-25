@@ -525,6 +525,7 @@
 "Kleine elonische Säule",539
 "Greifen-Statue",540
 "\"Beschworene Verschmelzung\"-Marke",541
+"Goldenes Becken",542
 "Hindernis: Flammen-Geschützturm",543
 "Zephyr-Brücke",544
 "Goldene Säule",545
@@ -858,3 +859,10 @@
 "Dekorativer Läufer für den Außenbereich",879
 "Robuster Läufer für den Außenbereich",880
 "Zauberer-Läufer",881
+"Café-Getränkestation\n<c=@flavor>Stellt Getränke bereit, die den Cafégästen serviert werden können.</c>",882
+"Café-Transporter\n<c=@flavor>Wenn diese Dekoration platziert wird, betreten und verlassen Cafégäste Eure Heimstatt über sie anstelle der Wegmarke.</c>",883
+"Caféstuhl\n<c=@flavor>Hier sitzen Cafégäste, die etwas bestellen wollen! Achtet darauf, dass die Gäste Sitze, die sich hoch über dem Boden befinden, schlecht erreichen können.</c>",884
+"Café-Speisenstation\n<c=@flavor>Stellt Speisen bereit, die den Cafégästen serviert werden können.</c>",885
+"Café-Andenkenstation\n<c=@flavor>Bietet Souvenirs, die den Cafégästen überreicht werden können.</c>",886
+"Café-Konsole\n<c=@flavor>Steuert Erprobung, Eröffnung und Aufwertungen Eures Cafés.</c>",887
+"Café-Signalleuchte\n<c=@flavor>Cafégäste folgen den Leuchtsignalen, um auf dem Weg zu ihren Sitzplätzen Hindernisse zu meiden.</c>",888
