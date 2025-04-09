@@ -81,6 +81,7 @@
 "Le chemin s'arrête là",81
 "Le prix de la victoire",82
 "Sauveur de la Tyrie",83
+"Collection de miniatures — Ensemble I",84
 "Forgeron d'armures",85
 "Artificier",86
 "Maître queux",87
@@ -133,6 +134,7 @@
 "Brèche du mur en folie",143
 "Fosses de l'engeance",144
 "Sanctuaire d'émeraude",145
+"Sanctuaire de grenat",146
 "Saut de Grendich",147
 "Refuge du roi Jalis",148
 "Étendue de Fablegriffe",149
@@ -189,7 +191,10 @@
 "Lecture avide",222
 "La nouvelle garde-robe de l'Empereur",223
 "Victimes quotidiennes",224
+"Variété quotidienne des victimes",226
+"Événements quotidiens",232
 "Événements mensuels réussis",234
+"Joueurs tués mensuellement McM",237
 "Utilisation mensuelle des nécessaires de recyclage",238
 "Pourfendeur",239
 "Assassin professionnel",240
@@ -260,6 +265,7 @@
 "Solitude du Rebelle",356
 "Voisinage malsain",357
 "Emissaire du Roi Dément",358
+"Sacs de bonbons ouverts.",360
 "Clocher du Roi Dément",365
 "Hexfonderie désaxée",366
 "Jardin caché",367
@@ -298,25 +304,39 @@
 "Victoires mensuelles JcJ",406
 "Variété mensuelle des victimes",407
 "Vitoires en tournoi mensuelles",409
+"Quand on arrive en ville",415
 "Surprise sylvari",416
 "Un désastre écarté",417
+"Charr charitable",418
 "Membre de coterie honoraire",420
 "Pourvoyeur de cadeaux",421
+"Interrupteur de cadeaux",422
 "Entre deux sons de cloche",424
 "Sur la liste d'or",428
+"Un ami d'Hivernel",429
 "Ecumeur quotidien de fractales",433
 "Tueur quotidien de gardes des Brumes",437
 "Finisseur mensuel",445
+"Vendeur de lauriers quotidien",446
 "Découvreur de puzzle quotidien",451
+"Sauteur de puzzle quotidien",452
 "Expert en esquive quotidien",454
+"Participation quotidienne à une activité",459
 "Au service des réfugiés",460
 "La tempête imminente",461
 "Tueur de créatures ambiantes ascaloniennes",464
+"Tueur d'Ascalon",465
 "Recycleur",467
+"Expert en histoires personnelles",471
 "Champion de la bagarre costumée",472
 "Tueur des Cimefroides",476
+"Festin quotidien",477
+"Tueur d'Orr",478
+"Tueur de vétérans d'Ascalon",480
 "Expert en donjons",481
+"Tueur de vétérans de Maguuma",484
 "Provocateur de la bagarre de barils",485
+"Tueur de vétérans des Cimefroides",486
 "Voleur de la bagarre de barils",491
 "Vainqueur de la bagarre de barils",492
 "Dissipateur d'altérations",496
@@ -328,6 +348,7 @@
 "Expert quotidien en événements de groupe",511
 "Artisan de chefs-d'œuvre mensuel",512
 "Sauteur de puzzle",513
+"Finisseur mensuel",514
 "Pourfendeur de champions",516
 "Amasseur de points de héros",518
 "Événements mensuels réussis",520
@@ -357,38 +378,55 @@
 "Novice en succès",561
 "Ma première Super Adventure d'explorateur",562
 "Châtiment de gourmandise",563
+"Points de rang mensuels JcJ",564
 "Rage contre la machine de guerre",569
 "Défenseur de la veuve et de l'orphelin",570
 "Briseur d'alliance",571
 "Un feu de ralliement",572
+"Cartes uniques quotidiennes jouées",581
 "Maître de l'arène",583
 "Soldat de l'arène",585
+"Concurrent de l'arène",586
 "Champion de lancer de crabe",588
 "Collecte d'échantillon des hauteurs de Sud-Soleil",591
 "Collecte d'échantillon de lave de Sud-Soleil",592
 "Collecte d'échantillon du geyser de Sud-Soleil",593
+"Collecte d'échantillon de l'îlot de Sud-Soleil",594
 "Collecte d'échantillon des conduits de Sud-Soleil",595
 "Collecte d'échantillon du camp de Sud-Soleil",597
 "Collecte d'échantillon de la piscine de Sud-Soleil",598
+"Collecte d'échantillon de la rivière de Sud-Soleil",599
+"Collecte d'échantillon de la sablière de Sud-Soleil",600
+"Partisan des colons de Sud-Soleil",603
 "Traqueur de Canach",604
 "Pied sûr",606
+"Commérages avec le seigneur Faren",608
 "Commérages avec dame Kasmeer",609
 "Briefing avec l'inspectrice Kiel",611
+"Obligation contractuelle",613
 "Lunettes superflues",614
 "Goûteur d'omelette de Sud-Soleil",616
 "Tueur de reine karka folle",617
 "Champion de lancer de crabe",618
 "Participant au lancer de crabe",619
 "Nageur sans armure de Sud-Soleil",620
+"Crabtaculaire !",621
 "Voleur de crabe",622
 "Concurrent porteur de crabe",623
 "Vaillant de Sud-Soleil",624
+"Conquérant quotidien de terres McM",643
 "Conquérant quotidien des camps McM",644
+"Conquérant quotidien des tours McM",645
 "Classé quotidiennement au niveau mondial en McM",646
 "Champion des champions",647
 "Pas si secret",648
 "L'ambiance de la Foire du Dragon",649
 "Dévoreur de Zhaïtella",650
+"Brûler les dragons",651
+"Dragon de papier",653
+"Si réaliste",654
+"Rencontrer les hôtes",655
+"Amateur de dragonball",657
 "Affaire classée (2013)",662
 "Roman noir (2013)",663
 "Cérémonie et amertume (2013)",664
@@ -417,15 +455,21 @@
 "Acculé, attrapé et alpagué (2013)",688
 "Assassin étherlame",689
 "Maître d'héroïsme",690
+"Ambassadeur du bazar",696
 "Voyager vers le bazar",698
+"Ascension au Sanctuaire du Zéphyr",699
 "Kookoochoo l'Incrédule",701
+"Le plus beau plongeon !",702
 "Sprinteur du Sanctuaire",704
 "Favori de la foule",706
 "Obsession des cristaux",708
 "Marchand diversifié",710
+"Cerfs-volants nocturnes",713
 "Cerfs-volants de fer",714
 "Bombardement de cerf-volant",716
+"Cerfs-volants colossaux",717
 "Apprendre le cerf-volant",718
+"Monde contre Cerf-volant",719
 "Maître d'Om",721
 "Eructeur récidiviste",722
 "Punisseur",723
@@ -441,10 +485,14 @@
 "Arène des aspects : Captureur de cristaux",737
 "Habitué de l'Arène des aspects",738
 "Familier de l'Arène des aspects",740
+"Partisan de Grincelame",741
 "J'aime Evon",742
+"Grincelame : sécurité nationale",743
 "Grincelame : Abîmeur d'abîme",745
 "Grincelame : soutien direct",746
+"Faire grincer toutes les lames",748
 "Survie à Sud-Soleil : maître tireur d'élite",750
+"Survie à Sud-Soleil : Marqueur d'élite",751
 "Familier de la Survie à Sud-Soleil",752
 "Familier de la bagarre de barils",753
 "Champion de lancer de crabe",754
@@ -458,27 +506,38 @@
 "Sprinteur rapide",762
 "Sprinteur compétent",763
 "Obsession des cristaux",764
+"Touriste de la tour à montgolfière",766
+"Sommité de Kryte",767
 "Vainqueur et champion",768
 "Finisseur du jubilé de la reine",769
+"Invité du Pavillon",770
 "Présent lors de la cérémonie d'ouverture",771
 "Champion de la Couronne",772
 "Champion des légions",773
 "Champion des Universités",774
 "Champion de la Nature",776
+"Champion du Conseil",777
 "Broyeur de rabat-joie",778
 "Aéronaute",781
+"Participant du Pavillon de la Couronne",782
+"Agent de la Citadelle noire",787
 "Diplomate du Bosquet",789
 "Ambassadeur de l'Arche du Lion",791
 "Aéronaute",792
 "Concurrent du Défi de la reine",794
+"Premier sang",795
+"Illumination de l'obscurité",798
 "Brute sauvage",800
 "Tueur méticuleux",801
 "Éclairer l'obscurité",802
+"Anesthésiste de Doobroosh",803
 "Triple menace",804
 "Risque-tout",805
 "Gros parieur",806
 "Humble vainqueur",807
+"Amateur du sport sanglant",808
 "Assassin végétarien",810
+"Champion du Défi de la reine",811
 "Défenseur de la Couronne",815
 "Atterrissage en douceur",816
 "Rescapé de la planque",817
@@ -502,12 +561,16 @@
 "Endiguement d'invasion",835
 "Neutralisateur d'invasion",836
 "Factionnaire mécanique réformé",837
+"Fermeture de portail quotidienne",839
 "Démolisseur mécanique quotidien",840
 "Exécuteur d'Étherlames quotidien",841
 "Endiguement d'invasion quotidien",842
 "Déstabilisation de Scarlet quotidienne",843
 "Négociateur d'otages quotidien",844
+"Fermeture de portail quotidienne",846
 "Fermeture de portail quotidienne",847
+"Endiguement d'invasion quotidien",849
+"Déstabilisation de Scarlet quotidienne",850
 "Négociateur d'otages quotidien",851
 "Grand maître artificier",854
 "Grand maître forgeron d'armes",855
@@ -526,6 +589,7 @@
 "Major en amélioration",868
 "C'était une embuscade",869
 "Tact",870
+"Secret de la Super Adventure",871
 "Expert en secrets, Monde 2",873
 "Maître des secrets, Monde 2",874
 "Expert en babioles, Monde 2",875
@@ -535,6 +599,8 @@
 "Patineur professionnel",879
 "Elle est par ici !",880
 "Sus au dragon !",882
+"Venez dragons !",883
+"Venez dragons !",884
 "Venez dragons !",885
 "Venez dragons !",887
 "Venez dragons !",888
@@ -542,6 +608,7 @@
 "Semaine du boss : Venez dragons !",893
 "Semaine du boss : Venez dragons !",894
 "Semaine du boss",897
+"Sus au dragon !",898
 "Sus au dragon !",899
 "Carnage dans le marécage",900
 "Coup de force",901
@@ -554,6 +621,8 @@
 "Asseyez-vous et appuyez sur la détente",908
 "Fléau caudal",909
 "Tequatl le Sans-soleil",910
+"Rester au sec pour survivre",911
+"Crépuscule triomphant",915
 "Nettoyez votre cœur mécanique",916
 "Justice de la Garde du Lion",917
 "Feu et pétrole",918
@@ -583,26 +652,37 @@
 "Sous terre ou dans les airs",950
 "Science folle ou jardin fou",952
 "Orr ou Verger",954
+"Serrurier",955
+"Exécuteur d'Étherlames quotidien",962
 "Fantaisie ou forêt",964
 "Exécuteur d'Étherlames quotidien",965
 "Serrurier",966
 "Protecteur des Brumes",969
+"Classé au niveau mondial",972
 "Aucune tour n'est imprenable",974
 "Expert en démolition",978
 "Véritable dépensier quotidien en McM",979
+"Châteaux dans les airs",980
+"Destructeur de camp",981
+"Maître des ruines",982
 "Sauteur de grenat dans les Brumes",985
 "Sauteur d'émeraude dans les Brumes",986
 "Sauteur d'obsidienne dans les Brumes",987
 "Vétéran de la première saison",990
 "Première saison McM : 1ère place",991
+"Première saison McM : 2e place",992
 "Première saison McM : 4e place",994
 "Première saison McM : 6e place",996
 "Première saison McM : 7e place",997
 "Première saison McM : 8e place",998
+"Première saison McM : 9e place",999
 "Une chère connaissance",1003
+"Confinement",1004
+"Brise-os",1007
 "Habitué de l'Inquisition lunatique",1010
 "Quelque chose de bon à manger",1011
 "Un bon piétinement",1013
+"Sus à l'Eternel",1018
 "Découpeur de citrouille",1019
 "Collecteur de friandises",1020
 "Envie de bonbons",1021
@@ -614,22 +694,36 @@
 "Fermé à clé II",1029
 "Fermé à clé IV",1031
 "L'Inquisition lunatique II",1032
+"L'Inquisition lunatique IV",1034
 "Saut dément II",1035
+"Saut dément III",1036
+"Saut dément IV",1037
 "Faucheur de troupiers II",1038
 "Collecteur de friandises II",1041
+"Collecteur de friandises III",1042
 "Découpeur de citrouille IV",1046
 "Champion de la bagarre costumée d'Halloween",1047
+"Champion de la bagarre costumée d'Halloween II",1048
 "Champion de la bagarre costumée d'Halloween III",1049
+"Découpeur de citrouille VI",1052
+"Envie de bonbons VI",1054
+"Faucheur de troupiers V",1055
 "Fermé à clé VI",1058
 "Collecteur de friandises V",1060
+"Pourfendeur de l'Alliance toxique",1062
 "Chercheur de terrain toxique",1063
 "Purificateur de spore toxique",1064
+"Jardinier toxique",1065
+"Pourfendeur d'hallucination toxique",1066
+"Pourfendeur de l'Alliance toxique",1068
+"Toxi-kraitologue",1069
 "Purificateur de spore toxique",1070
 "Survivant du pollen toxique",1071
 "Chercheur de terrain toxique",1073
 "Jardinier toxique",1075
 "Purificateur de spore toxique",1078
 "Jardinier toxique",1079
+"Toxi-kraitologue",1083
 "Chercheur de terrain toxique",1087
 "Collectionneur de spore toxique",1089
 "Jardinier général toxique",1090
@@ -645,15 +739,22 @@
 "Pourfendeur de l'Alliance toxique",1101
 "Le Cauchemar dévoilé (Historique)",1102
 "Au cœur des Cauchemars",1103
+"Injecteur d'antitoxine de la tour",1104
 "Purificateur de toxine de la tour",1106
+"Survivant de la tour des Cauchemars",1107
+"Injecteur d'antitoxine de la tour",1110
 "Pourfendeur de l'Alliance de la Fusion de la tour",1111
 "Au cœur des Cauchemars",1112
 "Survivant de la tour des Cauchemars",1113
+"Démonteur de mécaniques de la tour",1114
 "Purificateur de toxine de la tour",1115
 "Injecteur d'antitoxine de la tour",1118
 "Pourfendeur de l'Alliance toxique de la tour",1119
 "Purificateur de toxine de la tour",1120
+"Survivant de la tour des Cauchemars",1121
 "Pourfendeur d'hybride de la tour",1123
+"Pourfendeur de l'Alliance de la Fusion de la tour",1125
+"Au cœur des Cauchemars",1126
 "Survivant de la tour des Cauchemars",1127
 "Injecteur d'antitoxine de la tour",1130
 "Injecteur d'antitoxine de la tour",1131
@@ -666,18 +767,30 @@
 "Plongeur de la tour des Cauchemars",1139
 "Sauteur de la tour des Cauchemars",1140
 "Chasseur de trésor de la tour",1141
+"Quinzaine des fractales",1142
 "Quinzaine des fractales : volcanique",1143
 "Quinzaine des fractales : ruines aquatiques",1145
 "Quinzaine des fractales : non classée",1148
+"Quinzaine des fractales : flanc de falaise",1149
+"Quinzaine des fractales : puissance de la Fusion",1151
+"Quinzaine des fractales : marais",1152
+"Quinzaine des fractales : océan solide",1153
+"Quinzaine des fractales : souterrain",1154
 "Quinzaine des fractales : Étherlames",1155
 "Quinzaine des fractales : la fin de Trin",1156
+"Ecumeur quotidien de fractales",1162
+"Ecumeur quotidien de fractales",1164
+"Ecumeur quotidien de fractales",1166
 "Ecumeur quotidien de fractales",1167
 "Ecumeur quotidien de fractales",1168
 "Pourfendeur de l'Alliance toxique",1173
 "Purificateur de spore toxique",1175
 "Pourfendeur d'hallucination toxique",1177
+"Survivant du pollen toxique",1178
+"Pourfendeur de l'Alliance toxique",1179
 "Toxi-kraitologue",1180
 "Purificateur de spore toxique",1181
+"Survivant du pollen toxique",1182
 "Jardinier toxique",1183
 "Chercheur de terrain toxique",1184
 "Purificateur de spore toxique",1185
@@ -703,18 +816,28 @@
 "Exterminateur des Cauchemars",1208
 "Terminateur des Cauchemars",1209
 "Toujours sur la brèche post-tour",1210
+"Chercheur de terrain toxique post-tour I",1212
 "Pourfendeur de l'Alliance toxique post-tour I",1213
 "Sauteur d'onde de choc post-tour",1214
+"Pourfendeur d'hallucinations post-tour I",1215
 "Jardinier toxique post-tour I",1217
 "Restaurateur de Viathan post-tour I",1218
 "Utilisateur du coup de grâce de rejeton toxique post-tour I",1219
+"Client toxique post-tour I",1221
+"Eradicateur de la Fusion post-tour I",1222
+"Nettoyeur de toiles d'araignée post-tour",1223
 "Pourfendeur de boss toxique post-tour II",1224
+"Jardinier toxique post-tour II",1225
 "Pourfendeur de l'Alliance toxique post-tour II",1226
 "Utilisateur du coup de grâce de rejeton toxique post-tour II",1227
 "Collectionneur de trésor post-tour II",1228
+"Démonteur de mécaniques post-tour",1230
 "Pourfendeur de boss toxique post-tour III",1235
 "Chercheur de terrain toxique post-tour III",1236
 "Restaurateur de Viathan post-tour III",1237
+"Bourreau des Étherlames post-tour",1239
+"Pourfendeur de boss toxique post-tour IV",1240
+"Jardinier toxique post-tour IV",1241
 "Renvoyeur de cadeaux",1242
 "Défenseur des dolyaks",1244
 "Jouer juste",1245
@@ -724,24 +847,37 @@
 "Emballages éparpillés",1251
 "Participant au Chaos des neiges",1256
 "Survivant de la Joueffervescence",1258
+"Les cloches d'Hivernel",1259
+"Frappeur de Skritts d'Hivernel",1260
 "Lanceur de boules de neige d'Hivernel",1261
 "Vainqueur du pays des merveilles d'hiver",1262
 "Musique d'Hivernel",1263
 "Répandre la joie d'Hivernel",1264
 "Hourra, des cadeaux d'Hivernel",1265
 "Nouveaux amis d'Hivernel",1266
+"Nouveaux amis d'Hivernel II",1268
 "Répandre la joie d'Hivernel II",1269
+"Frappeur de Skritt d'Hivernel II",1270
+"Vainqueur du Pays des merveilles d'hiver II",1271
+"Hourra, des cadeaux d'Hivernel II",1272
 "Musique d'Hivernel III",1274
 "Nouveaux amis d'Hivernel III",1275
 "Répandre la joie d'Hivernel III",1276
 "Frappeur de Skritt d'Hivernel III",1277
 "Vainqueur du Pays des merveilles d'hiver III",1278
+"Lanceur de boules de neige d'Hivernel III",1280
 "Répandre la joie d'Hivernel IV",1283
+"Frappeur de Skritt d'Hivernel IV",1284
+"Vainqueur du Pays des merveilles d'hiver IV",1285
 "Hourra, des cadeaux d'Hivernel IV",1286
+"Vainqueur du Pays des merveilles d'hiver V",1288
 "Répandre la joie d'Hivernel V",1290
 "Qui trouve garde",1291
+"Défenseur des contributions",1294
 "Cinq victoires d'arène en solo au total",1300
+"Deux victoires en arène en équipe",1301
 "Trois victoires d'arène en équipe au total",1302
+"Percuteur de boss I",1303
 "Dérégulation de marionnette",1304
 "Défenseur anti-marionnette",1305
 "Emmêleur de marionnette",1306
@@ -763,6 +899,7 @@
 "Percuteur de boss IX",1325
 "Percuteur de boss XI",1327
 "Percuteur de boss XII",1328
+"Percuteur de boss XIV",1330
 "Collectionneur de phytotoxine de guivre",1332
 "Amateur de phytotoxine",1333
 "Pourfendeur de guivres",1334
@@ -779,6 +916,9 @@
 "Les aventuriers des parties perdues",1346
 "Percuteur de boss XVIII",1349
 "Percuteur de boss XXVIII",1350
+"Percuteur de boss XXIII",1352
+"Percuteur de boss XXIV",1353
+"Percuteur de boss XXV",1354
 "Percuteur de boss XXI",1358
 "Percuteur de boss XIX",1359
 "Percuteur de boss XX",1360
@@ -827,6 +967,7 @@
 "Exécution de l'exécutif",1408
 "Cure de désintox",1409
 "Tenir la position",1411
+"Motiver les troupes",1414
 "Tenir la position",1415
 "Lame brisée",1416
 "Travail de groupe III",1421
@@ -852,7 +993,9 @@
 "Cure de désintox",1527
 "Perdu puis retrouvé",1528
 "Perte du commandement",1529
+"Panorama à couper le souffle",1530
 "Panorama à couper le souffle",1531
+"Cure de désintox",1532
 "Lame brisée",1534
 "Perte du commandement",1536
 "Collection de miniatures — Ensemble III",1537
@@ -867,6 +1010,7 @@
 "Voleur de réacteur",1553
 "Ravisseur exceptionnel de sentinelles",1554
 "Aucune tour n'est imprenable",1555
+"Arrêt du ravitaillement",1556
 "Tournoi McM du printemps 2014 : 3e place\n",1559
 "Tournoi McM du printemps 2014 : 4e place\n",1560
 "Tournoi McM du printemps 2014 : 5e place\n",1561
@@ -878,10 +1022,17 @@
 "Boss en folie : corriger Kurai",1570
 "Boss en folie : pulvériser Pyroxis",1571
 "Boss en folie : battre Boum-boum",1574
+"Boss en folie : étriller Etincellus",1575
+"Oblitérateur d'Ogres",1576
 "Epurateur de pirates",1577
 "Flingueur de la Légion de la Flamme",1578
+"Brutalisation de bandits",1579
+"Boss en folie",1580
 "Destructeur de destructeurs",1581
 "Supplice de Centaures",1582
+"Compétiteur du Défi de la reine",1583
+"Assassin des aspects",1584
+"Prêt, volontaire et motivé",1588
 "Maître des cristaux de ciel",1589
 "Sprinteur assidu",1591
 "Festival des Quatre Vents",1592
@@ -1017,7 +1168,9 @@
 "Vétéran du tournoi McM de l'automne 2014",1760
 "Collection d'armes des tempêtes",1761
 "Habitué de l'Inquisition lunatique",1762
+"Sculpture de citrouilles",1763
 "Quelque chose de bon à manger",1765
+"Victoire sanglante",1766
 "Retournez dans la boîte !",1767
 "Un bon piétinement",1769
 "Tours et friandises",1777
@@ -1100,6 +1253,7 @@
 "Envoûteur vainqueur quotidien",1864
 "Guerrier vainqueur quotidien",1866
 "Captures JcJ quotidiennes",1867
+"Gardien vainqueur quotidien",1871
 "Mini donjon \"Grand détour\" quotidien",1872
 "Mini donjon \"Cours d'eau oublié\" quotidien",1873
 "Mini donjon \"Butin de Goff\" quotidien",1874
@@ -1218,11 +1372,17 @@
 "Collectionneur de toniques ludiques",2028
 "Collection d'apparences d'armes de jouets d'Hivernel",2029
 "Ce n'est que pour les enfants !",2030
+"Participant au Chaos des neiges",2032
 "Démolition de boules d'Hivernel",2033
+"Membre de coterie honoraire",2034
+"Générosité dorée",2035
+"Emballages éparpillés",2037
 "Maîtrise du Pays des merveilles d'hiver",2038
 "Défenseur des dolyaks",2039
 "Qui trouve garde",2040
 "Ingénieur qualité des jouets",2041
+"Survivant de la Joueffervescence",2043
+"De l'argent de saison",2046
 "Rien que des jouets brisés",2047
 "Récolte généreuse",2048
 "Casse-croûte de Grawnk",2049
@@ -1250,6 +1410,7 @@
 "Protecteur d'aborescence",2071
 "Protecteur de dévoreur",2072
 "Déplumeur d'aile noire",2073
+"Ombre de dragon",2074
 "Champion du dragonball",2075
 "Une brillante démonstration",2079
 "Participant au dragonball",2080
@@ -1261,13 +1422,20 @@
 "Envoûteur ou nécromant vainqueur quotidien",2091
 "Gardien ou ingénieur vainqueur quotidien",2093
 "Guerrier ou gardien vainqueur quotidien",2096
+"Guerrier ou nécromant vainqueur quotidien",2097
+"Rôdeur ou envoûteur vainqueur quotidien",2099
+"Guerrier ou voleur vainqueur quotidien",2100
+"Rôdeur ou ingénieur vainqueur quotidien",2103
 "Élémentaliste ou envoûteur vainqueur quotidien",2104
 "Gardien ou élémentaliste vainqueur quotidien",2105
 "Ingénieur ou élémentaliste vainqueur quotidien",2107
+"Élémentaliste ou nécromant vainqueur quotidien",2108
+"Ingénieur ou envoûteur vainqueur quotidien",2109
 "Gardien ou voleur vainqueur quotidien",2110
 "Gardien ou envoûteur vainqueur quotidien",2113
 "Guerrier ou ingénieur vainqueur quotidien",2114
 "Guerrier ou envoûteur vainqueur quotidien",2116
+"Voleur ou nécromant vainqueur quotidien",2120
 "Collection d'armes du rêveur éveillé",2121
 "Collection d'armes du scientifique",2123
 "Pionnier de Maguuma",2124
@@ -1288,11 +1456,13 @@
 "Connaissance de l'Orée d'émeraude : Passage Sancœur",2150
 "Pourfendeur de régent",2151
 "Fractale quotidienne recommandée de niveau 11",2153
+"Un bon piétinement",2154
 "Membre honoraire de Rata Novus",2155
 "Maître du minerai en fusion",2156
 "Lance-flammes anti-tentacules : or",2157
 "Volcanologue",2158
 "Protecteur de pilotes du Pacte",2160
+"Casse-bonbon professionnel",2161
 "Revenant ou rôdeur vainqueur quotidien",2162
 "Berserker adepte",2163
 "Connaissance du Bassin aurique : Rampe de la Garde du Sud",2164
@@ -1409,6 +1579,7 @@
 "Marteleur",2281
 "Bâton automatisé",2282
 "Le poulet d'or",2283
+"Une tradition royale",2284
 "Histoire du Prieuré",2285
 "Spéléologue spécialiste en champignons",2286
 "Professionnel de l'offensive",2287
@@ -1449,6 +1620,7 @@
 "Coffre de l'aéronef \"Épée du Smodur\"",2326
 "Fractale quotidienne recommandée de niveau 14",2327
 "Manipulateur de lasers",2328
+"Fractale quotidienne recommandée de niveau 7",2329
 "Fractale quotidienne recommandée de niveau 30",2330
 "Le sol c'est de la lave ! : or",2331
 "Arc long automatisé",2332
@@ -1509,6 +1681,7 @@
 "Maître chronomancien",2395
 "Connaissance des Profondeurs verdoyantes : Confluence nord",2396
 "Maîtrise de l'acte 4 de Heart of Thorns",2397
+"Revenant ou guerrier vainqueur quotidien",2398
 "Champion révéré",2399
 "Chronomancien adepte",2400
 "Observateur de Rata Sum",2401
@@ -1569,6 +1742,7 @@
 "Sac à dos d'érudit",2461
 "Roi du vol plané",2462
 "Fractale quotidienne recommandée de niveau 47",2463
+"Revenant ou gardien vainqueur quotidien",2464
 "Combat du Castagn-o-matic détraqué : or",2465
 "Atterrissage contrôlé",2466
 "Fractale quotidienne recommandée de niveau 18",2467
@@ -1638,6 +1812,7 @@
 "Les Prophéties du Chercheur de la Flamme III : L'Élu",2536
 "Éviter les pièges",2537
 "Coffre de l'aéronef \"Apaizdragon\"",2538
+"Une chère connaissance",2539
 "Cirque volant : or",2540
 "Protecteur de la noblesse",2541
 "Recyclage élevé",2542
@@ -1856,16 +2031,22 @@
 "Présence hivernale",2768
 "Ingénieur qualité des jouets",2769
 "Défenseur des contributions",2770
+"Défenseur des dolyaks",2771
 "Bataille de boules de neige",2772
 "Emballages éparpillés",2773
 "Défi d'Hivernel",2776
 "Griffe gelée",2777
+"Désassemblage",2778
 "De l'argent de saison",2779
 "Fabricant de jouets confirmé",2780
 "Accords de la saison",2782
 "Démolition de boules d'Hivernel",2783
+"Générosité dorée",2784
 "Pulsion généreuse",2789
+"Participant au Chaos des neiges",2790
+"Rien que des jouets brisés",2791
 "Connaisseur des douceurs",2792
+"Les cloches d'Hivernel",2793
 "Qui trouve garde",2794
 "Illuminer le ciel",2795
 "Fléau stigmatisé",2796
@@ -2097,6 +2278,7 @@
 "Aucune magie de la pierre de sang",3043
 "Niveau 2 quotidien de la fractale du chaos",3044
 "Niveau 3 quotidien de la fractale du chaos",3045
+"Maîtrise du Marais de la pierre de sang",3046
 "Preneur de notes",3047
 "Pour qui sonne le glas",3048
 "Deuil difficile",3049
@@ -2196,7 +2378,10 @@
 "Visite rocheuse quotidienne de la Baie des braises",3151
 "Le fardeau du choix",3152
 "Casse-bonbon professionnel",3154
+"Sus à l'Eternel",3155
 "Veillée du Roi Dément",3157
+"Brise-os",3159
+"Quelque chose de bon à manger",3161
 "Fermez les portes",3163
 "Nouvel au-delà pour Quaggan",3165
 "Une chère connaissance",3166
@@ -4213,6 +4398,7 @@
 "Gloire à la Légion de Fer",5286
 "Mission spéciale : déminage",5287
 "Mission spéciale : solidarité",5288
+"Élite du 3c3",5289
 "Mission spéciale : collecte de caches",5290
 "Maîtrise de l'épisode \"Pas de quartier\"",5291
 "Chasseur d'embuscade",5292
@@ -4437,6 +4623,7 @@
 "Monde de Jormag",5524
 "Ennemis de Deldrimor quotidiens",5525
 "Mission d'endiguement de dragon des Champs de Gendarran quotidienne",5526
+"Pourfendeur quotidien de la Confrérie de Jade de la Fosse de Gyala",5527
 "Initié de l'endiguement de dragon",5528
 "Rangs mondiaux des Nains de Deldrimor",5530
 "Missions de l'Avant-garde d'Ebon quotidiennes",5531
@@ -4706,6 +4893,7 @@
 "Victoire globale dans le courroux de la marionnette détraquée",5844
 "Vengeur du courroux de la Marionnette détraquée",5845
 "Maître de la marionnette",5846
+"Conquérant de ligue – Quatrième saison 3c3",5847
 "Précision mécanique",5848
 "Récompenses bonus quotidiennes : Marionnette détraquée",5849
 "Pourfendeur de ligue – Quatrième saison 3c3",5850
@@ -4848,6 +5036,7 @@
 "Retour dans la Chute draconique",5995
 "Esprit aventureux : Arène du Carcajou",5996
 "Vengeance des champions : Chute draconique",5997
+"Intervention locale : Côte de Bruinebois 2",5998
 "Pro du puzzle",5999
 "Chasseur de primes : Domaine d'Istan",6000
 "Retour dans \"Volte-face\"",6001
@@ -4861,6 +5050,7 @@
 "Retour dans \"Éveil de Primordius\"",6009
 "Intervention secondaire : Lac Doric",6010
 "Retour dans \"Fin du champion\"",6011
+"Vengeance des limons",6012
 "Retour dans \"Descendante et champion\"",6013
 "Retour dans \"Chasse aux fantômes\"",6014
 "Mineur : Vallée de Grothmar",6015
@@ -4876,9 +5066,11 @@
 "Chasseur de primes : Domaine de Kourna",6026
 "Retour à Fahranur, la première ville",6027
 "Prodige de Shing Jea",6029
+"Collection d'armes magiques",6030
 "Collection des fêtes de Griffe-d'or",6031
 "Participant de ligue – Cinquième saison 2c2",6032
 "Pourfendeur de ligue – Cinquième saison 2c2",6033
+"Devoir de la Cour : tout est dément qui finit dément",6035
 "Le prince banni",6037
 "Devoir de Cour : terreur de la Tour",6039
 "Devoir de la Cour : rassembler des preuves",6040
@@ -4898,6 +5090,7 @@
 "Participant de ligue – Cinquième saison 3c3",6054
 "Pourfendeur de ligue – Cinquième saison 3c3",6055
 "Conquérant de ligue – Trente-et-unième saison de conquête",6056
+"Activités d'Hivernel (hebdomadaire)",6057
 "Collection d'armes de rôdeur des abysses",6058
 "Participant de ligue – Trentième saison de conquête",6059
 "Collection d'armes du tigre blanc",6060
@@ -4942,6 +5135,7 @@
 "Connaissance de la Province de Seitung : épave de l'aéronef",6100
 "Pilotage temporel",6101
 "Connaissance des Terres sauvages d'Echovald : maison zu Heltzer",6102
+"Coups tirés",6103
 "Connaissance de la Province de Seitung : grotte des cristaux",6104
 "Connaissance de la Province de Seitung : Île aux Chats de Zen Daijun",6105
 "Pêcheur des îles du Désert",6106
@@ -5483,6 +5677,7 @@
 "Terminer des événements I",6663
 "Rallier le combat",6664
 "Vaincre des serviteurs des dragons ancestraux",6665
+"Récolter des matériaux d'artisanat",6666
 "Guide d'aventures : volume trois",6667
 "Esquiver des attaques IV",6668
 "Découvrir des sites remarquables I",6669
@@ -5505,6 +5700,7 @@
 "Butin du chaos",6687
 "Rassembler les morceaux",6688
 "La cérémonie d'ouverture",6689
+"Étude d'investigation 3",6690
 "Habile désamorçage",6691
 "À la recherche de Scarlet : chemin de l'éther de la Tonnelle du crépuscule",6692
 "La voie supérieure",6693
@@ -5613,10 +5809,13 @@
 "Participant de ligue – Trente-cinquième saison de conquête",6818
 "Partage de la Joie d'Hivernel",6820
 "Nouvel an tyrien",6822
+"Incinérateur d'envahisseurs (hebdomadaire)",6827
 "Conquérant de tours (hebdomadaire)",6828
 "Participant de ligue – Huitième saison 3c3",6830
+"Stoppeur de dolyaks (hebdomadaire)",6833
 "Conquérant de camps (hebdomadaire)",6834
 "Écumeur de ruines (hebdomadaire)",6835
+"Conquérant du Château Brumepierre (hebdomadaire)",6836
 "Conquérant de ligue – Huitième saison 3c3",6837
 "Conquérant de ligue – Trente-sixième saison de conquête",6839
 "Pourfendeur de ligue – Trente-sixième saison de conquête",6840
@@ -5686,6 +5885,7 @@
 "Savoir du monde : agence de sauvetage des forces spéciales",6904
 "Course de drone de jade de Néo-Kaineng : or",6905
 "Camarade inoubliable de la Confrérie",6906
+"Partenaires particuliers",6907
 "Parcours de base des forces spéciales 2",6908
 "As de la tortue de siège de la Fosse de Gyala : argent",6909
 "Course de scaraboule de la Fosse de Gyala : argent",6910

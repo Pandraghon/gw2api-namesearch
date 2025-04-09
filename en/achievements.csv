@@ -81,6 +81,7 @@
 "This Far, No Further",81
 "The Cost of Victory",82
 "Savior of Tyria",83
+"Mini Collection—Set I",84
 "Armorsmith",85
 "Artificer",86
 "Chef",87
@@ -133,6 +134,7 @@
 "Wall Breach Blitz",143
 "Demongrub Pits",144
 "Emerald Sanctum",145
+"Garnet Sanctum",146
 "Grendich Gamble",147
 "King Jalis's Refuge",148
 "Loreclaw Expanse",149
@@ -189,7 +191,10 @@
 "Speedy Reader",222
 "The Emperor's New Wardrobe",223
 "Daily Kills",224
+"Daily Kill Variety",226
+"Daily Events",232
 "Monthly Successful Events",234
+"Monthly WvW Player Kills",237
 "Monthly Salvage Kit Usages",238
 "Slayer",239
 "Professional Assassin",240
@@ -260,6 +265,7 @@
 "Rebel's Seclusion",356
 "Bad Neighborhood",357
 "Emissary of the Mad King",358
+"Trick or Treat bags opened.",360
 "Mad King's Clock Tower",365
 "Hexfoundry Unhinged",366
 "Hidden Garden",367
@@ -298,25 +304,39 @@
 "PvP Monthly Wins",406
 "Monthly Kill Variety",407
 "Monthly Tournament Wins",409
+"Smash the Town",415
 "Sylvari Surprise",416
 "Disaster Derailed",417
+"Charitable Charr",418
 "Honorary Krewe Member",420
 "Gift Bringer",421
+"Gift Stopper",422
 "Become the Bells",424
 "Get on the Good List",428
+"Cold-Weather Friend",429
 "Daily Fractal Runner",433
 "Daily Mists Guard Killer",437
 "Monthly Completionist",445
+"Daily Laurel Vendor",446
 "Daily Puzzle Discoverer",451
+"Daily Puzzle Jumper",452
 "Daily Dodger",454
+"Daily Activity Participation",459
 "Refugee Volunteer",460
 "The Gathering Storm",461
 "Ascalonian Ambient Killer",464
+"Ascalonian Killer",465
 "Recycler",467
+"Personal Story Completer",471
 "Costume Brawl Champion",472
 "Shiverpeaks Killer",476
+"Daily Feast",477
+"Orrian Killer",478
+"Ascalonian Veteran Killer",480
 "Dungeon Completer",481
+"Maguuman Veteran Killer",484
 "Keg Brawl Fumble Forcer",485
+"Shiverpeaks Veteran Killer",486
 "Keg Brawl Stealer",491
 "Keg Brawl Victor",492
 "Condition Remover",496
@@ -328,6 +348,7 @@
 "Daily Group Event Completer",511
 "Monthly Masterwork Crafter",512
 "Puzzle Jumper",513
+"Monthly Completionist",514
 "Champion Slayer",516
 "Hero Point Amasser",518
 "Monthly Successful Events",520
@@ -357,38 +378,55 @@
 "Minor in Achievement",561
 "Explorer's First Super Adventure",562
 "Glutton for Punishment",563
+"PvP Monthly Rank Points",564
 "Rage Against the War Machine",569
 "Avenger of the Dispossessed",570
 "Alliance Breaker",571
 "A Rallying Flame",572
+"Daily Unique Maps Played",581
 "Master of the Arena",583
 "Soldier of the Arena",585
+"Challenger of the Arena",586
 "Crab Toss Champion",588
 "Southsun Elevation Sample Collection",591
 "Southsun Lava Sample Collection",592
 "Southsun Geyser Sample Collection",593
+"Southsun Islet Sample Collection",594
 "Southsun Vent Sample Collection",595
 "Southsun Camp Sample Collection",597
 "Southsun Pool Sample Collection",598
+"Southsun River Sample Collection",599
+"Southsun Sandpit Sample Collection",600
+"Southsun Settler Supporter",603
 "Canach Trapper",604
 "Lair Light-foot",606
+"Gossip with Lord Faren",608
 "Gossip with Lady Kasmeer",609
 "Briefing by Inspector Kiel",611
+"Contractually Obligated",613
 "The Goggles Do Nothing",614
 "Southsun Omelette Gourmand",616
 "Crazed Karka Queen Killer",617
 "Crab Toss Champion",618
 "Crab Toss Participant",619
 "Southsun Skinny Dipper",620
+"Crabtacular!",621
 "Crabgrabber",622
 "Crab-Carrying Competitor",623
 "Southsun Stalwart",624
+"Daily WvW Land Claimer",643
 "Daily WvW Camp Capturer",644
+"Daily WvW Tower Capturer",645
 "Daily WvW World Ranker",646
 "Champion of Champions",647
 "Not So Secret",648
 "The Dragon Bash Experience",649
 "Zhaitasty",650
+"Burn Down The Dragons",651
+"Paper Dragon",653
+"So Lifelike",654
+"Meet the Hosts",655
+"Dragon Ball Devotee",657
 "Case Closed (2013)",662
 "Hard Boiled (2013)",663
 "Ceremony and Acrimony (2013)",664
@@ -417,15 +455,21 @@
 "Cornered, Caught, Collared (2013)",688
 "Aetherblade Assassin",689
 "Master of Heroics",690
+"Bazaar Ambassador",696
 "Voyage to the Bazaar",698
+"Ascent to Zephyr Sanctum",699
 "Kookoochoo the Incredulous",701
+"Best. Dive. Ever.",702
 "Sanctum Sprinter",704
 "Crowd Favorite",706
 "Crystal Obsessed",708
 "Diverse Trader",710
+"Kites of the Night",713
 "Kites of Iron",714
 "Kite Bombing",716
+"Colossal Kites",717
 "Learn to Kite",718
+"World vs. Kite",719
 "Master of Om",721
 "Frequent Belcher",722
 "Punisher",723
@@ -441,10 +485,14 @@
 "Aspect Arena: Crystal Capper",737
 "Aspect Arena Frequenter",738
 "Aspect Arena Regular",740
+"Gnashblade Supporter",741
 "I Like Evon",742
+"Gnashblade: Homeland Support",743
 "Gnashblade: Maw Mulcher",745
 "Gnashblade: Direct Support",746
+"Gnash All the Blades",748
 "Southsun Survival: Master Marksman",750
+"Southsun Survival: High Scorer",751
 "Southsun Survival Regular",752
 "Keg Brawl Regular",753
 "Crab Toss Champion",754
@@ -458,27 +506,38 @@
 "Speedy Sprinter",762
 "Skilled Sprinter",763
 "Crystal Obsessed",764
+"Balloon Tower Tourist",766
+"Luminary of Kryta",767
 "Winner and Champion",768
 "Queen's Jubilee Completionist",769
+"Pavilion Party-Goer",770
 "Opening Ceremony Attendee",771
 "Champion of the Crown",772
 "Champion of the Legions",773
 "Champion of the Colleges",774
 "Champion of the Wild",776
+"Champion of the Council",777
 "Party Crasher Crusher",778
 "Hot-Air Balloonist",781
+"Crown Pavilion Participant",782
+"Black Citadel Agent",787
 "Grove Diplomat",789
 "Lion's Arch Ambassador",791
 "Hot-Air Balloonist",792
 "Queen's Gauntlet Challenger",794
+"First Blood",795
+"Darkness Illuminator",798
 "Savage Brute",800
 "Blobs, Schmobs",801
 "Light Up the Darkness",802
+"Doobroosh Tranquilizer",803
 "Triple Threat",804
 "Risk Taker",805
 "High Stakes Gambler",806
 "Humble Victor",807
+"Blood Sport Enthusiast",808
 "Meatless Murderer",810
+"Queen's Gauntlet Champion",811
 "Defender of the Crown",815
 "Soft Lander",816
 "Playhouse Perfectionist",817
@@ -502,12 +561,16 @@
 "Worldwide Invasion Responder",835
 "Invasion Canceler",836
 "Was a Watchknight",837
+"Daily Portal Closer",839
 "Daily Watchwork Wrecker",840
 "Daily Aetherblade Ender",841
 "Daily Invasion Responder",842
 "Daily Scarlet Scrambler",843
 "Daily Hostage Negotiator",844
+"Daily Portal Closer",846
 "Daily Portal Closer",847
+"Daily Invasion Responder",849
+"Daily Scarlet Scrambler",850
 "Daily Hostage Negotiator",851
 "Grandmaster Artificer",854
 "Grandmaster Weaponsmith",855
@@ -526,6 +589,7 @@
 "Major in Enhancement",868
 "It Was An Ambush",869
 "Tiptoe",870
+"Super Adventure Secret",871
 "Bachelor of Secrets, World 2",873
 "Master of Secrets, World 2",874
 "Bachelor of Baubles, World 2",875
@@ -535,6 +599,8 @@
 "Professional Ice Skater",879
 "She's Over Here!",880
 "Hunt the Dragon!",882
+"Here Be Dragons!",883
+"Here Be Dragons!",884
 "Here Be Dragons!",885
 "Here Be Dragons!",887
 "Here Be Dragons!",888
@@ -542,6 +608,7 @@
 "Boss Week: Here Be Dragons!",893
 "Boss Week: Here Be Dragons!",894
 "Boss Week",897
+"Hunt the Dragon!",898
 "Hunt the Dragon!",899
 "Slaughter in the Swamp",900
 "Power Play",901
@@ -554,6 +621,8 @@
 "Have a Seat and Pull the Trigger",908
 "Tail Flail",909
 "Tequatl the Sunless",910
+"Stay Dry, Stay Alive",911
+"Twilight Triumphant",915
 "Cleaned Your Clockheart",916
 "Lionguard Justice",917
 "Fire and Oil",918
@@ -583,27 +652,37 @@
 "Deep Down or Airships Grounded",950
 "Mad Science or Mad Gardening",952
 "Orr or Orchard",954
+"Key Maker",955
+"Daily Aetherblade Ender",962
 "Fancy or Forest",964
 "Daily Aetherblade Ender",965
 "Key Maker",966
 "Mists Invasion Defender",969
+"World Ranker",972
 "No Tower Too High",974
 "Demolitions Expert",978
 "Daily WvW Big Spender",979
+"Castles in the Air",980
+"Camp Crusher",981
+"Master of Ruins",982
 "Garnet Leaper in the Mists",985
 "Emerald Leaper in the Mists",986
 "Obsidian Leaper in the Mists",987
 "Premier Season Veteran",990
 "WvW Premier Season: 1st Place",991
+"WvW Premier Season: 2nd Place",992
 "WvW Premier Season: 4th Place",994
 "WvW Premier Season: 6th Place",996
 "WvW Premier Season: 7th Place",997
 "WvW Premier Season: 8th Place",998
+"WvW Premier Season: 9th Place",999
 "A Sweet Friend",1003
 "Containment",1004
+"Bonebreaker",1007
 "Lunatic Inquisition Regular",1010
 "Something Good to Eat",1011
 "A Stomping Good Time",1013
+"Death to the Undying",1018
 "Pumpkin Hacker",1019
 "Trick-or-Treater",1020
 "Candy Craver",1021
@@ -615,22 +694,36 @@
 "Shut and Locked II",1029
 "Shut and Locked IV",1031
 "The Mad Inquisition II",1032
+"The Mad Inquisition IV",1034
 "Jumping Mad II",1035
+"Jumping Mad III",1036
+"Jumping Mad IV",1037
 "Grim Reaper of Grunts II",1038
 "Trick-or-Treater II",1041
+"Trick-or-Treater III",1042
 "Pumpkin Hacker IV",1046
 "Halloween Costume Brawl Champion",1047
+"Halloween Costume-Brawl Champion II",1048
 "Halloween Costume-Brawl Champion III",1049
+"Pumpkin Hacker VI",1052
+"Candy Craver VI",1054
+"Grim Reaper of Grunts V",1055
 "Shut and Locked VI",1058
 "Trick-or-Treater V",1060
+"Toxic Alliance Slayer",1062
 "Toxic Field Researcher",1063
 "Toxic Spore Cleanser",1064
+"Toxic Gardener",1065
+"Toxic Hallucination Slayer",1066
+"Toxic Alliance Slayer",1068
+"Toxic Krait Historian",1069
 "Toxic Spore Cleanser",1070
 "Toxic Pollen Survival",1071
 "Toxic Field Researcher",1073
 "Toxic Gardener",1075
 "Toxic Spore Cleanser",1078
 "Toxic Gardener",1079
+"Toxic Krait Historian",1083
 "Toxic Field Researcher",1087
 "Toxic Spore Sampler",1089
 "Toxic Global Gardener",1090
@@ -646,15 +739,22 @@
 "Toxic Alliance Slayer",1101
 "The Nightmare Unveiled (Historical)",1102
 "The Nightmares Within",1103
+"Tower Antitoxin Injector",1104
 "Tower Toxin Cleanser",1106
+"Tower of Nightmares Survivor",1107
+"Tower Antitoxin Injector",1110
 "Tower Molten Alliance Slayer",1111
 "The Nightmares Within",1112
 "Tower of Nightmares Survivor",1113
+"Tower Watchwork Dismantler",1114
 "Tower Toxin Cleanser",1115
 "Tower Antitoxin Injector",1118
 "Tower Toxic Alliance Slayer",1119
 "Tower Toxin Cleanser",1120
+"Tower of Nightmares Survivor",1121
 "Tower Hybrid Slayer",1123
+"Tower Molten Alliance Slayer",1125
+"The Nightmares Within",1126
 "Tower of Nightmares Survivor",1127
 "Tower Antitoxin Injector",1130
 "Tower Antitoxin Injector",1131
@@ -667,18 +767,31 @@
 "Tower of Nightmares High Diver",1139
 "Tower of Nightmares Diver",1140
 "Tower Treasure Hunter",1141
+"Fractal Fortnight",1142
 "Fractal Fortnight: Volcanic",1143
 "Fractal Fortnight: Aquatic Ruins",1145
 "Fractal Fortnight: Uncategorized",1148
+"Fractal Fortnight: Cliffside",1149
+"Fractal Fortnight: Molten Might",1151
+"Fractal Fortnight: Swampland",1152
+"Fractal Fortnight: Solid Ocean",1153
+"Fractal Fortnight: Underground",1154
 "Fractal Fortnight: Aetherblade",1155
 "Fractal Fortnight: Trin's End",1156
+"Daily Fractal Runner",1158
+"Daily Fractal Runner",1162
+"Daily Fractal Runner",1164
+"Daily Fractal Runner",1166
 "Daily Fractal Runner",1167
 "Daily Fractal Runner",1168
 "Toxic Alliance Slayer",1173
 "Toxic Spore Cleanser",1175
 "Toxic Hallucination Slayer",1177
+"Toxic Pollen Survival",1178
+"Toxic Alliance Slayer",1179
 "Toxic Krait Historian",1180
 "Toxic Spore Cleanser",1181
+"Toxic Pollen Survival",1182
 "Toxic Gardener",1183
 "Toxic Field Researcher",1184
 "Toxic Spore Cleanser",1185
@@ -704,18 +817,28 @@
 "Nightmare Euthanizer",1208
 "Nightmare Terminator",1209
 "Aftermath Emergency Response",1210
+"Aftermath Toxic Field Researcher I",1212
 "Aftermath Toxic Alliance Slayer I",1213
 "Aftermath Shock Wave Jumper",1214
+"Aftermath Hallucination Slayer I",1215
 "Aftermath Toxic Gardener I",1217
 "Aftermath Viathan Restorer I",1218
 "Aftermath Toxic Offshoot Finisher I",1219
+"Aftermath Toxic Consumer I",1221
+"Aftermath Molten Extinguisher",1222
+"Aftermath Cobweb Cleaner",1223
 "Aftermath Toxic Boss Slayer II",1224
+"Aftermath Toxic Gardener II",1225
 "Aftermath Toxic Alliance Slayer II",1226
 "Aftermath Toxic Offshoot Finisher II",1227
 "Aftermath Treasure Collector II",1228
+"Aftermath Watchwork Dismantler",1230
 "Aftermath Toxic Boss Slayer III",1235
 "Aftermath Toxic Field Researcher III",1236
 "Aftermath Viathan Restorer III",1237
+"Aftermath Aetherblade Executioner",1239
+"Aftermath Toxic Boss Slayer IV",1240
+"Aftermath Toxic Gardener IV",1241
 "Regifter",1242
 "Dolyak Defender",1244
 "Ringing the Right Notes",1245
@@ -725,24 +848,37 @@
 "Wrapping Everywhere",1251
 "Snowball Mayhem Participant",1256
 "Toypocalypse Survivor",1258
+"The Bells of Wintersday",1259
+"Wintersday Skritt Hit",1260
 "Wintersday Snowball Slinger",1261
 "Winter Wonderland Winner",1262
 "That Wintersday Ring",1263
 "Spreading Wintersday Joy",1264
 "Yay, Wintersday Presents!",1265
 "Making Some Wintersday Friends",1266
+"Making Some Wintersday Friends II",1268
 "Spreading Wintersday Joy II",1269
+"Wintersday Skritt Hit II",1270
+"Winter Wonderland Winner II",1271
+"Yay, Wintersday Presents II",1272
 "That Wintersday Ring III",1274
 "Making Some Wintersday Friends III",1275
 "Spreading Wintersday Joy III",1276
 "Wintersday Skritt Hit III",1277
 "Winter Wonderland Winner III",1278
+"Wintersday Snowball Slinger III",1280
 "Spreading Wintersday Joy IV",1283
+"Wintersday Skritt Hit IV",1284
+"Winter Wonderland Winner IV",1285
 "Yay, Wintersday Presents IV",1286
+"Winter Wonderland Winner V",1288
 "Spreading Wintersday Joy V",1290
 "Finders Keepers",1291
+"Donation Defender",1294
 "Five Total Solo Arena Wins",1300
+"Team Arena Two Wins",1301
 "Three Total Team Arena Wins",1302
+"Boss Thumper I",1303
 "Marionette Deregulator",1304
 "Marionette Defender",1305
 "Marionette Tangler",1306
@@ -764,6 +900,7 @@
 "Boss Thumper IX",1325
 "Boss Thumper XI",1327
 "Boss Thumper XII",1328
+"Boss Thumper XIV",1330
 "Wurm Phytotoxin Collector",1332
 "Phytotoxin Enthusiast",1333
 "Wurmslayer",1334
@@ -780,6 +917,9 @@
 "Raiders of the Lost Parts",1346
 "Boss Thumper XVIII",1349
 "Boss Thumper XXVIII",1350
+"Boss Thumper XXIII",1352
+"Boss Thumper XXIV",1353
+"Boss Thumper XXV",1354
 "Boss Thumper XXI",1358
 "Boss Thumper XIX",1359
 "Boss Thumper XX",1360
@@ -828,6 +968,7 @@
 "Executive Execution",1408
 "Harsh Detox",1409
 "Hold the Line",1411
+"Morale Booster",1414
 "Hold the Line",1415
 "Broken Blade",1416
 "Group Effort III",1421
@@ -853,7 +994,9 @@
 "Harsh Detox",1527
 "Lost and Found",1528
 "Breakdown in Command",1529
+"Seen Better Days",1530
 "Seen Better Days",1531
+"Harsh Detox",1532
 "Broken Blade",1534
 "Breakdown in Command",1536
 "Mini Collection—Set III",1537
@@ -868,6 +1011,7 @@
 "Reactor Robber",1553
 "Sentry Capturer Extraordinaire",1554
 "No Tower Too High",1555
+"Supplies Severed",1556
 "WvW Spring Tournament 2014: 3rd Place",1559
 "WvW Spring Tournament 2014: 4th Place",1560
 "WvW Spring Tournament 2014: 5th Place",1561
@@ -879,10 +1023,17 @@
 "Boss Blitz: Kill Kuraii",1570
 "Boss Blitz: Put Out Pyroxis",1571
 "Boss Blitz: Beat Boom-Boom",1574
+"Boss Blitz: Slaughter Sparcus",1575
+"Ogre Obliterator",1576
 "Pirate Purger",1577
 "Flame Legion Finisher",1578
+"Bandits' Bane",1579
+"Boss Blitz",1580
 "Destroyer Destroyer",1581
 "Centaur Culler",1582
+"Gauntlet Contender",1583
+"Aspect Assassin",1584
+"Ready, Willing, and Able",1588
 "Sky Crystal Master",1589
 "Dedicated Sprinter",1591
 "Festival of the Four Winds",1592
@@ -1018,7 +1169,9 @@
 "WvW Fall Tournament 2014 Veteran",1760
 "Tempest Weapon Collection",1761
 "Lunatic Inquisition Regular",1762
+"Pumpkin Carving",1763
 "Something Good to Eat",1765
+"Beaten Bloody",1766
 "You, Back in the Box",1767
 "A Stomping Good Time",1769
 "Tricks and Treats",1777
@@ -1101,6 +1254,7 @@
 "Daily Mesmer Winner",1864
 "Daily Warrior Winner",1866
 "Daily PvP Capture",1867
+"Daily Guardian Winner",1871
 "Daily The Long Way Around Minidungeon",1872
 "Daily Forgotten Stream Minidungeon",1873
 "Daily Goff's Loot Minidungeon",1874
@@ -1219,11 +1373,17 @@
 "Toy Tonic Tippler",2028
 "Wintersday Toy Weapons Collection",2029
 "For the Children!",2030
+"Snowball Mayhem Participant",2032
 "Wintersday Wrecking Ball",2033
+"Honorary Krewe Member",2034
+"Golden Generosity",2035
+"Wrapping Everywhere",2037
 "Winter Wonderland Mastery",2038
 "Dolyak Defender",2039
 "Finders Keepers",2040
 "Toy Quality Control",2041
+"Toypocalypse Survivor",2043
+"Silver for the Season",2046
 "Nothing but Broken Toys",2047
 "Generous Harvest",2048
 "Grawnk Munch",2049
@@ -1251,6 +1411,7 @@
 "Arboreal Protector",2071
 "Devourer Protector",2072
 "Dark Wing Defoliator",2073
+"Dragon's Shadow",2074
 "Dragon Ball Champion",2075
 "A Sparkling Demonstration",2079
 "Dragon Ball Participant",2080
@@ -1262,13 +1423,20 @@
 "Daily Mesmer or Necromancer Winner",2091
 "Daily Guardian or Engineer Winner",2093
 "Daily Warrior or Guardian Winner",2096
+"Daily Warrior or Necromancer Winner",2097
+"Daily Ranger or Mesmer Winner",2099
+"Daily Warrior or Thief Winner",2100
+"Daily Ranger or Engineer Winner",2103
 "Daily Elementalist or Mesmer Winner",2104
 "Daily Guardian or Elementalist Winner",2105
 "Daily Engineer or Elementalist Winner",2107
+"Daily Elementalist or Necromancer Winner",2108
+"Daily Engineer or Mesmer Winner",2109
 "Daily Guardian or Thief Winner",2110
 "Daily Guardian or Mesmer Winner",2113
 "Daily Warrior or Engineer Winner",2114
 "Daily Warrior or Mesmer Winner",2116
+"Daily Thief or Necromancer Winner",2120
 "Daydreamer's Weapon Collection",2121
 "Scientific Weapon Collection",2123
 "Maguuma Trailblazer",2124
@@ -1289,11 +1457,13 @@
 "Verdant Brink Insight: Heartless Pass",2150
 "Gerent Slayer",2151
 "Daily Recommended Fractal—Scale 11",2153
+"A Stomping Good Time",2154
 "Honorary Rata Novan",2155
 "Master of the Molten Ore",2156
 "Tendril Torchers: Gold",2157
 "Volcano Hero",2158
 "Pact Pilot Protector",2160
+"Candy Corn Crusher",2161
 "Daily Revenant or Ranger Winner",2162
 "Adept Berserker",2163
 "Auric Basin Insight: Southwatch Creep",2164
@@ -1410,6 +1580,7 @@
 "Ground Pounder",2281
 "Machined Staff",2282
 "The Golden Chicken",2283
+"A Royal Tradition",2284
 "Priory's History",2285
 "Master Mushroom Spelunker",2286
 "Is A Good Offense",2287
@@ -1450,6 +1621,7 @@
 "\"Sword of Smodur\" Strongbox",2326
 "Daily Recommended Fractal—Scale 14",2327
 "Laser Lighter",2328
+"Daily Recommended Fractal—Scale 7",2329
 "Daily Recommended Fractal—Scale 30",2330
 "The Floor Is Lava?: Gold",2331
 "Machined Longbow",2332
@@ -1510,6 +1682,7 @@
 "Master Chronomancer",2395
 "Tangled Depths Insight: Northern Confluence",2396
 "Heart of Thorns Act IV Mastery",2397
+"Daily Revenant or Warrior Winner",2398
 "Champion Revered",2399
 "Adept Chronomancer",2400
 "Sum Viewer",2401
@@ -1570,6 +1743,7 @@
 "Scholar's Pack",2461
 "The Longest Glide",2462
 "Daily Recommended Fractal—Scale 47",2463
+"Daily Revenant or Guardian Winner",2464
 "Haywire Punch-o-Matic Battle: Gold",2465
 "Stick the Landing",2466
 "Daily Recommended Fractal—Scale 18",2467
@@ -1639,6 +1813,7 @@
 "The Flameseeker Prophecies III: The Chosen",2536
 "Avoid Traps",2537
 "\"Dragonrender\" Strongbox",2538
+"A Sweet Friend",2539
 "Flying Circus: Gold",2540
 "Patron of the Nobility",2541
 "Ascended Recycling",2542
@@ -1857,16 +2032,22 @@
 "Winter's Presence",2768
 "Toy Quality Control",2769
 "Donation Defender",2770
+"Dolyak Defender",2771
 "Snowball Fight!",2772
 "Wrapping Everywhere",2773
 "The Wintersday Gauntlet",2776
 "Frozen Claw",2777
+"Disassembly",2778
 "Silver for the Season",2779
 "Seasoned Toymaker",2780
 "Sounds of the Season",2782
 "Wintersday Wrecking Ball",2783
+"Golden Generosity",2784
 "Donation Drive",2789
+"Snowball Mayhem Participant",2790
+"Nothing but Broken Toys",2791
 "Connoisseur of Confection",2792
+"The Bells of Wintersday",2793
 "Finders Keepers",2794
 "Light Up the Sky",2795
 "Branded Bane",2796
@@ -2098,6 +2279,7 @@
 "Bloodstone Magic, Not Even Once",3043
 "Daily Tier 2 Chaos",3044
 "Daily Tier 3 Chaos",3045
+"Bloodstone Fen Mastery",3046
 "Notetaker",3047
 "For Whom the Bell Tolls",3048
 "Grief Counseling",3049
@@ -2197,7 +2379,10 @@
 "Daily Ember Bay Rock Tour",3151
 "Burden of Choice",3152
 "Candy Corn Crusher",3154
+"Death to the Undying",3155
 "Eve of the Mad King",3157
+"Bonebreaker",3159
+"Something Good to Eat",3161
 "Shut the Doors",3163
 "New Afterlife for Quaggan",3165
 "A Sweet Friend",3166
@@ -4214,6 +4399,7 @@
 "Glory to the Iron Legion",5286
 "Special Mission: Minesweeper",5287
 "Special Mission: Do Your Part",5288
+"3v3 Elite",5289
 "Special Mission: Cache Collector",5290
 "\"No Quarter\" Mastery",5291
 "Ambush Hunter",5292
@@ -4438,6 +4624,7 @@
 "Jormag's World",5524
 "Daily Deldrimor Enemies",5525
 "Daily Gendarran Fields Dragon Response Mission",5526
+"Daily Gyala Delve Jade Brotherhood Slayer",5527
 "Dragon Response Initiate",5528
 "Deldrimor Dwarves Global Ranks",5530
 "Daily Ebon Vanguard Missions",5531
@@ -4707,6 +4894,7 @@
 "Wrath of the Twisted Marionette Global Victory",5844
 "Wrath of the Twisted Marionette Avenger",5845
 "Master of the Marionette",5846
+"League Conqueror—3v3 Season Four",5847
 "Clockwork Precision",5848
 "Daily Bonus Rewards: Twisted Marionette",5849
 "League Slayer—3v3 Season Four",5850
@@ -4849,6 +5037,7 @@
 "Return to Dragonfall",5995
 "Adventurous Spirit: Arena of the Wolverine",5996
 "Revenge of the Champions: Dragonfall",5997
+"Local Response: Drizzlewood Coast 2",5998
 "Puzzle Resolver",5999
 "Bounty Hunter: Domain of Istan",6000
 "Return to Turnabout",6001
@@ -4862,6 +5051,7 @@
 "Return to Primordus Rising",6009
 "Second Response: Lake Doric",6010
 "Return to Champion's End",6011
+"Revenge of the Ooze",6012
 "Return to Scion & Champion",6013
 "Return to Chasing Ghosts",6014
 "Ore Miner: Grothmar Valley",6015
@@ -4877,9 +5067,11 @@
 "Bounty Hunter: Domain of Kourna",6026
 "Return to Fahranur, the First City",6027
 "Prodigy of Shing Jea",6029
+"Magical Weapon Collection",6030
 "The Goldclaw Holiday Collection",6031
 "League Participator—2v2 Season Five",6032
 "League Slayer—2v2 Season Five",6033
+"Court Duty: All's Mad That Ends Mad",6035
 "The Outcast Prince",6037
 "Court Duty: Terror of the Tower",6039
 "Court Duty: Gathering Evidence",6040
@@ -4899,6 +5091,7 @@
 "League Participator—3v3 Season Five",6054
 "League Slayer—3v3 Season Five",6055
 "League Conqueror—Conquest Season Thirty-One",6056
+"(Weekly) Wintersday Festivities",6057
 "Abyss Stalker Weapon Collection",6058
 "League Participator—Conquest Season Thirty",6059
 "White Tiger Weapon Collection",6060
@@ -4943,6 +5136,7 @@
 "Seitung Province Insight: Airship Wreckage",6100
 "Time Pilot",6101
 "Echovald Wilds Insight: House zu Heltzer",6102
+"Shots Fired",6103
 "Seitung Province Insight: Crystal Cave",6104
 "Seitung Province Insight: Zen Daijun Cat Island",6105
 "Desert Isles Fisher",6106
@@ -5484,6 +5678,7 @@
 "Completing Events I",6663
 "Rallying",6664
 "Defeating Elder Dragon Minions",6665
+"Gathering Crafting Materials",6666
 "Adventure Guide: Volume Three",6667
 "Dodging Attacks IV",6668
 "Discovering Points of Interest I",6669
@@ -5506,6 +5701,7 @@
 "Spoils of Chaos",6687
 "Picking Up the Pieces",6688
 "The Opening Ceremony",6689
+"Investigative Study 3",6690
 "Deft Defusing",6691
 "Seeking Scarlet: Twilight Arbor Aetherpath",6692
 "The Higher Road",6693
@@ -5614,10 +5810,13 @@
 "League Participator—Conquest Season Thirty-Five",6818
 "Sharing the Wintersday Cheer",6820
 "Tyria's New Year",6822
+"(Weekly) Invader Incinerator",6827
 "(Weekly) Tower Taker",6828
 "League Participator—3v3 Season Eight",6830
+"(Weekly) Dolyak Denier",6833
 "(Weekly) Camp Capturer",6834
 "(Weekly) Ruin Runner",6835
+"(Weekly) Stonemist Castle Conqueror",6836
 "League Conqueror—3v3 Season Eight",6837
 "League Conqueror—Conquest Season Thirty-Six",6839
 "League Slayer—Conquest Season Thirty-Six",6840
@@ -5687,6 +5886,7 @@
 "World Lore: Special Ops Rescue Agency",6904
 "New Kaineng Jade Bot Racer: Gold",6905
 "A Brotherhood's Best Friend",6906
+"The More the Merrier",6907
 "Special Ops Basic Course 2",6908
 "Gyala Delve Siege Turtle Ace: Silver",6909
 "Gyala Delve Beetle Racer: Silver",6910

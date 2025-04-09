@@ -81,6 +81,7 @@
 "Bis hier und keinen Schritt weiter",81
 "Der Preis des Sieges",82
 "Retter von Tyria",83
+"Mini-Sammlung – Satz I",84
 "Rüstungsschmied",85
 "Konstrukteur",86
 "Chefkoch",87
@@ -133,6 +134,7 @@
 "Wallbrecherblitz",143
 "Dämonenraupen-Gruben",144
 "Smaragd-Refugium",145
+"Granat-Refugium",146
 "Grendich-Spiel",147
 "König Jalis' Zuflucht",148
 "Sagenklauen-Weite",149
@@ -189,7 +191,9 @@
 "Leseratte",222
 "Des Kaisers neue Kleider",223
 "Tägliche Tötungen",224
+"Tägliche Events",232
 "Monatliche erfolgreiche Events",234
+"Monatliche WvW-Spielersiege",237
 "Monatliche Wiederverwertungen",238
 "Bezwinger",239
 "Professioneller Assassine",240
@@ -260,6 +264,7 @@
 "Unterschlupf der Rebellen",356
 "Miese Nachbarschaft",357
 "Gesandter des Verrückten Königs",358
+"Halloween-Beutel geöffnet.",360
 "Uhrturm des Verrückten Königs",365
 "Fluchgießerei Abgedreht",366
 "Verborgener Garten",367
@@ -298,25 +303,38 @@
 "Monatliche PvP-Siege",406
 "Monatliche Vielfalt an Siegen",407
 "Monatliche Turniersiege",409
+"Schlagt die Stadt kaputt",415
 "Sylvari-Überraschung",416
 "Missglücktes Missgeschick",417
+"Karitative Charr",418
 "Kru-Mitglied ehrenhalber",420
 "Geschenkegeber",421
+"Geschenkeblocker",422
 "Zur Glocke werden",424
 "Wart Ihr auch schön artig",428
+"Ein Freund für kalte Tage",429
 "Täglicher Fraktal-Läufer",433
 "Täglicher Nebelwachen-Schlächter",437
 "Monatlicher Komplettierer",445
+"Täglicher Lorbeer-Händler",446
 "Täglicher Rätsel-Entdecker",451
+"Täglicher Rätsel-Springer",452
 "Täglicher Trickser",454
+"Täglicher Aktivitäts-Teilnehmer",459
 "Flüchtlingshelfer",460
 "Der aufziehende Sturm",461
 "Ascalonischer Faunaschreck",464
+"Schlächter von Ascalon",465
 "Wiederverwerter",467
+"Persönliche Geschichten-Koryphäe",471
 "Champion der Kostüm-Rauferei",472
 "Schlächter der Zittergipfel",476
+"Täglicher Festschmaus",477
+"Schlächter von Orr",478
 "Verlies-Koryphäe",481
+"Veteranen-Schlächter von Maguuma",484
 "Fasskeilerei-Störer",485
+"Veteranen-Schlächter der Zittergipfel",486
 "Fasskeilerei-Abluchser",491
 "Fasskeilerei-Sieger",492
 "Zustandszerschmetterer",496
@@ -328,7 +346,10 @@
 "Tägliche Gruppen-Event-Koryphäe",511
 "Monatlicher Meister-Handwerker",512
 "Begnadeter Springer",513
+"Monatlicher Komplettierer",514
+"Champion-Bezwinger",516
 "Heldenpunkt-Horter",518
+"Monatliche erfolgreiche Events",520
 "Fundstücke",536
 "Stille Post",537
 "Rox: Eine wichtige Mission",539
@@ -352,13 +373,18 @@
 "Magister der Sphären, Welt 1",558
 "Doktor der Sphären, Welt 1",559
 "Nebenfach Ausflucht",560
+"Nebenfach Erfolg",561
 "Das erste Super Adventure des Explorators",562
 "Unersättlich nach Bestrafung",563
+"Monatliche PvP-Rangpunkte",564
 "Kampf gegen die Kriegsmaschinerie",569
 "Rächer der Vertriebenen",570
 "Allianzbrecher",571
 "Eine Flamme der Zusammenkunft",572
+"Tägliche einzigartige Karten gespielt",581
 "Meister der Arena",583
+"Soldat der Arena",585
+"Herausforderer der Arena",586
 "Krebs-Wurfspiel-Champion",588
 "Probenentnahme Südlicht-Erhebung",591
 "Probenentnahme Südlicht-Lava",592
@@ -366,24 +392,37 @@
 "Probenentnahme Südlicht-Schacht",595
 "Probenentnahme Südlicht-Lager",597
 "Probenentnahme Südlicht-Becken",598
+"Probenentnahme Südlicht-Sandgrube",600
+"Helfer der Südlicht-Siedler",603
 "Canach-Fänger",604
 "Leichtfüßiger Held",606
+"Plaudern mit Fürst Faren",608
 "Plaudern mit Fürstin Kasmeer Meade",609
 "Lagebesprechung mit Inspektorin Kiel",611
+"Vertraglich verpflichtet",613
+"Die Taucherbrille hilft kein bisschen",614
 "Südlicht-Omelett-Gourmet",616
 "Schlächter der verrückten Karka-Königin",617
 "Krebs-Wurfspiel-Champion",618
 "Krebs-Wurfspiel-Teilnehmer",619
 "Südlicht-FKK",620
+"Einfach krebstastisch!",621
 "Krebsgrabscher",622
 "Krebsträger",623
 "Südlicht-Getreuer",624
+"Täglicher WvW-Land-Beansprucher",643
 "Täglicher WvW-Lager-Eroberer",644
+"Täglicher WvW-Turm-Eroberer",645
 "Täglicher WvW-Weltrang-Stürmer",646
 "Champion der Champions",647
 "Nicht so geheim",648
 "Die Drachen-Gepolter-Erfahrung",649
 "Zhaitaziös",650
+"Brennt die Drachen nieder",651
+"Papier-Drache",653
+"So lebensecht",654
+"Trefft die Gastgeber",655
+"Drachenball-Anhänger",657
 "Fall abgeschlossen (2013)",662
 "Abgebrüht (2013)",663
 "Von der Feier in die Traufe (2013)",664
@@ -412,15 +451,21 @@
 "Eingekreist – Eingesackt – Eingekerkert (2013)",688
 "Ätherklingen-Assassine",689
 "Meister der Heldentaten",690
+"Basar-Botschafter",696
 "Reise zum Basar",698
+"Aufstieg zum Zephyr-Sanktum",699
 "Kuukuuchuu der Unglaubliche",701
+"Bester Sprung aller Zeiten.",702
 "Refugium-Sprinter",704
 "Publikumsliebling",706
 "Die Jagd nach dem Kristall",708
 "Händler aller Dinge",710
+"Lenkdrachen der Nacht",713
 "Lenkdrachen aus Stahl",714
 "Lenkdrachen-Bombe",716
+"Kolossale Lenkdrachen",717
 "Drachenlenken leicht gemacht",718
+"Welt-gegen-Lenkdrache",719
 "Meister von Om",721
 "Kettenrülpser",722
 "Strafe muss sein",723
@@ -433,11 +478,13 @@
 "Kiel: Unterstützung des Heimatlandes",731
 "Kiel: Verliesläufer",732
 "Kiel: Direkte Unterstützung",734
+"Aspekt-Arena: Kristallschnapper",737
 "Regelmäßiger Besucher der Aspekt-Arena",738
 "Stammspieler der Aspekt-Arena",740
 "Ich liebe Evon.",742
 "Schlitzklinge: Schlundschlächter",745
 "Schlitzklinge: Direkte Unterstützung",746
+"Alles aufgeschlitzt",748
 "Südlicht-Überlebenskampf: Meisterschütze",750
 "Stammspieler beim Südlicht-Überlebenskampf",752
 "Fasskeilerei-Stammspieler",753
@@ -452,24 +499,37 @@
 "Schneller Sprinter",762
 "Begabter Sprinter",763
 "Die Jagd nach dem Kristall",764
+"Ballonturm-Tourist",766
+"Lichtgestalt Krytas",767
 "Sieger und Champion",768
 "Königinnenjubiläum-Vollender",769
+"Pavillon-Partygast",770
 "Gast der Eröffnungszeremonie",771
 "Champion der Krone",772
 "Champion der Legionen",773
 "Champion der Kollegs",774
 "Champion der Wildnis",776
+"Champion des Rats",777
 "Störenfried-Zermalmer",778
+"Heißluftballonfahrer",781
+"Kronpavillongast",782
 "Hain-Diplomat",789
 "Löwenstein-Botschafter",791
 "Heißluftballonfahrer",792
 "Herausforderer des Spießrutenlaufs der Königin",794
+"Bis Blut fließt",795
+"Finsternis-Erleuchter",798
 "Wilder Berserker",800
+"Glibber Kleckse",801
 "Licht ins Dunkel",802
+"Duubruush-Betäubungsmittel",803
+"Dreifache Bedrohung",804
 "Gefahrensucher",805
 "Risikospieler",806
 "Demütiger Sieger",807
+"Gemetzel-Enthusiast",808
 "Fleischloser Mörder",810
+"Champion des Spießrutenlaufs der Königin",811
 "Verteidiger der Krone",815
 "Spezialist für Sanfte Landungen",816
 "Spielhüttenperfektionist",817
@@ -493,12 +553,15 @@
 "Interventionist bei der Weltweiten Invasion",835
 "Invasions-Zurückschlager",836
 "Ich war ein Wachtritter",837
+"Täglicher Portal-Schließer",839
 "Täglicher Uhrwerk-Alptraumzerstörer",840
 "Täglicher Ätherklingen-Beender",841
 "Täglicher Interventionist",842
 "Täglicher Scarlet-Störer",843
 "Täglicher Geiselunterhändler",844
 "Täglicher Portal-Schließer",847
+"Täglicher Interventionist",849
+"Täglicher Scarlet-Störer",850
 "Täglicher Geiselunterhändler",851
 "Großmeister Konstrukteur",854
 "Großmeister Waffenschmied",855
@@ -517,6 +580,7 @@
 "Hauptfach Wertsteigerung",868
 "Es war ein Hinterhalt",869
 "Auf leisen Sohlen",870
+"Super Adventure Geheimnis",871
 "Bachelor der Geheimnisse, Welt 2",873
 "Magister der Geheimnisse, Welt 2",874
 "Bachelor der Sphären, Welt 2",875
@@ -526,6 +590,7 @@
 "Professioneller Eisläufer",879
 "Sie ist hier drüben!",880
 "Jagt den Drachen!",882
+"Hier soll es Drachen geben!",884
 "Hier soll es Drachen geben!",885
 "Hier soll es Drachen geben!",887
 "Hier soll es Drachen geben!",888
@@ -533,6 +598,7 @@
 "Bosswoche: Hier soll es Drachen geben!",893
 "Bosswoche: Hier soll es Drachen geben!",894
 "Bosswoche",897
+"Jagt den Drachen!",898
 "Jagt den Drachen!",899
 "Gemetzel im Sumpf",900
 "Unter Strom",901
@@ -545,6 +611,8 @@
 "Setzt Euch und drückt den Abzug",908
 "Zappelschwanz",909
 "Tequatl der Sonnenlose",910
+"Trocken bleiben, am Leben bleiben",911
+"Triumph im Zwielicht",915
 "Dein Uhrherz poliert",916
 "Gerechtigkeit der Löwengarde",917
 "Feuer und Öl",918
@@ -574,25 +642,35 @@
 "Tief unter der Erde oder Luftschiffe vom Himmel geholt",950
 "Verrückte Wissenschaft oder Verrückter Garten",952
 "Orr oder Obstgarten",954
+"Schlüsselmacher",955
 "Edel oder wild",964
 "Täglicher Ätherklingen-Beender",965
 "Schlüsselmacher",966
 "Nebelinvasions-Abwehrer",969
+"Weltrang-Stürmer",972
 "Kein Turm zu hoch",974
 "Sprengmeister",978
 "Täglicher WvW-Spendierer",979
+"Luftschlösser",980
+"Lager-Zermalmer",981
+"Meister der Ruinen",982
 "Granat-Springer in den Nebeln",985
 "Smaragd-Springer in den Nebeln",986
 "Obsidian-Springer in den Nebeln",987
 "Veteran der Saison-Premiere",990
 "WvW-Saison-Premiere: 1. Platz",991
+"WvW-Saison-Premiere: 2. Platz",992
+"WvW-Saison-Premiere: 4. Platz",994
 "WvW-Saison-Premiere: 6. Platz",996
 "WvW-Saison-Premiere: 7. Platz",997
 "WvW-Saison-Premiere: 8. Platz",998
 "Ein süßer Freund",1003
+"Eindämmung",1004
+"Knochenbrecher",1007
 "Stammgast der Verrückten Inquisition",1010
 "Etwas Gutes zum Essen",1011
 "Eine stampfend gute Zeit",1013
+"Tod den Unsterblichen",1018
 "Kürbishacker",1019
 "Bonbonsammler",1020
 "Bonbonschwärmer",1021
@@ -601,22 +679,39 @@
 "Verrückter Springer",1024
 "Die Verrückte Inquisition",1025
 "Bonbonschwärmer III",1027
+"Verriegelt und verrammelt II",1029
 "Verriegelt und verrammelt IV",1031
+"Die Verrückte Inquisition II",1032
+"Die Verrückte Inquisition IV",1034
+"Verrückter Springer II",1035
+"Verrückter Springer IV",1037
 "Grausiger Schnitter der Frontschweine II",1038
 "Bonbonsammler II",1041
+"Bonbonsammler III",1042
 "Kürbishacker IV",1046
 "Champion der Halloweenkostüm-Rauferei",1047
+"Champion der Halloween-Kostüm-Rauferei II",1048
 "Champion der Halloween-Kostüm-Rauferei III",1049
+"Kürbishacker VI",1052
+"Bonbonschwärmer VI",1054
+"Grausiger Schnitter der Frontschweine V",1055
 "Verriegelt und verrammelt VI",1058
 "Bonbonsammler V",1060
+"Bezwinger der Toxischen Allianz",1062
 "Toxischer Feldforscher",1063
 "Toxischer Sporensäuberer",1064
+"Toxischer Gärtner",1065
+"Bezwinger der Toxischen Halluzination",1066
+"Bezwinger der Toxischen Allianz",1068
+"Toxischer Krait-Historiker",1069
 "Toxischer Sporensäuberer",1070
 "Toxischer Pollen-Überlebender",1071
 "Toxischer Feldforscher",1073
 "Toxischer Gärtner",1075
 "Toxischer Sporensäuberer",1078
 "Toxischer Gärtner",1079
+"Toxischer Krait-Historiker",1083
+"Toxischer Feldforscher",1087
 "Toxischer Sporensammler",1089
 "Toxischer globaler Gärtner",1090
 "Toxischer Krait-Historiker",1092
@@ -632,12 +727,20 @@
 "Die Enthüllung des Albtraums (Historisch)",1102
 "Im Innern der Albträume",1103
 "Turmgift-Säuberer",1106
+"Überlebender des Turms der Albträume",1107
+"Turm-Gegengift-Injektor",1110
 "Turm-Todbringer der Feurigen Allianz",1111
 "Im Innern der Albträume",1112
 "Überlebender des Turms der Albträume",1113
+"Turm-Uhrwerkszerleger",1114
 "Turmgift-Säuberer",1115
+"Turm-Gegengift-Injektor",1118
+"Turm-Bezwinger der Toxischen Allianz",1119
 "Turmgift-Säuberer",1120
+"Überlebender des Turms der Albträume",1121
 "Bezwinger des Turm-Hybriden",1123
+"Turm-Todbringer der Feurigen Allianz",1125
+"Im Innern der Albträume",1126
 "Überlebender des Turms der Albträume",1127
 "Turm-Gegengift-Injektor",1130
 "Turm-Gegengift-Injektor",1131
@@ -650,17 +753,29 @@
 "Turmspringer der Albträume",1139
 "Springer der Albträume",1140
 "Turm-Schatzjäger",1141
+"Fraktal-Wochen",1142
 "Fraktal-Wochen: Vulkanisch",1143
 "Fraktal-Wochen: Unterwasserruinen",1145
 "Fraktal-Wochen: Nicht kategorisiert",1148
+"Fraktal-Wochen: Felswand",1149
+"Fraktal-Wochen: Feurige Macht",1151
+"Fraktal-Wochen: Sumpfland",1152
+"Fraktal-Wochen: Solider Ozean",1153
+"Fraktal-Wochen: Untergrund",1154
 "Fraktal-Wochen: Ätherklinge",1155
 "Fraktal-Wochen: Trins Ende",1156
+"Täglicher Fraktal-Läufer",1162
+"Täglicher Fraktal-Läufer",1164
+"Täglicher Fraktal-Läufer",1166
+"Täglicher Fraktal-Läufer",1167
 "Täglicher Fraktal-Läufer",1168
 "Bezwinger der Toxischen Allianz",1173
 "Toxischer Sporensäuberer",1175
 "Bezwinger der Toxischen Halluzination",1177
+"Bezwinger der Toxischen Allianz",1179
 "Toxischer Krait-Historiker",1180
 "Toxischer Sporensäuberer",1181
+"Toxischer Pollen-Überlebender",1182
 "Toxischer Gärtner",1183
 "Toxischer Feldforscher",1184
 "Toxischer Sporensäuberer",1185
@@ -688,40 +803,61 @@
 "Ersthelfer der Nachwirkung",1210
 "Bezwinger der Toxischen Allianz der Nachwirkung I",1213
 "Stoßwellenspringer der Nachwirkung",1214
+"Halluzinations-Bezwinger der Nachwirkung I",1215
 "Toxischer Gärtner der Nachwirkung I",1217
 "Viathan-Wiederhersteller der Nachwirkung I",1218
 "Toxischer-Ableger-Todesstoß der Nachwirkung I",1219
+"Toxischer Verzehrer der Nachwirkung I",1221
+"Feuriger Auslöscher der Nachwirkung",1222
+"Spinnwebensäuberer der Nachwirkung",1223
 "Toxischer Boss-Bezwinger der Nachwirkung II",1224
+"Toxischer Gärtner der Nachwirkung II",1225
 "Bezwinger der Toxischen Allianz der Nachwirkung II",1226
 "Toxischer-Ableger-Todesstoß der Nachwirkung II",1227
 "Schatzsammler der Nachwirkung II",1228
+"Uhrwerkszerleger der Nachwirkung",1230
 "Toxischer Boss-Bezwinger der Nachwirkung III",1235
 "Toxischer Feldforscher der Nachwirkung III",1236
 "Viathan-Wiederhersteller der Nachwirkung III",1237
+"Henker der Ätherklingen der Nachwirkung",1239
+"Toxischer Boss-Bezwinger der Nachwirkung IV",1240
+"Toxischer Gärtner der Nachwirkung IV",1241
 "Wiederschenker",1242
 "Dolyak-Verteidiger",1244
 "Den richtigen Ton angeben",1245
+"Wintertag-Abrissbirne",1246
 "Kru-Mitglied ehrenhalber",1247
 "Spielzeugmacher-Geselle",1248
 "Überall Geschenkpapier",1251
 "Schneeballkrawallteilnehmer",1256
 "Spielzeukalypse-Überlebender",1258
+"Skritt-Treffer am Wintertag",1260
 "Wintertag-Schneeballwerfer",1261
 "Winterwunderland-Gewinner",1262
 "Der Klang des Wintertags",1263
 "Verbreitung der Wintertag-Freuden",1264
 "Jippie, Wintertag-Geschenke!",1265
 "Wintertag-Freundschaften",1266
+"Wintertag-Freundschaften II",1268
 "Verbreitung der Wintertag-Freuden II",1269
+"Skritt-Treffer am Wintertag II",1270
+"Winterwunderland-Gewinner II",1271
+"Jippie, Wintertag-Geschenke II",1272
 "Der Klang des Wintertags III",1274
 "Wintertag-Freundschaften III",1275
 "Verbreitung der Wintertag-Freuden III",1276
+"Skritt-Treffer am Wintertag III",1277
 "Winterwunderland-Gewinner III",1278
+"Wintertag-Schneeballwerfer III",1280
 "Verbreitung der Wintertag-Freuden IV",1283
 "Jippie, Wintertag-Geschenke IV",1286
 "Verbreitung der Wintertag-Freuden V",1290
 "Wer's findet, darf's behalten",1291
+"Spendenverteidiger",1294
 "Fünf Solo-Arena-Gewinne insgesamt",1300
+"Zwei Siege in der Team-Arena",1301
+"Drei Team-Arena-Gewinne gesamt",1302
+"Boss-Verklopper I",1303
 "Deregulator der Marionette",1304
 "Marionetten-Verteidiger",1305
 "Marionetten-Verwirrer",1306
@@ -743,6 +879,7 @@
 "Boss-Verklopper IX",1325
 "Boss-Verklopper XI",1327
 "Boss-Verklopper XII",1328
+"Boss-Verklopper XIV",1330
 "Wurm-Phytotoxinsammler",1332
 "Phytotoxin-Enthusiast",1333
 "Wurmbezwinger",1334
@@ -759,6 +896,9 @@
 "Jäger der verlorenen Teile",1346
 "Boss-Verklopper XVIII",1349
 "Boss-Verklopper XXVIII",1350
+"Boss-Verklopper XXIII",1352
+"Boss-Verklopper XXIV",1353
+"Boss-Verklopper XXV",1354
 "Boss-Verklopper XXI",1358
 "Boss-Verklopper XIX",1359
 "Boss-Verklopper XX",1360
@@ -807,6 +947,7 @@
 "Exekution der Stärksten",1408
 "Entgiftungserscheinungen",1409
 "Die Stellung halten",1411
+"Moralische Unterstützung",1414
 "Die Stellung halten",1415
 "Zerbrochene Klinge",1416
 "Zusammenarbeit III",1421
@@ -832,12 +973,15 @@
 "Entgiftungserscheinungen",1527
 "Fundstücke",1528
 "Abbruch der Befehlskette",1529
+"Vergangener Glanz",1530
 "Vergangener Glanz",1531
+"Entgiftungserscheinungen",1532
 "Zerbrochene Klinge",1534
 "Abbruch der Befehlskette",1536
 "Mini-Sammlung – Satz III",1537
 "Nun, seid Ihr nicht was Besonderes!",1542
 "Luftschlösser",1544
+"Wachen-Bezwinger",1545
 "Glänziges am Himmel",1547
 "Fortgeschrittener Nebelinvasions-Abwehrer",1549
 "Nebelinvasions-Abwehrer",1550
@@ -846,6 +990,7 @@
 "Reaktor-Räuber",1553
 "Wachposten-Eroberer der Extraklasse",1554
 "Kein Turm zu hoch",1555
+"Den Hahn zudrehen",1556
 "WvW-Frühlingsturnier 2014: 3. Platz",1559
 "WvW-Frühlingsturnier 2014: 4. Platz",1560
 "WvW-Frühlingsturnier 2014: 5. Platz",1561
@@ -857,15 +1002,20 @@
 "Bossblitz: Besiegt Kuraii",1570
 "Bossblitz: Erledigt Pyroxis",1571
 "Bossblitz: Bezwingt Bumm-Bumm",1574
+"Oger-Ohrfeiger",1576
 "Piraten-Prügler",1577
 "Flammen-Legion-Verprügler",1578
+"Banditen-Schreck",1579
+"Bossblitz",1580
 "Zerstörer-Zerstörer",1581
 "Zentauren-Ausmerzer",1582
+"Spießrutenlauf-Anwärter",1583
 "Himmelskristall-Meister",1589
 "Engagierter Sprinter",1591
 "Fest der Vier Winde",1592
 "Zweimal erzählte Legende",1621
 "WvW-Frühlingsturnier 2014: 3. Platz",1627
+"WvW-Frühlingsturnier 2014: 6. Platz",1628
 "WvW-Frühlingsturnier 2014: 1. Platz",1629
 "WvW-Frühlingsturnier 2014: 7. Platz",1630
 "Lama Drama",1631
@@ -988,13 +1138,16 @@
 "Geisterhandwerker",1752
 "Verliesionär",1753
 "Löffelliebhaber",1754
+"Weltunterstützer Runde 1",1755
 "Weltunterstützer Runde 3",1756
 "Weltunterstützer Runde 2",1757
 "WvW-Herbstturnier",1758
 "WvW-Herbstturnier 2014 Veteran",1760
 "Sturmwind-Waffensammlung",1761
 "Stammgast der Verrückten Inquisition",1762
+"Kürbisschnitzen",1763
 "Etwas Gutes zum Essen",1765
+"Blutig geschlagen",1766
 "Ihr, zurück in die Box",1767
 "Eine stampfend gute Zeit",1769
 "Süßes oder Saures",1777
@@ -1077,6 +1230,7 @@
 "Täglicher Mesmer-Gewinner",1864
 "Täglicher Krieger-Gewinner",1866
 "Tägliche PvP-Eroberungen",1867
+"Täglicher Wächter-Gewinner",1871
 "Tägliches Mini-Verlies: Ein großer Umweg",1872
 "Tägliches Mini-Verlies: Der vergessene Fluss",1873
 "Tägliches Mini-Verlies: Goffs Beute",1874
@@ -1195,11 +1349,15 @@
 "Spielzeug-Trank-Schluckspecht",2028
 "Wintertag-Spielzeug-Waffen-Sammlung",2029
 "Für die Kinder!",2030
+"Schneeballkrawallteilnehmer",2032
 "Wintertag-Abrissbirne",2033
+"Goldene Großzügigkeit",2035
+"Überall Geschenkpapier",2037
 "Winterwunderland-Beherrschung",2038
 "Dolyak-Verteidiger",2039
 "Wer's findet, darf's behalten",2040
 "Spielzeugqualitätskontrolle",2041
+"Silber für die Feiertage",2046
 "Nichts als kaputtes Spielzeug",2047
 "Reiche Ernte",2048
 "Grawnk-Fütterung",2049
@@ -1227,6 +1385,7 @@
 "Baumgeist-Beschützer",2071
 "Verschlinger-Beschützer",2072
 "Dunkelschwingen-Perforierer",2073
+"Schatten des Drachen",2074
 "Drachenball-Champion",2075
 "Eine funkelnde Demonstration",2079
 "Drachenball-Teilnehmer",2080
@@ -1238,13 +1397,19 @@
 "Täglicher Mesmer- oder Nekromant-Gewinner",2091
 "Täglicher Wächter- oder Ingenieur-Gewinner",2093
 "Täglicher Krieger- oder Wächter-Gewinner",2096
+"Täglicher Krieger- oder Nekromant-Gewinner",2097
+"Täglicher Krieger- oder Dieb-Gewinner",2100
+"Täglicher Waldläufer- oder Ingenieur-Gewinner",2103
 "Täglicher Elementarmagier- oder Mesmer-Gewinner",2104
 "Täglicher Wächter- oder Elementarmagier-Gewinner",2105
 "Täglicher Ingenieur- oder Elementarmagier-Gewinner",2107
+"Täglicher Elementarmagier- oder Nekromant-Gewinner",2108
+"Täglicher Ingenieur- oder Mesmer-Gewinner",2109
 "Täglicher Wächter- oder Dieb-Gewinner",2110
 "Täglicher Wächter- oder Mesmer-Gewinner",2113
 "Täglicher Krieger- oder Ingenieur-Gewinner",2114
 "Täglicher Krieger- oder Mesmer-Gewinner",2116
+"Täglicher Dieb- oder Nekromant-Gewinner",2120
 "Tagträumer-Waffensammlung",2121
 "Wissenschaftliche Waffensammlung",2123
 "Maguuma-Wegbereiter",2124
@@ -1386,6 +1551,7 @@
 "Meine Gründe",2281
 "Bearbeiteter Stab",2282
 "Das Goldene Huhn",2283
+"Adel verpflichtet",2284
 "Geschichte der Abtei",2285
 "Profi-Pilzhöhlen-Plünderer",2286
 "Angriff ist ...",2287
@@ -1426,6 +1592,7 @@
 "Schatulle \"Schwert des Smodur\"",2326
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 14",2327
 "Laser-Lichtschalter",2328
+"Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 7",2329
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 30",2330
 "Der Boden besteht aus Lava?: Gold",2331
 "Bearbeiteter Langbogen",2332
@@ -1486,6 +1653,7 @@
 "Chronomanten-Meister",2395
 "Einsicht Verschlungene Tiefen: Nördlicher Zusammenfluss",2396
 "Beherrschung Heart of Thorns, 4. Akt",2397
+"Täglicher Wiedergänger- oder Krieger-Gewinner",2398
 "Champion-Ehrwürdiger",2399
 "Chronomanten-Adept",2400
 "Sum-Gucker",2401
@@ -1546,6 +1714,7 @@
 "Tasche des Gelehrten",2461
 "Die längste Gleitzeit",2462
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 47",2463
+"Täglicher Wiedergänger- oder Wächter-Gewinner",2464
 "Kampf als durchdrehender Haudrauf-o-Mat: Gold",2465
 "Punktlandung",2466
 "Empfohlenes tägliches Fraktal: Schwierigkeitsgrad 18",2467
@@ -1615,6 +1784,7 @@
 "Die Flammensucher-Prophezeiungen III: Die Auserwählten",2536
 "Keine Hinterhalte",2537
 "Schatulle \"Drachenmacher\"",2538
+"Ein süßer Freund",2539
 "Schauflug: Gold",2540
 "Beschützer des Adels",2541
 "Aufgestiegene Wiederverwertung",2542
@@ -1833,16 +2003,22 @@
 "Winterpräsenz",2768
 "Spielzeugqualitätskontrolle",2769
 "Spendenverteidiger",2770
+"Dolyak-Verteidiger",2771
 "Schneeballschlacht!",2772
 "Überall Geschenkpapier",2773
 "Der Wintertag-Spießrutenlauf",2776
 "Gefrorene Klaue",2777
+"Demontage",2778
 "Silber für die Feiertage",2779
 "Spielzeugmacher-Routinier",2780
 "Festliche Klänge",2782
 "Wintertag-Abrissbirne",2783
+"Goldene Großzügigkeit",2784
 "Spendenaktion",2789
+"Schneeballkrawallteilnehmer",2790
+"Nichts als kaputtes Spielzeug",2791
 "Konfekt-Kenner",2792
+"Die Glocken des Wintertags",2793
 "Wer's findet, darf's behalten",2794
 "Erleuchteter Himmel",2795
 "Fluch der Gebrandmarkten",2796
@@ -2172,7 +2348,10 @@
 "Skrillas Wohltäter",3150
 "Tägliche Felsen-Tour der Glutbucht",3151
 "Die Qual der Wahl",3152
+"Candy-Corn-Zermalmer",3154
+"Tod den Unsterblichen",3155
 "Abend des Verrückten Königs",3157
+"Knochenbrecher",3159
 "Schließt die Türen",3163
 "Neues Leben nach dem Tode für Quaggan",3165
 "Ein süßer Freund",3166
@@ -2268,6 +2447,7 @@
 "Skrupellose Legende",3272
 "Erleuchteter Himmel",3273
 "Drachenball-Champion",3275
+"Feuerwerkskörper-Finder",3276
 "Blick des Drachen",3278
 "Geisterwacht-Angreifer",3280
 "Champion der Champions",3281
@@ -4188,6 +4368,7 @@
 "Ruhm der Eisen-Legion",5286
 "Sondermission: Minenräumer",5287
 "Sondermission: Erfüllt Eure Aufgabe",5288
+"3v3-Elite",5289
 "Sondermission: Lager-Sammler",5290
 "\"Keine Gnade\"-Beherrschung",5291
 "Hinterhalt-Jäger",5292
@@ -4412,6 +4593,7 @@
 "Jormags Welt",5524
 "Tägliche Deldrimor-Gegner",5525
 "Tägliche Drachenhilfe-Mission der Gendarran-Felder",5526
+"Täglicher Jadebruderschaft-Bezwinger der Gyala-Senke",5527
 "Drachenhilfe-Eingeweihter",5528
 "Globale Ränge der Deldrimor-Zwerge",5530
 "Tägliche Ebon-Vorhut-Missionen",5531
@@ -4823,6 +5005,7 @@
 "Kehrt zurück nach Drachensturz",5995
 "Abenteurergeist: Arena des Vielfraßes",5996
 "Rache der Champions: Drachensturz",5997
+"Einsatz vor Ort: Nieselwald-Küste 2",5998
 "Rätsellöser",5999
 "Kopfgeldjäger: Domäne Istan",6000
 "Kehrt zurück zu \"Umschwung\"",6001
@@ -4836,6 +5019,7 @@
 "Kehrt zurück zu \"Primordus erhebt sich\"",6009
 "Zweiter Einsatz: Doric-See",6010
 "Kehrt zurück zu \"Ende des Champions\"",6011
+"Rache des Schleims",6012
 "Kehrt zurück zu \"Nachkommin & Champion\".",6013
 "Kehre zurück zu \"Geister-Jagd\"",6014
 "Erz-Bergarbeiter: Grothmar-Tal",6015
@@ -4851,6 +5035,7 @@
 "Kopfgeldjäger: Domäne Kourna",6026
 "Kehrt zurück zu \"Fahranur, die Erste Stadt\"",6027
 "Shing Jea-Wunder",6029
+"Magische Waffensammlung",6030
 "Die Goldklaue-Feiertagssammlung",6031
 "Liga-Teilnehmer – 2v2-Saison fünf",6032
 "Liga-Bezwinger – 2v2-Saison fünf",6033
@@ -4873,6 +5058,7 @@
 "Liga-Teilnehmer – 3v3-Saison fünf",6054
 "Liga-Bezwinger – 3v3-Saison fünf",6055
 "Liga-Eroberer – Eroberungs-Saison 31",6056
+"(Wöchentlich) Wintertag-Feierlichkeiten",6057
 "Abgrundpirscher-Waffensammlung",6058
 "Liga-Teilnehmer – Eroberungs-Saison 30",6059
 "\"Weißer Tiger\"-Waffensammlung",6060
@@ -4917,6 +5103,7 @@
 "Einsicht Provinz Seitung: Luftschiff-Trümmer",6100
 "Zeitpilot",6101
 "Einsicht Echowald-Wildnis: Haus zu Heltzer",6102
+"Schüsse abgefeuert",6103
 "Einsicht Provinz Seitung: Kristallhöhle",6104
 "Einsicht Provinz Seitung: Katzeninsel von Zen Daijun",6105
 "Wüsteninseln-Fischer",6106
@@ -5458,6 +5645,7 @@
 "Events abschließen I",6663
 "Aufrappeln",6664
 "Diener der Alt-Drachen besiegen",6665
+"Handwerksmaterialien sammeln",6666
 "Abenteuer-Leitfaden: Band drei",6667
 "Angriffen ausweichen IV",6668
 "Sehenswürdigkeiten entdecken I",6669
@@ -5480,6 +5668,7 @@
 "Beute des Chaos",6687
 "Die Scherben aufsammeln",6688
 "Die Eröffnungszeremonie",6689
+"Forschungsstudie 3",6690
 "Geschickte Entschärfung",6691
 "Suche nach Scarlet: Ätherpfad im Zwielichtgarten",6692
 "Die Straße des Großmuts",6693
@@ -5588,8 +5777,10 @@
 "Liga-Teilnehmer – Eroberungs-Saison 35",6818
 "Einstimmen in den Wintertagsjubel",6820
 "Tyrias Neujahr",6822
+"(Wöchentlich) Eindringlings-Verbrenner",6827
 "(Wöchentlich) Turm-Eroberer",6828
 "Liga-Teilnehmer – 3v3-Saison acht",6830
+"(Wöchentlich) Dolyak-Stopper",6833
 "(Wöchentlich) Lager-Eroberer",6834
 "(Wöchentlich) Ruinen-Läufer",6835
 "Liga-Eroberer – 3v3-Saison acht",6837
@@ -5661,6 +5852,7 @@
 "Welt-Hintergrundgeschichte: Sonderkommando-Rettungsagentur",6904
 "Jade-Bot-Rennteilnahme in Neu-Kaineng: Gold",6905
 "Der beste Freund einer Bruderschaft",6906
+"Je mehr, desto besser!",6907
 "Einfacher Sonderkommando-Parcours 2",6908
 "Belagerungsschildkröten-Ass der Gyala-Senke: Silber",6909
 "Käfer-Rennteilnahme in der Gyala-Senke: Silber",6910
@@ -5808,6 +6000,7 @@
 "Überfälle an den Baumgrenzen-Fällen",7064
 "Himmelsschuppen-Zielübungen im Himmelswacht-Archipel: Gold",7065
 "Turm des Zauberers: Nachtflug – Silber",7066
+"Überfälle in der Meerenge der Verwüstung",7067
 "Nur nicht austrocknen",7068
 "Legendäre Waffe: Die Flammensucher-Prophezeiungen",7069
 "Papierkrieg",7070
@@ -5851,6 +6044,7 @@
 "Ewiges \"Auf dem Weg zum Turm des Zauberers\"",7119
 "Rissjäger-Rüstung",7120
 "Erster Kontakt",7122
+"Rissjagd im Funkenschwärmersumpf",7123
 "Einsicht Amnytas: Windklippe",7124
 "Einsicht Himmelswacht-Archipel: Rata-Novus-Grundfesten",7125
 "Beleuchtung des Himmelswacht-Archipels",7126
@@ -6018,10 +6212,12 @@
 "Rissjagd im Bitterfrost-Grenzland",7629
 "Tour durch Amnytas: Natürlich bis Stärke",7630
 "PvP-Ansturm-Teilnehmer",7631
+"Rissjagd in der Eisenmark",7632
 "Tour durch Amnytas: Lyhrs Turm bis Isgarrens Turm",7633
 "Provinz Seitung: Überfälle",7634
 "Rissjagd in der Grasgrünen Schwelle",7635
 "WvW-Ansturm \"Spieler gegen Spieler\" 2",7636
+"Rissjagd im Eisklamm-Sund",7637
 "Täglicher PvP-Ansturm-Kämpfer",7638
 "WvW-Ansturm-Schloss-Eroberer",7639
 "WvW-Ansturm-Turm-Eroberer",7640
@@ -6043,6 +6239,7 @@
 "Hörensagen",7657
 "Schnellstart: Lokaler Held",7658
 "Überfälle im Wüsten-Hochland",7659
+"Überfälle am Feuerherzhügel",7660
 "Rissjagd im Güldenen Talkessel",7661
 "Überfälle in der Stadt Neu-Kaineng",7662
 "Kauft Ihr?",7664
@@ -6117,6 +6314,7 @@
 "Liga-Bezwinger – Eroberungs-Saison 40",7749
 "Fraktal-Rekursion: \"Kapitän Mai Trin Boss\" (wöchentlich)",7750
 "Fraktal-Rekursion: Ätherklinge (wöchentlich)",7751
+"Liga-Eroberer – 3v3-Saison zehn",7752
 "Suche nach Scarlet: Alter Löwenhof (wöchentlich)",7753
 "Rückkehr zu Scarlets Krieg",7754
 "Täglicher Turm der Albträume",7755
@@ -6125,6 +6323,7 @@
 "Suche nach Scarlet: Thaumanova-Reaktor (wöchentlich)",7758
 "Liga-Bezwinger – 3v3-Saison zehn",7759
 "Einsatz vor Ort: Kessex-Hügel (wöchentlich)",7760
+"Liga-Teilnehmer – 3v3-Saison zehn",7761
 "Fraktal-Rekursion: Feuriger Boss (wöchentlich)",7763
 "Einsatz vor Ort: Diessa-Plateau (wöchentlich)",7764
 "Die Staffeln erneut durchleben – 1",7765
@@ -6274,6 +6473,7 @@
 "Tägliche Silberwüste",7910
 "Rächer des Reiches II",7911
 "Rächer des Reiches IX",7912
+"Die Staffeln erneut durchleben – 2",7913
 "Legendärer Legionär",7915
 "Liga-Eroberer – Eroberungs-Saison 41",7916
 "Hochsitz",7917
