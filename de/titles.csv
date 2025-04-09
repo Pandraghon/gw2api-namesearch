@@ -53,9 +53,15 @@
 "Der Kaiser",127
 "Gesandter des Verrückten Königs",128
 "Meisterschnitzer",129
+"Spielzeugmacher-Lehrling",130
 "Freiwilliger",131
 "Rächer der Vertriebenen",133
 "Auszeichnung in Springologie",134
+"Meister der Arena",135
+"Veteran der Arena",136
+"Soldat der Arena",137
+"Herausforderer der Arena",138
+"Legende der Arena",139
 "Südlicht-Getreuer",140
 "Krebsgrabscher",141
 "Krebs-Wurfspiel-Champion",142
@@ -109,7 +115,9 @@
 "Der Henker",212
 "Dunkler Reisender",213
 "Der Großherzige",214
+"Spielzeugmacher-Adept",215
 "Ährenwerter Kommandeur",216
+"Maguuma-Wegbereiter",217
 "Nebelwächter",218
 "Erleuchtet",219
 "Professor",220
@@ -121,11 +129,15 @@
 "Ex Machina",227
 "Der große Reformator",229
 "Der Ewige",230
+"Uranfängliche Legende",231
 "Süßschnabel",233
+"Spielzeugmacher-Routinier",234
 "Geistreicher Trinker",235
 "Kunstvoll gebraut",236
+"Erhabene Legende",237
 "Aalglatter Faultierraupling",238
 "Unbeugsame Legende",239
+"Glorreiche Legende",242
 "Salziger Seebär",245
 "Ich bin steinreich.",246
 "Ewiger Gladiator",247
@@ -154,6 +166,7 @@
 "Ritter des Dorns",270
 "Meister der Steine",271
 "Verrückter Flieger",272
+"((818816))",273
 "Geschichtenerzähler von Orr",274
 "Der höchste Gestalter",275
 "Herold des Gesandten",276
@@ -231,6 +244,7 @@
 "2v2-Elite",356
 "Romantisch",357
 "Geschmiedeter Stahl",358
+"3v3-Elite",359
 "3v3-Streiter",360
 "Sturmrufer",361
 "Gemeinschafts-Eroberer",362
@@ -244,6 +258,7 @@
 "Gemeinschafts-Driftmeister",370
 "Gemeinschafts-Kriegsherr",371
 "Gemeinschafts-Held",372
+"Shing Jea-Wunder",373
 "Ich habe etliche Zanderköderbücher.",374
 "Bubus bester Kumpel",375
 "Eine Art große Brasse",376

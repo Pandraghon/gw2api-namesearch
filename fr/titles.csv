@@ -53,9 +53,15 @@
 "L'empereur",127
 "Emissaire du Roi Dément",128
 "Maître sculpteur",129
+"Apprenti fabricant de jouets",130
 "Volontaire",131
 "Défenseur de la veuve et de l'orphelin",133
 "Mention en saut appliqué",134
+"Maître de l'arène",135
+"Vétéran de l'arène",136
+"Soldat de l'arène",137
+"Concurrent de l'arène",138
+"Légende de l'arène",139
 "Vaillant de Sud-Soleil",140
 "Voleur de crabe",141
 "Champion de lancer de crabe",142
@@ -109,7 +115,9 @@
 "L'exécuteur",212
 "Sombre voyageur",213
 "Le magnanime",214
+"Adepte fabricant de jouets",215
 "Chair Commandant",216
+"Pionnier de Maguuma",217
 "Veilleur des Brumes",218
 "L'illuminé",219
 "Professeur",220
@@ -121,11 +129,15 @@
 "Ex machina",227
 "Le grand réformateur",229
 "L'éternel",230
+"Légende primordiale",231
 "Gourmand",233
+"Fabricant de jouets confirmé",234
 "Buveur enjoué",235
 "Orfèvrerie",236
+"Légende exaltée",237
 "Vermisseau glissant",238
 "Légende indomptable",239
+"Légende illustre",242
 "Loup de mer en colère",245
 "Je suis riche, vous savez.",246
 "Gladiateur éternel",247
@@ -154,6 +166,7 @@
 "Chevalier de l'épine",270
 "Roc Star",271
 "Pro du vol",272
+"((818816))",273
 "Conteur d'Orr",274
 "L'archiconcepteur",275
 "Héraut de l'émissaire",276
@@ -231,6 +244,7 @@
 "Élite du 2c2",356
 "Romance",357
 "Acier forgé",358
+"Élite du 3c3",359
 "Compétiteur du 3c3",360
 "Invoque-tempête",361
 "Conquérant communautaire",362
@@ -244,6 +258,7 @@
 "Maîtrise des virages communautaire",370
 "Chef de guerre communautaire",371
 "Héroïsme communautaire",372
+"Prodige de Shing Jea",373
 "J'ai de nombreuses prises ferrées à cuire",374
 "Meilleur ami de Bubulles",375
 "Carène de la carène",376

@@ -53,9 +53,15 @@
 "The Emperor",127
 "Emissary of the Mad King",128
 "Master Carver",129
+"Apprentice Toymaker",130
 "Volunteer",131
 "Avenger of the Dispossessed",133
 "Distinction in Applied Jumping",134
+"Master of the Arena",135
+"Veteran of the Arena",136
+"Soldier of the Arena",137
+"Challenger of the Arena",138
+"Legend of the Arena",139
 "Southsun Stalwart",140
 "Crabgrabber",141
 "Crab Toss Champion",142
@@ -109,7 +115,9 @@
 "The Executioner",212
 "Dark Traveler",213
 "The Magnanimous",214
+"Adept Toymaker",215
 "Deer Commander",216
+"Maguuma Trailblazer",217
 "Mistwarden",218
 "Illuminated",219
 "Professor",220
@@ -121,11 +129,15 @@
 "Ex Machina",227
 "The Great Reformer",229
 "The Eternal",230
+"Primordial Legend",231
 "Sweet Tooth",233
+"Seasoned Toymaker",234
 "Spirited Drinker",235
 "Finely Crafted",236
+"Exalted Legend",237
 "Slippery Slubling",238
 "Indomitable Legend",239
+"Illustrious Legend",242
 "Salty Sea Dog",245
 "I'm rich, you know.",246
 "Eternal Gladiator",247
@@ -154,6 +166,7 @@
 "Knight of the Thorn",270
 "Rock Star",271
 "Fancy Flyer",272
+"",273
 "Storyteller of Orr",274
 "The Archdesigner",275
 "Envoy's Herald",276
@@ -231,6 +244,7 @@
 "2v2 Elite",356
 "Romantic",357
 "Forged Steel",358
+"3v3 Elite",359
 "3v3 Contender",360
 "Stormcaller",361
 "Community Conqueror",362
@@ -244,6 +258,7 @@
 "Community Drift Master",370
 "Community Warlord",371
 "Community Hero",372
+"Prodigy of Shing Jea",373
 "I Have Many Lure-Bound Hooks",374
 "Bubbles's Best Buddy",375
 "Kind of a Big Reel",376
