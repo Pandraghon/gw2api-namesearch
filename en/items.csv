@@ -61694,6 +61694,7 @@
 "Flames of War",95090
 "Archdemon Wings Glider",95091
 "Legendary Cache",95092
+"Legendary Equipment Unlocked!",95093
 "The Dreamer",95097
 "Marionette Community Goal Reward",95098
 "The Juggernaut",95100
@@ -62253,6 +62254,7 @@
 "Jade Tech Hammer",95742
 "Bowl of Canthan Vegetable Mix",95745
 "Scavenger Bag: Metal",95746
+"Seething Terror Stone",95747
 "Mini Navan",95748
 "Suun's Herald",95749
 "Catalyst's Cache",95750
@@ -63067,6 +63069,7 @@
 "Togo's Spire",96869
 "Skiff Supercharger 1",96871
 "Jar of Scorpions",96872
+"Seething Anguish Stone",96873
 "Giant Octopus",96874
 "Vindicator's Cache",96875
 "Pollock",96876
@@ -63126,6 +63129,7 @@
 "Saltspray Greatsword",96955
 "Badge of the Mechanist",96956
 "Notes on Dual Identities",96957
+"Seething Hunger Stone",96958
 "Dragon's Jade Tech Gauntlets",96959
 "Recipe: Jade Orichalcum Ring",96960
 "Togo's Doublet",96962
@@ -63601,6 +63605,7 @@
 "Bowl of Chopped Flavorful Fish",97597
 "Fortified Precursor Rifle Barrel",97598
 "Vindicator's Trinket",97599
+"Seething Fury Stone",97600
 "Scavenger Bag: Cloth",97601
 "Demise of the Dragon",97602
 "Stingray",97604
@@ -63623,6 +63628,7 @@
 "Dragon's Jade Tech Coat",97631
 "Badge of Dissonance",97632
 "Guide to Kurzick Combat Stances",97633
+"Seething Bloodthirst Stone",97634
 "Harrier's Light Monastery Gloves",97635
 "Endless Shark Tonic",97636
 "Recipe: Togo's Razor",97638
@@ -64188,6 +64194,7 @@
 "Zephyrite Shawl",98372
 "Dragon Decade Shield Skin",98385
 "Birthday Gift",98397
+"Lingering Branded Aether",98412
 "Anniversary Achievement Box",98424
 "Watchwork Mace",98427
 "Water Dragon Greaves Skin",98430
@@ -64212,8 +64219,10 @@
 "Seven Dragon Dye Pack",98496
 "Fragment of Prismatic Fury",98500
 "Birthday Gift",98501
+"Scale Fragment of Kralkatorrik",98502
 "Water Dragon Gauntlets Skin",98503
 "Watchwork Rifle",98506
+"Purified Branded Aether",98508
 "Kralkatorrik's Claw Skin",98519
 "Watchwork Pistol",98521
 "Windswept Blade",98523
@@ -64372,9 +64381,11 @@
 "Kasmeer's Illusioned Coin Purse",98989
 "",98990
 "",98991
+"Purified Icebrood Aether",98994
 "\"/Serve\" Emote Tome",98995
 "Jormag's Weight Skin",98999
 "Jormag's Bite Skin",99000
+"Scale Fragment of Jormag",99001
 "Jormag's Fang Skin",99003
 "Bag of Gear",99004
 "Playful Ghost Jade Bot Skin",99005
@@ -64389,6 +64400,7 @@
 "Auspicious Pixiu Skyscale Skin",99020
 "Maid Outfit",99021
 "Jormag's Claw Skin",99023
+"Purified Scale Fragment of Jormag",99024
 "Jormag's Argument Skin",99025
 "Scale Splinter of Jormag",99027
 "Uncharged Fragment of Prismatic Persuasion",99028
@@ -64402,6 +64414,7 @@
 "Scale Splinter of Jormag",99037
 "Umbral Serpent Backpack and Glider Combo",99039
 "Jormag's Scale Skin",99041
+"Lingering Icebrood Aether",99042
 "Butler Outfit",99043
 "Jormag's Wisdom Skin",99045
 "Dokkaebi Axe Skin",99047
@@ -64728,12 +64741,16 @@
 "Mocha of the Mists Coffee Pitcher",99379
 "Brewery Chair",99380
 "Coffee Maestro's Supplies",99381
+"Mote of Bliss",99382
+"Mote of Courage",99383
+"Mote of Bloodthirst",99384
 "Luxon Hunter's Sword",99386
 "Virtuoso's Cache",99387
 "Week 4 Requisition Credit",99388
 "Xunlai Aether Detector",99389
 "Fragment of Prismatic Life",99390
 "Serpentine Tattoo Legs Skin",99391
+"Mote of Satiation",99392
 "Soo-Won's Gaze Skin",99393
 "Bestial Tides Tattoo Chest Skin",99394
 "Recipe: Turtle Pilot Booster",99395
@@ -64746,6 +64763,7 @@
 "The Hunger That Renews",99405
 "Harbinger's Cache",99406
 "Soo-Won's Rending Skin",99407
+"Mist-Touched Staff Fragment",99408
 "Light Special Ops Pauldrons",99409
 "Luxon Hunter's Mace",99410
 "Soo-Won's Breath Skin",99412
@@ -64759,13 +64777,19 @@
 "Luxon Hunter's Greatsword",99421
 "Cask of Shiverpeak Stout",99422
 "Soo-Won's Argument Skin",99423
+"Mote of Compassion",99424
 "Heavy Special Ops Pauldrons",99425
+"Mote of Fury",99426
 "Scale Splinter of Soo-Won",99427
 "Mining Air Filter, Grade A",99428
 "The Anguish That Festers",99429
 "Replica Oni Arms",99431
+"Self-Assembling Longbow Fragment",99432
 "The Bloodthirst That Lingers",99433
+"Self-Assembling Dagger Fragment",99434
+"Self-Assembling Axe Fragment",99435
 "Scale Splinter of Soo-Won",99436
+"Mist-Touched Sword Fragment",99437
 "Jade Tech Visor Skin",99438
 "Soo-Won's Insight Skin",99442
 "Soo-Won's Persuasion Skin",99443
@@ -64783,12 +64807,14 @@
 "Light Special Ops Pants",99459
 "Bottle of Ironbrew",99460
 "Untamed's Cache",99461
+"Mist-Touched Axe Fragment",99462
 "The Terror That Grows",99463
 "Mechanist's Cache",99465
 "Willbender's Cache",99466
 "Heavy Special Ops Harness",99468
 "Luxon Hunter's Scepter",99469
 "Soo-Won's Weight Skin",99470
+"Mote of Anguish",99471
 "Light Special Ops Boots",99472
 "Purified Scale Fragment of Soo-Won",99475
 "Medium Special Ops Gloves",99476
@@ -64796,14 +64822,17 @@
 "Tahkayun's Armor Piercer",99478
 "Soo-Won's Fang Skin",99479
 "",99480
+"Self-Assembling Sword Fragment",99481
 "Luxon Hunter's Shield",99482
 "Luxon Hunter's Torch",99483
 "Dragonjade-Tier Reward Package",99484
+"Mote of Hunger",99485
 "Holo Cape Projector Skin",99486
 "Medium Special Ops Helmet",99487
 "Heavy Special Ops Gloves",99488
 "Purified Void Aether",99489
 "Soo-Won's Wing Skin",99491
+"Mist-Touched Dagger Fragment",99492
 "Bestial Tides Tattoo Legs Skin",99493
 "Medium Special Ops Pauldrons",99494
 "Soo-Won's Wisdom Skin",99495
@@ -64813,6 +64842,7 @@
 "",99499
 "Fate Unraveling Sword Skin",99500
 "Medium Special Ops Pants",99501
+"Mist-Touched Longbow Fragment",99503
 "Mini Oni",99504
 "Street Noodles Chair",99505
 "Minister's Hat",99506
@@ -64837,9 +64867,11 @@
 "Bladesworn's Cache",99532
 "Mining Rig Operator's Seat",99533
 "Heavy Special Ops Pants",99534
+"Mote of Terror",99535
 "Week 1 Requisition Credit",99536
 "Luxon Hunter's Short Bow",99537
 "Bottle of Divinity Reserve",99538
+"Self-Assembling Staff Fragment",99539
 "Luxon Hunter's Hammer",99540
 "Scale Splinter of Soo-Won",99541
 "Luxon Hunter's Longbow",99542
@@ -64848,6 +64880,7 @@
 "Chest of the Gyala Delve Hero",99546
 "Soo-Won's Tail Skin",99547
 "Specter's Cache",99549
+"Mote of Delight",99551
 "Special Ops Requisition: Chestpiece",99552
 "Medium Special Ops Harness",99553
 "Bottle of Peacemaker Pilsner",99555
@@ -65229,9 +65262,11 @@
 "Deluxe Gear Box",99968
 "Recipe: Stormforged Scepter",99970
 "Bird Loot Box",99971
+"Shard of Decay",99974
 "Rift Hunter Shoulders Box",99976
 "Berserker's Shattered Mace",99979
 "Endless Kryptis Lord Combat Tonic",99980
+"XVII: The Cosmos",99983
 "Glacial Logging Tool",99984
 "Queen's Flipper",99986
 "Deluxe Gear Box",99987
@@ -65249,6 +65284,7 @@
 "Rabid Skyscale Scepter",100006
 "Magi's Skyforged Hammer",100007
 "Possession Infusion",100008
+"Vaulz Baelwalker\n576 Frost 0X0I\nKnowledge",100009
 "Visage of Nourys",100010
 "Rift Hunter Light Coat",100011
 "Recipe: Relic of the Brawler",100012
@@ -65277,9 +65313,11 @@
 "Relic of the Ice",100048
 "Sanctified Focus Skin",100049
 "Arcanum of Astral Grasp",100050
+"Echo of the Hero",100051
 "Skyscale Hatchling Harvesting Tool",100052
 "Viper's Abomination Torch",100054
 "Essence of Triumph",100055
+"Receipt for Skyscale Saddle Parts",100056
 "Astral Ward Pillar",100058
 "Common Kryptis Motivation",100060
 "Relic of Surging",100063
@@ -65301,6 +65339,7 @@
 "Magi's Skyforged Greatsword",100089
 "Relic of the Dragonhunter",100090
 "Rabid Abomination Short Bow",100092
+"A Visit to the North",100093
 "Skyscale of Spirit",100094
 "Mist-Hardened Transcendent Chest",100096
 "Shrine Guardians' Gratitude",100097
@@ -65313,6 +65352,7 @@
 "Amnytas Hoard",100109
 "Sinister Demonflesh Torch",100110
 "Skyscale of Air",100111
+"Mildred Goswin\n403 Frost 0IIX\nUnsworn",100113
 "Inspiration of Deldrimor",100114
 "Relic of Mabon",100115
 "Recipe: Relic of the Afflicted",100116
@@ -65320,8 +65360,10 @@
 "Skyscale of Water",100118
 "Magi's Skyforged Short Bow",100120
 "Viper's Abomination Greatsword",100121
+"Yexxi the Stern\n092 Tide 00XI\nKnowledge",100122
 "Tasty Wurm Segment",100123
 "Rabid Skyscale Shield",100124
+"Daytona Jaque\n982 Bloom 0XX1\nUnsworn",100127
 "Black Lion Glyph Selection Container",100129
 "Shaman's Stormforged Axe",100130
 "Rich Maguuman Mahogany",100131
@@ -65340,6 +65382,7 @@
 "Relic of Speed",100148
 "Astral Ward Gate",100149
 "Tasty Wurm Segment",100150
+"Awakening",100151
 "Relic of the Fractal",100153
 "Wizard's Tower Trial: Gold",100154
 "Essence of the Celestial",100155
@@ -65353,6 +65396,7 @@
 "Sanctified Axe Skin",100164
 "Relic of the Necromancer",100165
 "Storm's Eye Rifle",100166
+"In Memorium",100168
 "Deluxe Gear Box",100169
 "Sample of Kryptis Possession",100170
 "Sanctified Helm Skin",100172
@@ -65361,6 +65405,7 @@
 "Recipe: Relic of the Trooper",100175
 "Relic of Peitha",100177
 "Wizard's Tower Trial: Silver",100178
+"Shard of Ice",100179
 "Celestial Fish",100180
 "Recipe: Relic of Antitoxin",100181
 "Partial Academic Arch",100182
@@ -65372,6 +65417,7 @@
 "Amnytas: Hero's Choice Chest",100193
 "Relic of the Weaver",100194
 "Skyscale Target Practice: Bronze",100195
+"Skyscale Saddle Parts List",100197
 "Arcanum of Astral Stride",100198
 "Sorcerer's Cape Skin",100199
 "Academic Wall with Windows",100204
@@ -65379,6 +65425,7 @@
 "Recipe: Storm's Eye Dagger",100206
 "Astral Ward Light Leggings",100207
 "Skyscale Hatchling Mining Tool",100208
+"Inspiration of Deldrimor",100209
 "A Spark of Knowledge",100210
 "Echo of Turai",100211
 "Shaman's Stormforged Greatsword",100215
@@ -65391,6 +65438,7 @@
 "Skyscale Treat",100222
 "Shaman's Stormforged Hammer",100224
 "Mini Galrath",100225
+"Callon's Mourning",100226
 "Choya Mining Tool",100227
 "Recipe: Stormforged Greatsword",100228
 "Rabid Skyscale Staff",100229
@@ -65401,6 +65449,7 @@
 "Shaman's Stormforged Sword",100235
 "Skyscale of Blood",100237
 "Relic of the Lich",100238
+"Tainted Bloodstone Censer",100239
 "Relic Container: Power",100240
 "Jar of Dangerous Spirits",100244
 "Kryptis Skyscale",100245
@@ -65415,18 +65464,24 @@
 "Recipe: Relic of Resistance",100261
 "Relic of Fireworks",100262
 "Deluxe Gear Box",100264
+"Silque \n109 Tide 00XX\nNatural",100265
 "Mini R'tchikk",100266
 "Case of Captured Lightning",100267
+"XV: The Fiend",100268
+"Percy Gammons\n892 Dusk XIVV\nUnsworn",100269
 "Infused Aurora Gloves Skin",100270
 "Relic Container: Conditions",100271
 "Air Elemental Loot Box",100272
 "Recipe: Relic of Dwayna",100274
 "10 Astral Acclaim",100275
+"Beacon Stone",100276
 "Dwarven Relic",100277
+"Fractured Constellation",100279
 "Golden Ticket",100280
 "Rabid Abomination Shield",100281
 "Astral Ward Heavy Shoulders",100282
 "Sanctified Weapon Skin Selection Box",100284
+"XX: The Young Dragon",100287
 "Gift of Stormy Skies",100288
 "Rabid Skyscale Longbow",100289
 "Valkyrie Eagle Eye Scepter",100290
@@ -65458,6 +65513,7 @@
 "Astral Ward Skyscale Mount Unlock",100327
 "Recipe: Relic of the Warrior",100328
 "Berserker's Shattered Staff",100330
+"List of Artifacts",100334
 "Storm Lord's Throne",100336
 "Kryptis Loot Box",100337
 "Infernal Envoy Staff Skin",100338
@@ -65477,12 +65533,15 @@
 "Balance Fish",100354
 "Endless Wizard of the Celestial Combat Tonic",100356
 "Stash of Astral Coins",100357
+"Greater Understanding",100358
+"Arina \n892 Snow 0XV1\nObscure",100359
 "Sanctified Boots Skin",100361
 "Rabid Skyscale Greatsword",100363
 "Uncommon Kryptis Motivation",100364
 "Complete Oracle Deck",100367
 "Relic of the Scourge",100368
 "Recipe: Relic of the Adventurer",100369
+"Return to Hortensia",100370
 "Amnytas Gear Box",100372
 "Storm's Eye Warhorn",100373
 "Storm's Eye Shield",100374
@@ -65492,10 +65551,12 @@
 "Rift Hunter Medium Leggings",100378
 "Astral Ward Mastery",100382
 "Despair's Lament",100383
+"Fulla\n733 Tide VIXV\nUnsworn",100384
 "Relic of the Centaur",100385
 "500 Astral Acclaim",100386
 "Relic of the Astral Ward",100388
 "Relic of Antitoxin",100390
+"Meeting Hortensia",100391
 "Astral Ward Heavy Boots",100392
 "Sinister Demonflesh Longbow",100394
 "Echo of the Past",100395
@@ -65505,8 +65566,10 @@
 "Sanctified Coat Skin",100401
 "Relic of the Golemancer",100403
 "Deluxe Gear Box",100405
+"Docia Greywind\n092 Bloom XXII\nBalance",100406
 "Possession Infusion",100407
 "Pacified Magical Storm",100409
+"Kryptis Corpse",100410
 "Relic of the Trooper",100411
 "Magi's Skyforged Rifle",100412
 "Envy's Bite",100413
@@ -65518,6 +65581,7 @@
 "Magi's Skyforged Sword",100420
 "Eagle Eye Weapon Chest",100421
 "Scrap of Secrets of the Obscure Mastery",100422
+"Fractured Constellation",100423
 "Rabid Skyscale Pistol",100424
 "Mini Wizard Construct",100427
 "Viper's Abomination Rifle",100428
@@ -65552,6 +65616,7 @@
 "Recipe: Relic of the Monk",100468
 "Instant Reward Track Progress",100469
 "Cosmic Logging Tool",100470
+"Memory of Ascension",100471
 "Sinister Demonflesh Shield",100472
 "Large Static Charge",100473
 "Rabid Abomination Mace",100474
@@ -65562,12 +65627,15 @@
 "Malice's Heartstring",100483
 "Mini Avatar of Gluttony",100484
 "Astral Ward Light Helm",100485
+"A Call to Action",100486
 "Skyscale of Life",100487
 "Recipe: Stormforged Warhorn",100490
 "Skyscale of Ice",100491
 "Astral Ward Medium Coat",100492
 "Berserker's Shattered Greatsword",100493
 "Viper's Abomination Axe",100494
+"A Spark of Knowledge",100495
+"The Convoy",100496
 "Sanctified Torch Skin",100498
 "Amnytas Gear Box",100500
 "Vermilion Logging Tool",100501
@@ -65576,6 +65644,7 @@
 "Astral Ward Light Coat",100504
 "Mini Zizel",100505
 "Astral Ward Door",100506
+"Planning for Tyria's Future",100508
 "Arcanum of Astral Heartbeat",100509
 "Gift of Magical Prosperity",100512
 "Possession Infusion",100513
@@ -65584,7 +65653,10 @@
 "Deluxe Gear Box",100516
 "Empress Fish",100517
 "Saurian Cache",100518
+"XIV: Patience",100520
+"Gideon Hawthorn II\n003 Tide IIX0\nNatural",100521
 "Astral Ward Staircase",100522
+"Curry Bun with Bloodstone",100523
 "Arcanum of Astral Bearing",100524
 "Recipe: Storm's Eye Shield",100525
 "Knowledge Fish",100526
@@ -65619,6 +65691,7 @@
 "XII: The Endless",100570
 "Deluxe Gear Box",100571
 "Viper's Abomination Warhorn",100572
+"XIII: The Templar",100573
 "Rift Hunter Medium Boots",100574
 "Essence of Knowledge",100575
 "Mist-Infused Saddle Oil",100576
@@ -65635,6 +65708,7 @@
 "Sanctified Shoulder Skin",100593
 "Recipe: Relic of the Scourge",100594
 "Bag of Coins (1 Gold)",100595
+"III: The Mother Sovereign",100596
 "Dwarven Trinket",100597
 "Oracle Deck Box",100598
 "Recipe: Amalgamated Kryptis Essence",100599
@@ -65664,6 +65738,7 @@
 "Relic of the Flock",100633
 "Sample of Kryptis Corruption",100634
 "Uncommon Kryptis Motivation",100635
+"Completed List of Artifacts",100637
 "Recipe: Relic of Ice",100638
 "Skyscale of Fire",100640
 "Recipe: Stormforged Torch",100642
@@ -65675,6 +65750,7 @@
 "Storm's Eye Torch",100650
 "Rabid Skyscale Axe",100652
 "Bag of Loot",100654
+"Basil\n329 Tide II0X\nCelestial",100656
 "Sanctified Staff Skin",100657
 "Relic of the Water",100659
 "Shred of Secrets of the Obscure Mastery",100661
@@ -65687,6 +65763,7 @@
 "Echo of the Obscure",100671
 "Sinister Saryx Mace",100672
 "Berserker's Shattered Rifle",100674
+"Receipt for Infused Skyscale Egg",100675
 "Relic of Vampirism",100676
 "Tasty Chak Legs",100677
 "Deluxe Gear Box",100679
@@ -65694,6 +65771,7 @@
 "Sinister Saryx Scepter",100684
 "Recipe: Relic of the Herald",100686
 "Mini Lyhr",100688
+"Jeweled Amulet",100689
 "Fly-by-Night: Bronze",100690
 "Storm's Eye Dagger",100691
 "Valkyrie Eagle Eye Greatsword",100692
@@ -65702,6 +65780,7 @@
 "Sorcerer's Cape Glider",100698
 "Astral Ward Medium Shoulders",100699
 "Recipe: Storm's Eye Axe",100700
+"\"Just Tillie\" \n032 Dusk XIIV\nObscure",100701
 "Shaman's Stormforged Rifle",100703
 "Astral Ward Light Shoulders",100704
 "Recipe: Relic of the Sunless",100705
@@ -65720,8 +65799,10 @@
 "Rift Hunter Glove Box",100722
 "Valkyrie Eagle Eye Rifle",100723
 "Valkyrie Eagle Eye Longbow",100724
+"Skyscale Comforts List",100726
 "Upgraded Comms Device (Experimental)",100727
 "Recipe: Relic of the Necromancer",100728
+"Ancient Astral Ward Manual",100731
 "Simple Stool",100732
 "Jade Tech Loot Box",100733
 "Transcribed Jotun Runestone",100735
@@ -65733,39 +65814,54 @@
 "",100743
 "Cosmic Mining Tool",100745
 "Skywatch Archipelago Strongbox",100746
+"Maer's Mourning",100748
+"Abelin Favre\n543 Bloom X011\nCelestial",100749
+"Mabon's Journal",100750
 "Strength Fish",100751
 "Relic of the Pack",100752
+"IX: The Stag",100754
 "Recipe: Storm's Eye Pistol",100755
 "Berserker's Shattered Sword",100756
 "",100758
 "Rift Hunter Heavy Leggings",100759
 "\"/Heroic\" Emote Tome",100760
+"I: The Forager",100761
 "Rabid Skyscale Focus",100762
 "The Waylit Lantern",100763
 "XIX: Sunrise",100764
 "Visage of Nourys",100765
 "Analytical Charm",100766
+"Celiix the Forgiven\n620 Dusk IVXX\nStrength",100768
 "Plush Quaggan",100769
 "Viper's Abomination Scepter",100770
+"IV: The Mirror",100771
+"A New Threat Emerges",100774
 "Relic of Vass",100775
 "Berserker's Shattered Axe",100776
 "Magi's Skyforged Shield",100777
+"Shard of Crystal",100778
 "Recipe: Relic of the Chronomancer",100781
 "Tasty Moss-Covered Bark",100784
 "Valkyrie Eagle Eye Sword",100785
+"A Spark of Knowledge",100787
 "Large Pinch of Stardust",100788
 "Earthshaker Mining Tool",100789
 "Valkyrie Eagle Eye Dagger",100791
+"Receipt for Skyscale Comforts",100792
 "Recipe: Stormforged Mace",100793
 "Relic of Resistance",100794
 "Relic Chest",100795
 "Mini Avatar of Envy",100796
 "Gift of Amnytas",100798
+"Cethis\n102 Tide X00I\nStrength",100801
 "Rift Hunter Headgear Box",100802
 "Rift Hunter Heavy Shoulders",100804
 "Shaman's Stormforged Longbow",100805
 "Possession Infusion",100806
 "Vermilion Mining Tool",100809
+"XVIII: Twilight",100810
+"Ithil's Mourning",100811
+"A Spark of Knowledge",100813
 "Sorrow's Claw",100816
 "Valkyrie Eagle Eye Short Bow",100817
 "Wizard's Tower Trial: Bronze",100819
@@ -65777,6 +65873,7 @@
 "II: The Minister Illuminate",100829
 "Chest of the Obscure",100832
 "Deluxe Gear Box",100833
+"XVI: The Tower of Secrets",100834
 "Recipe: Stormforged Rifle",100835
 "Mini Isgarren",100839
 "Magi's Skyforged Torch",100842
@@ -65816,6 +65913,7 @@
 "Valkyrie Eagle Eye Staff",100892
 "Relic of the Zephyrite",100893
 "Storm's Eye Greatsword",100895
+"Olava Skumasdottir\n403 Bloom XXX0\nObscure",100897
 "Valkyrie Eagle Eye Shield",100900
 "Saddlebag of Holding",100901
 "Skyscale Target Practice: Silver",100902
@@ -65823,6 +65921,7 @@
 "Relic of the Holosmith",100908
 "Jade-Spun Silk Thread",100909
 "Mini Avatar of Despair",100910
+"V: The Weeping Mountain",100911
 "Possession Infusion",100913
 "Possession Infusion",100914
 "Shaman's Stormforged Mace",100915
@@ -65831,6 +65930,7 @@
 "Valkyrie Eagle Eye Hammer",100919
 "Eternal Blade",100920
 "Glacial Mining Tool",100921
+"Fractured Constellation",100922
 "Sinister Demonflesh Pistol",100923
 "Relic of the Deadeye",100924
 "\"/Possessed\" Emote Tome",100926
@@ -65848,6 +65948,7 @@
 "Rare Kryptis Motivation",100941
 "Relic of Dagda",100942
 "Fly-by-Night: Gold",100943
+"In Memoriam",100944
 "Rift Hunter Light Shoulders",100945
 "Arcanum of Astral Footprints",100946
 "Relic of Fireworks",100947
@@ -65856,8 +65957,11 @@
 "Endless Wizard of the Celestial Combat Tonic",100951
 "Storm's Eye Pistol",100952
 "Berserker's Shattered Focus",100953
+"Skyscale Egg Infusion List",100955
 "Sanctified Sword Skin",100957
+"Ivane Saberlin\n809 Frost X00V\nBalance",100959
 "Berserker's Shattered Dagger",100960
+"Echo of the Past",100961
 "Chest of the Obscure",100962
 "Rabid Skyscale Dagger",100963
 "Tasty Trail Ration",100966
@@ -66257,6 +66361,7 @@
 "Synergetics Cyberhound Skin",101434
 "Golden Dragon Figurine",101435
 "Dragon Descendant's Helm",101437
+"Lifeblood of Nourys, Eyes of the Abyss",101438
 "Relic of Mercy",101439
 "Solar Astrolabe Short Bow Skin",101440
 "Relic of Evasion",101441
@@ -66274,6 +66379,7 @@
 "Mastery Point",101454
 "Solar Astrolabe Torch Skin",101457
 "Ancient Scroll of Astral Ward Weapons",101458
+"Lifeblood of Myros the Spiteful",101459
 "Obsidian Heavy Greaves",101460
 "Relic of Leadership",101461
 "Obsidian Light Mantle",101462
@@ -66283,6 +66389,7 @@
 "Relic of Resistance",101466
 "Relic of the Demon Queen",101467
 "Skysage's Boots Skin",101469
+"Lifeblood of Knaebelag the Terror",101471
 "Relic of the Reaper",101472
 "Necrotic Essence Hammer Skin",101473
 "Relic of the Water",101474
@@ -66299,6 +66406,7 @@
 "Relic of Antitoxin",101487
 "Fashionable Kilt Skin",101488
 "Relic of the Fractal",101489
+"Lifeblood of Pherus the Subjugator",101490
 "Relic of Dagda",101491
 "Relic of Vass",101492
 "Relic of the Afflicted",101493
@@ -66308,6 +66416,7 @@
 "Obsidian Light Regalia",101499
 "Relic of Cerus",101500
 "Obsidian Light Pants",101501
+"Lifeblood of Galene the Seething",101502
 "Relic of Nourys",101503
 "Relic of Durability",101504
 "Necrotic Essence Shield Skin",101507
@@ -66372,6 +66481,7 @@
 "Legendary Relic",101582
 "Banner of the Bastion of the Celestial",101583
 "Necrotic Essence Torch Skin",101584
+"Lifeblood of Ignaxious",101585
 "Relic of the Wizard's Tower",101586
 "Relic of the Dragonhunter",101590
 "Solar Astrolabe Mace Skin",101591
@@ -66500,6 +66610,7 @@
 "Eparch's Sword",101739
 "Lunar Astrolabe Axe Skin",101740
 "Mini Astral Ward Livia",101741
+"Mini Eparch",101742
 "Suffused Obsidian Medium Shoulders Skin",101744
 "Suffused Obsidian Light Regalia Skin",101745
 "Dragonbrand Veteran",101746
@@ -66897,6 +67008,7 @@
 "Recipe: Bronze Mordremoth Trophy",102187
 "Recipe: Titanplate Heavy Pauldrons",102188
 "Recipe: Gold Cairn the Indomitable Trophy",102191
+"Map of Known Samples",102194
 "Homestead Upgrade: Wood Trade Capacity",102196
 "Relic of the Blightbringer",102199
 "Recipe: Bronze Sabetha Trophy",102201
@@ -66908,6 +67020,7 @@
 "Warclaw Treat",102213
 "Magi's Full Moon Dagger",102216
 "Glyph of the Leatherworker",102220
+"Sample Results",102228
 "Wayfinder's Versatile Table Decoration",102230
 "",102231
 "Janthir Wilds Kodan Loot Box",102236
@@ -66932,6 +67045,7 @@
 "Janthiri Gear Box",102283
 "Recipe: Bronze Xera Trophy",102284
 "Recipe: Gold Tequatl Trophy",102285
+"Known Track 03",102290
 "Borrowed Bait",102292
 "Mini Mr. Ribbington",102293
 "Lowland Shore Adventure: Gold",102301
@@ -66947,6 +67061,7 @@
 "Onyx Spider's Scepter Skin",102336
 "Titanplate Medium Gloves",102340
 "Gift of Recollector of Memories",102342
+"All Samples Returned",102343
 "Recipe: Gold Twin Largos Trophy",102344
 "Precious Lowland Shore Gear Box",102346
 "Onyx Spider's Longbow Skin",102348
@@ -66991,6 +67106,7 @@
 "Recipe: Bloodstone Turret Fragment",102440
 "Relic of Rivers",102442
 "Polychromatic Coat Box",102443
+"Tier 4",102444
 "",102446
 "Magi's Ursan Ornamented Pistol",102449
 "Homestead Recipe Book: Tables",102450
@@ -67015,6 +67131,7 @@
 "Recipe: Titanplate Heavy Breastplate",102482
 "Void Corrupted Axe Skin",102486
 "Mini Barbed Vale",102487
+"Unknown Track 05",102490
 "Recipe: Bronze Triple Trouble Trophy",102492
 "Curious Mursaat Currency",102494
 "Recipe: Bronze Vale Guardian Trophy",102495
@@ -67022,6 +67139,7 @@
 "Homestead Upgrade: Ore Trade Capacity",102500
 "Lowland Pine Log",102503
 "Woad Medium Coat",102504
+"Known Track 04",102507
 "Heat Core Infusion",102508
 "Magi's Full Moon Torch",102510
 "Janthir Wilds Warclaw Skin",102512
@@ -67034,6 +67152,7 @@
 "Glyph of the Herbalist",102528
 "Glyph of Virtue",102529
 "Recipe: Silver Cardinal Adina Trophy",102530
+"Cryptid Chase Unlocked",102531
 "Onyx Spider's Shield Skin",102533
 "Shred of Janthir Wilds Mastery",102535
 "Mythical Kodan Cache",102536
@@ -67046,6 +67165,7 @@
 "Rot Stalker Coat Skin",102554
 "Polychromatic Heavy Greaves",102557
 "Honey Flower",102558
+"Unknown Track 01",102559
 "Woad Heavy Shoulders",102561
 "Recipe: Titanplate Light Cowl",102563
 "Glyph of Alchemy",102567
@@ -67155,6 +67275,7 @@
 "Bearkin War Helm",102814
 "Onyx Spider's Greatsword Skin",102816
 "Lowland Shore Renown Token",102818
+"Unknown Track 02",102821
 "Wool Ball",102822
 "Glyph of the Unbound",102823
 "Polychromatic Medium Leggings",102826
@@ -67184,6 +67305,7 @@
 "Homestead Upgrade: Fiber Trade Capacity",102883
 "Magi's Ursan Ornamented Dagger",102884
 "Recipe: Gold Cardinal Adina Trophy",102886
+"Tier 1",102891
 "Relic of the Blightbringer",102896
 "Ring of the Crustacean",102899
 "Gift of Klobjarne Geirr",102901
@@ -67198,6 +67320,7 @@
 "Recipe: Bronze Gorseval Trophy",102917
 "Recipe: Xera's Ribbon Scrap",102918
 "Recipe: Twin Largos' Token",102920
+"Tier 3",102923
 "Recipe: Gold White Mantle Abomination Trophy",102924
 "Recipe: Triple Trouble Tooth",102925
 "Glyph of the Leatherworker",102926
@@ -67225,6 +67348,7 @@
 "Homestead Recipe Book: Plants, Volume 1",102974
 "Recipe: Tequatl Tailbone",102978
 "Recipe: Silver Twin Largos Trophy",102980
+"Known Track 05",102981
 "Recipe: Bronze Twin Largos Trophy",102986
 "Recipe: Impaled Prisoner",102987
 "Homestead Upgrade: Fiber Trade Capacity",102989
@@ -67255,6 +67379,7 @@
 "Glyph of the Unbound",103052
 "Recipe: Jade Bot Workbench",103054
 "Titanplate Medium Jacket",103055
+"Circling-Heat Pearl",103058
 "Viperfish",103060
 "Recipe: Bronze Siege the Stronghold Trophy",103061
 "Void Corrupted Focus Skin",103063
@@ -67274,6 +67399,7 @@
 "Valkyrie Bearkin War Helm",103110
 "Recipe: Bronze Shatterer Trophy",103112
 "Homestead Recipe Book: Misc. Items, Volume 1",103114
+"Tier 5",103116
 "Janthir Fishing Reward",103117
 "Recipe: Bronze Dhuum Trophy",103121
 "Onyx Spider's Focus Skin",103126
@@ -67292,6 +67418,7 @@
 "Recipe: Gold Gorseval Trophy",103165
 "Titanplate Medium Shoulders",103167
 "Recipe: Silver Xera Trophy",103172
+"Tier Progress",103174
 "Janthir Wilds Elemental Loot Box",103182
 "Recipe: Dhuum's Token",103183
 "Janthir Wilds Expedition Contract",103184
@@ -67301,6 +67428,7 @@
 "Large Stash of Ursus Obliges",103193
 "Recipe: Titanplate Heavy Greaves",103195
 "Local Writ of Renown",103196
+"The End?",103200
 "Recipe: Silver Siege the Stronghold Trophy",103203
 "Homestead Recipe Book: Pillars",103208
 "Woad Medium Helm",103209
@@ -67323,6 +67451,7 @@
 "Woad Light Gloves",103249
 "Ursan Weapon Chest",103253
 "Recipe: Titanplate Light Mantle",103254
+"Known Track 02",103255
 "Valkyrie Bearkin War Helm",103257
 "Rot Stalker Gloves Skin",103258
 "Rot Stalker Helm Skin",103261
@@ -67383,6 +67512,7 @@
 "Springer Treat",103395
 "Titanplate Heavy Cuisses",103397
 "Magi's Full Moon Axe",103398
+"Known Track 01",103401
 "Recipe: Cardinal Sabir's Token",103402
 "Woad Coat Box",103403
 "Onyx Spider's Dagger Skin",103406
@@ -67410,6 +67540,7 @@
 "Recipe: Conjured Amalgamate's Token",103449
 "Bearkin War Helm Remnant",103450
 "Recipe: Gold Cardinal Sabir Trophy",103452
+"Unknown Track 04",103453
 "Recipe: Silver Vale Guardian Trophy",103454
 "Homestead Recipe Book: Trees",103458
 "Recipe: Titanplate Medium Gloves",103459
@@ -67436,6 +67567,7 @@
 "Glyph of the Herbalist",103514
 "Polychromatic Boot Box",103516
 "Squeaker",103517
+"Tier 2",103518
 "Kodan Cache Key",103530
 "Homestead Upgrade: Ore Trade Capacity",103531
 "Plant Fiber",103533
@@ -67447,6 +67579,7 @@
 "Titanplate Shoulders Recipe Book",103550
 "Flame Legion Darksteel",103552
 "Recipe: Silver Dhuum Trophy",103553
+"Unknown Track 03",103554
 "Onyx Spider's Short Bow Skin",103556
 "Wild Roar Mount Select License",103568
 "Magi's Full Moon Rifle",103569

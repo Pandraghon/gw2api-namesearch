@@ -61626,6 +61626,7 @@
 "Flammen des Krieges",95090
 "Erzdämonen-Flügel-Gleitschirm",95091
 "Legendäres Lager",95092
+"Legendäre Ausrüstung freigeschaltet!",95093
 "Der Träumer",95097
 "Marionetten-Gemeinschaftsziel-Belohnung",95098
 "Der Moloch",95100
@@ -62185,6 +62186,7 @@
 "Jade-Tech-Hammer",95742
 "Schüssel mit canthanischer Gemüsemischung",95745
 "Plünderer-Tasche: Metall",95746
+"Brodelnder-Terror-Stein",95747
 "Mini Navan",95748
 "Suun-Herold",95749
 "Katalysierer-Lager",95750
@@ -62999,6 +63001,7 @@
 "Togo-Zackenstab",96869
 "Skiff-Turbolader 1",96871
 "Gefäß mit Skorpionen",96872
+"Brodelnde-Seelenpein-Stein",96873
 "Riesenkrake",96874
 "Rechtssuchenden-Lager",96875
 "Pollock",96876
@@ -63058,6 +63061,7 @@
 "Salzgischt-Großschwert",96955
 "Abzeichen des Mech-Lenkers",96956
 "Anmerkungen zu doppelten Identitäten",96957
+"Brodelnder-Hunger-Stein",96958
 "Drachen- Jade-Tech-Stulpenhandschuhe",96959
 "Rezept: Jade-Orichalcum-Ring",96960
 "Togo-Doublet",96962
@@ -63533,6 +63537,7 @@
 "Schüssel mit gehackten Fangfrischen Fischen",97597
 "Verstärkter Präkursor-Gewehrlauf",97598
 "Schmuckstück des Rechtssuchenden",97599
+"Brodelnde-Wut-Stein",97600
 "Plünderer-Tasche: Stoff",97601
 "Niedergang des Drachen",97602
 "Stachelrochen",97604
@@ -63555,6 +63560,7 @@
 "Drachen- Jade-Tech-Wams",97631
 "Abzeichen der Dissonanz",97632
 "Leitfaden zu Kampfhaltungen der Kurzick",97633
+"Brodelnder-Blutdurst-Stein",97634
 "Verheerende Leichte Kloster-Handschuhe",97635
 "Endloser Hai-Trank",97636
 "Rezept: Togo-Schnitter",97638
@@ -64120,6 +64126,7 @@
 "Zephyriten-Schultertuch",98372
 "Skin für Drachendekade-Schild",98385
 "Geschenk zum Geburtstag",98397
+"Bleibender Gebrandmarkten-Äther",98412
 "Jahrestag-Erfolge-Kiste",98424
 "Uhrwerk-Streitkolben",98427
 "Skin für Wasserdrachen-Beinschienen",98430
@@ -64144,8 +64151,10 @@
 "Sieben-Drachen-Farbpack",98496
 "Fragment von Prismatischer Wut",98500
 "Geschenk zum Geburtstag",98501
+"Schuppenfragment von Kralkatorrik",98502
 "Skin für Wasserdrachen-Stulpenhandschuhe",98503
 "Uhrwerk-Gewehr",98506
+"Gereinigter Gebrandmarkten-Äther",98508
 "Skin für Kralkatorriks Klaue",98519
 "Uhrwerk-Pistole",98521
 "Windumtoste Klinge",98523
@@ -64304,9 +64313,11 @@
 "Kasmeers Illusions-Geldbörse",98989
 "",98990
 "",98991
+"Gereinigter Eisbrut-Äther",98994
 "\"/Servieren\"-Emote-Foliant",98995
 "Skin für Jormags Gewicht",98999
 "Skin für Jormags Biss",99000
+"Schuppenfragment von Jormag",99001
 "Skin für Jormags Fangzahn",99003
 "Beutel mit Ausrüstung",99004
 "Skin für \"Verspielter Geist\"-Jade-Bot",99005
@@ -64321,6 +64332,7 @@
 "Skin für \"Verheißungsvoller Bixie\"-Himmelsschuppe",99020
 "Zofen-Kleidungsset",99021
 "Skin für Jormags Klaue",99023
+"Gereinigtes Schuppenfragment von Jormag",99024
 "Skin für Jormags Argument",99025
 "Schuppensplitter von Jormag",99027
 "Ungeladenes Fragment von Prismatischer Überzeugung",99028
@@ -64334,6 +64346,7 @@
 "Schuppensplitter von Jormag",99037
 "Schattenschlangen-Rucksack- und Gleitschirm-Kombo",99039
 "Skin für Jormags Schuppe",99041
+"Bleibender Eisbrut-Äther",99042
 "Butler-Kleidungsset",99043
 "Skin für Jormags Weisheit",99045
 "Skin für Dokkaebi-Axt",99047
@@ -64660,12 +64673,16 @@
 "\"Mokka der Nebel\"-Kaffeekännchen",99379
 "Biergartenstuhl",99380
 "Kaffeemeister-Zubehör",99381
+"Stäubchen der Wonne",99382
+"Stäubchen der Tapferkeit",99383
+"Stäubchen des Blutdurstes",99384
 "Luxon-Jäger-Schwert",99386
 "Virtuosen-Lager",99387
 "Beschaffungs-Gutschrift Woche 4",99388
 "Xunlai-Ätherdetektor",99389
 "Fragment von Prismatischem Leben",99390
 "Tätowierte-Beine-Skin \"Schlangen\"",99391
+"Stäubchen der Sättigung",99392
 "Skin für Soo-Wons Blick",99393
 "Tätowierte-Brust-Skin \"Animalische-Gezeiten\"",99394
 "Rezept: Schildkröten-Pilotenschub",99395
@@ -64678,6 +64695,7 @@
 "Der erneuernde Hunger",99405
 "Vorboten-Lager",99406
 "Skin für Soo-Wons Zerfetzen",99407
+"Nebelberührtes Stab-Fragment",99408
 "Leichter Sonderkommando-Schulterschutz",99409
 "Luxon-Jäger-Streitkolben",99410
 "Skin für Soo-Wons Atem",99412
@@ -64691,13 +64709,19 @@
 "Luxon-Jäger-Großschwert",99421
 "Fass Zittergipfel-Starkbier",99422
 "Skin für Soo-Wons Argument",99423
+"Stäubchen des Mitgefühls",99424
 "Schwerer Sonderkommando-Schulterschutz",99425
+"Stäubchen der Wut",99426
 "Schuppensplitter von Soo-Won",99427
 "Bergbau-Luftfilter, Grad A",99428
 "Die schwärende Seelenpein",99429
 "Replikat von Onis Arm",99431
+"Sich selbst zusammensetzendes Langbogen-Fragment",99432
 "Der andauernde Blutdurst",99433
+"Sich selbst zusammensetzendes Dolch-Fragment",99434
+"Sich selbst zusammensetzendes Axt-Fragment",99435
 "Schuppensplitter von Soo-Won",99436
+"Nebelberührtes Schwert-Fragment",99437
 "Skin für Jade-Tech-Visier",99438
 "Skin für Soo-Wons Einsicht",99442
 "Skin für Soo-Wons Überzeugung",99443
@@ -64715,12 +64739,14 @@
 "Leichte Sonderkommando-Hose",99459
 "Flasche Eisenbräu",99460
 "Ungezähmten-Lager",99461
+"Nebelberührtes Axt-Fragment",99462
 "Der wachsende Terror",99463
 "Mech-Lenker-Lager",99465
 "Willensverdreher-Lager",99466
 "Schweres Sonderkommando-Gurtzeug",99468
 "Luxon-Jäger-Zepter",99469
 "Skin für Soo-Wons Gewicht",99470
+"Stäubchen der Seelenpein",99471
 "Leichte Sonderkommando-Stiefel",99472
 "Gereinigtes Schuppenfragment von Soo-Won",99475
 "Mittlere Sonderkommando-Handschuhe",99476
@@ -64728,14 +64754,17 @@
 "Tahkayuns Rüstungsdurchbohrer",99478
 "Skin für Soo-Wons Fangzahn",99479
 "",99480
+"Sich selbst zusammensetzendes Schwert-Fragment",99481
 "Luxon-Jäger-Schild",99482
 "Luxon-Jäger-Fackel",99483
 "Drachenjade-Rang-Belohnungspaket",99484
+"Stäubchen des Hungers",99485
 "Skin für Holo-Umhang-Projektor",99486
 "Mittlerer Sonderkommando-Sturmhelm",99487
 "Schwere Sonderkommando-Handschuhe",99488
 "Gereinigter Äther der Leere",99489
 "Skin für Soo-Wons Flügel",99491
+"Nebelberührtes Dolch-Fragment",99492
 "Tätowierte-Beine-Skin \"Animalische-Gezeiten\"",99493
 "Mittlerer Sonderkommando-Schulterschutz",99494
 "Skin für Soo-Wons Weisheit",99495
@@ -64745,6 +64774,7 @@
 "",99499
 "Skin für \"Aufgelöstes Schicksal\"-Schwert",99500
 "Mittlere Sonderkommando-Hose",99501
+"Nebelberührtes Langbogen-Fragment",99503
 "Mini Oni",99504
 "Nudelstand-Stuhl",99505
 "Hut der Ministerin",99506
@@ -64769,9 +64799,11 @@
 "Klingengeschworenen-Lager",99532
 "Förderanlagen-Führersitz",99533
 "Schwere Sonderkommando-Hose",99534
+"Stäubchen des Terrors",99535
 "Beschaffungs-Gutschrift Woche 1",99536
 "Luxon-Jäger-Kurzbogen",99537
 "Flasche Götterfels-Auslese",99538
+"Sich selbst zusammensetzendes Stab-Fragment",99539
 "Luxon-Jäger-Hammer",99540
 "Schuppensplitter von Soo-Won",99541
 "Luxon-Jäger-Langbogen",99542
@@ -64780,6 +64812,7 @@
 "Truhe des Helden der Gyala-Senke",99546
 "Skin für Soo-Wons Schwanz",99547
 "Phantom-Lager",99549
+"Stäubchen des Entzückens",99551
 "Sonderkommando-Beschaffung: Brustschutz",99552
 "Mittleres Sonderkommando-Gurtzeug",99553
 "Flasche Friedensstifter-Pils",99555
@@ -65161,9 +65194,11 @@
 "Luxusausrüstungskiste",99968
 "Rezept: Sturmgeschmiedetes Zepter",99970
 "Beutekiste des Vogels",99971
+"Scherbe des Verfalls",99974
 "Kiste mit Rissjäger-Schultern",99976
 "Berserkerhafter Zerborstener Streitkolben",99979
 "Endloser Kampftrank des Kryptis-Fürsten",99980
+"XVII: Der Kosmos",99983
 "Gletscher-Holzfällerwerkzeug",99984
 "Flosse der Königin",99986
 "Luxusausrüstungskiste",99987
@@ -65181,6 +65216,7 @@
 "Tollwütiges Himmelsschuppen-Zepter",100006
 "Magischer Himmelsgeschmiedeter Hammer",100007
 "Besessenheits-Infusion",100008
+"Vaulz Baelwalker\n576 Frost 0X0I\nWissen",100009
 "Antlitz des Nourys",100010
 "Leichtes Rissjäger-Wams",100011
 "Rezept: Relikt des Raufboldes",100012
@@ -65209,9 +65245,11 @@
 "Relikt des Eises",100048
 "Skin für Geheiligten Fokus",100049
 "Arcanum des Astralen Griffs",100050
+"Echo des Helden",100051
 "Himmelsschuppen-Junges-Erntewerkzeug",100052
 "Viperhafte Abscheulichkeits-Fackel",100054
 "Seltene Riss-Essenz",100055
+"Beleg für Himmelsschuppen-Sattelteile",100056
 "Astralwachen-Säule",100058
 "Edle Riss-Motivation",100060
 "Relikt der Brandung",100063
@@ -65233,6 +65271,7 @@
 "Magisches Himmelsgeschmiedetes Großschwert",100089
 "Relikt des Drachenjägers",100090
 "Viperhafter Abscheulichkeits-Kurzbogen",100092
+"Ein Besuch im Norden",100093
 "Himmelsschuppe des Geistes",100094
 "Nebelgehärtete transzendente Truhe",100096
 "Dankbarkeit der Schreinwächter",100097
@@ -65245,6 +65284,7 @@
 "Amnytas-Hort",100109
 "Finstere Saryx-Fackel",100110
 "Himmelsschuppe der Luft",100111
+"Mildred Goswin\n403 Frost 0IIX\nUnvereidigt",100113
 "Inspiration von Deldrimor",100114
 "Relikt von Mabon",100115
 "Rezept: Relikt der Befallenen",100116
@@ -65252,8 +65292,10 @@
 "Himmelsschuppe des Wassers",100118
 "Magischer Himmelsgeschmiedeter Kurzbogen",100120
 "Viperhaftes Abscheulichkeits-Großschwert",100121
+"Yexxi die Strenge\n092 Flut 00XI\nWissen",100122
 "Saftiges Wurmsegment",100123
 "Tollwütiger Himmelsschuppen-Schild",100124
+"Daytona Jaque\n982 Blüten 0XX1\nUnvereidigt",100127
 "Schwarzlöwen-Glyphen-Auswahlbehälter",100129
 "Schamanische Sturmgeschmiedete Axt",100130
 "Edles Mahagoni aus Maguuma",100131
@@ -65272,6 +65314,7 @@
 "Relikt der Geschwindigkeit",100148
 "Astralwachen-Tor",100149
 "Saftiges Wurmsegment",100150
+"Erwachen",100151
 "Relikt des Fraktals",100153
 "\"Turm des Zauberers\"-Prüfung: Gold",100154
 "Essenz des Himmlischen",100155
@@ -65285,6 +65328,7 @@
 "Skin für Geheiligte Axt",100164
 "Relikt des Nekromanten",100165
 "Sturmauge-Gewehr",100166
+"In Memoriam",100168
 "Luxusausrüstungskiste",100169
 "Probe der Kryptis-Besessenheit",100170
 "Skin für Geheiligten Helm",100172
@@ -65293,6 +65337,7 @@
 "Rezept: Relikt des Truppenmitglieds",100175
 "Relikt von Peitha",100177
 "\"Turm des Zauberers\"-Prüfung: Silber",100178
+"Eisscherbe",100179
 "Himmlischer Fisch",100180
 "Rezept: Relikt des Gegengifts",100181
 "Unvollständiger akademischer Torbogen",100182
@@ -65304,6 +65349,7 @@
 "Amnytas: Truhe der Helden-Auswahl",100193
 "Relikt des Webers",100194
 "Himmelsschuppen-Zielübungen: Bronze",100195
+"Liste von Himmelsschuppen-Sattelteilen",100197
 "Arcanum des Astralen Schritts",100198
 "Skin für Hexerumhang",100199
 "Akademische Wand mit Fenstern",100204
@@ -65311,6 +65357,7 @@
 "Rezept: Sturmauge-Dolch",100206
 "Leichtes Astralwachen-Beinkleid",100207
 "Himmelsschuppen-Junges-Bergbauwerkzeug",100208
+"Inspiration von Deldrimor",100209
 "Ein Funken des Wissens",100210
 "Echo von Turai",100211
 "Schamanisches Sturmgeschmiedetes Großschwert",100215
@@ -65323,6 +65370,7 @@
 "Himmelsschuppen-Leckerchen",100222
 "Schamanischer Sturmgeschmiedeter Hammer",100224
 "Mini Galrath",100225
+"Callons Trauer",100226
 "Choya-Bergbauwerkzeug",100227
 "Rezept: Sturmgeschmiedetes Großschwert",100228
 "Tollwütiger Himmelsschuppen-Stab",100229
@@ -65333,6 +65381,7 @@
 "Schamanisches Sturmgeschmiedetes Schwert",100235
 "Himmelsschuppe des Blutes",100237
 "Relikt des Lich",100238
+"Besudelter Blutstein-Brenner",100239
 "Reliktbehälter: Kraft",100240
 "Topf mit gefährlichen Geistern",100244
 "Kryptis-Himmelsschuppe",100245
@@ -65347,18 +65396,24 @@
 "Rezept: Relikt des Widerstands",100261
 "Relikt des Feuerwerks",100262
 "Luxusausrüstungskiste",100264
+"Silque \n109 Flut 00XX\nNatürlich",100265
 "Mini R'tchikk",100266
 "Behälter mit eingefangenem Blitz",100267
+"XV: Der Unhold",100268
+"Percy Gammons\n892 Dämmerung XIVV\nUnvereidigt",100269
 "Skin für Infundierte Aurora-Handschuhe",100270
 "Reliktbehälter: Zustände",100271
 "Beutekiste des Luft-Elementars",100272
 "Rezept: Relikt der Dwayna",100274
 "10 Astraler Ruhm",100275
+"Signalfeuer-Stein",100276
 "Zwergen-Relikt",100277
+"Zerbrochene Konstellation",100279
 "Goldenes Ticket",100280
 "Viperhafter Abscheulichkeits-Schild",100281
 "Schwere Astralwachen-Schultern",100282
 "Auswahlkiste für \"Geheiligte Waffen\"-Skin",100284
+"XX: Der Junge Drache",100287
 "Gabe des stürmischen Himmels",100288
 "Tollwütiger Himmelsschuppen-Langbogen",100289
 "Walkürisches Adlerauge-Zepter",100290
@@ -65390,6 +65445,7 @@
 "Himmelsschuppen-Reittier-Freischaltung der Astralwache",100327
 "Rezept: Relikt des Kriegers",100328
 "Berserkerhafter Zerborstener Stab",100330
+"Liste der Artefakte",100334
 "Thron des Sturmfürsten",100336
 "Kryptis-Beutekiste",100337
 "Skin für \"Infernalischer Gesandter\"-Stab",100338
@@ -65409,12 +65465,15 @@
 "Gleichgewichts-Fisch",100354
 "Endloser Kampftrank des Himmlischen Zauberers",100356
 "Versteck voller Astralmünzen",100357
+"Höheres Verständnis",100358
+"Arina \n892 Schnee 0XV1\nObskur",100359
 "Skin für Geheiligte Stiefel",100361
 "Tollwütiges Himmelsschuppen-Großschwert",100363
 "Meisterwerk-Riss-Motivation",100364
 "Vollständiger Orakelkartenstapel",100367
 "Relikt des Pestbringers",100368
 "Rezept: Relikt des Abenteurers",100369
+"Kehrt zurück zu Hortensia",100370
 "Amnytas-Ausrüstungskiste",100372
 "Sturmauge-Kriegshorn",100373
 "Sturmauge-Schild",100374
@@ -65424,10 +65483,12 @@
 "Mittleres Rissjäger-Beinkleid",100378
 "Astralwachen-Beherrschung",100382
 "Wehklage der Verzweiflung",100383
+"Fulla\n733 Flut VIXV\nUnvereidigt",100384
 "Relikt des Zentauren",100385
 "500 Astraler Ruhm",100386
 "Relikt der Astralwache",100388
 "Relikt des Gegengifts",100390
+"Begegnung mit Hortensia",100391
 "Schwere Astralwachen-Stiefel",100392
 "Finsterer Saryx-Langbogen",100394
 "Echo der Vergangenheit",100395
@@ -65437,8 +65498,10 @@
 "Skin für Geheiligtes Wams",100401
 "Relikt des Golemanten",100403
 "Luxusausrüstungskiste",100405
+"Docia Greywind\n092 Blüten XXII\nBalance",100406
 "Besessenheits-Infusion",100407
 "Besänftigter Magie-Sturm",100409
+"Kryptis-Leiche",100410
 "Relikt des Truppenmitglieds",100411
 "Magisches Himmelsgeschmiedetes Gewehr",100412
 "Biss des Neides",100413
@@ -65450,6 +65513,7 @@
 "Magisches Himmelsgeschmiedetes Schwert",100420
 "Adlerauge-Waffentruhe",100421
 "Schnipsel von \"Secrets of the Obscure\"-Beherrschung",100422
+"Zerbrochene Konstellation",100423
 "Tollwütige Himmelsschuppen-Pistole",100424
 "Mini Konstruktion von Galdra",100427
 "Viperhaftes Abscheulichkeits-Gewehr",100428
@@ -65484,6 +65548,7 @@
 "Rezept: Relikt des Mönchs",100468
 "Sofortiger Belohnungspfad-Fortschritt",100469
 "Kosmisches Holzfällerwerkzeug",100470
+"Erinnerung an den Aufstieg",100471
 "Finsterer Saryx-Schild",100472
 "Große Statische Ladung",100473
 "Viperhafter Abscheulichkeits-Streitkolben",100474
@@ -65494,12 +65559,15 @@
 "Gefühlswelt der Bosheit",100483
 "Mini Avatar der Unersättlichkeit",100484
 "Leichter Astralwachen-Helm",100485
+"Eine Einberufung",100486
 "Himmelsschuppe des Lebens",100487
 "Rezept: Sturmgeschmiedetes Kriegshorn",100490
 "Himmelsschuppe des Eises",100491
 "Mittleres Astralwachen-Wams",100492
 "Berserkerhaftes Zerborstenes Großschwert",100493
 "Viperhafte Abscheulichkeits-Axt",100494
+"Ein Funken des Wissens",100495
+"Der Konvoi",100496
 "Skin für Geheiligte Fackel",100498
 "Amnytas-Ausrüstungskiste",100500
 "Vermillion-Holzfällerwerkzeug",100501
@@ -65508,6 +65576,7 @@
 "Leichtes Astralwachen-Wams",100504
 "Mini Zizel",100505
 "Astralwachen-Tür",100506
+"Planung für Tyrias Zukunft",100508
 "Arcanum des Astralen Herzschlags",100509
 "Gabe des magischen Wohlstands",100512
 "Besessenheits-Infusion",100513
@@ -65516,7 +65585,10 @@
 "Luxusausrüstungskiste",100516
 "Kaiserinnenfisch",100517
 "Saurier-Lager",100518
+"XIV: Geduld",100520
+"Gideon Hagedorn II.\n003 Flut IIX0\nNatürlich",100521
 "Astralwachen-Treppe",100522
+"Currybrötchen mit Blutstein",100523
 "Arcanum des Astralen Gebarens",100524
 "Rezept: Sturmauge-Schild",100525
 "Wissens-Fisch",100526
@@ -65551,6 +65623,7 @@
 "XII: Der Endlose",100570
 "Luxusausrüstungskiste",100571
 "Viperhaftes Abscheulichkeits-Kriegshorn",100572
+"XIII: Die Templerin",100573
 "Mittlere Rissjäger-Stiefel",100574
 "Essenz des Wissens",100575
 "Nebel-infundiertes Sattel-Öl",100576
@@ -65567,6 +65640,7 @@
 "Skin für Geheiligte Schultern",100593
 "Rezept: Relikt des Pestbringers",100594
 "Beutel mit Münzen (1 Gold)",100595
+"III: Die Hoheitliche Mutter",100596
 "Zwergen-Schmuckstück",100597
 "Orakelkarten-Schachtel",100598
 "Rezept: Verschmolzene Riss-Essenz",100599
@@ -65596,6 +65670,7 @@
 "Relikt des Schwarms",100633
 "Probe der Kryptis-Verderbnis",100634
 "Meisterwerk-Riss-Motivation",100635
+"Abgeschlossene Liste der Artefakte",100637
 "Rezept: Relikt des Eises",100638
 "Himmelsschuppe des Feuers",100640
 "Rezept: Sturmgeschmiedete Fackel",100642
@@ -65607,6 +65682,7 @@
 "Sturmauge-Fackel",100650
 "Tollwütige Himmelsschuppen-Axt",100652
 "Beutetasche",100654
+"Basil\n329 Flut II0X\nHimmlisch",100656
 "Skin für Geheiligten Stab",100657
 "Relikt des Wassers",100659
 "Fetzen von \"Secrets of the Obscure\"-Beherrschung",100661
@@ -65619,6 +65695,7 @@
 "Echo des Obskuren",100671
 "Finsterer Saryx-Streitkolben",100672
 "Berserkerhaftes Zerborstenes Gewehr",100674
+"Beleg für infundiertes Himmelsschuppen-Ei",100675
 "Relikt des Vampirismus",100676
 "Knuspriges Chak-Bein",100677
 "Luxusausrüstungskiste",100679
@@ -65626,6 +65703,7 @@
 "Finsteres Saryx-Zepter",100684
 "Rezept: Relikt des Herolds",100686
 "Mini Lyhr",100688
+"Juwelenbesetztes Amulett",100689
 "Nachtflug: Bronze",100690
 "Sturmauge-Dolch",100691
 "Walkürisches Adlerauge-Großschwert",100692
@@ -65634,6 +65712,7 @@
 "Hexerumhang-Gleitschirm",100698
 "Mittlere Astralwachen-Schultern",100699
 "Rezept: Sturmauge-Axt",100700
+"\"Einfach nur Tillie\" \n032 Dämmerung XIIV\nObskur",100701
 "Schamanisches Sturmgeschmiedetes Gewehr",100703
 "Leichte Astralwachen-Schultern",100704
 "Rezept: Relikt des Sonnenlosen",100705
@@ -65652,8 +65731,10 @@
 "Kiste mit Rissjäger-Handschuhen",100722
 "Walkürisches Adlerauge-Gewehr",100723
 "Walkürischer Adlerauge-Langbogen",100724
+"Liste für Himmelsschuppen-Erstausstattung",100726
 "Aufgewerteter Kommunikator (experimentell)",100727
 "Rezept: Relikt des Nekromanten",100728
+"Uraltes Astralwachen-Handbuch",100731
 "Einfacher Hocker",100732
 "Jade-Tech-Beutekiste",100733
 "Transkribierter Jotun-Runenstein",100735
@@ -65665,39 +65746,54 @@
 "",100743
 "Kosmisches Bergbauwerkzeug",100745
 "Himmelswacht-Archipel-Schatulle",100746
+"Maers Trauer",100748
+"Abelin Favre\n543 Blüten X011\nHimmlisch",100749
+"Mabons Tagebuch",100750
 "Stärke-Fisch",100751
 "Relikt des Rudels",100752
+"IX: Der Hirsch",100754
 "Rezept: Sturmauge-Pistole",100755
 "Berserkerhaftes Zerborstenes Schwert",100756
 "",100758
 "Schweres Rissjäger-Beinkleid",100759
 "\"/Heldenhaft\"-Emote-Foliant",100760
+"I: Die Sammlerin",100761
 "Tollwütiger Himmelsschuppen-Fokus",100762
 "Die Weglicht-Laterne",100763
 "XIX: Sonnenaufgang",100764
 "Antlitz des Nourys",100765
 "Analyse-Talisman",100766
+"Celiix die Vergebene\n620 Dämmerung IVXX\nStärke",100768
 "Plüsch-Quaggan",100769
 "Viperhaftes Abscheulichkeits-Zepter",100770
+"IV: Der Spiegel",100771
+"Eine neue Bedrohung zieht auf",100774
 "Relikt von Vass",100775
 "Berserkerhafte Zerborstene Axt",100776
 "Magischer Himmelsgeschmiedeter Schild",100777
+"Kristallscherbe",100778
 "Rezept: Relikt des Chronomanten",100781
 "Wohlschmeckende moosbedeckte Rinde",100784
 "Walkürisches Adlerauge-Schwert",100785
+"Ein Funken des Wissens",100787
 "Große Prise Sternenstaub",100788
 "Erderschütterer-Bergbauwerkzeug",100789
 "Walkürischer Adlerauge-Dolch",100791
+"Beleg für Himmelsschuppen-Erstausstattung",100792
 "Rezept: Sturmgeschmiedeter Streitkolben",100793
 "Relikt des Widerstands",100794
 "Relikttruhe",100795
 "Mini Avatar des Neides",100796
 "Gabe von Amnytas",100798
+"Cethis\n102 Flut X00I\nStärke",100801
 "Kiste mit Rissjäger-Kopfbedeckung",100802
 "Schwere Rissjäger-Schultern",100804
 "Schamanischer Sturmgeschmiedeter Langbogen",100805
 "Besessenheits-Infusion",100806
 "Vermillion-Bergbauwerkzeug",100809
+"XVIII: Zwielicht",100810
+"Ithils Trauer",100811
+"Ein Funken des Wissens",100813
 "Kummers Klaue",100816
 "Walkürischer Adlerauge-Kurzbogen",100817
 "\"Turm des Zauberers\"-Prüfung: Bronze",100819
@@ -65709,6 +65805,7 @@
 "II: Der Erleuchtete Minister",100829
 "Truhe des Obskuren",100832
 "Luxusausrüstungskiste",100833
+"XVI: Der Turm der Geheimnisse",100834
 "Rezept: Sturmgeschmiedetes Gewehr",100835
 "Mini Isgarren",100839
 "Magische Himmelsgeschmiedete Fackel",100842
@@ -65748,6 +65845,7 @@
 "Walkürischer Adlerauge-Stab",100892
 "Relikt der Zephyriten",100893
 "Sturmauge-Großschwert",100895
+"Olava Skumasdottir\n403 Blüten XXX0\nObskur",100897
 "Walkürischer Adlerauge-Schild",100900
 "Satteltasche der Lagerung",100901
 "Himmelsschuppen-Zielübungen: Silber",100902
@@ -65755,6 +65853,7 @@
 "Relikt des Holoschmieds",100908
 "Jadegesponnener Seidenfaden",100909
 "Mini Avatar der Verzweiflung",100910
+"V: Der Weinende Berg",100911
 "Besessenheits-Infusion",100913
 "Besessenheits-Infusion",100914
 "Schamanischer Sturmgeschmiedeter Streitkolben",100915
@@ -65763,6 +65862,7 @@
 "Walkürischer Adlerauge-Hammer",100919
 "Ewige Klinge",100920
 "Gletscher-Bergbauwerkzeug",100921
+"Zerbrochene Konstellation",100922
 "Finstere Saryx-Pistole",100923
 "Relikt des Scharfschützen",100924
 "\"/Besessen\"-Emote-Foliant",100926
@@ -65780,6 +65880,7 @@
 "Seltene Riss-Motivation",100941
 "Relikt von Dagda",100942
 "Nachtflug: Gold",100943
+"In Memoriam",100944
 "Leichte Rissjäger-Schultern",100945
 "Arcanum der Astralen Fußspuren",100946
 "Relikt des Feuerwerks",100947
@@ -65788,8 +65889,11 @@
 "Endloser Kampftrank des Himmlischen Zauberers",100951
 "Sturmauge-Pistole",100952
 "Berserkerhafter Zerborstener Fokus",100953
+"Liste für Himmelsschuppen-Ei-Infusionen",100955
 "Skin für Geheiligtes Schwert",100957
+"Ivane Saberlin\n809 Frost X00V\nGleichgewicht",100959
 "Berserkerhafter Zerborstener Dolch",100960
+"Echo der Vergangenheit",100961
 "Truhe des Obskuren",100962
 "Tollwütiger Himmelsschuppen-Dolch",100963
 "Schmackhafte Wanderration",100966
@@ -66189,6 +66293,7 @@
 "Skin für Synergetik-Cyberhund",101434
 "Goldenes Drachenfigürchen",101435
 "Helm des Drachen-Nachfahren",101437
+"Herzblut von Nourys, dem Auge des Abgrunds",101438
 "Relikt der Gnade",101439
 "Skin für Solar-Astrolabium-Kurzbogen",101440
 "Relikt der Ausflucht",101441
@@ -66206,6 +66311,7 @@
 "Beherrschungspunkt",101454
 "Skin für Solar-Astrolabium-Fackel",101457
 "Uralte Schriftrolle von Astralwache-Waffen",101458
+"Herzblut von Myros dem Gehässigen",101459
 "Schwere Obsidian-Beinschienen",101460
 "Relikt der Führungsstärke",101461
 "Leichter Obsidian-Überwurf",101462
@@ -66215,6 +66321,7 @@
 "Relikt des Widerstands",101466
 "Relikt der Dämonen-Königin",101467
 "Skin für Himmelsweisen-Stiefel",101469
+"Herzblut von Knaebelag dem Schrecklichen",101471
 "Relikt des Schnitters",101472
 "Skin für \"Nekrotische Essenz\"-Hammer",101473
 "Relikt des Wassers",101474
@@ -66231,6 +66338,7 @@
 "Relikt des Gegengifts",101487
 "Skin für Modischer Kilt",101488
 "Relikt des Fraktals",101489
+"Herzblut von Pherus dem Unterwerfer",101490
 "Relikt von Dagda",101491
 "Relikt von Vass",101492
 "Relikt der Befallenen",101493
@@ -66240,6 +66348,7 @@
 "Leichter Obsidian-Ornat",101499
 "Relikt von Cerus",101500
 "Leichte Obsidian-Hose",101501
+"Herzblut von Galene der Wutentbrannten",101502
 "Relikt von Nourys",101503
 "Relikt der Haltbarkeit",101504
 "Skin für \"Nekrotische Essenz\"-Schild",101507
@@ -66304,6 +66413,7 @@
 "Legendäres Relikt",101582
 "Banner der Bastion des Himmlischen",101583
 "Skin für \"Nekrotische Essenz\"-Fackel",101584
+"Herzblut von Ignaxius",101585
 "Relikt des Turms des Zauberers",101586
 "Relikt des Drachenjägers",101590
 "Skin für Solar-Astrolabium-Streitkolben",101591
@@ -66432,6 +66542,7 @@
 "Eparchs Schwert",101739
 "Skin für Mond-Astrolabium-Axt",101740
 "Mini Astralwächterin Livia",101741
+"Mini Eparch",101742
 "Skin für mittlere \"Durchfluteter Obsidian\"-Schultern",101744
 "Skin für leichten \"Durchfluteter Obsidian\"-Ornat",101745
 "Drachenbrand-Veteran",101746
@@ -66829,6 +66940,7 @@
 "Rezept: Mordremoth-Bronzetrophäe",102187
 "Rezept: Schwerer Titanplatten-Schulterschutz",102188
 "Rezept: \"Cairn der Unbeugsame\"-Goldtrophäe",102191
+"Karte der bekannten Proben",102194
 "Heimstatt-Aufwertung: Holztausch-Kapazität",102196
 "Relikt des Pestilenzbringers",102199
 "Rezept: Sabetha-Bronzetrophäe",102201
@@ -66840,6 +66952,7 @@
 "Kriegsklauen-Leckerei",102213
 "Magischer Vollmond-Dolch",102216
 "Glyphe des Lederers",102220
+"Proben-Ergebnisse",102228
 "\"Vielseitiger Wegfinder-Tisch\"-Dekoration",102230
 "",102231
 "\"Janthir Wilds\"-Kodan-Beutekiste",102236
@@ -66864,6 +66977,7 @@
 "Janthir-Ausrüstungskiste",102283
 "Rezept: Xera-Bronzetrophäe",102284
 "Rezept: Tequatl-Goldtrophäe",102285
+"Bekannte Spur 03",102290
 "Geliehenes Lockmittel",102292
 "Mini Herr Hoppinger",102293
 "Tiefland-Küsten-Abenteuer: Gold",102301
@@ -66879,6 +66993,7 @@
 "Skin für Onyxspinnen-Zepter",102336
 "Mittlere Titanplatten-Handschuhe",102340
 "Gabe von Bewahrte Erinnerung",102342
+"Alle Proben abgeliefert",102343
 "Rezept: Zwillings-Largos-Goldtrophäe",102344
 "Kostbare Tiefland-Küsten-Ausrüstungskiste",102346
 "Skin für Onyxspinnen-Langbogen",102348
@@ -66923,6 +67038,7 @@
 "Rezept: Blutstein-Turmfragment",102440
 "Relikt der Flüsse",102442
 "Kiste mit polychromatischen Wämsern",102443
+"Rang 4",102444
 "",102446
 "Magischer Verzierte Pistole der Bärin",102449
 "Heimstätten-Rezeptbuch: Tische",102450
@@ -66947,6 +67063,7 @@
 "Rezept: Schwere Titanplatten-Brustplatte",102482
 "Skin für Leere-verdorbene Axt",102486
 "Mini Stacheltal",102487
+"Unbekannte Spur 05",102490
 "Rezept: \"Dreifacher Ärger\"-Bronzetrophäe",102492
 "Seltsame Mursaat-Währung",102494
 "Rezept: Tal-Wächter-Bronzetrophäe",102495
@@ -66954,6 +67071,7 @@
 "Heimstatt-Aufwertung: Erztausch-Kapazität",102500
 "Tiefland-Kiefernholz-Block",102503
 "Mittleres Färberwaid-Wams",102504
+"Bekannte Spur 04",102507
 "Hitzekern-Infusion",102508
 "Magischer Vollmond-Fackel",102510
 "Skin für \"Janthir Wilds\"-Kriegsklaue",102512
@@ -66966,6 +67084,7 @@
 "Glyphe des Kräuterkundigen",102528
 "Glyphe der Tugend",102529
 "Rezept: \"Kardinal Adina\"-Silbertrophäe",102530
+"\"Jagd auf Fabelwesen\" freigeschaltet",102531
 "Skin für Onyxspinnen-Schild",102533
 "Fetzen von \"Janthir Wilds\"-Beherrschung",102535
 "Mythisches Kodan-Lager",102536
@@ -66978,6 +67097,7 @@
 "Skin für Fäulnispirscher-Wams",102554
 "Schwere polychromatische Beinschienen",102557
 "Honigblume",102558
+"Unbekannte Spur 01",102559
 "Schwere Färberwaid-Schultern",102561
 "Rezept: Leichte Titanplatten-Haube",102563
 "Glyphe der Alchemie",102567
@@ -67087,6 +67207,7 @@
 "Bärling-Kriegshelm",102814
 "Skin für Onyxspinnen-Großschwert",102816
 "Ansehen-Marke: Tiefland-Küste",102818
+"Unbekannte Spur 02",102821
 "Wollknäuel",102822
 "Glyphe des Entfesselten",102823
 "Leichtes polychromatisches Beinkleid",102826
@@ -67116,6 +67237,7 @@
 "Heimstatt-Aufwertung: Fasertausch-Kapazität",102883
 "Magischer Verzierter Dolch der Bärin",102884
 "Rezept: \"Kardinal Adina\"-Goldtrophäe",102886
+"Rang 1",102891
 "Relikt des Pestilenzbringers",102896
 "Ring des Krustentiers",102899
 "Gabe von Klobjarne Geirr",102901
@@ -67130,6 +67252,7 @@
 "Rezept: Gorseval-Bronzetrophäe",102917
 "Rezept: Xeras Bandrest",102918
 "Rezept: Zwillings-Largos-Marke",102920
+"Rang 3",102923
 "Rezept: \"Weißer Mantel-Abscheulichkeit\"-Goldtrophäe",102924
 "Rezept: Zahn von Dreifacher Ärger",102925
 "Glyphe des Lederers",102926
@@ -67157,6 +67280,7 @@
 "Heimstätten-Rezeptbuch: Pflanzen, Band 1",102974
 "Rezept: Tequatl-Steißbein",102978
 "Rezept: Zwillings-Largos-Silbertrophäe",102980
+"Bekannte Spur 05",102981
 "Rezept: Zwillings-Largos-Bronzetrophäe",102986
 "Rezept: Aufgespießter Gefangener",102987
 "Heimstatt-Aufwertung: Fasertausch-Kapazität",102989
@@ -67187,6 +67311,7 @@
 "Glyphe des Entfesselten",103052
 "Rezept: Jade-Bot-Werkbank",103054
 "Mittlere Titanplatten-Jacke",103055
+"\"Kreisende Hitze\"-Perle",103058
 "Viperfisch",103060
 "Rezept: \"Belagert die Festung\"-Bronzetrophäe",103061
 "Skin für Leere-verdorbener Fokus",103063
@@ -67206,6 +67331,7 @@
 "Walkürischer Bärling-Kriegshelm",103110
 "Rezept: Zerschmetterer-Bronzetrophäe",103112
 "Heimstätten-Rezeptbuch: Diverse Gegenstände, Band 1",103114
+"Rang 5",103116
 "Angelbelohnung von Janthir",103117
 "Rezept: Dhuum-Bronzetrophäe",103121
 "Skin für Onyxspinnen-Fokus",103126
@@ -67224,6 +67350,7 @@
 "Rezept: Gorseval-Goldtrophäe",103165
 "Mittlere Titanplatten-Schultern",103167
 "Rezept: Xera-Silbertrophäe",103172
+"Rang-Fortschritt",103174
 "\"Janthir Wilds\"-Elementar-Beutekiste",103182
 "Rezept: Dhuums Marke",103183
 "Expeditionsauftrag für Janthir Wilds",103184
@@ -67233,6 +67360,7 @@
 "Großer Geheimvorrat von geschnitzten Tiefland-Kiefernmünzen",103193
 "Rezept: Schwere Titanplatten-Beinschienen",103195
 "Lokale Schrift über Ansehen",103196
+"Das Ende?",103200
 "Rezept: \"Belagert die Festung\"-Silbertrophäe",103203
 "Heimstätten-Rezeptbuch: Säulen",103208
 "Mittlerer Färberwaid-Helm",103209
@@ -67255,6 +67383,7 @@
 "Leichte Färberwaid-Handschuhe",103249
 "Waffentruhe der Bärin",103253
 "Rezept: Leichter Titanplatten-Überwurf",103254
+"Bekannte Spur 02",103255
 "Walkürischer Bärling-Kriegshelm",103257
 "Skin für Fäulnispirscher-Handschuhe",103258
 "Skin für Fäulnispirscher-Helm",103261
@@ -67315,6 +67444,7 @@
 "Springer-Leckerei",103395
 "Schwerer Titanplatten-Beinharnisch",103397
 "Magischer Vollmond-Axt",103398
+"Bekannte Spur 01",103401
 "Rezept: Kardinal Sabirs Marke",103402
 "Kiste mit Färberwaid-Wämsern",103403
 "Skin für Onyxspinnen-Dolch",103406
@@ -67342,6 +67472,7 @@
 "Rezept: \"Beschworene Verschmelzung\"-Marke",103449
 "Überrest eines Bärling-Kriegshelms",103450
 "Rezept: \"Kardinal Sabir\"-Goldtrophäe",103452
+"Unbekannte Spur 04",103453
 "Rezept: Tal-Wächter-Silbertrophäe",103454
 "Heimstätten-Rezeptbuch: Bäume",103458
 "Rezept: Mittlere Titanplatten-Handschuhe",103459
@@ -67368,6 +67499,7 @@
 "Glyphe des Kräuterkundigen",103514
 "Kiste mit polychromatischen Stiefeln",103516
 "Quietschmechanismus",103517
+"Rang 2",103518
 "Kodan-Lagerschlüssel",103530
 "Heimstatt-Aufwertung: Erztausch-Kapazität",103531
 "Pflanzenfaser",103533
@@ -67379,6 +67511,7 @@
 "Rezeptbuch für Titanplatten-Schultern",103550
 "Flammen-Legion-Dunkelstahl",103552
 "Rezept: Dhuum-Silbertrophäe",103553
+"Unbekannte Spur 03",103554
 "Skin für Onyxspinnen-Kurzbogen",103556
 "\"Wildes Gebrüll\"-Reittier-Auswahllizenz",103568
 "Magischer Vollmond-Gewehr",103569
