@@ -4415,6 +4415,7 @@
 "Krater-Rundstrecke: Beste drei",4993
 "Professioneller Rausschmeißer",4995
 "\"Sieben Schnitter\"-Waffensammlung",4996
+"\"Extra Life\"-Gemeinschaftsziel",4997
 "Verrückte Rüstkammer: Panzer des Chaos",4998
 "Gnade des Verrückten Königs",4999
 "\"Extra Life\"-Spender",5000
@@ -4752,6 +4753,7 @@
 "Sondermission: Plündert das Fort",5340
 "Liga-Teilnehmer – Eroberungs-Staffel 22",5341
 "Liga-Eroberer – Eroberungs-Staffel 22",5342
+"Liga-Bezwinger – Eroberungs-Staffel 22",5343
 "Tägliche Bonusbelohnungen: Hologramm-Ansturm: Gold",5344
 "Tägliche Bonusbelohnungen: Hologramm-Ansturm: Silber",5345
 "Tägliche Bonusbelohnungen: Hologramm-Ansturm: Bronze",5346
@@ -4925,6 +4927,7 @@
 "Tägliche Drachenhilfe-Mission der Gendarran-Felder",5526
 "Täglicher Jadebruderschaft-Bezwinger der Gyala-Senke",5527
 "Drachenhilfe-Eingeweihter",5528
+"Globale Ränge der Kristallblüte",5529
 "Globale Ränge der Deldrimor-Zwerge",5530
 "Tägliche Ebon-Vorhut-Missionen",5531
 "Tägliche Kristallblüten-Missionen",5532
@@ -4941,6 +4944,7 @@
 "Lauffeuer",5544
 "Sammler Vulkanischer Sturmrufer-Waffen",5545
 "Gefrorene Gezeiten",5546
+"Liga-Teilnehmer – 2v2-Staffel drei",5547
 "Liga-Eroberer – 2v2-Staffel drei",5548
 "\"Schimmernde Aurora\"-Waffensammlung",5549
 "Liga-Bezwinger – 2v2-Staffel drei",5550
@@ -4975,6 +4979,7 @@
 "Top-Dracheninterventionist: Felder der Verwüstung",5589
 "Not-Dracheninterventionist: Doric-See",5590
 "Sammler Azurblauer Drachentöter-Waffen",5591
+"Globale Ränge der Erhabenen",5592
 "Top-Dracheninterventionist: Schneekuhlenhöhen",5593
 "Täglich: Erhabenen-Sonder-Event",5594
 "Keine Opfer mehr",5596
@@ -5105,6 +5110,7 @@
 "Liga-Teilnehmer – Eroberungs-Saison 27",5744
 "Rückkehr zu \"Herz des Vulkans\"",5745
 "Rückkehr zu \"Letzte Chance\"",5746
+"Rückkehr zur Zaubersängerlände",5748
 "Forstarbeit: Doric-See",5749
 "Rache des Rankenzorns",5750
 "Rückkehr zu Draconis Mons",5751
@@ -5114,6 +5120,7 @@
 "Einsatz vor Ort: Glutbucht",5755
 "Rückkehr zum Doric-See",5756
 "Rückkehr zur Silberwüste 2",5758
+"Einsatz vor Ort: Blutsteinsumpf",5759
 "Rückkehr zu \"Begegnung mit den Asura\"",5761
 "Rückkehr zu \"Abgestürzte Hoffnung\"",5762
 "Erz-Bergarbeiter: Bitterfrost-Grenzland",5763
@@ -5142,6 +5149,7 @@
 "Hablions Rache",5786
 "Ernteeinbringer: Trockenkuppe",5787
 "Einsatz vor Ort: Trockenkuppe 1",5788
+"Erz-Bergarbeiter: Zaubersängerlände",5789
 "Saisons der Drachen",5790
 "Forstarbeit: Blutsteinsumpf",5791
 "Erz-Bergarbeiter: Doric-See",5792
@@ -6026,6 +6034,7 @@
 "Die Felder bewachen",6696
 "Die Aspekte des Kristalls und der Wut",6698
 "Erinnerungen des Kristalls und der Wut",6699
+"Aurenes Aspekt des Kristalls",6702
 "Geburtstag – 12. Jahr",6704
 "(Wöchentlich) Fest der Vier Winde",6705
 "Reisender der Vier Winde",6708
@@ -6081,8 +6090,12 @@
 "Turm der Schätze",6762
 "Toxischer Krait-Entschlüssler",6763
 "Umweltschutz",6764
+"Neu-Kaineng-Waffensammlung",6767
 "Liga-Teilnehmer – Eroberungs-Saison 34",6768
 "Liga-Eroberer – Eroberungs-Saison 34",6769
+"Liga-Bezwinger – Eroberungs-Saison 34",6770
+"Aurenes Aspekt der Überzeugung",6771
+"Erinnerungen an Eis und Überzeugung",6772
 "Der Aspekt des Eises und der Überzeugung",6773
 "Dokkaebi-Waffensammlung",6774
 "\"Süßes oder Saures\" in ganz Tyria",6775
@@ -7156,6 +7169,7 @@
 "Gewitterwolken über Janthir",8240
 "Event-Sammlung: Zentrales Janthir Syntri",8241
 "Wettbewerbskultur",8242
+"Polychromatischer Rüstungssammler",8243
 "Hüter des Tanzbodens",8244
 "Wabenwusler",8245
 "Eifriger Janthir-Fischer",8246
@@ -7279,6 +7293,7 @@
 "Nur Stein, kein Blut",8364
 "Einsicht Tiefland-Küste: Trollschatz",8365
 "Diplomatie und Entdeckung",8366
+"Meister-Sammler: Gemüse",8367
 "Gleichgewicht herstellen",8368
 "Angesehener Held: Sandgepeitschte Inseln (wöchentlich)",8369
 "Einsatz vor Ort: Domäne Istan (wöchentlich)",8370

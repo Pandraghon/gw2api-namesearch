@@ -43571,6 +43571,7 @@
 "Espadon récupéré chamanique de terre",69430
 "Tas de poussière aurique",69432
 "Bidon de carburant d'aéronef",69434
+"Note de Caithe",69444
 "Fusil récupéré chamanique",69445
 "Teinture orange de l'ombre",69451
 "Pistolet récupéré chamanique",69455
@@ -51390,6 +51391,7 @@
 "Apparence de harnois glorieux ardent",80735
 "Mini-lama impérial élégant",80738
 "Apparence de chaussures glorieuses ardentes",80739
+"Livrée illustre",80740
 "Caladbolg Iridi",80741
 "Pièce de cuir épais traité surpuissant",80743
 "Apparence de garde-épaules glorieux ardents",80744
@@ -63685,6 +63687,7 @@
 "Recette : garde-poignets de Suun",97725
 "Bandeau de martialiste",97726
 "Gantelets d'ancien kraken ritualiste",97729
+"Canne à pêche",97730
 "Licence de pêche d'Ascalon",97731
 "Épée du serpent de l'ombre",97732
 "Recette : bol de potée d'Echovald",97734
@@ -66255,23 +66258,35 @@
 "Apparence de cyber-molosse synergétique",101434
 "Figurine dorée du Dragon",101435
 "Casque du descendant du Dragon",101437
+"Relique de pitié",101439
 "Apparence d'arc court de l'astrolabe solaire",101440
+"Relique de dérobade",101441
+"Relique de vitesse",101442
 "Tablette mystérieuse",101444
 "Apparence de cor de guerre d'essence nécrotique",101445
 "Maquereau enragé",101446
+"Relique de la meute",101447
 "Immense halètement calcifié",101448
 "Bannière du Bastion de l'Obscur",101449
 "Apparence d'arc court d'essence nécrotique",101450
 "Apparence de hache d'essence nécrotique",101451
+"Relique de l'Incendiaire",101452
+"Relique des Cauchemars",101453
 "Point de maîtrise",101454
 "Apparence de torche de l'astrolabe solaire",101457
 "Parchemin ancien d'armes de la Garde astrale",101458
 "Grèves lourdes d'obsidienne",101460
+"Relique de charisme",101461
 "Houppelande légère d'obsidienne",101462
 "Apparence de marteau de l'astrolabe solaire",101463
 "Apparence de cor de guerre de l'astrolabe solaire",101464
+"Relique de nécromant",101465
+"Relique de résistance",101466
+"Relique de la Reine des démons",101467
 "Apparence de bottes du sage céleste",101469
+"Relique du faucheur",101472
 "Apparence de marteau d'essence nécrotique",101473
+"Relique d'eau",101474
 "Apparence de gants du sage céleste",101475
 "Apparence de fusil d'essence nécrotique",101476
 "Coffre de l'Obscur",101477
@@ -66282,15 +66297,27 @@
 "Apparence d'arc long d'essence nécrotique",101484
 "Boîte de sélection de l'astrolabe solaire",101485
 "Apparence de fusil de l'astrolabe solaire",101486
+"Relique d'antitoxine",101487
 "Apparence de kilt à la mode",101488
+"Relique de fractale",101489
+"Relique de Dagda",101491
+"Relique de Vass",101492
+"Relique des Affligés",101493
 "Bannière du Bastion du Naturel",101494
 "Pièce de dos de Saryx",101495
 "Apparence d'épaulières du sage céleste",101496
 "Tenue régalienne légère d'obsidienne",101499
+"Relique de Cérus",101500
 "Pantalon léger d'obsidienne",101501
+"Relique de Nourys",101503
+"Relique de durabilité",101504
 "Apparence de bouclier d'essence nécrotique",101507
+"Relique du héraut",101509
 "Croc de Knaebelag",101510
+"Relique d'aventurier",101511
 "Carapace kryptis brisée",101512
+"Relique du Défenseur",101513
+"Relique de Dwayna",101514
 "Licence de pêche de la Jungle de Maguuma",101515
 "Couronne légère d'obsidienne",101516
 "",101518
@@ -66298,67 +66325,101 @@
 "Harnois lourd d'obsidienne",101521
 "Apparence de cape en fourrure de trappeur",101522
 "Céphalopode fou",101523
+"Relique du Tissesort",101526
+"Relique des ouailles",101527
 "Pièce de dos de Saryx (infusée)",101528
 "Apparence d'espadon de cyber-chouette",101529
 "Apparence de heaume du sage céleste",101533
+"Relique de Cavalier",101534
 "Chausses légères d'obsidienne",101535
 "Gants légers d'obsidienne",101536
 "Apparence de pistolet de l'astrolabe solaire",101537
+"Relique d'aristocratie",101539
 "Facette mystique",101540
+"Relique du Sans-soleil",101541
 "Malle magnifique de Cérus",101542
 "Apparence de sceptre de l'astrolabe solaire",101543
 "Heaume lourd d'obsidienne",101544
+"Relique de guerrier",101545
+"Relique de Karakosa",101546
 "Parchemin ancien",101547
+"Relique du chronomancien",101549
 "Apparence de masse d'essence nécrotique",101550
 "Espauliers lourds d'obsidienne",101551
 "Apparence de jambières du sage céleste",101552
 "Apparence d'espadon de l'astrolabe solaire",101553
+"Relique de fantassin",101554
 "Veste intermédiaire d'obsidienne",101556
 "Nodule d'essence kryptis",101558
 "Magot de Knaebelag",101560
 "Apparence de pistolet d'essence nécrotique",101561
 "Apparence d'épée de l'astrolabe solaire",101562
+"Relique de Febe",101563
+"Relique de feux d'artifice",101564
 "Bannière du Bastion de l'Équilibre",101565
 "Apparence de dague de l'astrolabe solaire",101566
 "Cuissières lourdes d'obsidienne",101568
 "Boîte d'équipement de luxe",101569
 "Gants intermédiaires d'obsidienne",101570
+"Relique de l'invasion invisible",101571
+"Relique d'Akeem",101573
 "Siège arbre à chat",101574
 "Bannière du Bastion du Savoir",101575
 "Apparence d'arc long de l'astrolabe solaire",101576
 "Apparence de bâton d'essence nécrotique",101578
 "Jambières intermédiaires d'obsidienne",101579
+"Relique de voleur",101580
+"Relique du Mirage",101581
 "Relique légendaire",101582
 "Bannière du Bastion de l'Avatar céleste",101583
 "Apparence de torche d'essence nécrotique",101584
+"Relique de la Tour du sorcier",101586
+"Relique du draconnier",101590
 "Apparence de masse de l'astrolabe solaire",101591
 "Parchemin ancien d'armes de la Garde astrale",101594
 "Don de Nayos intérieur",101595
 "Coffre de l'Obscur",101597
 "Apparence de focus de l'astrolabe solaire",101598
 "Apparence de bouclier de l'astrolabe solaire",101599
+"Relique de bagarreur",101600
 "Apparence d'espadon d'essence nécrotique",101601
 "Bottes intermédiaires d'obsidienne",101602
 "Licence d'adoption de monture des liens retrouvés",101604
+"Relique de Lyhr",101605
+"Relique du Centaure",101607
+"Relique de glace",101608
 "Gantelets lourds d'obsidienne",101609
 "Récompense de pêche de la Corne de Maguuma",101610
+"Relique de Peitha",101611
 "Masque intermédiaire d'obsidienne",101614
 "Bannière du Bastion de la Force",101615
 "Point de maîtrise",101616
 "Deltaplane feuillu",101617
+"Relique des Zéphyrites",101618
+"Relique de la Garde astrale",101619
+"Relique du Roi de minuit",101621
 "Angoisse ensevelie",101622
 "Kit de démarrage d'arme légendaire : ensemble n° 3",101623
 "Apparence de manteau du sage céleste",101626
+"Relique de Nayos",101627
 "Apparence de focus d'essence nécrotique",101628
 "Grimoire ancien",101629
+"Relique de moine",101630
 "Apparence de hache de l'astrolabe solaire",101631
 "Apparence de bâton de l'astrolabe solaire",101632
+"Relique du Fléau",101634
 "Apparence d'épée d'essence nécrotique",101636
+"Relique du Sniper",101637
 "Sélection de licence pour monture des liens retrouvés",101638
 "Magot de Knaebelag",101639
+"Relique de Krait",101640
 "Apparence de dague d'essence nécrotique",101641
+"Relique de Mabon",101643
+"Relique du fracasseur",101644
 "Épaulières intermédiaires d'obsidienne",101645
 "Apparence de sceptre d'essence nécrotique",101646
+"Relique de la Citadelle",101647
+"Relique d'Isgarren",101649
 "Teinture vin d'après-midi",101650
 "Tonique de grand du 1er avril",101651
 "Apparence de dague tranche-démon",101652
@@ -66431,6 +66492,7 @@
 "Teinture de boss de monde distillés",101728
 "Apparence d'arc long de l'astrolabe lunaire",101729
 "Apparence de sceptre de l'astrolabe lunaire",101730
+"Relique des généraux jumeaux",101731
 "Apparence de gants légers d'obsidienne imprégnée",101733
 "Apparence d'arc court de l'astrolabe lunaire",101734
 "Vétéran de Portenoire",101735
@@ -66465,6 +66527,7 @@
 "Fleur fragile",101772
 "Apparence de masse de dracaille",101774
 "Boîte d'effets préférés d'Eparch",101775
+"Relique de la fondation",101776
 "Boîte d'armes de dracaille à deux mains",101777
 "Jarre de poussière de pierre de sang finement moulue",101778
 "Fleur jaune",101779
@@ -66531,6 +66594,7 @@
 "Apparence de masse du chevalier de l'ombre",101857
 "Réunion de Kryptis égarés : bronze",101858
 "Teinture de convergences distillées",101859
+"Relique de Mosyn",101860
 "Apparence de cor de guerre de l'astrolabe lunaire",101861
 "Pincée de poussière d'étoile énorme",101862
 "Relique du sorcier",101863
@@ -66571,11 +66635,13 @@
 "Libération d'essence kryptis : argent",101905
 "Reconnaissance de Nayos : or",101906
 "Vétéran des Ruines de Surmia",101907
+"Relique du sorcier",101908
 "Vétéran de Pierre Arborea",101909
 "Apparence d'arc court du chevalier de l'ombre",101910
 "Vétéran de l'Outre-monde",101912
 "Vétéran des Provinces fluviales",101913
 "Vétéran du Détroit de Miller",101916
+"Relique du Guide",101917
 "Apparence de jambières intermédiaires d'obsidienne imprégnée",101918
 "Apparence de dague de l'astrolabe lunaire",101919
 "Apparence de cape du sage céleste",101920
@@ -66600,6 +66666,7 @@
 "Apparence de marteau de dracaille",101941
 "Teinture d'événements de Nayos distillés",101942
 "Relique du Guide",101943
+"Relique de Zakiros",101944
 "Apparence de fusil du chevalier de l'ombre",101945
 "Ravitaillement d'Amnytas : or",101947
 "Jouet pour chat de Mingoo",101948
@@ -66924,6 +66991,7 @@
 "Pieuvre à oreilles de souris",102437
 "Gantelets lourds polychromes",102439
 "Recette : fragment de tourelle de pierre de sang",102440
+"Relique des rivières",102442
 "Boîte de manteau polychrome",102443
 "",102446
 "Pistolet ornementé ursin mage",102449
@@ -67072,6 +67140,7 @@
 "Tenue régalienne ignée",102781
 "Apparence de pistolet de l'araignée d'onyx",102785
 "Boîte d'épaulières polychromes",102786
+"Relique d'atrocité",102787
 "Chaussures légères polychromes",102788
 "Boîte de jambières polychromes",102789
 "Livre de recettes pour pavillon : bannières",102790
@@ -67110,12 +67179,14 @@
 "Marteau de la pleine lune mage",102866
 "Recette : trophée de bronze de Titan du fort",102868
 "Recette : trophée d'or du surveillant mursaat",102874
+"Relique de la Griffe",102877
 "Bottes légères pastel",102878
 "Gage de renommée de la Syntri de Janthir",102881
 "Bâton de la pleine lune mage",102882
 "Amélioration de pavillon : capacité d'échange de fibres",102883
 "Dague ornementée ursine mage",102884
 "Recette : trophée d'or de la cardinale Adina",102886
+"Relique du porte-fléau",102896
 "Anneau du crustacé",102899
 "Don de Klobjarne Geirr",102901
 "Livre de recettes pour pavillon : diverses plantes, volume 2",102902
@@ -67257,6 +67328,7 @@
 "Heaume de guerre kodan valkyrien",103257
 "Apparence de gants de traque-putrescence",103258
 "Apparence de heaume de traque-putrescence",103261
+"Relique de l'antienne de la tempête",103262
 "Manteau léger pastel",103263
 "Recette : gravats de Titan du fort",103266
 "Déverrouillage de la lance des basses terres",103268
@@ -67360,6 +67432,7 @@
 "Boîte de butin de créatures des Terres sauvages de Janthir",103494
 "Heaume léger pastel",103495
 "Recette : trophée de bronze de Tequatl",103506
+"Relique des lamentations",103507
 "Poisson-perroquet royal",103511
 "Recette : trophée de bronze de Deimos",103512
 "Glyphe de l'herboriste",103514
@@ -67585,6 +67658,7 @@
 "Apparence de Perce-tempête",103808
 "Preuve d'expertise en siège",103809
 "Jambières naturelles",103810
+"Relique de la vapeur fulminante",103811
 "Mini-jeune razziafelis gris",103813
 "Livre de recettes pour pavillon : labyrinthes en haies",103814
 "Klobjarne Geirr",103815
@@ -67598,6 +67672,7 @@
 "Apparence d'esquif béni de l'astre",103824
 "Tas de pièces recyclées de générateurs de bouclier",103826
 "Mode défi de convergence : or",103828
+"Relique des geysers",103829
 "Baguette naturelle",103830
 "Coffre de gants de Decima",103831
 "Clé de démarrage d'arme légendaire : ensemble n° 6",103832
@@ -67672,6 +67747,8 @@
 "Boîte de pièces de siège recyclées",103919
 "Boîte de pièces de siège recyclées",103920
 "Bastion naturel",103922
+"Relique de la ruche",103923
+"Relique de la réunification",103924
 "Malle de Decima",103926
 "Claymore naturelle",103928
 "Recette : trophée de bronze de Greer",103929
@@ -67682,6 +67759,7 @@
 "Sceptre de la lune de sang de sang",103936
 "Tas de pièces recyclées de béliers de feu",103937
 "Apparence de bouclier de l'araignée d'albâtre",103940
+"Relique de la marée des Brumes",103941
 "Recette : trophée d'or de Decima",103942
 "Percevapeur d'Ura",103944
 "Recette : trophée d'argent de Decima",103945
@@ -67760,6 +67838,7 @@
 "Recette : atelier d'huile de maintenance magnanime",104032
 "Mode défi de convergence : or",104033
 "Mini-conduit intelligent",104034
+"Relique du mont Balrior",104035
 "Tas de pièces recyclées de catapultes",104036
 "Réminiscence des victoires des Kodans",104037
 "Trophée d'argent de Decima",104038
@@ -67945,6 +68024,7 @@
 "Recette d'armure de vue véritable : épaulières",104245
 "Malle magnifique de Decima",104246
 "Masque intermédiaire de vue véritable",104247
+"Relique de vampirisme",104249
 "Livre de recettes pour pavillon : Kryte, volume 1",104250
 "Apparence de bottes du chevalier de la Garde",104251
 "Recette pour pavillon : fragments de statue de Beetletun",104252
@@ -67958,8 +68038,10 @@
 "Sacoche du Lion noir à 28 emplacements",104268
 "Recette pour pavillon : statue de Joko le Redoutable",104269
 "Apparence de torche de vieille pousse",104270
+"Relique de montée en puissance",104274
 "Crabe à dos épineux",104275
 "Apparence d'arc long de vieille pousse",104276
+"Relique de la liche",104277
 "Ressource de minerai de Titan chargé pour zone personnelle",104278
 "Grenouille à queue de poisson",104280
 "Bottes lourdes de vue véritable",104281
@@ -67972,6 +68054,7 @@
 "Apparence de jambières de l'aurore infusées",104293
 "Torche d'obsidienne pillée sinistre",104294
 "Apparence de lance de vieille pousse",104295
+"Relique des épines",104296
 "Escargot à plumes",104298
 "Apparence de sceptre de vieille pousse",104299
 "Recette d'armure de vue véritable : bottes",104301
@@ -67980,6 +68063,8 @@
 "Masque léger de vue véritable",104304
 "Bottes légères de vue véritable",104305
 "Malle de Greer",104306
+"Relique de feu",104308
+"Relique de corsaire",104311
 "Boîte de sélection de vieille pousse",104312
 "Don des Landes de Feu-de-Brume",104313
 "Grimoire d'emote \"/posetimide\"",104314
@@ -67996,6 +68081,7 @@
 "Fragment de ruine mursaat étrange",104331
 "Grimoire d'emote \"/posesurpris\"",104332
 "Fusil d'obsidienne pillée sinistre",104333
+"Relique d'Ogre",104334
 "Livre de recettes pour pavillon : bannières de faîte, volume 1",104335
 "Recette : relique de l'Holographiste",104336
 "Infusion de pierre de sang",104340
@@ -68027,8 +68113,10 @@
 "Livre de recettes pour pavillon : Éveillés, volume 1",104379
 "Recette : relique des épines",104380
 "Bâton d'obsidienne pillée sinistre",104381
+"Relique de terre",104383
 "Infusion de pierre de sang",104386
 "Grimoire d'emotes de poses stylées",104389
+"Relique de l'Holographiste",104390
 "Épaulières lourdes de vue véritable",104391
 "Follet sylvestre",104392
 "Recette d'armure de vue véritable : jambières",104393
@@ -68045,7 +68133,9 @@
 "Malle de Decima",104410
 "Tonique de Yagon inépuisable",104411
 "Bottes intermédiaires de vue véritable",104412
+"Relique de l'aigle",104413
 "Gant de cuir kodan sylvestre",104414
+"Relique de golemancien",104416
 "Apparence de dague de vieille pousse",104417
 "Boîte d'armes d'obsidienne pillée",104418
 "Épaulières intermédiaires de vue véritable",104419
@@ -68091,6 +68181,7 @@
 "Focus d'obsidienne pillée sinistre",104488
 "Livre de recettes pour pavillon : Bassin aurique, volume 1",104489
 "Aventure des Landes de Feu-de-Brume : bronze",104490
+"Relique d'altruisme",104491
 "Livre de recettes pour pavillon : statues de lion, volume 1",104492
 "Apparence d'épée de vieille pousse",104495
 "Recette pour pavillon : statue de Joko l'Indomptable",104496

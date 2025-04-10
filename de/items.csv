@@ -43503,6 +43503,7 @@
 "Schamanisches Zurückerobertes Großschwert der Erde",69430
 "Haufen Güldener Staub",69432
 "Flasche Luftschiff-Öl",69434
+"Notiz von Caithe",69444
 "Schamanisches Zurückerobertes Gewehr",69445
 "Schatten-Orange-Farbe",69451
 "Schamanische Zurückeroberte Pistole",69455
@@ -51321,6 +51322,7 @@
 "Skin für Inbrünstige ruhmreiche Brustplatte",80735
 "Elegantes Mini Kaiser-Lama",80738
 "Skin für Inbrünstiges ruhmreiches Schuhwerk",80739
+"Glorreiche Kleidung",80740
 "Caladbolg Iridi",80741
 "Gestärkter getrockneter dicker Lederflicken",80743
 "Skin für Inbrünstige ruhmreiche Schulterschützer",80744
@@ -63616,6 +63618,7 @@
 "Rezept: Suun-Handgelenkschutz",97725
 "Kampfsportler-Stirnband",97726
 "Ritualisten- Uralte Kraken-Stulpenhandschuhe",97729
+"Angel",97730
 "Angellizenz für Ascalon",97731
 "Schattenschlangen-Schwert",97732
 "Rezept: Schüssel Echowald-Eintopf",97734
@@ -66186,23 +66189,35 @@
 "Skin für Synergetik-Cyberhund",101434
 "Goldenes Drachenfigürchen",101435
 "Helm des Drachen-Nachfahren",101437
+"Relikt der Gnade",101439
 "Skin für Solar-Astrolabium-Kurzbogen",101440
+"Relikt der Ausflucht",101441
+"Relikt der Geschwindigkeit",101442
 "Mysteriöse Tafel",101444
 "Skin für \"Nekrotische Essenz\"-Kriegshorn",101445
 "Stinksaure Makrele",101446
+"Relikt des Rudels",101447
 "Massives Verkalktes Keuchen",101448
 "Banner der Bastion des Obskuren",101449
 "Skin für \"Nekrotische Essenz\"-Kurzbogen",101450
 "Skin für \"Nekrotische Essenz\"-Axt",101451
+"Relikt des Aufwieglers",101452
+"Relikt des Albtraums",101453
 "Beherrschungspunkt",101454
 "Skin für Solar-Astrolabium-Fackel",101457
 "Uralte Schriftrolle von Astralwache-Waffen",101458
 "Schwere Obsidian-Beinschienen",101460
+"Relikt der Führungsstärke",101461
 "Leichter Obsidian-Überwurf",101462
 "Skin für Solar-Astrolabium-Hammer",101463
 "Skin für Solar-Astrolabium-Kriegshorn",101464
+"Relikt des Nekromanten",101465
+"Relikt des Widerstands",101466
+"Relikt der Dämonen-Königin",101467
 "Skin für Himmelsweisen-Stiefel",101469
+"Relikt des Schnitters",101472
 "Skin für \"Nekrotische Essenz\"-Hammer",101473
+"Relikt des Wassers",101474
 "Skin für Himmelsweisen-Handschuhe",101475
 "Skin für \"Nekrotische Essenz\"-Gewehr",101476
 "Truhe des Obskuren",101477
@@ -66213,15 +66228,27 @@
 "Skin für \"Nekrotische Essenz\"-Langbogen",101484
 "Solar-Astrolabium-Auswahlkiste",101485
 "Skin für Solar-Astrolabium-Gewehr",101486
+"Relikt des Gegengifts",101487
 "Skin für Modischer Kilt",101488
+"Relikt des Fraktals",101489
+"Relikt von Dagda",101491
+"Relikt von Vass",101492
+"Relikt der Befallenen",101493
 "Banner der Bastion des Natürlichen",101494
 "Saryx-Rückenteil",101495
 "Skin für Himmelsweisen-Schultern",101496
 "Leichter Obsidian-Ornat",101499
+"Relikt von Cerus",101500
 "Leichte Obsidian-Hose",101501
+"Relikt von Nourys",101503
+"Relikt der Haltbarkeit",101504
 "Skin für \"Nekrotische Essenz\"-Schild",101507
+"Relikt des Herolds",101509
 "Knaebelags Fangzahn",101510
+"Relikt des Abenteurers",101511
 "Zerschmetterter Kryptis-Rückenpanzer",101512
+"Relikt des Verteidigers",101513
+"Relikt von Dwayna",101514
 "Angellizenz für den Maguuma-Dschungels",101515
 "Leichte Obsidian-Krone",101516
 "",101518
@@ -66229,67 +66256,101 @@
 "Schwere Obsidian-Brustplatte",101521
 "Skin für Fallensteller-Pelzumhang",101522
 "Wildgewordener Kopffüßer",101523
+"Relikt des Webers",101526
+"Relikt des Schwarms",101527
 "Saryx-Rückenteil (Infundiert)",101528
 "Skin für Cyberheuler-Großschwert",101529
 "Skin für Himmelsweisen-Helm",101533
+"Relikt des Kavaliers",101534
 "Leichte Obsidian-Schuhe",101535
 "Leichte Obsidian-Handschuhe",101536
 "Skin für Solar-Astrolabium-Pistole",101537
+"Relikt der Aristokratie",101539
 "Mystische Facette",101540
+"Relikt des Sonnenlosen",101541
 "Cerus' Großartige Kiste",101542
 "Skin für Solar-Astrolabium-Zepter",101543
 "Schwerer Obsidian-Sturmhelm",101544
+"Relikt des Kriegers",101545
+"Relikt von Karakosa",101546
 "Uralte Schriftrolle",101547
+"Relikt des Chronomanten",101549
 "Skin für \"Nekrotische Essenz\"-Streitkolben",101550
 "Schwerer Obsidian-Schulterschutz",101551
 "Skin für Himmelsweisen-Beinkleid",101552
 "Skin für Solar-Astrolabium-Großschwert",101553
+"Relikt des Truppenmitglieds",101554
 "Mittlere Obsidian-Jacke",101556
 "Nugget von Riss-Essenz",101558
 "Knaebelags Hort",101560
 "Skin für \"Nekrotische Essenz\"-Pistole",101561
 "Skin für Solar-Astrolabium-Schwert",101562
+"Relikt von Febe",101563
+"Relikt des Feuerwerks",101564
 "Banner der Bastion des Gleichgewichts",101565
 "Skin für Solar-Astrolabium-Dolch",101566
 "Schwerer Obsidian-Beinharnisch",101568
 "Luxusausrüstungskiste",101569
 "Mittlere Obsidian-Handschuhe",101570
+"Relikt der Ungesehenen-Invasion",101571
+"Relikt von Akeem",101573
 "Katzenbaum-Stuhl",101574
 "Banner der Bastion des Wissens",101575
 "Skin für Solar-Astrolabium-Langbogen",101576
 "Skin für \"Nekrotische Essenz\"-Stab",101578
 "Mittleres Obsidian-Beinkleid",101579
+"Relikt des Diebes",101580
+"Relikt des Illusionisten",101581
 "Legendäres Relikt",101582
 "Banner der Bastion des Himmlischen",101583
 "Skin für \"Nekrotische Essenz\"-Fackel",101584
+"Relikt des Turms des Zauberers",101586
+"Relikt des Drachenjägers",101590
 "Skin für Solar-Astrolabium-Streitkolben",101591
 "Uralte Schriftrolle von Astralwache-Waffen",101594
 "Gabe des Inneren Nayos",101595
 "Truhe des Obskuren",101597
 "Skin für Solar-Astrolabium-Fokus",101598
 "Skin für Solar-Astrolabium-Schild",101599
+"Relikt des Raufbolds",101600
 "Skin für \"Nekrotische Essenz\"-Großschwert",101601
 "Mittlere Obsidian-Stiefel",101602
 "\"Erneuerte Bindungen\"-Reittier-Adoptionslizenz",101604
+"Relikt von Lyhr",101605
+"Relikt des Zentauren",101607
+"Relikt des Eises",101608
 "Schwere Obsidian-Stulpenhandschuhe",101609
 "Angelbelohnung für das Horn von Maguuma",101610
+"Relikt von Peitha",101611
 "Mittlere Obsidian-Maske",101614
 "Banner der Bastion der Stärke",101615
 "Beherrschungspunkt",101616
 "Blatt-Gleitschirm",101617
+"Relikt der Zephyriten",101618
+"Relikt der Astralwache",101619
+"Relikt des Mitternachtskönigs",101621
 "Begrabene Angst",101622
 "Legendäre Waffe: Starter-Kit – Set 3",101623
 "Skin für Himmelsweisen-Wams",101626
+"Relikt von Nayos",101627
 "Skin für \"Nekrotische Essenz\"-Fokus",101628
 "Antiker Foliant",101629
+"Relikt des Mönchs",101630
 "Skin für Solar-Astrolabium-Axt",101631
 "Skin für Solar-Astrolabium-Stab",101632
+"Relikt des Pestbringers",101634
 "Skin für \"Nekrotische Essenz\"-Schwert",101636
+"Relikt des Scharfschützen",101637
 "\"Erneuerte Bindungen\"-Reittier-Auswahllizenz",101638
 "Knaebelags Hort",101639
+"Relikt der Krait",101640
 "Skin für \"Nekrotische Essenz\"-Dolch",101641
+"Relikt von Mabon",101643
+"Relikt des Draufgängers",101644
 "Mittlere Obsidian-Schultern",101645
 "Skin für \"Nekrotische Essenz\"-Zepter",101646
+"Relikt der Zitadelle",101647
+"Relikt von Isgarren",101649
 "Nachmittagswein-Farbe",101650
 "Wachstumstrank des Narren",101651
 "Skin für Teufelszerfetzender Dolch",101652
@@ -66362,6 +66423,7 @@
 "Tinktur aus destillierten Weltbossen",101728
 "Skin für Mond-Astrolabium-Langbogen",101729
 "Skin für Mond-Astrolabium-Zepter",101730
+"Relikt der Zwillingsgenerale",101731
 "Skin für leichte \"Durchfluteter Obsidian\"-Handschuhe",101733
 "Skin für Mond-Astrolabium-Kurzbogen",101734
 "Schwarztor-Veteran",101735
@@ -66395,6 +66457,7 @@
 "Zarte Blume",101772
 "Skin für Himmelsschuppen-Streitkolben",101774
 "Kiste mit Eparchs wertvoller Habe",101775
+"Relikt der Gründung",101776
 "Himmelsschuppen-Zweihand-Waffenkiste",101777
 "Gefäß mit fein gemahlenem Blutsteinstaub",101778
 "Gelbe Blume",101779
@@ -66461,6 +66524,7 @@
 "Skin für Schattenkavalier-Streitkolben",101857
 "Veirrte Kryptis zusammenbringen: Bronze",101858
 "Tinktur aus destillierten Konvergenzen",101859
+"Relikt von Mosyn",101860
 "Skin für Mond-Astrolabium-Kriegshorn",101861
 "Extra-große Prise Sternenstaub",101862
 "Relikt des Hexers",101863
@@ -66501,11 +66565,13 @@
 "Kryptis-Essenz freisetzen: Silber",101905
 "Nayos-Erkundungstour: Gold",101906
 "\"Ruinen von Surmia\"-Veteran",101907
+"Relikt des Hexers",101908
 "Arborstein-Veteran",101909
 "Skin für Schattenkavalier-Kurzbogen",101910
 "Unterwelt-Veteran",101912
 "Flussufer-Veteran",101913
 "Millersund-Veteran",101916
+"Relikt des Wegfinders",101917
 "Skin für mittleres \"Durchfluteter Obsidian\"-Beinkleid",101918
 "Skin für Mond-Astrolabium-Dolch",101919
 "Skin für Himmelsweisen-Umhang",101920
@@ -66530,6 +66596,7 @@
 "Skin für Himmelsschuppen-Hammer",101941
 "Tinktur aus destillierten Nayos-Events",101942
 "Relikt des Wegfinders",101943
+"Relikt von Zakiros",101944
 "Skin für Schattenkavalier-Gewehr",101945
 "Nachschubeinsatz für Amnytas: Gold",101947
 "Mingoos Katzenspielzeug",101948
@@ -66854,6 +66921,7 @@
 "Mausohr-Oktopus",102437
 "Schwere polychromatische Stulpenhandschuhe",102439
 "Rezept: Blutstein-Turmfragment",102440
+"Relikt der Flüsse",102442
 "Kiste mit polychromatischen Wämsern",102443
 "",102446
 "Magischer Verzierte Pistole der Bärin",102449
@@ -67002,6 +67070,7 @@
 "Magma-Ornat-Kleidungsset",102781
 "Skin für Onyxspinnen-Pistole",102785
 "Kiste mit polychromatischen Schultern",102786
+"Relikt der Gräueltat",102787
 "Leichte polychromatische Schuhe",102788
 "Kiste mit polychromatischen Beinkleidern",102789
 "Heimstätten-Rezeptbuch: Banner",102790
@@ -67040,12 +67109,14 @@
 "Magischer Vollmond-Hammer",102866
 "Rezept: Festenkonstrukt-Bronzetrophäe",102868
 "Rezept: Mursaat-Aufseher-Goldtrophäe",102874
+"Relikt der Klaue",102877
 "Leichte Färberwaid-Stiefel",102878
 "Ansehen-Marke: Janthir Syntri",102881
 "Magischer Vollmond-Stab",102882
 "Heimstatt-Aufwertung: Fasertausch-Kapazität",102883
 "Magischer Verzierter Dolch der Bärin",102884
 "Rezept: \"Kardinal Adina\"-Goldtrophäe",102886
+"Relikt des Pestilenzbringers",102896
 "Ring des Krustentiers",102899
 "Gabe von Klobjarne Geirr",102901
 "Heimstätten-Rezeptbuch: Pflanzen, Band 2",102902
@@ -67187,6 +67258,7 @@
 "Walkürischer Bärling-Kriegshelm",103257
 "Skin für Fäulnispirscher-Handschuhe",103258
 "Skin für Fäulnispirscher-Helm",103261
+"Relikt der Sturmsängerin",103262
 "Leichtes Färberwaid-Wams",103263
 "Rezept: Festenkonstrukt-Trümmer",103266
 "Tieflandspeer-Freischaltung",103268
@@ -67290,6 +67362,7 @@
 "\"Janthir Wilds\"-Kreaturen-Beutekiste",103494
 "Leichter Färberwaid-Helm",103495
 "Rezept: Tequatl-Bronzetrophäe",103506
+"Relikt von Kummer",103507
 "Königin-Papageifisch",103511
 "Rezept: Deimos-Bronzetrophäe",103512
 "Glyphe des Kräuterkundigen",103514
@@ -67515,6 +67588,7 @@
 "Skin für den Sturmspießer-Speer",103808
 "Nachweis der Belagerungs-Fachkenntnis",103809
 "Natürliches Beinkleid",103810
+"Relikt der Dampfkreischerin",103811
 "Mini Kriegsklauen-Junges (Grau)",103813
 "Heimstätten-Rezeptbuch: Heckenlabyrinthe",103814
 "Klobjarne Geirr",103815
@@ -67528,6 +67602,7 @@
 "Skin für Sternengesegneter Skiff",103824
 "Haufen von wiederverwerteten Schild-Generatoren",103826
 "Konvergenz-Herausforderungsmodus: Gold",103828
+"Relikt von Geysiren",103829
 "Natürlicher Zauberstab",103830
 "Truhe mit Decimas Handschuhen",103831
 "Legendäre Waffe: Starter-Schlüssel – Set 6",103832
@@ -67602,6 +67677,8 @@
 "Kiste mit geplünderten Flammenbock-Teilen",103919
 "Kiste mit geplünderten Katapult-Teilen",103920
 "Natürliche Bastion",103922
+"Relikt des Bienenstocks",103923
+"Relikt der Wiedervereinigung",103924
 "Decimas Kiste",103926
 "Natürlicher Claymore",103928
 "Rezept: Bronzetrophäe Greer",103929
@@ -67612,6 +67689,7 @@
 "Blutmond-Zepter des Blutes",103936
 "Haufen von wiederverwerteten Flammenböcken",103937
 "Skin für Alabasterspinnen-Schild",103940
+"Relikt der Nebelflut",103941
 "Rezept: Goldtrophäe Decima",103942
 "Uras Dampfbohrer",103944
 "Rezept: Silbertrophäe Decima",103945
@@ -67690,6 +67768,7 @@
 "Rezept: Großherziges-Wartungsöl-Station",104032
 "Konvergenz-Herausforderungsmodus: Gold",104033
 "Mini Mitdenkende Leitbahn",104034
+"Relikt von Berg Balrior",104035
 "Haufen von wiederverwerteten Katapulten",104036
 "Rückblick auf Siege der Bärlinge",104037
 "Silbertrophäe Decima",104038
@@ -67875,6 +67954,7 @@
 "Rezept für \"Wahrer Blick\"-Rüstung: Schultern",104245
 "Decimas großartige Kiste",104246
 "Mittlere \"Wahrer Blick\"-Maske",104247
+"Relikt des Vampirismus",104249
 "Heimstatt-Rezeptbuch: Kryta, Band 1",104250
 "Skin für Wachenritter-Stiefel",104251
 "Heimstatt-Rezept: Beetletun-Statuen-Fragmente",104252
@@ -67888,8 +67968,10 @@
 "Schwarzlöwen-Tornister mit 28 Plätzen",104268
 "Heimstatt-Rezept: Statue von Joko dem Schrecklichen",104269
 "Skin für Altbestand-Fackel",104270
+"Relikt der Brandung",104274
 "Stachelrücken-Krebs",104275
 "Skin für Altbestand-Langbogen",104276
+"Relikt des Lich",104277
 "Heimatinstanz-Knoten für aufgeladenes Titanen-Erz",104278
 "Fischschwanz-Frosch",104280
 "Schwere \"Wahrer Blick\"-Stiefel",104281
@@ -67902,6 +67984,7 @@
 "Skin für \"Infundierte Aurora\"-Beinkleid",104293
 "Finsterer Geplünderte Obsidian-Fackel",104294
 "Skin für Altbestand-Speer",104295
+"Relikt der Dornen",104296
 "Gefiederte Schnecke",104298
 "Skin für Altbestand-Zepter",104299
 "Rezept für \"Wahrer Blick\"-Rüstung: Stiefel",104301
@@ -67910,6 +67993,8 @@
 "Leichte \"Wahrer Blick\"-Maske",104304
 "Leichte \"Wahrer Blick\"-Stiefel",104305
 "Greers Kiste",104306
+"Relikt des Feuers",104308
+"Relikt des Freibeuters",104311
 "Altbestand-Auswahlkiste",104312
 "Gabe des Nebelbrand-Ödlands",104313
 "\"/Schüchternepose\"-Emote-Foliant",104314
@@ -67926,6 +68011,7 @@
 "Seltsame Mursaat-Ruinenscherbe",104331
 "\"/Überraschtepose\"-Emote-Foliant",104332
 "Finsterer Geplündertes Obsidian-Gewehr",104333
+"Relikt des Ogers",104334
 "Heimstatt-Rezeptbuch: Gipfelbanner, Band 1",104335
 "Rezept: Relikt des Holoschmieds",104336
 "Blutstein-Infusion",104340
@@ -67957,8 +68043,10 @@
 "Heimstatt-Rezeptbuch: Erweckte, Band 1",104379
 "Rezept: Relikt der Dornen",104380
 "Finsterer Geplünderter Obsidian-Stab",104381
+"Relikt der Erde",104383
 "Blutstein-Infusion",104386
 "Modeposen-Emote-Foliant",104389
+"Relikt des Holoschmieds",104390
 "Schwere \"Wahrer Blick\"-Schultern",104391
 "Wald-Irrlicht",104392
 "Rezept für \"Wahrer Blick\"-Rüstung: Beinkleider",104393
@@ -67975,7 +68063,9 @@
 "Decimas Kiste",104410
 "Endloser Yagon-Trank",104411
 "Mittlere \"Wahrer Blick\"-Stiefel",104412
+"Relikt des Adlers",104413
 "Waldkodan-Lederhandschuh",104414
+"Relikt des Golemanten",104416
 "Skin für Altbestand-Dolch",104417
 "Kiste mit Geplünderten Obsidian-Waffen",104418
 "Mittlere \"Wahrer Blick\"-Schultern",104419
@@ -68021,6 +68111,7 @@
 "Finsterer Geplünderter Obsidian-Fokus",104488
 "Heimstatt-Rezeptbuch: Güldener Talkessel, Band 1",104489
 "Abenteuer im Nebelbrand-Ödland: Bronze",104490
+"Relikt des Altruismus",104491
 "Heimstatt-Rezeptbuch: Löwenstatuen, Band 1",104492
 "Skin für Altbestand-Schwert",104495
 "Heimstatt-Rezept: Statue von Joko dem Unbeugsamen",104496

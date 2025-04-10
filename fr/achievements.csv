@@ -4415,6 +4415,7 @@
 "Circuit des cratères : trio de tête",4993
 "Videur professionnel",4995
 "Collection d'armes des sept Faucheuses",4996
+"Objectif communautaire Extra Life",4997
 "Armurerie démentielle : Carapace du Chaos",4998
 "Miséricorde du Roi Dément",4999
 "Donneur pour Extra Life",5000
@@ -4752,6 +4753,7 @@
 "Mission spéciale : piller le fort",5340
 "Participant de ligue – Vingt-deuxième saison de conquête",5341
 "Conquérant de ligue – Vingt-deuxième saison de conquête",5342
+"Pourfendeur de ligue – Vingt-deuxième saison de conquête",5343
 "Récompenses bonus quotidiennes : Ruée holographique d'or",5344
 "Récompenses bonus quotidiennes : Ruée holographique d'argent",5345
 "Récompenses bonus quotidiennes : Ruée holographique de bronze",5346
@@ -4925,6 +4927,7 @@
 "Mission d'endiguement de dragon des Champs de Gendarran quotidienne",5526
 "Pourfendeur quotidien de la Confrérie de Jade de la Fosse de Gyala",5527
 "Initié de l'endiguement de dragon",5528
+"Rangs mondiaux de la Fleur de cristal",5529
 "Rangs mondiaux des Nains de Deldrimor",5530
 "Missions de l'Avant-garde d'Ebon quotidiennes",5531
 "Missions de la Fleur de cristal quotidiennes",5532
@@ -4941,6 +4944,7 @@
 "Feu de forêt",5544
 "Collectionneur d'armements d'Invoque-tempête volcaniques",5545
 "Marée gelée",5546
+"Participant de ligue – Troisième saison 2c2",5547
 "Conquérant de ligue – Troisième saison 2c2",5548
 "Collection d'armes de l'aurore scintillante",5549
 "Pourfendeur de ligue – Troisième saison 2c2",5550
@@ -4975,6 +4979,7 @@
 "Meilleur endiguement de dragon : Champs de ruine",5589
 "Endiguement de dragon d'urgence : Lac Doric",5590
 "Collectionneur d'armes de pourfendeur de dragon azur",5591
+"Rangs mondiaux des Exaltés",5592
 "Meilleur endiguement de dragon : Congères d'Antreneige",5593
 "Spécialité des Exaltés quotidienne",5594
 "Halte aux sacrifices",5596
@@ -5105,6 +5110,7 @@
 "Participant de ligue – Vingt-septième saison de conquête",5744
 "Retour dans \"Cœur du volcan\"",5745
 "Retour dans \"La dernière chance\"",5746
+"Retour à la Plage des sirènes",5748
 "Gestion forestière : Lac Doric",5749
 "Revanche des ragelianes",5750
 "Retour dans \"Mont Draconis\"",5751
@@ -5114,6 +5120,7 @@
 "Intervention locale : Baie des braises",5755
 "Retour dans \"Lac Doric\"",5756
 "Retour dans les Contrées sauvages d'argent 2",5758
+"Intervention locale : Marais de la pierre de sang",5759
 "Retour dans \"À la rencontre des Asuras\"",5761
 "Retour dans \"Espoirs déchus\"",5762
 "Mineur : Confins de Givramer",5763
@@ -5142,6 +5149,7 @@
 "Vengeance d'Hablion",5786
 "Moissonneur : Cimesèche",5787
 "Intervention locale : Cimesèche 1",5788
+"Mineur : Plage des sirènes",5789
 "Saisons des dragons",5790
 "Gestion forestière : Marais de la pierre de sang",5791
 "Mineur : Lac Doric",5792
@@ -6026,6 +6034,7 @@
 "Protéger les champs",6696
 "La Facette du cristal et de la furie",6698
 "Souvenirs du cristal et de la furie",6699
+"Facette du cristal d'Aurene",6702
 "Anniversaire : 12 ans",6704
 "Activités des Quatre Vents (hebdomadaire)",6705
 "Voyageur des Quatre Vents",6708
@@ -6081,8 +6090,12 @@
 "Tour des trésors",6762
 "Toxi-kraiscripteur",6763
 "Protection environnementale",6764
+"Collection d'armes de Néo-Kaineng",6767
 "Participant de ligue – Trente-quatrième saison de conquête",6768
 "Conquérant de ligue – Trente-quatrième saison de conquête",6769
+"Pourfendeur de ligue – Trente-quatrième saison de conquête",6770
+"Facette de la persuasion d'Aurene",6771
+"Souvenirs de la glace et de la persuasion",6772
 "La Facette de la glace et de la persuasion",6773
 "Collection d'armes dokkaebi",6774
 "Farces ou bonbons en Tyrie",6775
@@ -7156,6 +7169,7 @@
 "Orage sur Janthir",8240
 "Collection d'événements : centre de la Syntri de Janthir",8241
 "Culture compétitive",8242
+"Collectionneur d'armures polychromes",8243
 "Vedette de la piste de danse",8244
 "Sauterelle de ruche",8245
 "Pêcheur enthousiaste de Janthir",8246
@@ -7279,6 +7293,7 @@
 "Tout de pierre, pas de sang",8364
 "Connaissance de la Côte des basses terres : Trésor des trolls",8365
 "Diplomatie et découverte",8366
+"Maître glaneur : légumes",8367
 "En quête d'équilibre",8368
 "Héros célèbre : Îles de Ventesable (hebdomadaire)",8369
 "Intervention locale : Domaine d'Istan (hebdomadaire)",8370

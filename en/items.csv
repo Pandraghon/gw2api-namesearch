@@ -43570,6 +43570,7 @@
 "Shaman's Reclaimed Greatsword of Earth",69430
 "Pile of Auric Dust",69432
 "Bottle of Airship Oil",69434
+"Note from Caithe",69444
 "Shaman's Reclaimed Rifle",69445
 "Shadow Orange Dye",69451
 "Shaman's Reclaimed Pistol",69455
@@ -51389,6 +51390,7 @@
 "Ardent Glorious Breastplate Skin",80735
 "Mini Elegant Emperor Llama",80738
 "Ardent Glorious Footgear Skin",80739
+"Illustrious Guise",80740
 "Caladbolg Iridi",80741
 "Empowered Cured Thick Leather Square",80743
 "Ardent Glorious Shoulderguard Skin",80744
@@ -63684,6 +63686,7 @@
 "Recipe: Suun's Wristguards",97725
 "Martial Artist's Headband",97726
 "Ritualist's Ancient Kraken Gauntlets",97729
+"Fishing Rod",97730
 "Ascalon Fishing License",97731
 "Shadow Serpent Sword",97732
 "Recipe: Bowl of Echovald Hotpot",97734
@@ -66254,23 +66257,35 @@
 "Synergetics Cyberhound Skin",101434
 "Golden Dragon Figurine",101435
 "Dragon Descendant's Helm",101437
+"Relic of Mercy",101439
 "Solar Astrolabe Short Bow Skin",101440
+"Relic of Evasion",101441
+"Relic of Speed",101442
 "Mysterious Tablet",101444
 "Necrotic Essence Warhorn Skin",101445
 "Maddened Mackerel",101446
+"Relic of the Pack",101447
 "Massive Calcified Gasp",101448
 "Banner of the Bastion of the Obscure",101449
 "Necrotic Essence Short Bow Skin",101450
 "Necrotic Essence Axe Skin",101451
+"Relic of the Firebrand",101452
+"Relic of the Nightmare",101453
 "Mastery Point",101454
 "Solar Astrolabe Torch Skin",101457
 "Ancient Scroll of Astral Ward Weapons",101458
 "Obsidian Heavy Greaves",101460
+"Relic of Leadership",101461
 "Obsidian Light Mantle",101462
 "Solar Astrolabe Hammer Skin",101463
 "Solar Astrolabe Warhorn Skin",101464
+"Relic of the Necromancer",101465
+"Relic of Resistance",101466
+"Relic of the Demon Queen",101467
 "Skysage's Boots Skin",101469
+"Relic of the Reaper",101472
 "Necrotic Essence Hammer Skin",101473
+"Relic of the Water",101474
 "Skysage's Gloves Skin",101475
 "Necrotic Essence Rifle Skin",101476
 "Chest of the Obscure",101477
@@ -66281,15 +66296,27 @@
 "Necrotic Essence Longbow Skin",101484
 "Solar Astrolabe Selection Box",101485
 "Solar Astrolabe Rifle Skin",101486
+"Relic of Antitoxin",101487
 "Fashionable Kilt Skin",101488
+"Relic of the Fractal",101489
+"Relic of Dagda",101491
+"Relic of Vass",101492
+"Relic of the Afflicted",101493
 "Banner of the Bastion of the Natural",101494
 "Saryx Backpiece",101495
 "Skysage's Shoulder Skin",101496
 "Obsidian Light Regalia",101499
+"Relic of Cerus",101500
 "Obsidian Light Pants",101501
+"Relic of Nourys",101503
+"Relic of Durability",101504
 "Necrotic Essence Shield Skin",101507
+"Relic of the Herald",101509
 "Knaebelag's Fang",101510
+"Relic of the Adventurer",101511
 "Shattered Kryptis Carapace",101512
+"Relic of the Defender",101513
+"Relic of Dwayna",101514
 "Maguuma Jungle Fishing License",101515
 "Obsidian Light Crown",101516
 "",101518
@@ -66297,67 +66324,101 @@
 "Obsidian Heavy Breastplate",101521
 "Trapper's Fur Cape Skin",101522
 "Frenzied Cephalopod",101523
+"Relic of the Weaver",101526
+"Relic of the Flock",101527
 "Saryx Backpiece (Infused)",101528
 "Cyberhowl Greatsword Skin",101529
 "Skysage's Helm Skin",101533
+"Relic of the Cavalier",101534
 "Obsidian Light Shoes",101535
 "Obsidian Light Gloves",101536
 "Solar Astrolabe Pistol Skin",101537
+"Relic of the Aristocracy",101539
 "Mystic Facet",101540
+"Relic of the Sunless",101541
 "Cerus's Magnificent Coffer",101542
 "Solar Astrolabe Scepter Skin",101543
 "Obsidian Heavy Helmet",101544
+"Relic of the Warrior",101545
+"Relic of Karakosa",101546
 "Ancient Scroll",101547
+"Relic of the Chronomancer",101549
 "Necrotic Essence Mace Skin",101550
 "Obsidian Heavy Pauldrons",101551
 "Skysage's Leggings Skin",101552
 "Solar Astrolabe Greatsword Skin",101553
+"Relic of the Trooper",101554
 "Obsidian Medium Jacket",101556
 "Nugget of Kryptis Essence",101558
 "Knaebelag's Hoard",101560
 "Necrotic Essence Pistol Skin",101561
 "Solar Astrolabe Sword Skin",101562
+"Relic of Febe",101563
+"Relic of Fireworks",101564
 "Banner of the Bastion of Balance",101565
 "Solar Astrolabe Dagger Skin",101566
 "Obsidian Heavy Cuisses",101568
 "Deluxe Gear Box",101569
 "Obsidian Medium Gloves",101570
+"Relic of the Unseen Invasion",101571
+"Relic of Akeem",101573
 "Cat Tree Chair",101574
 "Banner of the Bastion of Knowledge",101575
 "Solar Astrolabe Longbow Skin",101576
 "Necrotic Essence Staff Skin",101578
 "Obsidian Medium Leggings",101579
+"Relic of the Thief",101580
+"Relic of the Mirage",101581
 "Legendary Relic",101582
 "Banner of the Bastion of the Celestial",101583
 "Necrotic Essence Torch Skin",101584
+"Relic of the Wizard's Tower",101586
+"Relic of the Dragonhunter",101590
 "Solar Astrolabe Mace Skin",101591
 "Ancient Scroll of Astral Ward Weapons",101594
 "Gift of Inner Nayos",101595
 "Chest of the Obscure",101597
 "Solar Astrolabe Focus Skin",101598
 "Solar Astrolabe Shield Skin",101599
+"Relic of the Brawler",101600
 "Necrotic Essence Greatsword Skin",101601
 "Obsidian Medium Boots",101602
 "Reclaimed Bonds Mount Adoption License",101604
+"Relic of Lyhr",101605
+"Relic of the Centaur",101607
+"Relic of the Ice",101608
 "Obsidian Heavy Gauntlets",101609
 "Horn of Maguuma Fishing Reward",101610
+"Relic of Peitha",101611
 "Obsidian Medium Mask",101614
 "Banner of the Bastion of Strength",101615
 "Mastery Point",101616
 "Leaf Glider",101617
+"Relic of the Zephyrite",101618
+"Relic of the Astral Ward",101619
+"Relic of the Midnight King",101621
 "Buried Angst",101622
 "Legendary Weapon Starter Kit—Set 3",101623
 "Skysage's Coat Skin",101626
+"Relic of Nayos",101627
 "Necrotic Essence Focus Skin",101628
 "Ancient Tome",101629
+"Relic of the Monk",101630
 "Solar Astrolabe Axe Skin",101631
 "Solar Astrolabe Staff Skin",101632
+"Relic of the Scourge",101634
 "Necrotic Essence Sword Skin",101636
+"Relic of the Deadeye",101637
 "Reclaimed Bonds Mount Select License",101638
 "Knaebelag's Hoard",101639
+"Relic of the Krait",101640
 "Necrotic Essence Dagger Skin",101641
+"Relic of Mabon",101643
+"Relic of the Daredevil",101644
 "Obsidian Medium Shoulders",101645
 "Necrotic Essence Scepter Skin",101646
+"Relic of the Citadel",101647
+"Relic of Isgarren",101649
 "Afternoon Wine Dye",101650
 "Fool's Tall Tonic",101651
 "Devil-Rending Dagger Skin",101652
@@ -66430,6 +66491,7 @@
 "Tincture of Distilled World Bosses",101728
 "Lunar Astrolabe Longbow Skin",101729
 "Lunar Astrolabe Scepter Skin",101730
+"Relic of the Twin Generals",101731
 "Suffused Obsidian Light Gloves Skin",101733
 "Lunar Astrolabe Short Bow Skin",101734
 "Blackgate Veteran",101735
@@ -66463,6 +66525,7 @@
 "Delicate Flower",101772
 "Skyscale Mace Skin",101774
 "Box of Eparch's Prized Possessions",101775
+"Relic of the Founding",101776
 "Two-Handed Skyscale Weapon Box",101777
 "Jar of Finely Ground Bloodstone Dust",101778
 "Yellow Flower",101779
@@ -66529,6 +66592,7 @@
 "Shadow Chevalier Mace Skin",101857
 "Reuniting Lost Kryptis: Bronze",101858
 "Tincture of Distilled Convergences",101859
+"Relic of Mosyn",101860
 "Lunar Astrolabe Warhorn Skin",101861
 "Extra-Large Pinch of Stardust",101862
 "Relic of the Sorcerer",101863
@@ -66569,11 +66633,13 @@
 "Free Kryptis Essence: Silver",101905
 "Nayos Recon Run: Gold",101906
 "Ruins of Surmia Veteran",101907
+"Relic of the Sorcerer",101908
 "Arborstone Veteran",101909
 "Shadow Chevalier Short Bow Skin",101910
 "Underworld Veteran",101912
 "Riverside Veteran",101913
 "Miller's Sound Veteran",101916
+"Relic of the Wayfinder",101917
 "Suffused Obsidian Medium Leggings Skin",101918
 "Lunar Astrolabe Dagger Skin",101919
 "Skysage's Cape Skin",101920
@@ -66598,6 +66664,7 @@
 "Skyscale Hammer Skin",101941
 "Tincture of Distilled Nayos Events",101942
 "Relic of the Wayfinder",101943
+"Relic of Zakiros",101944
 "Shadow Chevalier Rifle Skin",101945
 "Amnytas Supply Run: Gold",101947
 "Mingoo's Cat Toy",101948
@@ -66922,6 +66989,7 @@
 "Mouse-Eared Octopus",102437
 "Polychromatic Heavy Gauntlets",102439
 "Recipe: Bloodstone Turret Fragment",102440
+"Relic of Rivers",102442
 "Polychromatic Coat Box",102443
 "",102446
 "Magi's Ursan Ornamented Pistol",102449
@@ -67070,6 +67138,7 @@
 "Igneous Regalia Outfit",102781
 "Onyx Spider's Pistol Skin",102785
 "Polychromatic Shoulders Box",102786
+"Relic of Atrocity",102787
 "Polychromatic Light Shoes",102788
 "Polychromatic Leggings Box",102789
 "Homestead Recipe Book: Banners",102790
@@ -67108,12 +67177,14 @@
 "Magi's Full Moon Hammer",102866
 "Recipe: Bronze Keep Construct Trophy",102868
 "Recipe: Gold Mursaat Overseer Trophy",102874
+"Relic of the Claw",102877
 "Woad Light Boots",102878
 "Janthir Syntri Renown Token",102881
 "Magi's Full Moon Staff",102882
 "Homestead Upgrade: Fiber Trade Capacity",102883
 "Magi's Ursan Ornamented Dagger",102884
 "Recipe: Gold Cardinal Adina Trophy",102886
+"Relic of the Blightbringer",102896
 "Ring of the Crustacean",102899
 "Gift of Klobjarne Geirr",102901
 "Homestead Recipe Book: Plants, Volume 2",102902
@@ -67255,6 +67326,7 @@
 "Valkyrie Bearkin War Helm",103257
 "Rot Stalker Gloves Skin",103258
 "Rot Stalker Helm Skin",103261
+"Relic of the Stormsinger",103262
 "Woad Light Coat",103263
 "Recipe: Keep Construct Rubble",103266
 "Lowland Spear Unlock",103268
@@ -67358,6 +67430,7 @@
 "Janthir Wilds Creatures Loot Box",103494
 "Woad Light Helm",103495
 "Recipe: Bronze Tequatl Trophy",103506
+"Relic of Sorrow",103507
 "Queen Parrotfish",103511
 "Recipe: Bronze Deimos Trophy",103512
 "Glyph of the Herbalist",103514
@@ -67583,6 +67656,7 @@
 "The Stormpiercer Spear Skin",103808
 "Proof of Siege Expertise",103809
 "Natural Leggings",103810
+"Relic of the Steamshrieker",103811
 "Mini Grey Warclaw Cub",103813
 "Homestead Recipe Book: Hedge Mazes",103814
 "Klobjarne Geirr",103815
@@ -67596,6 +67670,7 @@
 "Star Blessed Skiff Skin",103824
 "Pile of Recycled Shield Generators",103826
 "Convergence Challenge Mode: Gold",103828
+"Relic of Geysers",103829
 "Natural Wand",103830
 "Chest of Decima's Gloves",103831
 "Legendary Weapon Starter Key—Set 6",103832
@@ -67670,6 +67745,8 @@
 "Box of Scavenged Siege Parts",103919
 "Box of Scavenged Siege Parts",103920
 "Natural Bastion",103922
+"Relic of the Beehive",103923
+"Relic of Reunification",103924
 "Decima's Coffer",103926
 "Natural Claymore",103928
 "Recipe: Bronze Greer Trophy",103929
@@ -67680,6 +67757,7 @@
 "Blood Moon Scepter of Blood",103936
 "Pile of Recycled Flame Rams",103937
 "Alabaster Spider's Shield Skin",103940
+"Relic of the Mists Tide",103941
 "Recipe: Gold Decima Trophy",103942
 "Ura's Steampiercer",103944
 "Recipe: Silver Decima Trophy",103945
@@ -67758,6 +67836,7 @@
 "Recipe: Magnanimous Maintenance Oil Station",104032
 "Convergence Challenge Mode: Gold",104033
 "Mini Sentient Conduit",104034
+"Relic of Mount Balrior",104035
 "Pile of Recycled Catapults",104036
 "Recollection of the Bearkin's Victories",104037
 "Silver Decima Trophy",104038
@@ -67943,6 +68022,7 @@
 "True Sight Armor Recipe: Shoulders",104245
 "Decima's Magnificent Coffer",104246
 "True Sight Medium Mask",104247
+"Relic of Vampirism",104249
 "Homestead Recipe Book: Kryta, Volume 1",104250
 "Ward Knight's Boots Skin",104251
 "Homestead Recipe: Beetletun Statue Fragments",104252
@@ -67956,8 +68036,10 @@
 "28 Slot Black Lion Satchel",104268
 "Homestead Recipe: Statue of Joko the Fearsome",104269
 "Old-Growth Torch Skin",104270
+"Relic of Surging",104274
 "Spineback Crab",104275
 "Old-Growth Longbow Skin",104276
+"Relic of the Lich",104277
 "Charged Titan Ore Home Instance Node",104278
 "Fishtailed Frog",104280
 "True Sight Heavy Boots",104281
@@ -67970,6 +68052,7 @@
 "Infused Aurora Leggings Skin",104293
 "Sinister Scavenged Obsidian Torch",104294
 "Old-Growth Spear Skin",104295
+"Relic of Thorns",104296
 "Feathered Snail",104298
 "Old-Growth Scepter Skin",104299
 "True Sight Armor Recipe: Boots",104301
@@ -67978,6 +68061,8 @@
 "True Sight Light Mask",104304
 "True Sight Light Boots",104305
 "Greer's Coffer",104306
+"Relic of Fire",104308
+"Relic of the Privateer",104311
 "Old-Growth Selection Box",104312
 "Gift of Mistburned Barrens",104313
 "\"/PoseCover\" Emote Tome",104314
@@ -67994,6 +68079,7 @@
 "Curious Mursaat Ruin Shard",104331
 "\"/PoseLow\" Emote Tome",104332
 "Sinister Scavenged Obsidian Rifle",104333
+"Relic of the Ogre",104334
 "Homestead Recipe Book: Summit Banners, Volume 1",104335
 "Recipe: Relic of the Holosmith",104336
 "Bloodstone Infusion",104340
@@ -68025,8 +68111,10 @@
 "Homestead Recipe Book: Awakened, Volume 1",104379
 "Recipe: Relic of the Thorns",104380
 "Sinister Scavenged Obsidian Staff",104381
+"Relic of the Earth",104383
 "Bloodstone Infusion",104386
 "Fashion Poses Emote Tome",104389
+"Relic of the Holosmith",104390
 "True Sight Heavy Shoulders",104391
 "Forest Wisp",104392
 "True Sight Armor Recipe: Leggings",104393
@@ -68043,7 +68131,9 @@
 "Decima's Coffer",104410
 "Endless Yagon Tonic",104411
 "True Sight Medium Boots",104412
+"Relic of the Eagle",104413
 "Woodland Kodan Leather Gloves",104414
+"Relic of the Golemancer",104416
 "Old-Growth Dagger Skin",104417
 "Scavenged Obsidian Weapon Box",104418
 "True Sight Medium Shoulders",104419
@@ -68089,6 +68179,7 @@
 "Sinister Scavenged Obsidian Focus",104488
 "Homestead Recipe Book: Auric Basin, Volume 1",104489
 "Mistburned Barrens Adventure: Bronze",104490
+"Relic of Altruism",104491
 "Homestead Recipe Book: Lion Statues, Volume 1",104492
 "Old-Growth Sword Skin",104495
 "Homestead Recipe: Statue of Joko the Indomitable",104496
