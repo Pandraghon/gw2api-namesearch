@@ -5073,8 +5073,15 @@
 "Whisper's Secret Hood",5347
 "Whisper's Secret Leggings",5348
 "Whisper's Secret Shoulderguards",5349
+"Apprentice Shoes of the Elementalist",5353
+"Guild Archmage Robes of the Elementalist",5354
+"Guild Archmage Pants of the Elementalist",5355
+"Apprentice Gloves of the Elementalist",5362
+"Apprentice Shoulders of the Elementalist",5363
+"Apprentice Band of the Elementalist",5364
 "Guild Archmage Robes of the Mesmer",5387
 "Guild Archmage Pants of the Mesmer",5390
+"Cloth Aquabreather",5398
 "Magician Boots",5407
 "Magician Coat",5408
 "Magician Gloves",5409
@@ -6465,6 +6472,7 @@
 "Quaggan Bag of Goods",8642
 "Snowball",8643
 "Potion of Jackalope Transformation",8644
+"Potion of Wolf Transformation",8645
 "Jafri's Package of Snowballs",8646
 "Smoke Bomb",8647
 "Molachev Cocktail",8648
@@ -14332,6 +14340,7 @@
 "Matrix Cube Key",19403
 "Matrix Cube Key",19404
 "Matrix Cube Key",19405
+"Wiley Pirate Paper Scraps",19415
 "Stolen Sack of Feed",19418
 "Letter of Thanks",19431
 "Eloquent Letter of Thanks",19432
@@ -14951,8 +14960,12 @@
 "Endless Mystery Tonic",20321
 "Snow Owl Tonic",20322
 "Unidentified Dye",20323
+"Black Lion Harvesting Sickle",20324
+"Black Lion Logging Axe",20325
+"Black Lion Mining Pick",20326
 "Eagle Tonic",20327
 "Owl Tonic",20328
+"Golemite Tonic",20329
 "Jackalope Tonic",20330
 "Leopard Tonic",20331
 "Minotaur Tonic",20332
@@ -15442,6 +15455,7 @@
 "Tome of Influence",21046
 "Mini Rytlock",21047
 "Golem Banker",21048
+"Soldier's Amulet",21083
 "Rune of Strength",21092
 "Flawed Guild Catapult Blueprint",21119
 "Sigil of Agony",21121
@@ -15510,6 +15524,8 @@
 "Rune of Sanctuary",21221
 "Rune of Orr",21222
 "Staff of Life",21237
+"Staff of Smoldering",21241
+"Trident of Force",21242
 "Omega Siege Golem Blueprints",21259
 "Superior Arrow Cart Blueprints",21260
 "Superior Ballista Blueprints",21261
@@ -15622,12 +15638,21 @@
 "Mithril Mining Pick",23010
 "Mithril Mining Pick",23011
 "Mithril Harvesting Sickle",23013
+"Master Harvesting Sickle",23020
+"Master Logging Axe",23021
+"Master Mining Pick",23022
 "Splitting Axe",23023
 "Mining Pick",23024
 "Foraging Sickle",23025
+"Master Harvesting Sickle",23026
+"Master Logging Axe",23027
+"Master Mining Pick",23028
 "Copper Harvesting Sickle",23029
 "Copper Logging Axe",23030
 "Copper Mining Pick",23031
+"Master Harvesting Sickle",23032
+"Master Logging Axe",23033
+"Master Mining Pick",23034
 "Pick Axe",23035
 "Worker's Sickle",23036
 "Bun Yan Axe",23037
@@ -27213,7 +27238,10 @@
 "Witch's Coat",36376
 "Witch's Outfit",36379
 "Spooky Ghost Tonic",36380
+"Spooky Zombie Tonic",36381
 "Spooky Skeleton Tonic",36382
+"Mad Memoires I: Boyhood",36384
+"Mad Memoires II: Friendship",36385
 "Candy-Powered Matter Meter",36396
 "Mad Memoires",36397
 "Mad Memoires: Complete Edition",36398
@@ -27553,6 +27581,7 @@
 "Alchemical Bottle",36969
 "Alchemical Bottle",36979
 "Alchemical Bottle",36989
+"Mysterious Soggy Bag",36994
 "Map Fragment",36996
 "Map of Southsun Cove",36997
 "Unhatched Swarm Egg",36998
@@ -28338,6 +28367,7 @@
 "Recipe: Giver's Mithril Imbued Inscription",38296
 "Recipe: Bringer's Orichalcum-Imbued Inscription",38297
 "15-Slot Gift Box",38298
+"Ultimate Wintersday Gift",38299
 "Mystical Cog",38300
 "Wad of Enchanted Stuffing",38301
 "Drop of Magic Glue",38302
@@ -29247,12 +29277,14 @@
 "Guild Merit",39626
 "Guild Commendation",39695
 "Guild Banner Tonic",39696
+"Guild Armor Station",39697
 "Guild Exp Banner",39698
 "Guild Gathering Banner",39699
 "Guild Karma Banner",39700
 "Guild Magic Find Banner",39701
 "Guild Road Marker",39702
 "Guild Banquet",39703
+"Guild Weapon Stations",39705
 "Guild Heroes Banner",39706
 "Guild Gathering and Swiftness Banner",39707
 "Guild Gold and Magic Find Banner",39708
@@ -30162,7 +30194,9 @@
 "Heavy Fused Gauntlets",42418
 "Medium Fused Gauntlets",42419
 "Light Fused Gauntlets",42420
+"Fervid Censer",42424
 "Sclerite Karka Shell",42425
+"Sclerite Karka Shell",42426
 "Potion Of Karka Slaying",42427
 "Potion Of Karka Toughness",42428
 "Settler's Banded Greaves of the Eagle",42429
@@ -30477,6 +30511,7 @@
 "Captain's Airship Pass (2 weeks)",42968
 "Additional Crafting License",42970
 "Flute",42973
+"Kite Fortune",42974
 "Boost Enchantment Powder",42976
 "Wintersday Minis 3-Pack",42978
 "Heroic Chest",42979
@@ -30571,6 +30606,7 @@
 "Malign WvW Infusion",43253
 "Mighty WvW Infusion",43254
 "Precise WvW Infusion",43255
+"Investigation Kit",43300
 "Bag of Race Track Winnings",43301
 "Bag of Race Track Winnings",43302
 "Fireworks",43307
@@ -30588,6 +30624,7 @@
 "Holographic Shattered Dragon Wing Cover",43350
 "Aetherized Tonic",43351
 "Infinite Aetherized Tonic",43352
+"Marjory's Journal",43353
 "Dragon Coffer",43357
 "Kralkachocolate Bar",43358
 "Dragonfly Cupcake",43359
@@ -31513,6 +31550,10 @@
 "Mini Mr. Sparkles",45011
 "Quip",45016
 "Quip",45017
+"Oscillating Diaphragm",45022
+"Focusing Crystal",45023
+"Translocator Beacon",45024
+"Positional Relay Beacon",45025
 "Twisted Watchwork Portal Device",45027
 "Recipe: Twisted Watchwork Portal Device",45028
 "Gift from Scarlet",45029
@@ -34938,6 +34979,7 @@
 "Mini Caithe",48756
 "Mini Dolyak",48761
 "WvW Season 1 Participation Bag",48763
+"Mad King Chest",48796
 "Tassi's Relay Golem",48803
 "Gift of Candy Corn",48804
 "High-Quality Plastic Fangs",48805
@@ -34980,6 +35022,7 @@
 "Recipe: Toxic Focusing Crystal",48920
 "Bowl of Marjory's Experimental Chili",48921
 "Recipe: Marjory's Experimental Chili",48922
+"Krait Obelisk Shard Transcriber",48923
 "Blacklight Dye",48924
 "Cobolt Dye",48925
 "Cyanide Dye",48926

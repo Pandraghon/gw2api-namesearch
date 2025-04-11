@@ -5073,8 +5073,15 @@
 "Capuchon secret des Soupirs",5347
 "Jambières secrètes des Soupirs",5348
 "Garde-épaules secrets des Soupirs",5349
+"Chausses d'apprenti d'élémentaliste",5353
+"Manteau d'Archimage de guilde d'élémentaliste",5354
+"Pantalon d'Archimage de guilde d'élémentaliste",5355
+"Gants d'apprenti d'élémentaliste",5362
+"Epaulières d'apprenti d'élémentaliste",5363
+"Bandeau d'apprenti d'élémentaliste",5364
 "Manteau d'Archimage de guilde d'envoûteur",5387
 "Pantalon d'Archimage de guilde d'envoûteur",5390
+"Aqua-respirateur en tissu",5398
 "Bottes de magicien",5407
 "Manteau de magicien",5408
 "Gants de magicien",5409
@@ -6465,6 +6472,7 @@
 "Sac de marchandises quaggans",8642
 "Boule de neige",8643
 "Potion de transformation en chacalope",8644
+"Potion de transformation en loup",8645
 "Paquet de boules de neige de Jafri",8646
 "Bombe fumigène",8647
 "Cocktail Molachev",8648
@@ -14332,6 +14340,7 @@
 "Clé matricielle cubique",19403
 "Clé matricielle cubique",19404
 "Clé matricielle cubique",19405
+"Morceaux de papier des pirates de Wiley",19415
 "Sac de nourriture volé",19418
 "Lettre de remerciements",19431
 "Lettre de remerciements éloquente",19432
@@ -14951,8 +14960,12 @@
 "Tonique mystérieux inépuisable",20321
 "Tonique de chouette harfang",20322
 "Teinture non identifiée",20323
+"Faux de moissonneur du Lion noir",20324
+"Hache de bûcheron du Lion noir",20325
+"Pioche de mineur du Lion noir",20326
 "Tonique d'aigle",20327
 "Tonique de chouette",20328
+"Tonique golemite",20329
 "Tonique de chacalope",20330
 "Tonique de léopard",20331
 "Tonique de minotaure",20332
@@ -15442,6 +15455,7 @@
 "Grimoire d'influence",21046
 "Mini-Rytlock",21047
 "Golem banquier",21048
+"Amulette militaire",21083
 "Rune de force",21092
 "Plan de catapulte de guilde imparfait",21119
 "Cachet d'agonie",21121
@@ -15510,6 +15524,8 @@
 "Rune de sanctuaire",21221
 "Rune d'Orr",21222
 "Bâton de vie",21237
+"Bâton de consumation",21241
+"Trident de fermeté",21242
 "Plans de golem de siège omega",21259
 "Plans de chariot à flèches supérieures",21260
 "Plans de baliste supérieure",21261
@@ -15622,12 +15638,21 @@
 "Pioche de mineur en mithril",23010
 "Pioche de mineur en mithril",23011
 "Faux de moissonneur en mithril",23013
+"Faux de maître moissonneur",23020
+"Hache de maître bûcheron",23021
+"Pioche de maître mineur",23022
 "Merlin",23023
 "Pioche de mineur",23024
 "Faux de fouilles",23025
+"Faux de maître moissonneur",23026
+"Hache de maître bûcheron",23027
+"Pioche de maître mineur",23028
 "Faux de moissonneur en cuivre",23029
 "Hache de bûcheron en cuivre",23030
 "Pioche de mineur en cuivre",23031
+"Faux de maître moissonneur",23032
+"Hache de maître bûcheron",23033
+"Pioche de maître mineur",23034
 "Pioche",23035
 "Faucille d'ouvrier",23036
 "Hache de Bun Yan",23037
@@ -27213,7 +27238,10 @@
 "Manteau de sorcière",36376
 "Tenue de sorcière",36379
 "Tonique de fantôme sinistre",36380
+"Tonique de zombie sinistre",36381
 "Tonique de squelette sinistre",36382
+"Mémoires déments I : Enfance",36384
+"Mémoires déments II : Amitié",36385
 "Matièromètre alimenté en bonbons",36396
 "Mémoires déments",36397
 "Mémoires déments : Edition complète",36398
@@ -27553,6 +27581,7 @@
 "Flacon alchimique",36969
 "Flacon alchimique",36979
 "Flacon alchimique",36989
+"Sac mouillé mystérieux",36994
 "Fragment de carte",36996
 "Carte de la Crique de Sud-Soleil",36997
 "Œuf d'essaim non éclos",36998
@@ -28338,6 +28367,7 @@
 "Recette : inscription enchantée sur plaque de mithril bienfaitrice",38296
 "Recette : Inscription enchantée du pourvoyeur sur plaque d'orichalque",38297
 "Boîte de cadeaux 15 emplacements",38298
+"Présent ultime d'Hivernel",38299
 "Rouage mystique",38300
 "Poignée de rembourrage enchanté",38301
 "Goutte de colle magique",38302
@@ -29247,12 +29277,14 @@
 "Distinction de guilde",39626
 "Recommandation de guilde",39695
 "Tonique de bannière de guilde",39696
+"Atelier d'armures de guilde",39697
 "Bannière d'expérience de guilde",39698
 "Bannière de récolte de guilde",39699
 "Bannière de karma de guilde",39700
 "Bannière de découverte de magie de guilde",39701
 "Repère routier de guilde",39702
 "Banquet de guilde",39703
+"Atelier d'armes de guilde",39705
 "Bannière des héros de guilde",39706
 "Bannière de récolte et de rapidité de guilde",39707
 "Bannière d'or et de découverte de magie de guilde",39708
@@ -30162,7 +30194,9 @@
 "Gantelets lourds de la Fusion",42418
 "Gantelets intermédiaires de la Fusion",42419
 "Gantelets légers de la Fusion",42420
+"Encensoir infectieux",42424
 "Carapace chitineuse de karka",42425
+"Carapace chitineuse de karka",42426
 "Potion de massacre de karkas",42427
 "Potion de robustesse de karkas",42428
 "Grèves rubanées colonisatrices de l'aigle",42429
@@ -30477,6 +30511,7 @@
 "Laissez-passer de capitaine d'aéronef (2 semaines)",42968
 "Licence d'artisanat supplémentaire",42970
 "Flûte",42973
+"Fortune de cerf-volant",42974
 "Poudre d'enchantement d'augmentation",42976
 "Tri-pack de miniatures d'Hivernel",42978
 "Coffre héroïque",42979
@@ -30571,6 +30606,7 @@
 "Infusion McM néfaste",43253
 "Infusion McM puissante",43254
 "Infusion McM précise",43255
+"kit d'enquête",43300
 "Sac de gains du champ de course",43301
 "Sac de gains du champ de course",43302
 "Feux d'artifice",43307
@@ -30588,6 +30624,7 @@
 "Couvre ailes holographiques du Destructeur",43350
 "Tonique éthéré",43351
 "Tonique éthéré infini",43352
+"Journal de Marjory",43353
 "Malle du Dragon",43357
 "Barre de kralkachocolat",43358
 "Petit four libellule",43359
@@ -31513,6 +31550,10 @@
 "Mini-M. Kibrille",45011
 "Répartie",45016
 "Répartie",45017
+"Diaphragme oscillant",45022
+"Cristal de focalisation",45023
+"Balise de translocalisateur",45024
+"Balise de relais positionnel",45025
 "Portail mécanique détraqué",45027
 "Recette : portail mécanique détraqué",45028
 "Cadeau de Scarlet",45029
@@ -34938,6 +34979,7 @@
 "Mini-Caithe",48756
 "Mini-dolyak",48761
 "Sac de participation à la saison 1 McM",48763
+"Coffre du Roi Dément",48796
 "Récepteur golem de Tassi",48803
 "Don de bonbons",48804
 "Crocs en plastique de haute qualité",48805
@@ -34980,6 +35022,7 @@
 "Recette : cristal de focalisation toxique",48920
 "Bol de chili expérimental de Marjory",48921
 "Recette : chili expérimental de Marjory",48922
+"Transcripteur d'éclat d'obélisque krait",48923
 "Teinture lumière noire",48924
 "Teinture cobalt électrique",48925
 "Teinture cyanure",48926

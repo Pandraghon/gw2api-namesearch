@@ -5073,8 +5073,15 @@
 "Geheime Gerüchte-Kapuze",5347
 "Geheimes Gerüchte-Beinkleid",5348
 "Geheime Gerüchte-Schulterschützer",5349
+"Lehrlings-Schuhe des Elementarmagiers",5353
+"Gilden-Erzmagier-Robe des Elementarmagiers",5354
+"Gilden-Erzmagier-Hose des Elementarmagiers",5355
+"Lehrlings-Handschuhe des Elementarmagiers",5362
+"Lehrlings-Schultern des Elementarmagiers",5363
+"Lehrlings-Band des Elementarmagiers",5364
 "Gilden-Erzmagier-Robe des Mesmers",5387
 "Gilden-Erzmagier-Hose des Mesmers",5390
+"Stoff-Aqua-Atmer",5398
 "Magiekundigen-Stiefel",5407
 "Magiekundigen-Wams",5408
 "Magiekundigen-Handschuhe",5409
@@ -6426,6 +6433,7 @@
 "Quaggan-Beutel mit Waren",8642
 "Schneeball",8643
 "Trank der Wolpertinger-Verwandlung",8644
+"Trank der Wolfsverwandlung",8645
 "Packung Schneebälle Jafris",8646
 "Rauchbombe",8647
 "Maulachev-Cocktail",8648
@@ -14293,6 +14301,7 @@
 "Matrixwürfel-Schlüssel",19403
 "Matrixwürfel-Schlüssel",19404
 "Matrixwürfel-Schlüssel",19405
+"Papierschnipsel der Wiley-Piraten",19415
 "Gestohlener Sack mit Nahrung",19418
 "Dankesbrief",19431
 "Eloquenter Dankesbrief",19432
@@ -14912,8 +14921,12 @@
 "Endloser Geheimtrank",20321
 "Schnee-Eulen-Trank",20322
 "Nicht identifizierte Farbe",20323
+"Schwarzlöwen-Erntesichel",20324
+"Schwarzlöwen-Holzfälleraxt",20325
+"Schwarzlöwen-Spitzhacke",20326
 "Adler-Trank",20327
 "Eulen-Trank",20328
+"Golemiten-Trank",20329
 "Wolpertinger-Trank",20330
 "Leoparden-Trank",20331
 "Minotauren-Trank",20332
@@ -15403,6 +15416,7 @@
 "Foliant des Einflusses",21046
 "Mini Rytlock",21047
 "Golem-Bankier",21048
+"Soldatisches Amulett",21083
 "Rune der Stärke",21092
 "Fehlerhafte Blaupause für Gilden-Katapult",21119
 "Sigill der Qual",21121
@@ -15471,6 +15485,8 @@
 "Rune der Zuflucht",21221
 "Rune von Orr",21222
 "Stab des Lebens",21237
+"Stab der Glut",21241
+"Dreizack der Heftigkeit",21242
 "Blaupause für Belagerungs-Golem",21259
 "Blaupause für Überlegener Pfeilwagen",21260
 "Blaupause für Überlegene Balliste",21261
@@ -15583,12 +15599,21 @@
 "Mithril-Spitzhacke",23010
 "Mithril-Spitzhacke",23011
 "Mithril-Erntesichel",23013
+"Meister-Erntesichel",23020
+"Meister-Holzfälleraxt",23021
+"Meister-Spitzhacke",23022
 "Spalt-Axt",23023
 "Spitzhacke",23024
 "Auflesesichel",23025
+"Meister-Erntesichel",23026
+"Meister-Holzfälleraxt",23027
+"Meister-Spitzhacke",23028
 "Kupfer-Erntesichel",23029
 "Kupfer-Holzfälleraxt",23030
 "Kupfer-Spitzhacke",23031
+"Meister-Erntesichel",23032
+"Meister-Holzfälleraxt",23033
+"Meister-Spitzhacke",23034
 "Spitzhacke",23035
 "Arbeitersichel",23036
 "Bun-Yan-Axt",23037
@@ -27148,7 +27173,10 @@
 "Hexen-Wams",36376
 "Hexen-Kleidungsset",36379
 "Gruselgespenst-Trank",36380
+"Gruselzombie-Trank",36381
 "Gruselskelett-Trank",36382
+"Verrückte Memoiren I: Kindheit",36384
+"Verrückte Memoiren II: Freundschaft",36385
 "Bonbon-betriebener Materiemeter",36396
 "Verrückte Memoiren",36397
 "Verrückte Memoiren: Gesamtausgabe",36398
@@ -27488,6 +27516,7 @@
 "Alchemistische Flasche",36969
 "Alchemistische Flasche",36979
 "Alchemistische Flasche",36989
+"Geheimnisvoller durchnässter Beutel",36994
 "Kartenfragment",36996
 "Karte der Südlicht-Bucht",36997
 "Ungeschlüpftes Schwarmei",36998
@@ -28271,6 +28300,7 @@
 "Rezept: Spendable mithrildurchdrungene Inschrift",38296
 "Rezept: Bringende orichalcumdurchdrungene Inschrift",38297
 "Geschenkekiste mit 15 Plätzen",38298
+"Ultimatives Wintertag-Geschenk",38299
 "Mystisches Ritzel",38300
 "Bündel verzaubertes Füllmaterial",38301
 "Tropfen Zauberkleber",38302
@@ -29180,12 +29210,14 @@
 "Gilden-Marke",39626
 "Gilden-Belobigung",39695
 "Gilden-Banner-Trank",39696
+"Gilden-Rüstungsstation",39697
 "Gilden-Banner für Erfahrung",39698
 "Gilden-Banner für Sammeln",39699
 "Gilden-Banner für Karma",39700
 "Gilden-Banner für Magisches Gespür",39701
 "Gilden-Straßenmarkierung",39702
 "Gilden-Bankett",39703
+"Gilden-Waffenstation",39705
 "Gilden-Banner für Helden",39706
 "Gilden-Banner für Sammeln und Eile",39707
 "Gilden-Banner für Gold und Magisches Gespür",39708
@@ -30095,7 +30127,9 @@
 "Schwere Pyro-Stulpenhandschuhe",42418
 "Mittlere Pyro-Stulpenhandschuhe",42419
 "Leichte Pyro-Stulpenhandschuhe",42420
+"Duftrauchbrenner",42424
 "Sklero-Karka-Panzer",42425
+"Sklero-Karka-Panzer",42426
 "Trank der Karka-Vernichtung",42427
 "Trank der Karka-Zähigkeit",42428
 "Siedelnde Beschildete Beinschienen des Adlers",42429
@@ -30410,6 +30444,7 @@
 "Passierschein des Luftschiff-Kapitäns (2 Wochen)",42968
 "Zusätzliche Handwerkslizenz",42970
 "Flöte",42973
+"Lenkdrachen-Glücksbringer",42974
 "Verstärkungsverzauberungspulver",42976
 "Wintertag-Minis 3er-Pack",42978
 "Heldentruhe",42979
@@ -30504,6 +30539,7 @@
 "Unheilvolle WvW-Infusion",43253
 "Mächtige WvW-Infusion",43254
 "Präzise WvW-Infusion",43255
+"Untersuchungskit",43300
 "Beutel Rennbahn-Gewinne",43301
 "Beutel Rennbahn-Gewinne",43302
 "Feuerwerkskörper",43307
@@ -30521,6 +30557,7 @@
 "Holografischer Zerschmetterer-Drachenschwingen-Bezug",43350
 "Ätherisierter Trank",43351
 "Endloser ätherisierter Trank",43352
+"Tagebuch Marjorys",43353
 "Drachenkiste",43357
 "Kralkaschokoriegel",43358
 "Libellen-Törtchen",43359
@@ -31446,6 +31483,10 @@
 "Mini Meister Funkel",45011
 "Knaller",45016
 "Knaller",45017
+"Oszillationsmembran",45022
+"Fokussierkristall",45023
+"Translokator-Leuchtfeuer",45024
+"Positionsrelais-Bake",45025
 "\"Verdrehtes Uhrwerk\"-Portalgerät",45027
 "Rezept: \"Verdrehtes Uhrwerk\"-Portalgerät",45028
 "Geschenk von Scarlet",45029
@@ -34871,6 +34912,7 @@
 "Mini Caithe",48756
 "Mini Dolyak",48761
 "Teilnehmertasche der WvW-Saison 1",48763
+"Truhe des Verrückten Königs",48796
 "Fernmelde-Golem Taimis",48803
 "Gabe des Candy-Corns",48804
 "Hochwertige Plastikzähne",48805
@@ -34913,6 +34955,7 @@
 "Rezept: Toxischer Abstimmkristall",48920
 "Schüssel mit Marjorys experimentellem Chili",48921
 "Rezept: Marjorys experimentelles Chili",48922
+"Krait-Obeliskenscherben-Entschlüssler",48923
 "Schwarzlicht-Farbe",48924
 "Blaustein-Farbe",48925
 "Zyanid-Farbe",48926
