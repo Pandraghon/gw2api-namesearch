@@ -68549,6 +68549,7 @@
 "Oasis de cristal : coffre au choix du Commandant",104677
 "Apparence d'épée de croissance rocheuse",104678
 "Anneau runique en bois en affinité (infusé)",104681
+"Mini-reine tourbière",104682
 "Recette : structure norn en pierre",104685
 "Archipel de l'observatoire céleste : coffre au choix du Commandant",104686
 "Orée d'émeraude : coffre au choix du Commandant",104687
@@ -68559,8 +68560,12 @@
 "Liste de cachettes du Blanc-Manteau",104703
 "Sceptre de clarté légère en sommeil",104707
 "Convergence - Nayos extérieur : coffre au choix du Commandant",104710
+"Mini-petit trottetin blanc",104711
+"Recette : bouclier de clarté légère",104713
+"Bava Nisos : coffre au choix du Commandant",104714
 "Apparence de cor de guerre de croissance rocheuse",104715
 "Hache de clarté légère en sommeil",104718
+"Recette : sceptre de clarté légère",104720
 "Livre de recettes pour pavillon : livres",104723
 "Masse de clarté légère en sommeil",104725
 "Apparence de sac à dos à ailes animées",104726
@@ -68568,6 +68573,8 @@
 "Amnytas : coffre au choix du Commandant",104730
 "Relique du Prodige",104733
 "Recette : grand engrenage en laiton du Lion noir",104735
+"Fosse de Gyala : coffre au choix du Commandant",104738
+"Mode défi de convergence : or",104739
 "La Désolation : coffre au choix du Commandant",104740
 "Anneau runique en bois en affinité",104741
 "Apparence de marteau de croissance rocheuse",104743
@@ -68581,25 +68588,36 @@
 "Convergence - Nayos extérieur : coffre au choix du Commandant",104756
 "Ciel de pavillon de l'aurore scintillante",104757
 "Apparence de fusil de croissance rocheuse",104758
+"Recette : masse de clarté légère",104759
 "Apparence de scaraboule enchanté",104760
 "Apparence de pistolet de croissance rocheuse",104766
 "Espadon de clarté légère en sommeil",104767
 "Apparence de bâton de croissance rocheuse",104771
+"Ouvrage de portail du sorcier",104772
 "Essence de brèche prodigieuse",104773
 "Lance de clarté légère en sommeil",104775
 "Arc court de clarté légère en sommeil",104776
 "Recette : tuyau courbe en laiton du Lion noir",104779
 "Citadelle de Zakiros : coffre au choix du Commandant",104783
+"Épée de clarté légère",104787
+"Don de compréhension de Titan",104791
 "Apparence de torche de croissance rocheuse",104794
+"Recette : arc long de clarté légère",104796
 "Oasis de cristal : coffre au choix du Commandant",104798
 "Recette : petit engrenage en laiton du Lion noir",104799
 "Relique de la pierre de sang",104800
 "Apparence d'arc long de croissance rocheuse",104801
+"Domaine de Vabbi : coffre au choix du Commandant",104803
 "Recette : lance de clarté légère",104807
+"Recette : dague de clarté légère",104809
 "Bouclier de clarté légère en sommeil",104810
 "Apparence d'arc court de croissance rocheuse",104814
+"Épaulières de cuir kodans sylvestres",104816
+"Reste d'objet de dos du saumon du savoir",104817
+"Mode défi de convergence : argent",104818
 "Recette : tuyau droit en laiton du Lion noir",104819
 "Mini-petit trottetin beige",104820
+"Recette : marteau de clarté légère",104823
 "Mini-géode vigilante",104826
 "Recette : salle du Corbeau",104828
 "Vestiges mursaats étranges",104829
@@ -68607,11 +68625,13 @@
 "Archipel de l'observatoire céleste : coffre au choix du Commandant",104831
 "Syntri de Janthir : coffre au choix du Commandant",104832
 "Livre de recettes pour pavillon : Foire du Dragon, volume 4",104834
+"Mini-petit trottetin gris",104835
 "Orée d'émeraude : coffre au choix du Commandant",104838
 "Recette : raccord de tuyau en laiton du Lion noir",104840
 "Apparence de lance de feu du renard",104842
 "Épée de clarté légère en sommeil",104843
 "Recette : bouchon de tuyau en laiton du Lion noir",104845
+"Don des ombres",104846
 "Relique de Bava Nisos",104848
 "Relique de l'agonie",104849
 "Apparence de masse de croissance rocheuse",104850
@@ -68619,18 +68639,30 @@
 "Recette : tuyau en T en laiton du Lion noir",104852
 "Éclat de Bava Nisos",104855
 "Nayos intérieur : coffre au choix du Commandant",104856
+"Hache de clarté légère",104859
 "Recette : mur en laiton du Lion noir",104862
 "Livre de recettes pour pavillon : Foire du Dragon, volume 3",104865
 "Cor de guerre de clarté légère en sommeil",104867
 "Apparence de bouclier de croissance rocheuse",104869
 "Deltaplane à ailes du dragon stellaire",104871
+"Épaulières de cuir kodans sylvestres",104873
 "Province de Seitung : coffre au choix du Commandant",104879
+"Fosse de Gyala : coffre au choix du Commandant",104883
 "Profondeurs verdoyantes : coffre au choix du Commandant",104884
+"Terres sauvages d'Echovald : coffre au choix du Commandant",104885
+"Trépas du dragon : coffre au choix du Commandant",104888
 "Repli du dragon : coffre au choix du Commandant",104894
 "Champion d'Orr",104895
+"Don de Bava Nisos",104896
+"Terres sauvages d'Echovald : coffre au choix du Commandant",104897
+"Recette : fusil de clarté légère",104898
 "Mini-labrador doré",104900
 "Repli du dragon : coffre au choix du Commandant",104906
+"Graines de fruit de l'ombre",104908
+"Coffre d'arme de la Foire du Dragon",104909
+"Trépas du dragon : coffre au choix du Commandant",104910
 "Bassin aurique : coffre au choix du Commandant",104911
+"Recette : espadon de clarté légère",104913
 "Apparence de dague de croissance rocheuse",104919
 "Combo de sac à dos et deltaplane à ailes du dragon stellaire",104921
 "Apparence de deltaplane à ailes animées",104926
@@ -68645,24 +68677,37 @@
 "Arc long de clarté légère en sommeil",104939
 "Livre de recettes pour pavillon : Foire du Dragon, volume 6",104941
 "Syntri de Janthir : coffre au choix du Commandant",104942
+"Rives de l'Elon : coffre au choix du Commandant",104943
 "Bassin aurique : coffre au choix du Commandant",104944
 "Amnytas : coffre au choix du Commandant",104945
+"Recette : focus de clarté légère",104949
+"Recette : épée de clarté légère",104955
+"Mode défi de convergence : or",104956
 "Mini-petit trottetin roux",104958
+"Recette : torche de clarté légère",104960
+"Domaine de Vabbi : coffre au choix du Commandant",104961
 "Gobeur du sorcier",104963
 "Apparence d'espadon de croissance rocheuse",104966
 "Augmentation de la limite de décorations du pavillon",104971
 "Province de Seitung : coffre au choix du Commandant",104973
 "Boîte de sélection de croissance rocheuse",104977
 "Pistolet de clarté légère en sommeil",104979
+"Épaulières de cuir kodans sylvestres",104980
 "Boîte d'arme de clarté légère en sommeil",104983
+"Mode défi de convergence : bronze",104984
 "Recette : hache de clarté légère",104986
+"Lettre de Lutze",104987
 "Néo-Kaineng : coffre au choix du Commandant",104988
+"Rives de l'Elon : coffre au choix du Commandant",104993
 "Relique du Feu-de-Brume",104994
 "Apparence de lance de croissance rocheuse",104996
 "Recette : escalier norn",104997
 "Focus de clarté légère en sommeil",104998
 "Livre de recettes pour pavillon : Foire du Dragon, volume 2",104999
 "Profondeurs verdoyantes : coffre au choix du Commandant",105001
+"Preuve éternelle d'amitié",105002
+"Résidu de porte des Brumes",105004
+"Recette : pistolet de clarté légère",105006
 "Fusil de clarté légère en sommeil",105007
 "Essence de brèche rare",105009
 "Bâton de clarté légère en sommeil",105013
