@@ -60363,6 +60363,7 @@
 "Recette : masse d'Invoque-tempête",93362
 "Conteneur du Belvédère de Petraj",93363
 "Boîte de griffes de la Légion de Fer",93364
+"Kit de démarrage : Rodgort",93366
 "Boîte de matériaux glaciaux de la Légion des Cendres",93369
 "Document de mission spéciale",93371
 "Écho puissant de la Côte de Bruinebois",93373
@@ -63115,6 +63116,7 @@
 "Réserve exotique de Canach",96858
 "Bras du faux octopode",96859
 "Guide sur la vie des plantes pétrifiées",96860
+"Kit de démarrage : Aurore",96861
 "Flet étoilé",96863
 "Teinture sagesse",96867
 "Aiguillon de Togo",96869
@@ -67126,6 +67128,7 @@
 "Objet de dos du saumon du savoir",102367
 "Expertise des Kodans des basses terres",102370
 "Gants intermédiaires polychromes",102373
+"Livre de recettes pour pavillon : Foire du Dragon, volume 1",102374
 "Don de propriétaire tyrien",102376
 "Boîte de butin de Greer des Terres sauvages de Janthir",102377
 "Glyphe du forestier",102378
@@ -67179,6 +67182,7 @@
 "Sceptre ornementé ursin mage",102473
 "Recette : trophée d'or de Dhuum",102474
 "Boîte à outil de bûcheron d'horreur surnaturelle",102477
+"Recette : prisme de cristal",102478
 "Recette : plastron lourd de plates de Titan",102482
 "Apparence de hache corrompue par le vide",102486
 "Miniature de Vallée hérissée",102487
@@ -67271,6 +67275,7 @@
 "Masque intermédiaire polychrome",102678
 "Harnois lourd en plaques de Titans",102679
 "Aventure de la Syntri de Janthir : or",102682
+"Recette : tank charr",102684
 "Glyphe du tailleur",102686
 "Étoile filante",102692
 "Harnois lourd polychrome",102700
@@ -67307,6 +67312,7 @@
 "Cuissières lourdes polychromes",102779
 "Recette : trophée d'argent de la Rivière des âmes",102780
 "Tenue régalienne ignée",102781
+"Recette : présentoir d'armure orné",102783
 "Apparence de pistolet de l'araignée d'onyx",102785
 "Boîte d'épaulières polychromes",102786
 "Relique d'atrocité",102787
@@ -67427,6 +67433,7 @@
 "Glyphe du factionnaire mécanique",103045
 "Aventure de la Syntri de Janthir : argent",103046
 "Bois de pavillon raffiné",103049
+"Recette : lampe dorée",103051
 "Glyphe du déliement",103052
 "Recette : établi à drone de jade",103054
 "Veste intermédiaire en plaques de Titans",103055
@@ -67853,6 +67860,7 @@
 "Extraction de brèche",103823
 "Apparence d'esquif béni de l'astre",103824
 "Tas de pièces recyclées de générateurs de bouclier",103826
+"Clé de démarrage d'arme légendaire : ensemble n° 8",103827
 "Mode défi de convergence : or",103828
 "Relique des geysers",103829
 "Baguette naturelle",103830
@@ -67928,6 +67936,7 @@
 "Coffre d'arme élevée du sorcier",103918
 "Boîte de pièces de siège recyclées",103919
 "Boîte de pièces de siège recyclées",103920
+"Clé de démarrage d'arme légendaire : ensemble n° 8",103921
 "Bastion naturel",103922
 "Relique de la ruche",103923
 "Relique de la réunification",103924
@@ -68196,11 +68205,13 @@
 "Fiole d'obsidienne liquide fondue des Titans",104229
 "Recette pour pavillon : statue de nian canthien",104230
 "Livre de recettes pour pavillon : Fractales des Brumes, volume 2",104231
+"Apparence de cape du chevalier de la Garde",104232
 "Licence de quête du follet rétif",104233
 "Apparence d'épaulières du chevalier de la Garde",104234
 "Poisson-perroquet à bec long",104237
 "Bouclier d'obsidienne pillée sinistre",104238
 "Licence d'adoption de monture des fusions féroces",104239
+"Magistrat",104240
 "Relique de l'aigle",104241
 "Dague d'obsidienne pillée sinistre",104243
 "Recette d'armure de vue véritable : épaulières",104245
@@ -68217,6 +68228,7 @@
 "Recette : relique de golemancien",104262
 "Aventure des Landes de Feu-de-Brume : argent",104263
 "Mini-Yagon",104264
+"Maître de guerre",104265
 "Sacoche du Lion noir à 28 emplacements",104268
 "Recette pour pavillon : statue de Joko le Redoutable",104269
 "Apparence de torche de vieille pousse",104270
@@ -68298,6 +68310,7 @@
 "Bâton d'obsidienne pillée sinistre",104381
 "Relique de terre",104383
 "Infusion de pierre de sang",104386
+"Apparence de manteau du chevalier de la Garde",104388
 "Grimoire d'emotes de poses stylées",104389
 "Relique de l'Holographiste",104390
 "Épaulières lourdes de vue véritable",104391
@@ -68318,6 +68331,7 @@
 "Bottes intermédiaires de vue véritable",104412
 "Relique de l'aigle",104413
 "Gant de cuir kodan sylvestre",104414
+"Porteur de lumière",104415
 "Relique de golemancien",104416
 "Apparence de dague de vieille pousse",104417
 "Boîte d'armes d'obsidienne pillée",104418
@@ -68327,6 +68341,7 @@
 "Jambières intermédiaires de vue véritable",104422
 "Relique des épines",104424
 "Livre de recettes pour pavillon : Nayos intérieur, volume 1",104425
+"Zone d'obsidienne mursaat pour zone personnelle",104426
 "Recette : relique de vampirisme",104428
 "Manteau intermédiaire de vue véritable",104430
 "Coffre de résultat d'exploration de la vallée de l'agonie",104431
@@ -68351,6 +68366,7 @@
 "Coffre de résultat d'exploration du col du spectre",104461
 "Coffre-fort des Landes de Feu-de-Brume",104463
 "Recette : relique d'altruisme",104465
+"Apparence de heaume du chevalier de la Garde",104468
 "Livre de recettes pour pavillon : Archipel de l'observatoire céleste, volume 1",104470
 "Infusion de pierre de sang",104472
 "Épée d'obsidienne pillée sinistre",104473
@@ -68359,8 +68375,11 @@
 "Apparence de focus de vieille pousse",104477
 "Recette d'armure de vue véritable : masques",104478
 "Infusion de pierre de sang",104481
+"Apparence de jambières du chevalier de la Garde",104483
+"Zone de pierres de chaleur de Titan pour zone personnelle",104484
 "Gants de cuir kodans sylvestres",104485
 "Apparence de bâton de vieille pousse",104486
+"Ceci est mon histoire.",104487
 "Focus d'obsidienne pillée sinistre",104488
 "Livre de recettes pour pavillon : Bassin aurique, volume 1",104489
 "Aventure des Landes de Feu-de-Brume : bronze",104490
@@ -68527,12 +68546,124 @@
 "Écharpe de course à motif",104673
 "Recette : toit de pille-mer du Lion noir",104674
 "Recette : mur de pille-mer du Lion noir",104675
+"Oasis de cristal : coffre au choix du Commandant",104677
+"Apparence d'épée de croissance rocheuse",104678
+"Anneau runique en bois en affinité (infusé)",104681
+"Recette : structure norn en pierre",104685
+"Archipel de l'observatoire céleste : coffre au choix du Commandant",104686
+"Orée d'émeraude : coffre au choix du Commandant",104687
+"Apparence de hache de croissance rocheuse",104688
+"Pack de pavillon en laiton",104694
+"Recette : structure norn",104695
+"Magot de Bava Nisos",104701
 "Liste de cachettes du Blanc-Manteau",104703
+"Sceptre de clarté légère en sommeil",104707
+"Convergence - Nayos extérieur : coffre au choix du Commandant",104710
+"Apparence de cor de guerre de croissance rocheuse",104715
+"Hache de clarté légère en sommeil",104718
+"Livre de recettes pour pavillon : livres",104723
+"Masse de clarté légère en sommeil",104725
+"Apparence de sac à dos à ailes animées",104726
+"Citadelle de Zakiros : coffre au choix du Commandant",104728
+"Amnytas : coffre au choix du Commandant",104730
+"Relique du Prodige",104733
+"Recette : grand engrenage en laiton du Lion noir",104735
+"La Désolation : coffre au choix du Commandant",104740
+"Anneau runique en bois en affinité",104741
+"Apparence de marteau de croissance rocheuse",104743
 "Épaulières de cuir kodans sylvestres",104744
 "Essence de brèche raffinée",104747
+"La Désolation : coffre au choix du Commandant",104748
+"Recette : brasero norn",104749
+"Dague de clarté légère en sommeil",104750
+"Néo-Kaineng : coffre au choix du Commandant",104751
 "",104754
+"Convergence - Nayos extérieur : coffre au choix du Commandant",104756
+"Ciel de pavillon de l'aurore scintillante",104757
+"Apparence de fusil de croissance rocheuse",104758
+"Apparence de scaraboule enchanté",104760
+"Apparence de pistolet de croissance rocheuse",104766
+"Espadon de clarté légère en sommeil",104767
+"Apparence de bâton de croissance rocheuse",104771
 "Essence de brèche prodigieuse",104773
+"Lance de clarté légère en sommeil",104775
 "Arc court de clarté légère en sommeil",104776
+"Recette : tuyau courbe en laiton du Lion noir",104779
+"Citadelle de Zakiros : coffre au choix du Commandant",104783
+"Apparence de torche de croissance rocheuse",104794
+"Oasis de cristal : coffre au choix du Commandant",104798
+"Recette : petit engrenage en laiton du Lion noir",104799
+"Relique de la pierre de sang",104800
+"Apparence d'arc long de croissance rocheuse",104801
+"Recette : lance de clarté légère",104807
+"Bouclier de clarté légère en sommeil",104810
+"Apparence d'arc court de croissance rocheuse",104814
+"Recette : tuyau droit en laiton du Lion noir",104819
+"Mini-petit trottetin beige",104820
+"Mini-géode vigilante",104826
+"Recette : salle du Corbeau",104828
 "Vestiges mursaats étranges",104829
+"Apparence de focus de croissance rocheuse",104830
+"Archipel de l'observatoire céleste : coffre au choix du Commandant",104831
+"Syntri de Janthir : coffre au choix du Commandant",104832
+"Livre de recettes pour pavillon : Foire du Dragon, volume 4",104834
+"Orée d'émeraude : coffre au choix du Commandant",104838
+"Recette : raccord de tuyau en laiton du Lion noir",104840
+"Apparence de lance de feu du renard",104842
 "Épée de clarté légère en sommeil",104843
+"Recette : bouchon de tuyau en laiton du Lion noir",104845
+"Relique de Bava Nisos",104848
+"Relique de l'agonie",104849
+"Apparence de masse de croissance rocheuse",104850
+"Marteau de clarté légère en sommeil",104851
+"Recette : tuyau en T en laiton du Lion noir",104852
+"Éclat de Bava Nisos",104855
+"Nayos intérieur : coffre au choix du Commandant",104856
+"Recette : mur en laiton du Lion noir",104862
+"Livre de recettes pour pavillon : Foire du Dragon, volume 3",104865
+"Cor de guerre de clarté légère en sommeil",104867
+"Apparence de bouclier de croissance rocheuse",104869
+"Deltaplane à ailes du dragon stellaire",104871
+"Province de Seitung : coffre au choix du Commandant",104879
+"Profondeurs verdoyantes : coffre au choix du Commandant",104884
+"Repli du dragon : coffre au choix du Commandant",104894
+"Champion d'Orr",104895
+"Mini-labrador doré",104900
+"Repli du dragon : coffre au choix du Commandant",104906
+"Bassin aurique : coffre au choix du Commandant",104911
+"Apparence de dague de croissance rocheuse",104919
+"Combo de sac à dos et deltaplane à ailes du dragon stellaire",104921
+"Apparence de deltaplane à ailes animées",104926
+"Nayos intérieur : coffre au choix du Commandant",104929
+"Sac à dos à ailes du dragon stellaire",104931
+"Torche de clarté légère en sommeil",104933
+"Recherche examinée par des pairs",104934
+"Livre de recettes pour pavillon : Foire du Dragon, volume 5",104935
+"Coffre mursaat incrusté de fange",104936
+"Apparence de sceptre de croissance rocheuse",104937
+"Relique de la cité vivante",104938
+"Arc long de clarté légère en sommeil",104939
+"Livre de recettes pour pavillon : Foire du Dragon, volume 6",104941
+"Syntri de Janthir : coffre au choix du Commandant",104942
+"Bassin aurique : coffre au choix du Commandant",104944
+"Amnytas : coffre au choix du Commandant",104945
+"Mini-petit trottetin roux",104958
+"Gobeur du sorcier",104963
+"Apparence d'espadon de croissance rocheuse",104966
+"Augmentation de la limite de décorations du pavillon",104971
+"Province de Seitung : coffre au choix du Commandant",104973
+"Boîte de sélection de croissance rocheuse",104977
+"Pistolet de clarté légère en sommeil",104979
+"Boîte d'arme de clarté légère en sommeil",104983
+"Recette : hache de clarté légère",104986
+"Néo-Kaineng : coffre au choix du Commandant",104988
+"Relique du Feu-de-Brume",104994
+"Apparence de lance de croissance rocheuse",104996
+"Recette : escalier norn",104997
+"Focus de clarté légère en sommeil",104998
+"Livre de recettes pour pavillon : Foire du Dragon, volume 2",104999
+"Profondeurs verdoyantes : coffre au choix du Commandant",105001
+"Fusil de clarté légère en sommeil",105007
 "Essence de brèche rare",105009
+"Bâton de clarté légère en sommeil",105013
+"Recette : engin en laiton du Lion noir",105014

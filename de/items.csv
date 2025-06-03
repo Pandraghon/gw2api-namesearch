@@ -60294,6 +60294,7 @@
 "Rezept: Sturmrufer-Streitkolben",93362
 "Petraj-Aussichtspunkt-Behälter",93363
 "Eisen-Legion-Klauenkiste",93364
+"Starter-Kit: Rodgort",93366
 "Asche-Legion-Kiste mit Gletschermaterialien",93369
 "Sondermission-Dokument",93371
 "Starkes Nieselwald-Küsten-Echo",93373
@@ -63046,6 +63047,7 @@
 "Exotischer Canach-Vorrat",96858
 "Falscher Oktopus-Arm",96859
 "Leitfaden zur versteinerten Pflanzenwelt",96860
+"Starter-Kit: Sonnenaufgang",96861
 "Sternflunder",96863
 "Weisheits-Farbe",96867
 "Togo-Zackenstab",96869
@@ -67057,6 +67059,7 @@
 "\"Lachs der Weisheit\"-Rückenteil",102367
 "Tiefland-Kodan-Fachkenntnisse",102370
 "Mittlere polychromatische Handschuhe",102373
+"Heimstatt-Rezeptbuch: Drachen-Gepolter, Band 1",102374
 "Gabe des Heimstätten-Siedlers",102376
 "\"Janthir Wilds\"-Greer-Beutekiste",102377
 "Glyphe des Försters",102378
@@ -67110,6 +67113,7 @@
 "Magischer Verziertes Zepter der Bärin",102473
 "Rezept: Dhuum-Goldtrophäe",102474
 "Eldritch-Schrecken-Holzfällerwerkzeug-Behälter",102477
+"Rezept: Kristallprisma",102478
 "Rezept: Schwere Titanplatten-Brustplatte",102482
 "Skin für Leere-verdorbene Axt",102486
 "Mini Stacheltal",102487
@@ -67202,6 +67206,7 @@
 "Mittlere polychromatische Maske",102678
 "Schwere Titanplatten-Brustplatte",102679
 "\"Janthir Syntri\"-Abenteuer: Gold",102682
+"Rezept: Charr-Panzer",102684
 "Glyphe des Schneiders",102686
 "Sternschnuppe",102692
 "Schwere polychromatische Brustplatte",102700
@@ -67238,6 +67243,7 @@
 "Schwerer polychromatischer Beinharnisch",102779
 "Rezept: \"Fluss der Seelen\"-Silbertrophäe",102780
 "Magma-Ornat-Kleidungsset",102781
+"Rezept: Verzierter Rüstungsständer",102783
 "Skin für Onyxspinnen-Pistole",102785
 "Kiste mit polychromatischen Schultern",102786
 "Relikt der Gräueltat",102787
@@ -67358,6 +67364,7 @@
 "Glyphe des Wachtritters",103045
 "\"Janthir Syntri\"-Abenteuer: Silber",103046
 "Veredeltes Heimstatt-Holz",103049
+"Rezept: Vergoldete Lampe",103051
 "Glyphe des Entfesselten",103052
 "Rezept: Jade-Bot-Werkbank",103054
 "Mittlere Titanplatten-Jacke",103055
@@ -67784,6 +67791,7 @@
 "Riss-Extraktion",103823
 "Skin für Sternengesegneter Skiff",103824
 "Haufen von wiederverwerteten Schild-Generatoren",103826
+"Legendäre Waffe: Starter-Schlüssel – Set 8",103827
 "Konvergenz-Herausforderungsmodus: Gold",103828
 "Relikt von Geysiren",103829
 "Natürlicher Zauberstab",103830
@@ -67859,6 +67867,7 @@
 "Aufgestiegene Waffentruhe des Zauberers",103918
 "Kiste mit geplünderten Flammenbock-Teilen",103919
 "Kiste mit geplünderten Katapult-Teilen",103920
+"Legendäre Waffe: Starter-Schlüssel – Set 8",103921
 "Natürliche Bastion",103922
 "Relikt des Bienenstocks",103923
 "Relikt der Wiedervereinigung",103924
@@ -68127,11 +68136,13 @@
 "Phiole mit titanengeschmolzenem flüssigem Obsidian",104229
 "Heimstatt-Rezept: Cantha-Nian-Statue",104230
 "Heimstatt-Rezeptbuch: Fraktale der Nebel, Band 2",104231
+"Skin für Wachenritter-Umhang",104232
 "Lizenz für die \"Eigensinniges Irrlicht\"-Aufgabe",104233
 "Skin für Wachenritter-Schultern",104234
 "Langnasen-Papageifisch",104237
 "Finsterer Geplünderter Obsidian-Schild",104238
 "Wilde Fusionen: Reittier-Adoptionslizenz",104239
+"Magister",104240
 "Relikt des Adlers",104241
 "Finsterer Geplünderter Obsidian-Dolch",104243
 "Rezept für \"Wahrer Blick\"-Rüstung: Schultern",104245
@@ -68148,6 +68159,7 @@
 "Rezept: Relikt des Golemanten",104262
 "Abenteuer im Nebelbrand-Ödland: Silber",104263
 "Mini Yagon",104264
+"Kriegsmeister",104265
 "Schwarzlöwen-Tornister mit 28 Plätzen",104268
 "Heimstatt-Rezept: Statue von Joko dem Schrecklichen",104269
 "Skin für Altbestand-Fackel",104270
@@ -68229,6 +68241,7 @@
 "Finsterer Geplünderter Obsidian-Stab",104381
 "Relikt der Erde",104383
 "Blutstein-Infusion",104386
+"Wachenritter-Wams",104388
 "Modeposen-Emote-Foliant",104389
 "Relikt des Holoschmieds",104390
 "Schwere \"Wahrer Blick\"-Schultern",104391
@@ -68249,6 +68262,7 @@
 "Mittlere \"Wahrer Blick\"-Stiefel",104412
 "Relikt des Adlers",104413
 "Waldkodan-Lederhandschuh",104414
+"Lichtbringer",104415
 "Relikt des Golemanten",104416
 "Skin für Altbestand-Dolch",104417
 "Kiste mit Geplünderten Obsidian-Waffen",104418
@@ -68258,6 +68272,7 @@
 "Mittleres \"Wahrer Blick\"-Beinkleid",104422
 "Relikt der Dornen",104424
 "Heimstatt-Rezeptbuch: Inneres Nayos, Band 1",104425
+"Heimatinstanz-Knoten für Mursaat-Obsidian",104426
 "Rezept: Relikt des Vampirismus",104428
 "Mittleres \"Wahrer Blick\"-Wams",104430
 "Vermessungsergebnis-Truhe: Tal der Qual",104431
@@ -68282,6 +68297,7 @@
 "Vermessungsergebnis-Truhe: Gespensterpass",104461
 "Nebelbrand-Ödland-Schatulle",104463
 "Rezept: Relikt des Altruismus",104465
+"Skin für Wachenritter-Helm",104468
 "Heimstatt-Rezeptbuch: Himmelswacht-Archipel, Band 1",104470
 "Blutstein-Infusion",104472
 "Finsterer Geplündertes Obsidian-Schwert",104473
@@ -68290,8 +68306,11 @@
 "Skin für Altbestand-Fokus",104477
 "Rezept für \"Wahrer Blick\"-Rüstung: Masken",104478
 "Blutstein-Infusion",104481
+"Skin für Wachenritter-Beinkleid",104483
+"Heimatinstanz-Knoten für Titanen-Hitzestein",104484
 "Waldkodan-Lederhandschuhe",104485
 "Skin für Altbestand-Stab",104486
+"Das ist meine Geschichte.",104487
 "Finsterer Geplünderter Obsidian-Fokus",104488
 "Heimstatt-Rezeptbuch: Güldener Talkessel, Band 1",104489
 "Abenteuer im Nebelbrand-Ödland: Bronze",104490
@@ -68458,8 +68477,124 @@
 "Gemusterter Renn-Schal",104673
 "Rezept für Schwarzlöwen-Seeplünderer-Dach",104674
 "Rezept für Schwarzlöwen-Seeplünderer-Wand",104675
+"Kristalloase: Auswahltruhe des Kommandeurs",104677
+"Skin für Steingewächs-Schwert",104678
+"Eingestimmter Holzrunen-Ring (infundiert)",104681
+"Rezept: Norn-Steingebäude",104685
+"Himmelswacht-Archipel: Auswahltruhe des Kommandeurs",104686
+"Grasgrüne Schwelle: Auswahltruhe des Kommandeurs",104687
+"Skin für Steingewächs-Axt",104688
+"Messing-Heimstatt-Paket",104694
+"Rezept: Norn-Gebäude",104695
+"\"Bava Nisos\"-Hort",104701
 "Liste von Verstecken des Weißen Mantels",104703
+"Schlummerndes Lichtgetragenes Zepter",104707
+"Konvergenz: Äußeres Nayos: Auswahltruhe des Kommandeurs",104710
+"Skin für Steingewächs-Kriegshorn",104715
+"Schlummernde Lichtgetragene Axt",104718
+"Heimstatt-Rezeptbuch: Bücher",104723
+"Schlummernder Lichtgetragener Streitkolben",104725
+"Skin für \"Farbenfrohe Flügel\"-Rucksack",104726
+"Zitadelle von Zakiros: Auswahltruhe des Kommandeurs",104728
+"Amnytas: Auswahltruhe des Kommandeurs",104730
+"Relikt des Phänoms",104733
+"Rezept für Großes Schwarzlöwen-Messing-Zahnrad",104735
+"Das Ödland: Auswahltruhe des Kommandeurs",104740
+"Eingestimmter Holzrunen-Ring",104741
+"Skin für Steingewächs-Hammer",104743
+"Waldkodan-Lederschultern",104744
+"Edle Riss-Essenz",104747
+"Das Ödland: Auswahltruhe des Kommandeurs",104748
+"Rezept: Norn-Flammenschale",104749
+"Schlummernder Lichtgetragener Dolch",104750
+"Stadt Neu-Kaineng: Auswahltruhe des Kommandeurs",104751
+"",104754
+"Konvergenz: Äußeres Nayos: Auswahltruhe des Kommandeurs",104756
+"Heimstatt-Himmel \"Schimmernde Aurora\"",104757
+"Skin für Steingewächs-Gewehr",104758
+"Skin für Verzauberter Rollkäfer",104760
+"Skin für Steingewächs-Pistole",104766
+"Schlummerndes Lichtgetragenes Großschwert",104767
+"Skin für Steingewächs-Stab",104771
 "Meisterwerk-Riss-Essenz",104773
+"Schlummernder Lichtgetragener Speer",104775
+"Schlummernder Lichtgetragener Kurzbogen",104776
+"Rezept für Gekrümmtes Schwarzlöwen-Messing-Rohr",104779
+"Zitadelle von Zakiros: Auswahltruhe des Kommandeurs",104783
+"Skin für Steingewächs-Fackel",104794
+"Kristalloase: Auswahltruhe des Kommandeurs",104798
+"Rezept für Kleines Schwarzlöwen-Messing-Zahnrad",104799
+"Relikt des Blutsteins",104800
+"Skin für Steingewächs-Langbogen",104801
+"Rezept: Lichtgetragener Speer",104807
+"Schlummernder Lichtgetragener Schild",104810
+"Skin für Steingewächs-Kurzbogen",104814
+"Rezept für Gerades Schwarzlöwen-Messing-Rohr",104819
+"Mini Beiges Wanderlein",104820
+"Mini Wachsame Geode",104826
+"Rezept: Halle des Raben",104828
 "Merkwürdige Mursaat-Überreste",104829
+"Skin für Steingewächs-Fokus",104830
+"Himmelswacht-Archipel: Auswahltruhe des Kommandeurs",104831
+"Janthir Syntri: Auswahltruhe des Kommandeurs",104832
+"Heimstatt-Rezeptbuch: Drachen-Gepolter, Band 4",104834
+"Grasgrüne Schwelle: Auswahltruhe des Kommandeurs",104838
+"Rezept für Schwarzlöwen-Messing-Rohrverbinder",104840
+"Skin für Fuchsfeuer-Speer",104842
 "Schlummerndes Lichtgetragenes Schwert",104843
+"Rezept für Schwarzlöwen-Messing-Rohrkappe",104845
+"Relikt von Bava Nisos",104848
+"Relikte der Qual",104849
+"Skin für Steingewächs-Streitkolben",104850
+"Schlummernder Lichtgetragener Hammer",104851
+"Rezept für Schwarzlöwen-Messing-T-Rohr",104852
+"Scherbe von Bava Nisos",104855
+"Inneres Nayos: Auswahltruhe des Kommandeurs",104856
+"Rezept für Schwarzlöwen-Messing-Wand",104862
+"Heimstatt-Rezeptbuch: Drachen-Gepolter, Band 3",104865
+"Schlummerndes Lichtgetragenes Kriegshorn",104867
+"Skin für Steingewächs-Schild",104869
+"Sternendrachenschwingen-Gleitschirm",104871
+"Provinz Seitung: Auswahltruhe des Kommandeurs",104879
+"Verschlungene Tiefen: Auswahltruhe des Kommandeurs",104884
+"Widerstand des Drachen: Auswahltruhe des Kommandeurs",104894
+"Champion von Orr",104895
+"Mini Goldener Labrador",104900
+"Widerstand des Drachen: Auswahltruhe des Kommandeurs",104906
+"Güldener Talkessel: Auswahltruhe des Kommandeurs",104911
+"Skin für Steingewächs-Dolch",104919
+"Sternendrachenschwingen-Rucksack- und Gleitschirm-Kombo",104921
+"Skin für \"Farbenfrohe Flügel\"-Gleitschirm",104926
+"Inneres Nayos: Auswahltruhe des Kommandeurs",104929
+"Sternendrachenschwingen-Rucksack",104931
+"Schlummernde Lichtgetragene Fackel",104933
+"Durch Kollegen begutachtete Forschung",104934
+"Heimstatt-Rezeptbuch: Drachen-Gepolter, Band 5",104935
+"Schleimverkrustete Mursaat-Schatulle",104936
+"Skin für Steingewächs-Zepter",104937
+"Relikt der Lebenden Stadt",104938
+"Schlummernder Lichtgetragener Langbogen",104939
+"Heimstatt-Rezeptbuch: Drachen-Gepolter, Band 6",104941
+"Janthir Syntri: Auswahltruhe des Kommandeurs",104942
+"Güldener Talkessel: Auswahltruhe des Kommandeurs",104944
+"Amnytas: Auswahltruhe des Kommandeurs",104945
+"Mini Orangefarbenes Wanderlein",104958
+"Mampfer des Zauberers",104963
+"Skin für Steingewächs-Großschwert",104966
+"Heimstatt-Dekoration: Limitierung erhöht",104971
+"Provinz Seitung: Auswahltruhe des Kommandeurs",104973
+"Steingewächs-Auswahlkiste",104977
+"Schlummernde Lichtgetragene Pistole",104979
+"Schlummernde Lichtgetragene Waffenkiste",104983
+"Rezept: Lichtgetragene Axt",104986
+"Stadt Neu-Kaineng: Auswahltruhe des Kommandeurs",104988
+"Relikt des Nebelbrands",104994
+"Skin für Steingewächs-Speer",104996
+"Rezept: Norn-Treppe",104997
+"Schlummernder Lichtgetragener Fokus",104998
+"Heimstatt-Rezeptbuch: Drachen-Gepolter, Band 2",104999
+"Verschlungene Tiefen: Auswahltruhe des Kommandeurs",105001
+"Schlummerndes Lichtgetragenes Gewehr",105007
 "Seltene Riss-Essenz",105009
+"Schlummernder Lichtgetragener Stab",105013
+"Rezept für Schwarzlöwen-Messing-Motor",105014
