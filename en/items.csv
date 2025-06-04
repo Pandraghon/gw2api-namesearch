@@ -17153,14 +17153,20 @@
 "Whetstone",24431
 "Green Stinkhorn",24432
 "Undamaged Power-Bauble",24433
+"Bandit Documents",24434
 "Red Summoning Stone",24435
 "Blue Summoning Stone",24436
 "Black Summoning Stone",24437
+"Kodan Supplies",24438
 "Volcanic Rock",24440
 "Scrap Metal",24441
+"Chunk of Unrefined Dredge Ore",24442
+"Treasure",24447
 "Explosive Powder",24448
+"Piece of Scrap Metal",24449
 "Frozen Fish",24450
 "Moa Meat",24451
+"Asuran Relic",24452
 "Chunk of Dolyak Meat",24453
 "Barracuda Meat",24454
 "Skritt Artifact",24455
@@ -18399,6 +18405,9 @@
 "Shaman's Norn Warhorn of Corruption",25713
 "Shaman's Norn Warhorn of Energy",25714
 "Shaman's Norn Warhorn of Air",25715
+"Cinematic Weapon Sword Charr",25746
+"Cinematic Weapon Sword Ebon Vanguard",25749
+"Cinematic Weapon Sword Ebon Vanguard 2",25751
 "Mighty Iron Axe",25815
 "Mighty Iron Axe",25816
 "Mighty Iron Axe",25817
@@ -21810,6 +21819,7 @@
 "Modniir Harbinger",29242
 "Norn Axe",29253
 "Norn Dagger",29256
+"Norn Greatsword",29258
 "Norn Mace",29260
 "Norn Pistol",29261
 "Norn Rifle",29262
@@ -22030,24 +22040,43 @@
 "Valoric Greatsword",29566
 "Arundon Rifle",29567
 "Crusader's Sword",29568
+"Pirate Hatchet",29569
 "Ebon Vanguard Axe",29570
+"Pirate Bloodletter",29571
 "Ebon Vanguard Longbow",29572
+"Pirate Poppet",29573
 "Ebon Vanguard Short Bow",29574
+"Pirate Slayer",29575
 "Ebon Vanguard Dagger",29577
+"Pirate Sledge",29578
 "Ebon Vanguard Focus",29580
+"Pirate Harpoon",29582
 "Ebon Vanguard Greatsword",29583
 "Ebon Vanguard Hammer",29585
+"Pirate Crescent",29586
+"Pirate Billy",29587
 "Ebon Vanguard Harpoon",29589
+"Pirate Flintlock",29590
 "Ebon Vanguard Mace",29592
+"Pirate Boomstick",29593
 "Ebon Vanguard Pistol",29594
+"Pirate Cane",29596
+"Pirate Barricade",29598
 "Ebon Vanguard Rifle",29600
 "Ebon Vanguard Scepter",29602
+"Pirate Needler",29603
 "Ebon Vanguard Shield",29604
+"Pirate Speargun",29605
 "Ebon Vanguard Speargun",29607
+"Pirate Crook",29608
+"Pirate Cutlass",29610
 "Ebon Vanguard Staff",29611
 "Ebon Vanguard Sword",29613
+"Pirate Brazier",29614
+"Pirate Trident",29616
 "Ebon Vanguard Torch",29617
 "Wolfborn Staff",29618
+"Pirate Bugle",29620
 "Ebon Vanguard Trident",29621
 "Ebon Vanguard Warhorn",29623
 "Wolfborn Axe",29645
@@ -22291,6 +22320,7 @@
 "Sword of Ascalon",30035
 "Proton Torch",30036
 "Blood Legion Warhorn",30037
+"Iron Legion Shield",30038
 "Ash Legion Shield",30039
 "Blood Legion Shield",30040
 "Iron Legion Harpoon",30041
@@ -22804,6 +22834,7 @@
 "Quetzal Speargun",30555
 "Warden's Staff",30556
 "Quetzal Trident",30557
+"Packmaster's Warhorn",30558
 "Darkvine Greatsword",30559
 "Fisher's Shield",30560
 "Hemlocked Sword",30561
@@ -23426,6 +23457,7 @@
 "Resonator",31185
 "Gear Axe",31186
 "Incinerator",31187
+"Gearblade",31188
 "Gear Staff",31189
 "Bayonet",31190
 "Short Gearbow",31191
@@ -23433,9 +23465,11 @@
 "Gear Baton",31193
 "Gizmo",31194
 "Great Gearblade",31195
+"Gear Mallet",31196
 "Gearbow",31197
 "Gear Cudgel",31198
 "Gatling Pistol",31199
+"Gatling Rifle",31200
 "Steam Axe",31201
 "Steam Bow",31206
 "Steam Mace",31207
@@ -23453,6 +23487,7 @@
 "Alpine Shield",31228
 "Alpine Short Bow",31229
 "Alpine Harpoonthrower",31230
+"Einhander",31232
 "Alpine Beacon",31233
 "Alpine Trident",31234
 "Alpine Warhorn",31235
@@ -23467,6 +23502,7 @@
 "Glyphic Pistol",31246
 "Glyphic Mace",31248
 "Glyphic Ward",31249
+"Glyphic Short Bow",31250
 "Glyphic Staff",31252
 "Glyphic Edge",31253
 "Glyphic Brand",31254
@@ -23514,6 +23550,7 @@
 "Grearstaff",31308
 "Legionnaire Dagger",31310
 "Legionnaire Symbol",31311
+"Legionnaire Greatsword",31312
 "Legionnaire Harpoon",31314
 "Legionnaire Longbow",31315
 "Legionnaire Sidearm",31317
@@ -23560,6 +23597,7 @@
 "Summit Pistol",31387
 "Summit Rifle",31388
 "Summit Short Bow",31391
+"Summit Stave",31393
 "Summit Bugle",31397
 "Priory Axe",31398
 "Priory Edge",31399
@@ -23663,6 +23701,8 @@
 "Adorned Warhorn",31568
 "Fen Dagger",31570
 "Hypnotic Scepter",31588
+"Tainted Glyphic Maul",31594
+"Tainted Glyphic Trispear",31607
 "Jeweled Staff",31611
 "Krait Axe",31613
 "Krait Dagger",31614
@@ -23676,6 +23716,7 @@
 "Krait Rifle",31622
 "Krait Scepter",31623
 "Krait Shell",31624
+"Krait Short Bow",31625
 "Krait Harpoon Gun",31626
 "Krait Staff",31627
 "Krait Sword",31628
@@ -23803,15 +23844,21 @@
 "Peacemaker Torch",31832
 "Peacemaker Trident",31833
 "Peacemaker Warhorn",31834
+"Flame Cleaver",31873
 "Flame Greatsword",31876
 "Flame Crusher",31877
+"Flame Harpoon",31878
+"Flame Bow",31879
+"Flame Mace",31880
 "Flame Pistol",31881
 "Flame Rifle",31882
 "Flame Scepter",31883
+"Flame Guard",31884
 "Flame Harpoon Gun",31886
 "Flame Staff",31887
 "Flame Blade",31888
 "Flame Carrier",31889
+"Flame Staff",31890
 "Flame Warhorn",31891
 "Forge Axe",31892
 "Forge Dagger",31893
@@ -23859,8 +23906,10 @@
 "Serrated Spear",31952
 "Sickle Axe",31953
 "Svanir Axe",31955
+"Svanir Dagger",31956
 "Svanir Focus",31957
 "Svanir Greatsword",31958
+"Svanir Warhammer",31959
 "Svanir Spear",31960
 "Svanir Bow",31961
 "Svanir Mace",31962
@@ -23891,6 +23940,7 @@
 "Sylvari Harpoon Gun",32014
 "Sylvari Staff",32015
 "Sylvari Blade",32016
+"Sylvari Torch",32017
 "Sylvari Trident",32018
 "Sylvari Warhorn",32019
 "Iron Flintlock",32022
@@ -23901,9 +23951,11 @@
 "Valley Greatsword",32027
 "Valley Warhammer",32028
 "Valley Harpoon",32029
+"Valley Bow",32030
 "Valley Mace",32031
 "Valley Pistol",32032
 "Valley Rifle",32033
+"Valley Scepter",32034
 "Valley Shield",32035
 "Valley Short Bow",32036
 "Valley Harpoongun",32037
@@ -23933,8 +23985,10 @@
 "Voltaic Spear",32062
 "Water Scepter",32064
 "Forest Axe",32065
+"Forest Dagger",32066
 "Forest Focus",32067
 "Forest Greatsword",32068
+"Forest Harpoon",32070
 "Forest Bow",32071
 "Forest Mace",32072
 "Forest Pistol",32073
@@ -23944,11 +23998,18 @@
 "Forest Short Bow",32077
 "Forest Harpoon Gun",32078
 "Forest Staff",32079
+"Forest Sword",32080
+"Forest Warhorn",32083
 "Wide Voulge",32084
 "Wooden Buckler",32107
 "Wrench",32108
 "Gek Torch",32109
 "Gek Warhorn",32110
+"Avenger's Longbow",32119
+"Avenger's Short Bow",32120
+"Avenger's Rifle",32123
+"Avenger's Staff",32125
+"Avenger's Hammer",32127
 "Hatchet",32129
 "Wooden Longbow",32130
 "Dull Dagger",32132
@@ -23960,7 +24021,11 @@
 "Buckler",32139
 "Shortsword",32141
 "Warhorn",32143
+"Caretaker's Rifle",32144
+"Caretaker's Staff",32145
+"Caretaker's Short Bow",32146
 "Hunting Trident",32148
+"Hunting Harpoon",32149
 "Hunting Speargun",32150
 "Reinforced Speargun",32151
 "Reinforced Harpoon",32152
@@ -23970,74 +24035,106 @@
 "Fine Focus",32156
 "Fine Pistol",32157
 "Fine Shield",32158
+"Fine Warhorn",32159
 "Light Torch",32160
 "Strong Avenger's Longbow",32161
 "Ravaging Avenger's Short Bow",32162
+"Hearty Caretaker's Short Bow",32163
 "Strong Hero's Longsword",32164
 "Strong Avenger's Hammer",32165
+"Mending Caretaker's Rifle",32166
 "Potent Avenger's Rifle",32167
 "Strong Avenger's Staff",32168
+"Hearty Caretaker's Staff",32169
+"Strong Avenger's Longbow",32170
 "Ravaging Avenger's Short Bow",32171
 "Hearty Caretaker's Short Bow",32172
 "Strong Hero's Longsword",32173
 "Strong Avenger's Hammer",32174
+"Mending Caretaker's Rifle",32175
 "Potent Avenger's Rifle",32176
 "Strong Avenger's Staff",32177
+"Hearty Caretaker's Staff",32178
 "Light Axe",32179
 "Light Dagger",32180
+"Light Mace",32181
 "Light Pistol",32182
+"Plated Pistol",32183
 "Light Scepter",32184
 "Light Sword",32185
 "Sunken Reaver",32186
 "Sunken Carver",32187
+"Sunken Wheel",32188
 "Sunken Pistol",32189
+"Sunken Shell",32190
 "Sunken Beacon",32191
+"Sunken Harbinger",32192
 "Hunting Harpoon",32193
 "Reinforced Harpoon",32194
+"Hunting Speargun",32195
 "Reinforced Speargun",32196
 "Hunting Trident",32197
 "Reinforced Trident",32198
 "Trinity Hatchet",32199
 "Trinity Dagger",32200
+"Trinity Focus",32201
 "Trinity Pistol",32202
 "Trinity Buckler",32203
 "Trinity Torch",32204
+"Trinity Warhorn",32205
 "Light Axe",32206
 "Light Dagger",32207
 "Light Mace",32208
 "Light Pistol",32209
+"Plated Pistol",32210
 "Light Scepter",32211
 "Light Sword",32212
 "Avenger's Longbow",32213
 "Avenger's Short Bow",32214
+"Caretaker's Short Bow",32215
 "Avenger's Longsword",32216
 "Avenger's Hammer",32217
+"Caretaker's Rifle",32218
 "Avenger's Rifle",32219
+"Avenger's Staff",32220
+"Caretaker's Staff",32221
 "Avenger's Longbow",32222
 "Avenger's Short Bow",32223
 "Caretaker's Short Bow",32224
 "Avenger's Longsword",32225
 "Avenger's Hammer",32226
+"Caretaker's Rifle",32227
 "Avenger's Rifle",32228
 "Avenger's Staff",32229
+"Caretaker's Staff",32230
+"Avenger's Longbow",32231
 "Avenger's Short Bow",32232
 "Caretaker's Short Bow",32233
 "Avenger's Longsword",32234
 "Avenger's Hammer",32235
+"Caretaker's Rifle",32236
+"Avenger's Rifle",32237
 "Avenger's Staff",32238
 "Caretaker's Staff",32239
 "Avenger's Longbow",32240
 "Avenger's Short Bow",32241
 "Caretaker's Short Bow",32242
 "Avenger's Longsword",32243
+"Avenger's Hammer",32244
+"Caretaker's Rifle",32245
+"Avenger's Rifle",32246
 "Avenger's Staff",32247
+"Caretaker's Staff",32248
 "Ravaging Avenger's Longbow",32249
 "Strong Avenger's Short Bow",32250
 "Mending Caretaker's Short Bow",32251
 "Strong Hero's Longsword",32252
+"Strong Avenger's Hammer",32253
+"Mending Caretaker's Rifle",32254
 "Potent Avenger's Rifle",32255
 "Hearty Caretaker's Staff",32256
 "Strong Avenger's Staff",32257
+"Warden's Greatsword",32258
 "Carrion Legionnaire Axe of Blood",32259
 "Carrion Legionnaire Axe of Vision",32260
 "Carrion Legionnaire Axe of Accuracy",32261
@@ -27524,6 +27621,7 @@
 "Candy Corn Tonic",36109
 "Mummy Tonic",36114
 "Ruminant Tonic",36115
+"The Mad Moon",36116
 "Arachnophobia",36117
 "The Crossing",36118
 "Recipe: Candy Corn Custard",36119
@@ -27536,8 +27634,10 @@
 "Recipe: Candy Corn Tonic",36126
 "Recipe: Mummy Tonic",36127
 "Recipe: Concentrated Halloween Tonic",36128
+"The Mad Moon",36129
 "The Crossing",36131
 "Fuzzy Bear Hat",36168
+"Mini Avian 3 Pack",36169
 "Banker Golem (2 weeks)",36171
 "Bobblehead Laboratory",36172
 "Musical Bass Guitar",36174
@@ -27626,20 +27726,33 @@
 "Deathly Pauldrons Skin",36341
 "Deathly Mantle Skin",36342
 "Deathly Shoulderpads Skin",36343
+"Deathly Pauldrons",36344
 "Chain Sword",36347
 "Chain Sword Skin",36348
+"Deathly Avian Mantle",36350
+"Deathly Bull's Mantle",36353
+"Deathly Bull's Shoulderpads",36354
 "Deathly Avian Shoulderpads Skin",36355
 "Deathly Avian Mantle Skin",36356
 "Deathly Avian Pauldrons Skin",36357
 "Deathly Bull's Shoulderpads Skin",36358
 "Deathly Bull's Mantle Skin",36359
 "Deathly Bull's Pauldrons Skin",36360
+"Scepter of Thorn",36361
+"Mad King's Boots",36362
+"Mad King's Coat",36363
+"Mad King's Gloves",36364
+"Mad King's Hat",36365
 "Mad King's Outfit",36366
 "Aviator Cap",36368
 "Bunny Ears",36369
 "Devil Horns",36370
 "Phantom's Hood",36371
+"Witch's Hat",36372
+"Enchanted Broom",36373
+"Witch's Boots",36375
 "Witch's Coat",36376
+"Witch's Gloves",36377
 "Witch's Hat",36378
 "Witch's Outfit",36379
 "Spooky Ghost Tonic",36380
@@ -27647,10 +27760,22 @@
 "Spooky Skeleton Tonic",36382
 "Mad Memoires I: Boyhood",36384
 "Mad Memoires II: Friendship",36385
+"Mad Memoires III: Young Love",36386
+"Mad Memoires IV: Deadly Adventures",36387
+"Mad Memoires V: Betrothed",36388
+"Mad Memoires VI: Coronation",36389
+"Mad Memoires VII: Handless",36390
+"Mad Memoires VIII: Feast and Famine",36391
+"Mad Memoires IX: Pains of Love",36392
+"Mad Memoires X: Tax-o'-Lanterns",36393
+"Mad Memoires XI: Flames of Renewal",36394
+"Mad Memoires XII: Descension",36395
 "Candy-Powered Matter Meter",36396
 "Mad Memoires",36397
 "Mad Memoires: Complete Edition",36398
 "Scythe",36399
+"Sickle",36401
+"Pistol",36405
 "Limited-Use Scarecrow Finisher",36408
 "Limited-Use Mad King Finisher",36409
 "Triple-Luck Tonic",36447
@@ -27664,6 +27789,7 @@
 "Flask of Liquid Karma",36459
 "Jug of Liquid Karma",36460
 "Keg of Liquid Karma",36461
+"Jug of Liquid Karma",36470
 "Bag of Wondrous Goods",36471
 "Bag of Wondrous Goods",36472
 "Bag of Wondrous Goods",36473
@@ -27672,9 +27798,17 @@
 "Bag of Wondrous Goods",36476
 "Bag of Wondrous Goods",36477
 "Bag of Wondrous Goods",36478
+"Bag of Wondrous Goods",36479
+"Bag of Wondrous Goods",36480
+"Bag of Wondrous Goods",36481
+"Bag of Wondrous Goods",36482
+"Bag of Wondrous Goods",36483
+"Bag of Wondrous Goods",36485
+"Bag of Wondrous Goods",36486
 "Custom Arena Starter Kit",36506
 "Custom Arena Time Token",36507
 "Tome of Influence",36508
+"Mad King Chest",36510
 "Fuzzy Quaggan Hat with Bow",36515
 "Limited-Use Snowman Finisher",36517
 "Limited-Use Gift Finisher",36518
@@ -27685,6 +27819,7 @@
 "Colossus Fang",36524
 "Foefire Amulet",36525
 "Foefire Amulet",36526
+"Ghost Eater's Hide",36527
 "Spineguard of the North",36530
 "Plague",36533
 "Vallog's Demise",36536
@@ -27706,7 +27841,9 @@
 "The Zealot's Amulet",36560
 "Svanir Talisman",36561
 "Svanir Talisman",36562
+"Ring of Blood",36563
 "Arctic Ring",36564
+"Arctic Ring",36565
 "Operative's Creed",36566
 "Orrian Artifact Shards",36567
 "Orrian Artifact Shards",36568
@@ -27727,9 +27864,11 @@
 "Arbor's Embrace",36584
 "Nightmare Coil",36587
 "Tortured Root",36590
+"Stargazer Pendant",36593
 "Coral Pendant",36594
 "Coral Pendant",36595
 "Recipe: Operative's Creed",36596
+"Recipe: Stargazer Pendant",36597
 "Recipe: Bloodstone Fragment",36598
 "Recipe: Tortured Root",36600
 "Recipe: Nightmare Coil",36601
@@ -27737,10 +27876,14 @@
 "Recipe: Claw of the Howling King",36604
 "Recipe: Ashes of the Effigy",36606
 "Recipe: Eternal Flame",36607
+"Recipe: Alpha Conduit",36609
 "Recipe: Infinity Loop",36610
 "Recipe: Koda's Gift",36612
 "Recipe: The Zealot's Amulet",36613
+"Recipe: Ring of Blood",36614
+"Recipe: Vallog's Demise",36615
 "Recipe: Plague",36616
+"Recipe: The Replicator",36619
 "Recipe: Husk of the Destroyer",36620
 "Caudecus's Journal",36621
 "Beetlestone's Band",36622
@@ -27754,6 +27897,7 @@
 "Darkened Vine",36660
 "Twisted Tendril",36661
 "Forest Brace",36662
+"Revolutionary Flyers",36666
 "Flame Legion Ritual Book",36675
 "Wildfire Talisman",36676
 "Charred Back Warmer",36677
@@ -27786,7 +27930,9 @@
 "Potion of Young Karka Transformation",36725
 "Karka Tonic",36726
 "Endless Karka Tonic",36727
+"Crate of Commendations",36728
 "Ancient Karka Shell Box",36729
+"Ancient Karka Chest",36730
 "Passion Fruit",36731
 "Apothecary's Draconic Pauldrons",36732
 "Apothecary's Prowler Boots",36733
@@ -27982,14 +28128,17 @@
 "Apothecary's Destroyer Pike",36923
 "Apothecary's Destroyer Sword",36924
 "Empty Alchemical Bottle",36963
+"Alchemical Bottle",36964
 "Full Alchemical Bottle",36967
 "Alchemical Bottle",36969
 "Alchemical Bottle",36979
+"Alchemical Potion",36982
 "Alchemical Bottle",36989
 "Mysterious Soggy Bag",36994
 "Map Fragment",36996
 "Map of Southsun Cove",36997
 "Unhatched Swarm Egg",36998
+"Consortium Item",36999
 "Quiver of a Thousand Arrows",37000
 "Koss on Koss",37001
 "Sights Be True",37002
@@ -28000,12 +28149,32 @@
 "Tome of the Rubicon",37007
 "Quiver of Swift Flight",37008
 "Book of Secrets",37009
+"Koss on Koss (Infused)",37010
+"Quiver of a Thousand Arrows (Infused)",37011
+"There with Yakkington: A Traveler's Tale (Infused)",37012
+"Sights Be True (Infused)",37013
+"Symon's History of Ascalon (Infused)",37014
+"Endless Quiver (Infused)",37015
+"Tome of the Rubicon (Infused)",37016
+"Bowyer's Delight (Infused)",37017
+"Book of Secrets (Infused)",37018
+"Quiver of Swift Flight (Infused)",37019
+"Prototype Fractal Capacitor",37020
 "Prototype Fractal Capacitor",37025
 "Prototype Fractal Capacitor",37026
 "Prototype Fractal Capacitor",37027
 "Prototype Fractal Capacitor",37028
 "Prototype Fractal Capacitor",37029
+"Beta Fractal Capacitor (Infused)",37035
+"Beta Fractal Capacitor (Infused)",37036
+"Beta Fractal Capacitor (Infused)",37037
+"Beta Fractal Capacitor (Infused)",37038
 "Beta Fractal Capacitor (Infused)",37039
+"Fractal Capacitor (Infused)",37045
+"Fractal Capacitor (Infused)",37046
+"Fractal Capacitor (Infused)",37047
+"Fractal Capacitor (Infused)",37048
+"Fractal Capacitor (Infused)",37049
 "Prototype Fractal Capacitor",37050
 "Prototype Fractal Capacitor",37051
 "Prototype Fractal Capacitor",37052
@@ -28016,7 +28185,16 @@
 "Prototype Fractal Capacitor",37057
 "Prototype Fractal Capacitor",37058
 "Prototype Fractal Capacitor",37059
+"Beta Fractal Capacitor (Infused)",37060
+"Beta Fractal Capacitor (Infused)",37061
 "Beta Fractal Capacitor (Infused)",37062
+"Beta Fractal Capacitor (Infused)",37063
+"Beta Fractal Capacitor (Infused)",37064
+"Fractal Capacitor (Infused)",37065
+"Fractal Capacitor (Infused)",37066
+"Fractal Capacitor (Infused)",37067
+"Fractal Capacitor (Infused)",37068
+"Fractal Capacitor (Infused)",37069
 "Gift of Ascension",37070
 "Khilbron's Phylactery",37074
 "Crystalline Band",37075
@@ -28039,6 +28217,7 @@
 "Bagh Nakh",37092
 "Snaff's Gyre",37093
 "Khilbron's Phylactery (Infused)",37094
+"Circle of Light (Infused)",37095
 "Crystalline Band (Infused)",37096
 "Ouroboros Loop (Infused)",37097
 "Royal Signet of Doric (Infused)",37098
@@ -28049,9 +28228,12 @@
 "Solaria, Circle of the Sun (Infused)",37103
 "Adelbern's Royal Signet Ring (Infused)",37104
 "Lost Seal of Usoku (Infused)",37105
+"Vine of the Pale Tree (Infused)",37106
 "Rurik's Royal Signet Ring (Infused)",37107
 "Marriner's Compass (Infused)",37108
 "Seal of the Khan-Ur (Infused)",37109
+"Mellaggan's Whorl (Infused)",37110
+"Bagh Nakh (Infused)",37111
 "Yakkington's Ring (Infused)",37112
 "Snaff's Gyre (Infused)",37113
 "Healing +7 Agony Infusion",37123
@@ -28086,6 +28268,7 @@
 "Light Island Shoulder Skin",37200
 "Medium Island Shoulder Skin",37202
 "Consortium Dye Pack",37203
+"Tyrian Explorer's Knapsack",37204
 "Mini Karka",37206
 "Mini Reef Drake",37207
 "Mini Karka Hatchlings",37208
@@ -28096,6 +28279,15 @@
 "Tiki Totem Shield Skin",37218
 "Consortium Clipper Focus Skin",37219
 "Shark's Tooth Axe Skin",37221
+"Sea Scallop",37234
+"Driftwood",37235
+"Sea Urchin Meat",37236
+"Seaweed",37237
+"Coral",37238
+"Magic Scroll",37239
+"Strange Shell",37240
+"Karka Sample",37241
+"Golem Parts",37242
 "Cavalier's Iron Dagger",37243
 "Cavalier's Iron Dagger",37245
 "Soldier's Iron Dagger",37249
@@ -28406,6 +28598,7 @@
 "Reinforced Scale Pauldrons",37698
 "Soldier's Soft Wood Torch",37699
 "Soldier's Wolfborn Torch",37700
+"Wayfarer's Ring",37701
 "Wayfarer's Ring",37702
 "Magi's Soft Wood Torch",37703
 "Magi's Soft Wood Torch",37704
@@ -28430,6 +28623,7 @@
 "Wayfarer's Amulet",37730
 "Wayfarer's Amulet",37733
 "Rabid Black Earth Trident",37734
+"Wayfarer's Amulet",37735
 "Cavalier's Amulet",37737
 "Magi's Black Earth Trident",37738
 "Cavalier's Amulet",37739
@@ -28452,6 +28646,7 @@
 "Soldier's Soft Wood Warhorn",37761
 "Rabid Soft Wood Warhorn",37762
 "Wayfarer's Field Guide",37763
+"Wayfarer's Field Guide",37765
 "Rabid Soft Wood Warhorn",37766
 "Cavalier's Field Guide",37767
 "Cavalier's Field Guide",37768
@@ -28536,6 +28731,11 @@
 "Soldier's Spineguard",37855
 "Rabid Spineguard",37856
 "Wayfarer's Spineguard",37857
+"Sturdy Copper Harvesting Sickle",37871
+"Sturdy Copper Logging Axe",37872
+"Sturdy Copper Mining Pick",37873
+"Sturdy Iron Harvesting Sickle",37874
+"Sturdy Iron Logging Axe",37875
 "Sturdy Steel Harvesting Sickle",37877
 "Lionguard Assault Badge",37890
 "Consortium NDA",37891

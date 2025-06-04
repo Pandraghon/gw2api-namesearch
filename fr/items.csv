@@ -17153,14 +17153,20 @@
 "Pierre à aiguiser",24431
 "Satyre vert",24432
 "Babiole de puissance intacte",24433
+"Documents de bandit",24434
 "Pierre d'invocation rouge",24435
 "Pierre d'invocation bleue",24436
 "Pierre d'invocation noire",24437
+"Ravitaillement de Kodan",24438
 "Roche volcanique",24440
 "Métal de rebut",24441
+"Morceau de minerai draguerre brut",24442
+"Trésor",24447
 "Poudre explosive",24448
+"Morceau de métal de rebut",24449
 "Poisson gelé",24450
 "Viande de moa",24451
+"Relique asura",24452
 "Morceau de viande de dolyak",24453
 "Chair de barracuda",24454
 "Artefact skritt",24455
@@ -18399,6 +18405,9 @@
 "Cor de guerre norn chamanique de corruption",25713
 "Cor de guerre norn chamanique d'énergie",25714
 "Cor de guerre norn chamanique d'air",25715
+"Arme cinématique, épée charr",25746
+"Arme cinématique, épée de l'Avant-garde d'Ebon",25749
+"Arme cinématique, épée de l'Avant-garde d'Ebon 2",25751
 "Hache en fer puissante",25815
 "Hache en fer puissante",25816
 "Hache en fer puissante",25817
@@ -21810,6 +21819,7 @@
 "Présage modniir",29242
 "Hache norn",29253
 "Dague norn",29256
+"Espadon norn",29258
 "Masse norn",29260
 "Pistolet norn",29261
 "Fusil norn",29262
@@ -22030,24 +22040,43 @@
 "Espadon de Valoric",29566
 "Fusil d'Arundon",29567
 "Epée de croisé",29568
+"Hachette de pirate",29569
 "Hache de l'Avant-garde d'Ebon",29570
+"Saigneur de pirate",29571
 "Arc long de l'Avant-garde d'Ebon",29572
+"Marionnette de pirate",29573
 "Arc court de l'Avant-garde d'Ebon",29574
+"Pourfendeur de pirates",29575
 "Dague de l'Avant-garde d'Ebon",29577
+"Martel de pirate",29578
 "Focus de l'Avant-garde d'Ebon",29580
+"Harpon de pirate",29582
 "Espadon de l'Avant-garde d'Ebon",29583
 "Marteau de l'Avant-garde d'Ebon",29585
+"Croissant de pirate",29586
+"Matraque de pirate",29587
 "Harpon de l'Avant-garde d'Ebon",29589
+"Mousqueton de pirate",29590
 "Masse de l'Avant-garde d'Ebon",29592
+"Bâton explosif  de pirate",29593
 "Pistolet de l'Avant-garde d'Ebon",29594
+"Canne de pirate",29596
+"Barricade de pirate",29598
 "Fusil de l'Avant-garde d'Ebon",29600
 "Sceptre de l'Avant-garde d'Ebon",29602
+"Aiguillonneur de pirate",29603
 "Bouclier de l'Avant-garde d'Ebon",29604
+"Lance-harpon de pirate",29605
 "Lance-harpon de l'Avant-garde d'Ebon",29607
+"Bourdon de pirate",29608
+"Sabre d'abordage de pirate",29610
 "Bâton de l'Avant-garde d'Ebon",29611
 "Epée de l'Avant-garde d'Ebon",29613
+"Brasero de pirate",29614
+"Trident de pirate",29616
 "Torche de l'Avant-garde d'Ebon",29617
 "Bâton de la Harde",29618
+"Clairon de pirate",29620
 "Trident de l'Avant-garde d'Ebon",29621
 "Cor de guerre de l'Avant-garde d'Ebon",29623
 "Hache de la Harde",29645
@@ -22291,6 +22320,7 @@
 "Epée d'Ascalon",30035
 "Torche protonique",30036
 "Cor de guerre de la Légion Sanglante",30037
+"Bouclier de la Légion de Fer",30038
 "Bouclier de la Légion des Cendres",30039
 "Bouclier de la Légion Sanglante",30040
 "Harpon de la Légion de Fer",30041
@@ -22804,6 +22834,7 @@
 "Lance-harpon quetzal",30555
 "Bâton de Protecteur",30556
 "Trident quetzal",30557
+"Cor de chef de meute",30558
 "Espadon en treillébène",30559
 "Bouclier de pêcheur",30560
 "Epée de ciguë",30561
@@ -23426,6 +23457,7 @@
 "Résonatrice",31185
 "Mécahache",31186
 "Incinératrice",31187
+"Mécalame",31188
 "Bâton pignon",31189
 "Baïonnette",31190
 "Mécarc court",31191
@@ -23433,9 +23465,11 @@
 "Mécacanne",31193
 "Gadget",31194
 "Grande mécalame",31195
+"Mécamassette",31196
 "Mécarc",31197
 "Mécamatraque",31198
 "Pistolet gatling",31199
+"Fusil gatling",31200
 "Hache à vapeur",31201
 "Arc à vapeur",31206
 "Masse à vapeur",31207
@@ -23453,6 +23487,7 @@
 "Bouclier alpin",31228
 "Ar court alpin",31229
 "Lanceur de harpons alpin",31230
+"Épée des Cimefroides",31232
 "Fanal alpin",31233
 "Trident alpin",31234
 "Cor de guerre alpin",31235
@@ -23467,6 +23502,7 @@
 "Pistolet glyphique",31246
 "Masse glyphique",31248
 "Protecteur glyphique",31249
+"Arc court glyphique",31250
 "Bâton glyphique",31252
 "Fil glyphique",31253
 "Brandon glyphique",31254
@@ -23514,6 +23550,7 @@
 "Mécabâton",31308
 "Dague de légionnaire",31310
 "Symbole de légionnaire",31311
+"Espadon de légionnaire",31312
 "Harpon de légionnaire",31314
 "Arc long de légionnaire",31315
 "Pistolet de légionnaire",31317
@@ -23560,6 +23597,7 @@
 "Pistolet du Sommet",31387
 "Fusil du Sommet",31388
 "Arc court du Sommet",31391
+"Hampe du Sommet",31393
 "Clairon du Sommet",31397
 "Hache du Prieuré",31398
 "Fil du Prieuré",31399
@@ -23663,6 +23701,8 @@
 "Cor de guerre ouvragé",31568
 "Dague des marais",31570
 "Sceptre hypnotique",31588
+"Maillet glyphique souillé",31594
+"Trilance glyphique souillée",31607
 "Bâton serti de joyaux",31611
 "Hache krait",31613
 "Dague krait",31614
@@ -23676,6 +23716,7 @@
 "Fusil krait",31622
 "Sceptre krait",31623
 "Carapace krait",31624
+"Arc court krait",31625
 "Fusil-harpon krait",31626
 "Bâton krait",31627
 "Epée krait",31628
@@ -23803,15 +23844,21 @@
 "Torche de Pacificateur",31832
 "Trident de Pacificateur",31833
 "Cor de guerre de Pacificateur",31834
+"Couperet de feu",31873
 "Espadon de feu",31876
 "Broyeur de feu",31877
+"Harpon de feu",31878
+"Arc de feu",31879
+"Masse de feu",31880
 "Pistolet de feu",31881
 "Fusil de feu",31882
 "Sceptre de feu",31883
+"Garde de feu",31884
 "Fusil-harpon de feu",31886
 "Bâton de feu",31887
 "Lame de feu",31888
 "Convoyeur de feu",31889
+"Bâton de feu",31890
 "Cor de guerre de feu",31891
 "Hache de la forge",31892
 "Dague de la forge",31893
@@ -23859,8 +23906,10 @@
 "Lance dentelée",31952
 "Hache de faucille",31953
 "Hache de Svanir",31955
+"Dague de Svanir",31956
 "Focus de Svanir",31957
 "Espadon de Svanir",31958
+"Marteau de guerre de Svanir",31959
 "Lance de Svanir",31960
 "Arc de Svanir",31961
 "Masse de Svanir",31962
@@ -23891,6 +23940,7 @@
 "Fusil-harpon sylvari",32014
 "Bâton sylvari",32015
 "Lame sylvari",32016
+"Torche sylvari",32017
 "Trident sylvari",32018
 "Cor de guerre sylvari",32019
 "Mousqueton en fer",32022
@@ -23901,9 +23951,11 @@
 "Espadon de vallée",32027
 "Marteau de guerre de vallée",32028
 "Harpon de vallée",32029
+"Arc de vallée",32030
 "Masse de vallée",32031
 "Pistolet de vallée",32032
 "Fusil de vallée",32033
+"Sceptre de vallée",32034
 "Bouclier de vallée",32035
 "Arc court de vallée",32036
 "Fusil-harpon de vallée",32037
@@ -23933,8 +23985,10 @@
 "Lance voltaïque",32062
 "Sceptre d'eau",32064
 "Hache sylvestre",32065
+"Dague sylvestre",32066
 "Focus sylvestre",32067
 "Espadon sylvestre",32068
+"Harpon sylvestre",32070
 "Arc sylvestre",32071
 "Masse sylvestre",32072
 "Pistolet sylvestre",32073
@@ -23944,11 +23998,18 @@
 "Arc court sylvestre",32077
 "Fusil-harpon sylvestre",32078
 "Bâton sylvestre",32079
+"Épée sylvestre",32080
+"Cor de guerre sylvestre",32083
 "Grand vouge",32084
 "Rondache en bois",32107
 "Clé à molette",32108
 "Torche de Gek",32109
 "Cor de guerre de Gek",32110
+"Arc long de vengeur",32119
+"Arc court de vengeur",32120
+"Fusil de vengeur",32123
+"Bâton de vengeur",32125
+"Marteau de vengeur",32127
 "Hachette",32129
 "Arc long en bois",32130
 "Dague émoussée",32132
@@ -23960,7 +24021,11 @@
 "Rondache",32139
 "Epée courte",32141
 "Cor de guerre",32143
+"Fusil de conservateur",32144
+"Bâton de conservateur",32145
+"Arc court d'intendant",32146
 "Trident de chasse",32148
+"Harpon de chasse",32149
 "Lance-harpon de chasse",32150
 "Lance-harpon renforcé",32151
 "Harpon renforcé",32152
@@ -23970,74 +24035,106 @@
 "Focus raffiné",32156
 "Pistolet raffiné",32157
 "Bouclier raffiné",32158
+"Cor de guerre raffiné",32159
 "Torche légère",32160
 "Arc long de vengeur solide",32161
 "Arc court de vengeur ravageur",32162
+"Arc court d'intendant robuste",32163
 "Epée longue du Héros solide",32164
 "Marteau de vengeur solide",32165
+"Fusil de conservateur rétablissant",32166
 "Fusil de vengeur absolu",32167
 "Bâton de vengeur solide",32168
+"Bâton de conservateur robuste",32169
+"Arc long de vengeur solide",32170
 "Arc court de vengeur ravageur",32171
 "Arc court d'intendant robuste",32172
 "Epée longue du Héros solide",32173
 "Marteau de vengeur solide",32174
+"Fusil de conservateur rétablissant",32175
 "Fusil de vengeur absolu",32176
 "Bâton de vengeur solide",32177
+"Bâton de conservateur robuste",32178
 "Hache légère",32179
 "Dague légère",32180
+"Masse légère",32181
 "Pistolet léger",32182
+"Pistolet plaqué",32183
 "Sceptre léger",32184
 "Epée légère",32185
 "Francisque englouti",32186
 "Couteau englouti",32187
+"Roue engloutie",32188
 "Pistolet englouti",32189
+"Coquille engloutie",32190
 "Fanal englouti",32191
+"Présage englouti",32192
 "Harpon de chasse",32193
 "Harpon renforcé",32194
+"Lance-harpon de chasse",32195
 "Lance-harpon renforcé",32196
 "Trident de chasse",32197
 "Trident renforcé",32198
 "Hachette de trinité",32199
 "Dague de trinité",32200
+"Focus de trinité",32201
 "Pistolet de trinité",32202
 "Rondache de trinité",32203
 "Torche de trinité",32204
+"Cor de guerre de trinité",32205
 "Hache légère",32206
 "Dague légère",32207
 "Masse légère",32208
 "Pistolet léger",32209
+"Pistolet plaqué",32210
 "Sceptre léger",32211
 "Epée légère",32212
 "Arc long de vengeur",32213
 "Arc court de vengeur",32214
+"Arc court d'intendant",32215
 "Épée longue de vengeur",32216
 "Marteau de vengeur",32217
+"Fusil de conservateur",32218
 "Fusil de vengeur",32219
+"Bâton de vengeur",32220
+"Bâton de conservateur",32221
 "Arc long de vengeur",32222
 "Arc court de vengeur",32223
 "Arc court d'intendant",32224
 "Épée longue de vengeur",32225
 "Marteau de vengeur",32226
+"Fusil de conservateur",32227
 "Fusil de vengeur",32228
 "Bâton de vengeur",32229
+"Bâton de conservateur",32230
+"Arc long de vengeur",32231
 "Arc court de vengeur",32232
 "Arc court d'intendant",32233
 "Épée longue de vengeur",32234
 "Marteau de vengeur",32235
+"Fusil de conservateur",32236
+"Fusil de vengeur",32237
 "Bâton de vengeur",32238
 "Bâton de conservateur",32239
 "Arc long de vengeur",32240
 "Arc court de vengeur",32241
 "Arc court d'intendant",32242
 "Épée longue de vengeur",32243
+"Marteau de vengeur",32244
+"Fusil de conservateur",32245
+"Fusil de vengeur",32246
 "Bâton de vengeur",32247
+"Bâton de conservateur",32248
 "Arc long de vengeur ravageur",32249
 "Arc court de vengeur solide",32250
 "Arc court d'intendant rétablissant",32251
 "Epée longue du Héros solide",32252
+"Marteau de vengeur solide",32253
+"Fusil de conservateur rétablissant",32254
 "Fusil de vengeur absolu",32255
 "Bâton de conservateur robuste",32256
 "Bâton de vengeur solide",32257
+"Espadon de Protecteur",32258
 "Hache de légionnaire nécrophage de sang",32259
 "Hache de légionnaire nécrophage de Vision",32260
 "Hache de légionnaire nécrophage d'exactitude",32261
@@ -27524,6 +27621,7 @@
 "Tonique de bonbons",36109
 "Tonique de momie",36114
 "Tonique de ruminant",36115
+"La lune démente",36116
 "Arachnophobie",36117
 "La traversée",36118
 "Recette : crème de bonbons",36119
@@ -27536,8 +27634,10 @@
 "Recette : tonique de bonbons",36126
 "Recette : tonique de momie",36127
 "Recette : tonique d'Halloween concentré",36128
+"La lune démente",36129
 "La traversée",36131
 "Chapeau d'ours poilu",36168
+"Lot de trois mini-oiseaux",36169
 "Golem banquier (2 semaines)",36171
 "Laboratoire des grosses têtes",36172
 "Basse",36174
@@ -27626,20 +27726,33 @@
 "Apparence d'espauliers mortels",36341
 "Apparence de Houppelande mortelle",36342
 "Apparence de Protège-épaules mortels",36343
+"Espauliers mortels",36344
 "Épée à chaînes",36347
 "Apparence d'Epée à chaînes",36348
+"Houppelande aviaire mortelle",36350
+"Houppelande de taureau mortelle",36353
+"Protège-épaules de taureau mortels",36354
 "Apparence de Protège-épaules aviaires mortels",36355
 "Apparence d'Houppelande aviaire mortelle",36356
 "Apparence d'espauliers aviaires mortels",36357
 "Apparence de Protège-épaules de taureau mortels",36358
 "Apparence de Houppelande de taureau mortelle",36359
 "Apparence d'espauliers de taureau mortels",36360
+"Sceptre de Thorn",36361
+"Bottes du Roi Dément",36362
+"Manteau du Roi Dément",36363
+"Gants du Roi Dément",36364
+"Chapeau du Roi Dément",36365
 "Tenue du Roi Dément",36366
 "Casque d'aviateur",36368
 "Oreilles de lapin",36369
 "Cornes de diable",36370
 "Capuchon de fantôme",36371
+"Chapeau de sorcière",36372
+"Balai enchanté",36373
+"Bottes de sorcière",36375
 "Manteau de sorcière",36376
+"Gants de sorcière",36377
 "Chapeau de sorcière",36378
 "Tenue de sorcière",36379
 "Tonique de fantôme sinistre",36380
@@ -27647,10 +27760,22 @@
 "Tonique de squelette sinistre",36382
 "Mémoires déments I : Enfance",36384
 "Mémoires déments II : Amitié",36385
+"Mémoires déments III : Amour de jeunesse",36386
+"Mémoires déments IV : Aventures fatales",36387
+"Mémoires déments V : Promise",36388
+"Mémoires déments VI : Couronnement",36389
+"Mémoires déments VII : Mains tranchées",36390
+"Mémoires déments VIII : Festin et famine",36391
+"Mémoires déments IX : Amours douloureuses",36392
+"Mémoires déments X : Paysans ingrats",36393
+"Mémoires déments XI : Flammes du renouveau",36394
+"Mémoires déments XII : Chute",36395
 "Matièromètre alimenté en bonbons",36396
 "Mémoires déments",36397
 "Mémoires déments : Edition complète",36398
 "Faux",36399
+"Faucille",36401
+"Pistolet",36405
 "Coup de grâce d'épouvantail à usage limité",36408
 "Coup de grâce du Roi Dément à usage limité",36409
 "Tonique triple chance",36447
@@ -27664,6 +27789,7 @@
 "Flasque de karma liquide",36459
 "Carafe de karma liquide",36460
 "Fût de karma liquide",36461
+"Carafe de karma liquide",36470
 "Sac d'articles merveilleux",36471
 "Sac d'articles merveilleux",36472
 "Sac d'articles merveilleux",36473
@@ -27672,9 +27798,17 @@
 "Sac d'articles merveilleux",36476
 "Sac d'articles merveilleux",36477
 "Sac d'articles merveilleux",36478
+"Sac d'articles merveilleux",36479
+"Sac d'articles merveilleux",36480
+"Sac d'articles merveilleux",36481
+"Sac d'articles merveilleux",36482
+"Sac d'articles merveilleux",36483
+"Sac d'articles merveilleux",36485
+"Sac d'articles merveilleux",36486
 "Kit de démarrage pour arène personnalisée",36506
 "Coupon de temps pour arène personnalisée",36507
 "Grimoire d'influence",36508
+"Coffre du Roi Dément",36510
 "Chapeau de Quaggan poilu avec un nœud",36515
 "Coup de grâce du bonhomme de neige à usage limité",36517
 "Coup de grâce de cadeau à usage limité",36518
@@ -27685,6 +27819,7 @@
 "Croc de colosse",36524
 "Amulette du Fléau de feu",36525
 "Amulette du Fléau de feu",36526
+"Peau du Dévoreur de fantôme",36527
 "Protection dorsale du Nord",36530
 "Peste",36533
 "Trépas de Vallog",36536
@@ -27706,7 +27841,9 @@
 "Amulette zélote",36560
 "Talisman de Svanir",36561
 "Talisman de Svanir",36562
+"Anneau de sang",36563
 "Anneau arctique",36564
+"Anneau arctique",36565
 "Credo de l'agent",36566
 "Éclats d'artefact orrien",36567
 "Éclats d'artefact orrien",36568
@@ -27727,9 +27864,11 @@
 "Étreinte arborée",36584
 "Anneau des Cauchemars",36587
 "Racine torturée",36590
+"Pendentif de l'astronome",36593
 "Pendentif de corail",36594
 "Pendentif de corail",36595
 "Recette : Credo de l'agent",36596
+"Recette : pendentif de l'astronome",36597
 "Recette : fragment de pierre de sang",36598
 "Recette : racine torturée",36600
 "Recette : anneau des Cauchemars",36601
@@ -27737,10 +27876,14 @@
 "Recette : griffe du Roi Hurlant",36604
 "Recette : cendres de l'effigie",36606
 "Recette : flamme éternelle",36607
+"Recette : conduit alpha",36609
 "Recette : bande d'infinité",36610
 "Recette : don de Koda",36612
 "Recette : amulette zélote",36613
+"Recette : anneau de sang",36614
+"Recette : trépas de Vallog",36615
 "Recette : peste",36616
+"Recette : le réplicateur",36619
 "Recette : carcasse du destructeur",36620
 "Journal de Caudecus",36621
 "Bague de Beetlestone",36622
@@ -27754,6 +27897,7 @@
 "Liane noircie",36660
 "Tentacule tourmenté",36661
 "Dossière sylvestre",36662
+"Prospectus révolutionnaires",36666
 "Grimoire rituel de la Flamme",36675
 "Talisman du feu de forêt",36676
 "Chauffe-dos calciné",36677
@@ -27786,7 +27930,9 @@
 "Potion de transformation en jeune karka",36725
 "Tonique de karka",36726
 "Tonique de karka inépuisable",36727
+"Caisse de recommandations",36728
 "Boîte en carapace de karka ancien",36729
+"Coffre de karka ancien",36730
 "Fruit de la passion",36731
 "Espauliers draconiques officinaux",36732
 "Bottes d'écumeur officinales",36733
@@ -27982,14 +28128,17 @@
 "Pique de destructeur officinal",36923
 "Épée de destructeur officinal",36924
 "Flacon alchimique vide",36963
+"Flacon alchimique",36964
 "Flacon alchimique pleine",36967
 "Flacon alchimique",36969
 "Flacon alchimique",36979
+"Potion alchimique",36982
 "Flacon alchimique",36989
 "Sac mouillé mystérieux",36994
 "Fragment de carte",36996
 "Carte de la Crique de Sud-Soleil",36997
 "Œuf d'essaim non éclos",36998
+"Objet du Consortium",36999
 "Le carquois aux mille flèches",37000
 "Koss parle de Koss",37001
 "Merveilles d'ici-bas",37002
@@ -28000,12 +28149,32 @@
 "Le Tome du Rubicon",37007
 "Le carquois de sûre trajectoire",37008
 "Le livre des secrets",37009
+"Koss parle de Koss (infusé)",37010
+"Le carquois aux mille flèches (infusé)",37011
+"Yakkington et moi : contes d'un voyageur (infusé)",37012
+"Merveilles d'ici-bas (infusé)",37013
+"L'histoire d'Ascalon par Symon (infusée)",37014
+"Le carquois de l'infini (infusé)",37015
+"Le tome du Rubicon (infusé)",37016
+"Au plaisir du facteur d'arc (infusé)",37017
+"Le livre des secrets (infusé)",37018
+"Le carquois de sûre trajectoire (infusé)",37019
+"Condensateur de fractale prototypal",37020
 "Condensateur de fractale prototypal",37025
 "Condensateur de fractale prototypal",37026
 "Condensateur de fractale prototypal",37027
 "Condensateur de fractale prototypal",37028
 "Condensateur de fractale prototypal",37029
+"Condensateur de fractale bêta (infusé)",37035
+"Condensateur de fractale bêta (infusé)",37036
+"Condensateur de fractale bêta (infusé)",37037
+"Condensateur de fractale bêta (infusé)",37038
 "Condensateur de fractale bêta (infusé)",37039
+"Condensateur de fractale (infusé)",37045
+"Condensateur de fractale (infusé)",37046
+"Condensateur de fractale (infusé)",37047
+"Condensateur de fractale (infusé)",37048
+"Condensateur de fractale (infusé)",37049
 "Condensateur de fractale prototypal",37050
 "Condensateur de fractale prototypal",37051
 "Condensateur de fractale prototypal",37052
@@ -28016,7 +28185,16 @@
 "Condensateur de fractale prototypal",37057
 "Condensateur de fractale prototypal",37058
 "Condensateur de fractale prototypal",37059
+"Condensateur de fractale bêta (infusé)",37060
+"Condensateur de fractale bêta (infusé)",37061
 "Condensateur de fractale bêta (infusé)",37062
+"Condensateur de fractale bêta (infusé)",37063
+"Condensateur de fractale bêta (infusé)",37064
+"Condensateur de fractale (infusé)",37065
+"Condensateur de fractale (infusé)",37066
+"Condensateur de fractale (infusé)",37067
+"Condensateur de fractale (infusé)",37068
+"Condensateur de fractale (infusé)",37069
 "Don d'ascension",37070
 "Phylactère de Khilbron",37074
 "Bague cristalline",37075
@@ -28039,6 +28217,7 @@
 "Bagh Nakh",37092
 "Gyre de Snaff",37093
 "Phylactère de Khilbron (infusé)",37094
+"Cercle de lumière (infusé)",37095
 "Bague cristalline (infusée)",37096
 "Boucle d'Ouroboros (infusée)",37097
 "Signe royal de Doric (infusé)",37098
@@ -28049,9 +28228,12 @@
 "Solaria, cercle du Soleil (infusé)",37103
 "Chevalière royale d'Adelbern (infusée)",37104
 "Sceau perdu d'Usoku (infusé)",37105
+"Liane de l'Arbre clair (infusée)",37106
 "Chevalière royale de Rurik (infusée)",37107
 "Boussole de marrin (infusée)",37108
 "Sceau du Khan-Ur (infusé)",37109
+"Volute de Mellaggan (infusée)",37110
+"Bagh Nakh (infusé)",37111
 "Anneau de Yakkington (infusé)",37112
 "Gyre de Snaff (infusé)",37113
 "Infusion curative de résistance à l'agonie +7",37123
@@ -28086,6 +28268,7 @@
 "Apparences d'épaulières légères des îles",37200
 "Apparences d'épaulières intermédiaires des îles",37202
 "Pack de teintures du Consortium",37203
+"Sac à dos d'explorateur tyrien",37204
 "Mini-karka",37206
 "Mini-drake des récifs",37207
 "Mini-petits karkas",37208
@@ -28096,6 +28279,15 @@
 "Apparence de bouclier-totem Tiki",37218
 "Apparence de focus nautique du Consortium",37219
 "Apparence de hache de la Dent de requin",37221
+"Pétoncle",37234
+"Bois flotté",37235
+"Chair d'oursin",37236
+"Algue",37237
+"Corail",37238
+"Parchemin magique",37239
+"Carapace étrange",37240
+"Échantillon de karka",37241
+"Pièces de golem",37242
 "Dague en fer cavalière",37243
 "Dague en fer cavalière",37245
 "Dague en fer militaire",37249
@@ -28406,6 +28598,7 @@
 "Espauliers en écailles renforcés",37698
 "Torche en bois tendre militaire",37699
 "Torche de la Harde militaire",37700
+"Anneau de voyageur",37701
 "Anneau de voyageur",37702
 "Torche en bois tendre mage",37703
 "Torche en bois tendre mage",37704
@@ -28430,6 +28623,7 @@
 "Amulette de voyageur",37730
 "Amulette de voyageur",37733
 "Trident de la Terre noire enragé",37734
+"Amulette de voyageur",37735
 "Amulette cavalière",37737
 "Trident de la Terre noire mage",37738
 "Amulette cavalière",37739
@@ -28452,6 +28646,7 @@
 "Cor de guerre en bois tendre militaire",37761
 "Cor de guerre en bois tendre enragé",37762
 "Manuel militaire de voyageur",37763
+"Manuel militaire de voyageur",37765
 "Cor de guerre en bois tendre enragé",37766
 "Manuel de terrain cavalier",37767
 "Manuel de terrain cavalier",37768
@@ -28536,6 +28731,11 @@
 "Protection dorsale militaire",37855
 "Protection dorsale enragée",37856
 "Protection dorsale de voyageur",37857
+"Faux tenace de moissonneur en cuivre",37871
+"Hache tenace de bûcheron en cuivre",37872
+"Pioche tenace de mineur en cuivre",37873
+"Faux tenace de moissonneur en fer",37874
+"Hache tenace de bûcheron en fer",37875
 "Faux tenace de moissonneur en acier",37877
 "Insigne d'assaut de la Garde du Lion",37890
 "Contrat de confidentialité du Consortium",37891

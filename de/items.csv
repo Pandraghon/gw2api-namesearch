@@ -17114,14 +17114,20 @@
 "Schleifstein",24431
 "Grünes Stinkhorn",24432
 "Unbeschädigter Kraft-Klunker",24433
+"Banditen-Dokumente",24434
 "Roter Herbeirufstein",24435
 "Blauer Herbeirufstein",24436
 "Schwarzer Herbeirufstein",24437
+"Kodan-Vorräte",24438
 "Vulkangestein",24440
 "Metallschrott",24441
+"Brocken unraffiniertes Schaufler-Erz",24442
+"Schatz",24447
 "Explosives Pulver",24448
+"Stück Metallschrott",24449
 "Gefrorener Fisch",24450
 "Moa-Fleisch",24451
+"Asura-Relikt",24452
 "Stück Dolyak-Fleisch",24453
 "Barrakuda-Fleisch",24454
 "Skritt-Artefakt",24455
@@ -18360,6 +18366,9 @@
 "Schamanisches Norn-Kriegshorn der Verdorbenheit",25713
 "Schamanisches Norn-Kriegshorn der Energie",25714
 "Schamanisches Norn-Kriegshorn der Luft",25715
+"Cinematic Weapon Sword Charr",25746
+"Cinematic Weapon Sword Ebon Vanguard",25749
+"Cinematic Weapon Sword Ebon Vanguard 2",25751
 "Mächtige Eisen-Axt",25815
 "Mächtige Eisen-Axt",25816
 "Mächtige Eisen-Axt",25817
@@ -21771,6 +21780,7 @@
 "Modniir-Vorbote",29242
 "Norn-Axt",29253
 "Norn-Dolch",29256
+"Norn-Großschwert",29258
 "Norn-Streitkolben",29260
 "Norn-Pistole",29261
 "Norn-Gewehr",29262
@@ -21991,24 +22001,43 @@
 "Valoric-Großschwert",29566
 "Arundon-Gewehr",29567
 "Recken-Schwert",29568
+"Piraten-Beil",29569
 "Ebon-Vorhut-Axt",29570
+"Piraten-Blutschinder",29571
 "Ebon-Vorhut-Langbogen",29572
+"Piraten-Fokus",29573
 "Ebon-Vorhut-Kurzbogen",29574
+"Piraten-Töter",29575
 "Ebon-Vorhut-Dolch",29577
+"Piraten-Vorschlaghammer",29578
 "Ebon-Vorhut-Fokus",29580
+"Piraten-Harpune",29582
 "Ebon-Vorhut-Großschwert",29583
 "Ebon-Vorhut-Hammer",29585
+"Piraten-Halbmond",29586
+"Piraten-Schlagstock",29587
 "Ebon-Vorhut-Harpune",29589
+"Piraten-Steinschloss",29590
 "Ebon-Vorhut-Streitkolben",29592
+"Piraten-Donnerstock",29593
 "Ebon-Vorhut-Pistole",29594
+"Piraten-Gehstock",29596
+"Piraten-Barrikade",29598
 "Ebon-Vorhut-Gewehr",29600
 "Ebon-Vorhut-Zepter",29602
+"Piraten-Nadler",29603
 "Ebon-Vorhut-Schild",29604
+"Piraten-Speerschleuder",29605
 "Ebon-Vorhut-Speerschleuder",29607
+"Piraten-Krücke",29608
+"Piraten-Entermesser",29610
 "Ebon-Vorhut-Stab",29611
 "Ebon-Vorhut-Schwert",29613
+"Piraten-Flammenschale",29614
+"Piraten-Dreizack",29616
 "Ebon-Vorhut-Fackel",29617
 "Wolfsrudel-Stab",29618
+"Piraten-Clairon",29620
 "Ebon-Vorhut-Dreizack",29621
 "Ebon-Vorhut-Kriegshorn",29623
 "Wolfsrudel-Axt",29645
@@ -22252,6 +22281,7 @@
 "Schwert von Ascalon",30035
 "Protonen-Fackel",30036
 "Kriegshorn der Blut-Legion",30037
+"Eisen-Legion-Schild",30038
 "Asche-Legion-Schild",30039
 "Blut-Legion-Schild",30040
 "Harpune der Eisen-Legion",30041
@@ -22765,6 +22795,7 @@
 "Quetzal-Speerschleuder",30555
 "Hainhüter-Stab",30556
 "Quetzal-Dreizack",30557
+"Rudelmeister-Kriegshorn",30558
 "Dunkelranken-Großschwert",30559
 "Fischer-Schild",30560
 "Schierlingsschwert",30561
@@ -23387,6 +23418,7 @@
 "Resonator",31185
 "Zahnrad-Axt",31186
 "Verbrenner",31187
+"Zahnradklinge",31188
 "Zahnrad-Stab",31189
 "Bajonett",31190
 "Kurzer Zahnrad-Bogen",31191
@@ -23394,9 +23426,11 @@
 "Zahnradstock",31193
 "Gerät",31194
 "Große Zahnradklinge",31195
+"Zahnradschlaghammer",31196
 "Zahnrad-Bogen",31197
 "Zahnradknüppel",31198
 "Gatling-Pistole",31199
+"Gatling-Gewehr",31200
 "Alpiner Langdolch",31218
 "Alpiner Talisman",31219
 "Alpiner Schlägel",31221
@@ -23406,6 +23440,7 @@
 "Alpiner Schild",31228
 "Alpiner Kurzbogen",31229
 "Alpiner Harpunenwerfer",31230
+"Einhänder",31232
 "Alpines Leuchtfeuer",31233
 "Alpiner Dreizack",31234
 "Alpines Kriegshorn",31235
@@ -23420,6 +23455,7 @@
 "Glyphen-Pistole",31246
 "Glyphen-Streitkolben",31248
 "Glyphen-Schutz",31249
+"Glyphen-Kurzbogen",31250
 "Glyphen-Stab",31252
 "Glyphen-Schneide",31253
 "Glyphen-Brandmal",31254
@@ -23466,6 +23502,7 @@
 "Zahnrad-Stab",31308
 "Legionär-Dolch",31310
 "Legionär-Ikone",31311
+"Legionär-Großschwert",31312
 "Legionär-Harpune",31314
 "Legionär-Langbogen",31315
 "Legionär-Seitenwaffe",31317
@@ -23512,6 +23549,7 @@
 "Gipfel-Pistole",31387
 "Gipfel-Gewehr",31388
 "Gipfel-Kurzbogen",31391
+"Gipfel-Knüttel",31393
 "Gipfel-Clairon",31397
 "Abtei-Axt",31398
 "Abtei-Schneide",31399
@@ -23610,6 +23648,8 @@
 "Geschmücktes Kriegshorn",31568
 "Fenn-Dolch",31570
 "Hypnotik-Zepter",31588
+"Besudelter Glyphen-Schlägel",31594
+"Besudelter Glyphen-Dreispieß",31607
 "Krait-Axt",31613
 "Krait-Dolch",31614
 "Krait-Fokus",31615
@@ -23622,6 +23662,7 @@
 "Krait-Gewehr",31622
 "Krait-Zepter",31623
 "Krait-Muschel",31624
+"Krait-Kurzbogen",31625
 "Krait-Harpunenschleuder",31626
 "Krait-Stab",31627
 "Krait-Schwert",31628
@@ -23742,15 +23783,21 @@
 "Friedensstifter-Fackel",31832
 "Friedensstifter-Dreizack",31833
 "Friedensstifter-Kriegshorn",31834
+"Flammen-Henkersbeil",31873
 "Flammen-Großschwert",31876
 "Flammen-Zermalmer",31877
+"Flammen-Harpune",31878
+"Flammen-Bogen",31879
+"Flammen-Streitkolben",31880
 "Flammen-Pistole",31881
 "Flammen-Gewehr",31882
 "Flammen-Zepter",31883
+"Flammen-Schutz",31884
 "Flammen-Harpunenschleuder",31886
 "Flammen-Stab",31887
 "Flammen-Klinge",31888
 "Flammen-Träger",31889
+"Flammen-Stab",31890
 "Flammen-Kriegshorn",31891
 "Schmiede-Axt",31892
 "Schmiede-Dolch",31893
@@ -23794,8 +23841,10 @@
 "Gezackter Speer",31952
 "Sichel-Axt",31953
 "Svanir-Axt",31955
+"Svanir-Dolch",31956
 "Svanir-Fokus",31957
 "Svanir-Großschwert",31958
+"Svanir-Kriegshammer",31959
 "Svanir-Speer",31960
 "Svanir-Bogen",31961
 "Svanir-Streitkolben",31962
@@ -23826,6 +23875,7 @@
 "Sylvari-Harpunenschleuder",32014
 "Sylvari-Stab",32015
 "Sylvari-Klinge",32016
+"Sylvari-Fackel",32017
 "Sylvari-Dreizack",32018
 "Sylvari-Kriegshorn",32019
 "Eisen-Steinschloss",32022
@@ -23836,9 +23886,11 @@
 "Tal-Großschwert",32027
 "Tal-Kriegshammer",32028
 "Tal-Harpune",32029
+"Tal-Bogen",32030
 "Tal-Streitkolben",32031
 "Tal-Pistole",32032
 "Tal-Gewehr",32033
+"Tal-Zepter",32034
 "Tal-Schild",32035
 "Tal-Kurzbogen",32036
 "Tal-Harpunenschleuder",32037
@@ -23868,8 +23920,10 @@
 "Voltaischer Speer",32062
 "Wasser-Zepter",32064
 "Wald-Axt",32065
+"Wald-Dolch",32066
 "Wald-Fokus",32067
 "Wald-Großschwert",32068
+"Waldharpune",32070
 "Wald-Bogen",32071
 "Waldstreitkolben",32072
 "Wald-Pistole",32073
@@ -23879,11 +23933,18 @@
 "Wald-Kurzbogen",32077
 "Wald-Harpunenschleuder",32078
 "Wald-Stab",32079
+"Wald-Schwert",32080
+"Waldkriegshorn",32083
 "Breite Voulge",32084
 "Holzbuckelschild",32107
 "Schraubenschlüssel",32108
 "Gek-Fackel",32109
 "Gek-Kriegshorn",32110
+"Rächer-Langbogen",32119
+"Rächer-Kurzbogen",32120
+"Rächer-Gewehr",32123
+"Rächer-Stab",32125
+"Rächer-Hammer",32127
 "Beil",32129
 "Holz-Langbogen",32130
 "Stumpfer Dolch",32132
@@ -23895,7 +23956,11 @@
 "Buckelschild",32139
 "Kurzschwert",32141
 "Kriegshorn",32143
+"Wärter-Gewehr",32144
+"Wärter-Stab",32145
+"Wärter-Kurzbogen",32146
 "Jagd-Dreizack",32148
+"Jagd-Harpune",32149
 "Jagd-Speerschleuder",32150
 "Verstärkte Speerschleuder",32151
 "Verstärkte Harpune",32152
@@ -23905,74 +23970,106 @@
 "Feiner Fokus",32156
 "Feine Pistole",32157
 "Feiner Schild",32158
+"Feines Kriegshorn",32159
 "Leichte Fackel",32160
 "Starker Rächer-Langbogen",32161
 "Verwüstender Rächer-Kurzbogen",32162
+"Wackerer Wärter-Kurzbogen",32163
 "Starkes Helden-Langschwert",32164
 "Starker Rächer-Hammer",32165
+"Genesendes Wärter-Gewehr",32166
 "Wirkungsvolles Rächer-Gewehr",32167
 "Starker Rächer-Stab",32168
+"Wackerer Wärter-Stab",32169
+"Starker Rächer-Langbogen",32170
 "Verwüstender Rächer-Kurzbogen",32171
 "Wackerer Wärter-Kurzbogen",32172
 "Starkes Helden-Langschwert",32173
 "Starker Rächer-Hammer",32174
+"Genesendes Wärter-Gewehr",32175
 "Wirkungsvolles Rächer-Gewehr",32176
 "Starker Rächer-Stab",32177
+"Wackerer Wärter-Stab",32178
 "Leichte Axt",32179
 "Leichter Dolch",32180
+"Leichter Streitkolben",32181
 "Leichte Pistole",32182
+"Gepanzerte Pistole",32183
 "Leichtes Zepter",32184
 "Leichtes Schwert",32185
 "Versunkener Spalter",32186
 "Versunkener Schnitzer",32187
+"Versunkenes Rad",32188
 "Versunkene Pistole",32189
+"Versunkene Muschel",32190
 "Versunkenes Leuchtfeuer",32191
+"Versunkener Vorbote",32192
 "Jagd-Harpune",32193
 "Verstärkte Harpune",32194
+"Jagd-Speerschleuder",32195
 "Verstärkte Speerschleuder",32196
 "Jagd-Dreizack",32197
 "Verstärkter Dreizack",32198
 "Dreifaltigkeit-Beil",32199
 "Dreifaltigkeit-Dolch",32200
+"Dreifaltigkeit-Fokus",32201
 "Dreifaltigkeit-Pistole",32202
 "Dreifaltigkeit-Buckelschild",32203
 "Dreifaltigkeit-Fackel",32204
+"Dreifaltigkeit-Kriegshorn",32205
 "Leichte Axt",32206
 "Leichter Dolch",32207
 "Leichter Streitkolben",32208
 "Leichte Pistole",32209
+"Gepanzerte Pistole",32210
 "Leichtes Zepter",32211
 "Leichtes Schwert",32212
 "Rächer-Langbogen",32213
 "Rächer-Kurzbogen",32214
+"Wärter-Kurzbogen",32215
 "Rächer-Langschwert",32216
 "Rächer-Hammer",32217
+"Wärter-Gewehr",32218
 "Rächer-Gewehr",32219
+"Rächer-Stab",32220
+"Wärter-Stab",32221
 "Rächer-Langbogen",32222
 "Rächer-Kurzbogen",32223
 "Wärter-Kurzbogen",32224
 "Rächer-Langschwert",32225
 "Rächer-Hammer",32226
+"Wärter-Gewehr",32227
 "Rächer-Gewehr",32228
 "Rächer-Stab",32229
+"Wärter-Stab",32230
+"Rächer-Langbogen",32231
 "Rächer-Kurzbogen",32232
 "Wärter-Kurzbogen",32233
 "Rächer-Langschwert",32234
 "Rächer-Hammer",32235
+"Wärter-Gewehr",32236
+"Rächer-Gewehr",32237
 "Rächer-Stab",32238
 "Wärter-Stab",32239
 "Rächer-Langbogen",32240
 "Rächer-Kurzbogen",32241
 "Wärter-Kurzbogen",32242
 "Rächer-Langschwert",32243
+"Rächer-Hammer",32244
+"Wärter-Gewehr",32245
+"Rächer-Gewehr",32246
 "Rächer-Stab",32247
+"Wärter-Stab",32248
 "Verwüstender Rächer-Langbogen",32249
 "Starker Rächer-Kurzbogen",32250
 "Genesender Wärter-Kurzbogen",32251
 "Starkes Helden-Langschwert",32252
+"Starker Rächer-Hammer",32253
+"Genesendes Wärter-Gewehr",32254
 "Wirkungsvolles Rächer-Gewehr",32255
 "Wackerer Wärter-Stab",32256
 "Starker Rächer-Stab",32257
+"Hainhüter-Großschwert",32258
 "Faulende Legionär-Axt des Blutes",32259
 "Faulende Legionär-Axt der Vision",32260
 "Faulende Legionär-Axt der Treffsicherheit",32261
@@ -27459,6 +27556,7 @@
 "Candy-Corn-Trank",36109
 "Mumien-Trank",36114
 "Wiederkäuer-Trank",36115
+"Der Verrückte Mond",36116
 "Arachnophobia",36117
 "Die Kreuzung",36118
 "Rezept: Candy-Corn-Pudding",36119
@@ -27471,8 +27569,10 @@
 "Rezept: Candy-Corn-Trank",36126
 "Rezept: Mumien-Trank",36127
 "Rezept: Konzentrierter Halloween-Trank",36128
+"Der Verrückte Mond",36129
 "Die Kreuzung",36131
 "Flauschige Bären-Mütze",36168
+"Mini Vogel 3er-Pack",36169
 "Golem-Bankier (2 Wochen)",36171
 "Wackelkopf-Labor",36172
 "Melodische Bassgitarre",36174
@@ -27561,20 +27661,33 @@
 "Skin für tödlichen Schulterschutz",36341
 "Skin für tödlichen Überwurf",36342
 "Skin für tödliche Schulterpolster",36343
+"Tödlicher Schulterschutz",36344
 "Ketten-Schwert",36347
 "Skin für Ketten-Schwert",36348
+"Tödlicher Vogel-Überwurf",36350
+"Tödlicher Bullen-Überwurf",36353
+"Tödliche Bullen-Schulterpolster",36354
 "Skin für tödliche Vogel-Schulterpolster",36355
 "Skin für tödlichen Vogel-Überwurf",36356
 "Skin für tödlichen Vogel-Schulterschutz",36357
 "Skin für tödliche Bullen-Schulterpolster",36358
 "Skin für tödlichen Bullen-Überwurf",36359
 "Skin für tödlichen Bullen-Schulterschutz",36360
+"Thorns Zepter",36361
+"Stiefel des Verrückten Königs",36362
+"Wams des Verrückten Königs",36363
+"Handschuhe des Verrückten Königs",36364
+"Hut des Verrückten Königs",36365
 "\"Verrückter König\"-Kleidungsset",36366
 "Piloten-Mütze",36368
 "Hasenohren",36369
 "Teufelshörner",36370
 "Phantom-Kapuze",36371
+"Hexen-Hut",36372
+"Verzauberter Besen",36373
+"Hexen-Stiefel",36375
 "Hexen-Wams",36376
+"Hexen-Handschuhe",36377
 "Hexen-Hut",36378
 "Hexen-Kleidungsset",36379
 "Gruselgespenst-Trank",36380
@@ -27582,10 +27695,22 @@
 "Gruselskelett-Trank",36382
 "Verrückte Memoiren I: Kindheit",36384
 "Verrückte Memoiren II: Freundschaft",36385
+"Verrückte Memoiren III: Jugendliche Liebe",36386
+"Verrückte Memoiren IV: Tödliche Abenteuer",36387
+"Verrückte Memoiren V: Verlobt",36388
+"Verrückte Memoiren VI: Inthronisierung",36389
+"Verrückte Memoiren VII: Handlos",36390
+"Verrückte Memoiren VIII: Festschmaus und Hungersnot",36391
+"Verrückte Memoiren IX: Die Wehen der Liebe",36392
+"Verrückte Memoiren X: Steuer-Laternen",36393
+"Verrückte Memoiren XI: Reinigende Flammen",36394
+"Verrückte Memoiren XII: Abstieg",36395
 "Bonbon-betriebener Materiemeter",36396
 "Verrückte Memoiren",36397
 "Verrückte Memoiren: Gesamtausgabe",36398
 "Sense",36399
+"Sichel",36401
+"Pistole",36405
 "Begrenzter Vogelscheuchen-Todesstoß",36408
 "Begrenzter Todesstoß des Verrückten Königs",36409
 "Dreifachglücks-Trank",36447
@@ -27599,6 +27724,7 @@
 "Flasche Flüssiges Karma",36459
 "Krug Flüssiges Karma",36460
 "Fass Flüssiges Karma",36461
+"Krug Flüssiges Karma",36470
 "Beutel mit wundersamen Waren",36471
 "Beutel mit wundersamen Waren",36472
 "Beutel mit wundersamen Waren",36473
@@ -27607,9 +27733,17 @@
 "Beutel mit wundersamen Waren",36476
 "Beutel mit wundersamen Waren",36477
 "Beutel mit wundersamen Waren",36478
+"Beutel mit wundersamen Waren",36479
+"Beutel mit wundersamen Waren",36480
+"Beutel mit wundersamen Waren",36481
+"Beutel mit wundersamen Waren",36482
+"Beutel mit wundersamen Waren",36483
+"Beutel mit wundersamen Waren",36485
+"Beutel mit wundersamen Waren",36486
 "Starterkit für selbsterstellte Arenen",36506
 "Zeitmarke für selbsterstellte Arenen",36507
 "Foliant des Einflusses",36508
+"Truhe des Verrückten Königs",36510
 "Flauschige Quaggan-Mütze mit Schleife",36515
 "Begrenzter Schneemann-Todesstoß",36517
 "Begrenzter Geschenk-Todesstoß",36518
@@ -27620,6 +27754,7 @@
 "Koloss-Fangzahn",36524
 "Feindfeuer-Amulett",36525
 "Feindfeuer-Amulett",36526
+"Haut des Geisterfressers",36527
 "Rückenplatte des Nordens",36530
 "Seuche",36533
 "Untergang Vallogs",36536
@@ -27641,7 +27776,9 @@
 "Des Eiferers Amulett",36560
 "Svanir-Talisman",36561
 "Svanir-Talisman",36562
+"Ring des Blutes",36563
 "Arktischer Ring",36564
+"Arktischer Ring",36565
 "Credo des Feldagenten",36566
 "Orrianische Artefaktscherbe",36567
 "Orrianische Artefaktscherbe",36568
@@ -27662,9 +27799,11 @@
 "Umarmung Arbors",36584
 "Albtraum-Reif",36587
 "Gequälte Wurzel",36590
+"Sterngucker-Anhänger",36593
 "Korallen-Anhänger",36594
 "Korallen-Anhänger",36595
 "Rezept: Credo des Feldagenten",36596
+"Rezept: Sterngucker-Anhänger",36597
 "Rezept: Blutsteinfragment",36598
 "Rezept: Gequälte Wurzel",36600
 "Rezept: Albtraum-Reif",36601
@@ -27672,10 +27811,14 @@
 "Rezept: Klaue des Heulenden Königs",36604
 "Rezept: Asche des Abbilds",36606
 "Rezept: Ewige Flamme",36607
+"Rezept: Alpha-Conduit",36609
 "Rezept: Unendliche Spirale",36610
 "Rezept: Gabe Kodas",36612
 "Rezept: Des Eiferers Amulett",36613
+"Rezept: Ring des Blutes",36614
+"Rezept: Untergang Vallogs",36615
 "Rezept: Seuche",36616
+"Rezept: Der Replikator",36619
 "Rezept: Hülle des Zerstörers",36620
 "Tagebuch Caudecus'",36621
 "Beetlestone-Band",36622
@@ -27689,6 +27832,7 @@
 "Dunkle Ranke",36660
 "Verdrehte Ranke",36661
 "Wald-Rückenschild",36662
+"Revolutionäre Flugblätter",36666
 "Flammen-Legion-Ritenbuch",36675
 "Lauffeuer-Talisman",36676
 "Verkohlter Rückenwärmer",36677
@@ -27721,7 +27865,9 @@
 "Trank der Junger-Karka-Verwandlung",36725
 "Karka-Trank",36726
 "Endloser Karka-Trank",36727
+"Kiste mit Belobigungen",36728
 "Uralter Karka-Panzerkiste",36729
+"Uralte Karka-Truhe",36730
 "Maracuja",36731
 "Arzneikundlerischer Drakonischer Schulterschutz",36732
 "Arzneikundlerische Lauerer-Stiefel",36733
@@ -27917,14 +28063,17 @@
 "Arzneikundlerische Zerstörer-Pike",36923
 "Arzneikundlerisches Zerstörer-Schwert",36924
 "Leere alchemistische Flasche.",36963
+"Alchemistische Flasche",36964
 "Volle alchemistische Flasche.",36967
 "Alchemistische Flasche",36969
 "Alchemistische Flasche",36979
+"Alchemistischer Trank",36982
 "Alchemistische Flasche",36989
 "Geheimnisvoller durchnässter Beutel",36994
 "Kartenfragment",36996
 "Karte der Südlicht-Bucht",36997
 "Ungeschlüpftes Schwarmei",36998
+"Konsortiums-Gegenstand",36999
 "Köcher der tausend Pfeile",37000
 "Koss über Koss",37001
 "Im Auge des Jägers",37002
@@ -27935,12 +28084,32 @@
 "Foliant des Rubikon",37007
 "Köcher der rasenden Pfeile",37008
 "Buch der Geheimnisse",37009
+"Koss über Koss (Infundiert)",37010
+"Köcher der tausend Pfeile (Infundiert)",37011
+"Unterwegs mit Yakkington: Geschichten eines Reisenden (Infundiert)",37012
+"Im Auge des Jägers (infundiert)",37013
+"Symons Geschichte von Ascalon (Infundiert)",37014
+"Endloser Köcher (Infundiert)",37015
+"Foliant des Rubikon (Infundiert)",37016
+"Wohlgefallen des Bogenmachers (Infundiert)",37017
+"Buch der Geheimnisse (Infundiert)",37018
+"Köcher der rasenden Pfeile (Infundiert)",37019
+"Prototyp-Fraktalkondensator",37020
 "Prototyp-Fraktalkondensator",37025
 "Prototyp-Fraktalkondensator",37026
 "Prototyp-Fraktalkondensator",37027
 "Prototyp-Fraktalkondensator",37028
 "Prototyp-Fraktalkondensator",37029
+"Beta-Fraktalkondensator (Infundiert)",37035
+"Beta-Fraktalkondensator (Infundiert)",37036
+"Beta-Fraktalkondensator (Infundiert)",37037
+"Beta-Fraktalkondensator (Infundiert)",37038
 "Beta-Fraktalkondensator (Infundiert)",37039
+"Fraktalkondensator (Infundiert)",37045
+"Fraktalkondensator (Infundiert)",37046
+"Fraktalkondensator (Infundiert)",37047
+"Fraktalkondensator (Infundiert)",37048
+"Fraktalkondensator (Infundiert)",37049
 "Prototyp-Fraktalkondensator",37050
 "Prototyp-Fraktalkondensator",37051
 "Prototyp-Fraktalkondensator",37052
@@ -27951,7 +28120,16 @@
 "Prototyp-Fraktalkondensator",37057
 "Prototyp-Fraktalkondensator",37058
 "Prototyp-Fraktalkondensator",37059
+"Beta-Fraktalkondensator (Infundiert)",37060
+"Beta-Fraktalkondensator (Infundiert)",37061
 "Beta-Fraktalkondensator (Infundiert)",37062
+"Beta-Fraktalkondensator (Infundiert)",37063
+"Beta-Fraktalkondensator (Infundiert)",37064
+"Fraktalkondensator (Infundiert)",37065
+"Fraktalkondensator (Infundiert)",37066
+"Fraktalkondensator (Infundiert)",37067
+"Fraktalkondensator (Infundiert)",37068
+"Fraktalkondensator (Infundiert)",37069
 "Gabe des Aufstiegs",37070
 "Phylakterion Khilbrons",37074
 "Kristallinband",37075
@@ -27974,6 +28152,7 @@
 "Bagh Nakh",37092
 "Wirbel Snaffs",37093
 "Phylakterion Khilbrons (Infundiert)",37094
+"Kreis des Lichts (Infundiert)",37095
 "Kristallinband (Infundiert)",37096
 "Schleife Ouroboros (Infundiert)",37097
 "Königliches Siegel des Doric (Infundiert)",37098
@@ -27984,9 +28163,12 @@
 "Solaria, Band der Sonne (Infundiert)",37103
 "Königlicher Adelbern-Siegelring (Infundiert)",37104
 "Verschollenes Siegel des Usoku (Infundiert)",37105
+"Ranke des Blassen Baums (Infundiert)",37106
 "Königlicher Rurik-Siegelring (Infundiert)",37107
 "Kompass Marriners (Infundiert)",37108
 "Siegel der Khan-Ur (Infundiert)",37109
+"Windungen Mellaggans (Infundiert)",37110
+"Bagh Nakh (Infundiert)",37111
 "Yakkington-Ring (Infundiert)",37112
 "Wirbel Snaffs (Infundiert)",37113
 "Heilende +7 Qual-Infusion",37123
@@ -28021,6 +28203,7 @@
 "Skin für leichte Insel-Schulter",37200
 "Skin für mittlere Insel-Schulter",37202
 "Konsortium-Farbpack",37203
+"Tyrianischer Explorator-Rucksack",37204
 "Mini Karka",37206
 "Mini Rifflindwurm",37207
 "Mini Karka-Schlüpfling",37208
@@ -28031,6 +28214,15 @@
 "Skin für Tiki-Totemschild",37218
 "Skin für Konsortium-Klipperfokus",37219
 "Skin für Haizahn-Axt",37221
+"Seemuschel",37234
+"Treibholz",37235
+"Seeigelfleisch",37236
+"Seetang",37237
+"Koralle",37238
+"Magische Schriftrolle",37239
+"Merkwürdiges Panzer-Fragment",37240
+"Karka-Probe",37241
+"Golem-Teile",37242
 "Kavaliermäßiger Eisen-Dolch",37243
 "Kavaliermäßiger Eisen-Dolch",37245
 "Soldatischer Eisen-Dolch",37249
@@ -28339,6 +28531,7 @@
 "Verstärkter Schuppen-Schulterschutz",37698
 "Soldatische Geschmeidige Holz-Fackel",37699
 "Soldatische Wolfsrudel-Fackel",37700
+"Wanderer-Ring",37701
 "Wanderer-Ring",37702
 "Magische Geschmeidige Holz-Fackel",37703
 "Magische Geschmeidige Holz-Fackel",37704
@@ -28363,6 +28556,7 @@
 "Wanderer-Amulett",37730
 "Amulett des Wanderers",37733
 "Tollwütiger Schwarzerd-Dreizack",37734
+"Amulett des Wanderers",37735
 "Kavaliermäßiges Amulett",37737
 "Magischer Schwarzerd-Dreizack",37738
 "Kavaliermäßiges Amulett",37739
@@ -28385,6 +28579,7 @@
 "Soldatisches Geschmeidiges Holz-Kriegshorn",37761
 "Tollwütiges Geschmeidiges Holz-Kriegshorn",37762
 "Wanderer-Feldhandbuch",37763
+"Wanderer-Feldhandbuch",37765
 "Tollwütiges Geschmeidiges Holz-Kriegshorn",37766
 "Kavaliermäßiges Feldhandbuch",37767
 "Kavaliermäßiges Feldhandbuch",37768
@@ -28469,6 +28664,11 @@
 "Soldatische Rückenplatte",37855
 "Tollwütige Rückenplatte",37856
 "Wanderer-Rückenplatte",37857
+"Stabile Kupfer-Erntesichel",37871
+"Stabile Kupfer-Holzfälleraxt",37872
+"Stabile Kupfer-Spitzhacke",37873
+"Stabile Eisen-Erntesichel",37874
+"Stabile Eisen-Holzfälleraxt",37875
 "Stabile Stahl-Erntesichel",37877
 "Sturmabzeichen der Löwengarde",37890
 "Konsortiums-GHV",37891
