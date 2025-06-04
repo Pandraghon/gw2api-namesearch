@@ -28736,7 +28736,20 @@
 "Pioche tenace de mineur en cuivre",37873
 "Faux tenace de moissonneur en fer",37874
 "Hache tenace de bûcheron en fer",37875
+"Pioche tenace de mineur en fer",37876
 "Faux tenace de moissonneur en acier",37877
+"Hache tenace de bûcheron en acier",37878
+"Pioche tenace de mineur en acier",37879
+"Faux tenace de moissonneur en acier sombre",37880
+"Hache tenace de bûcheron en acier sombre",37881
+"Pioche tenace de mineur en acier sombre",37882
+"Faux tenace de moissonneur en mithril",37883
+"Hache tenace de bûcheron en mithril",37884
+"Pioche tenace de mineur en mithril",37885
+"Faux tenace de moissonneur en orichalque",37886
+"Hache tenace de bûcheron en orichalque",37887
+"Pioche tenace de mineur en orichalque",37888
+"Insigne d'assaut de la Garde du Lion",37889
 "Insigne d'assaut de la Garde du Lion",37890
 "Contrat de confidentialité du Consortium",37891
 "Contrat de confidentialité du Consortium",37892
@@ -28754,6 +28767,82 @@
 "Cachet de massacre de karkas majeur",37911
 "Cachet de massacre de karkas supérieur",37912
 "Hache de la Garde du Lion",37915
+"Dague de la Garde du Lion",37916
+"Gadget de la Garde du Lion",37917
+"Épée de la Garde du Lion",37918
+"Marteau de la Garde du Lion",37919
+"Lance de la Garde du Lion",37920
+"Arc de la Garde du Lion",37921
+"Masse de la Garde du Lion",37922
+"Pistolet de la Garde du Lion",37923
+"Fusil de la Garde du Lion",37924
+"Sceptre de la Garde du Lion",37925
+"Bouclier de la Garde du Lion",37926
+"Arc court de la Garde du Lion",37927
+"Canon de la Garde du Lion",37928
+"Bâton de la Garde du Lion",37929
+"Épée de la Garde du Lion",37930
+"Brandon de la Garde du Lion",37931
+"Trident de la Garde du Lion",37932
+"Cor de guerre de la Garde du Lion",37933
+"Hache de la Garde du Lion",37934
+"Dague de la Garde du Lion",37935
+"Gadget de la Garde du Lion",37936
+"Épée de la Garde du Lion",37937
+"Marteau de la Garde du Lion",37938
+"Lance de la Garde du Lion",37939
+"Arc de la Garde du Lion",37940
+"Masse de la Garde du Lion",37941
+"Pistolet de la Garde du Lion",37942
+"Fusil de la Garde du Lion",37943
+"Sceptre de la Garde du Lion",37944
+"Bouclier de la Garde du Lion",37945
+"Arc court de la Garde du Lion",37946
+"Canon de la Garde du Lion",37947
+"Bâton de la Garde du Lion",37948
+"Épée de la Garde du Lion",37949
+"Brandon de la Garde du Lion",37950
+"Trident de la Garde du Lion",37951
+"Cor de guerre de la Garde du Lion",37952
+"Hache de la Garde du Lion",37953
+"Dague de la Garde du Lion",37954
+"Gadget de la Garde du Lion",37955
+"Épée de la Garde du Lion",37956
+"Marteau de la Garde du Lion",37957
+"Lance de la Garde du Lion",37958
+"Arc de la Garde du Lion",37959
+"Masse de la Garde du Lion",37960
+"Pistolet de la Garde du Lion",37961
+"Fusil de la Garde du Lion",37962
+"Sceptre de la Garde du Lion",37963
+"Bouclier de la Garde du Lion",37964
+"Arc court de la Garde du Lion",37965
+"Canon de la Garde du Lion",37966
+"Bâton de la Garde du Lion",37967
+"Épée de la Garde du Lion",37968
+"Brandon de la Garde du Lion",37969
+"Trident de la Garde du Lion",37970
+"Cor de guerre de la Garde du Lion",37971
+"Hache de la Garde du Lion",37972
+"Dague de la Garde du Lion",37973
+"Gadget de la Garde du Lion",37974
+"Épée de la Garde du Lion",37975
+"Marteau de la Garde du Lion",37976
+"Lance de la Garde du Lion",37977
+"Arc de la Garde du Lion",37978
+"Masse de la Garde du Lion",37979
+"Pistolet de la Garde du Lion",37980
+"Fusil de la Garde du Lion",37981
+"Sceptre de la Garde du Lion",37982
+"Bouclier de la Garde du Lion",37983
+"Arc court de la Garde du Lion",37984
+"Canon de la Garde du Lion",37985
+"Bâton de la Garde du Lion",37986
+"Épée de la Garde du Lion",37987
+"Brandon de la Garde du Lion",37988
+"Trident de la Garde du Lion",37989
+"Cor de guerre de la Garde du Lion",37990
+"Sac fractal 20 emplacements",38010
 "Boîte fractale d'équipement exotique 20 emplacements",38011
 "Boîte fractale d'équipement rare 20 emplacements",38012
 "Boîte fractale d'équipement peu commun 20 emplacements",38013
@@ -28762,6 +28851,7 @@
 "Relique fractale",38022
 "Amas d'essence des Brumes coagulée",38023
 "Éclat d'essence des Brumes cristallisée",38024
+"Nécessaire de désassemblage 3BEK",38026
 "Coffre de karka ancien",38027
 "Gouttelette de karma liquide",38030
 "Boîte mystérieuse d'Hivernel",38034
@@ -28774,7 +28864,13 @@
 "Mortier festif de troupe d'hiver",38051
 "Chapeau festif",38052
 "Cache-oreilles d'Hivernel",38053
+"Bottes d'hiver élégantes",38054
+"Manteau d'hiver élégant",38055
+"Gants d'hiver élégants",38056
+"Chapeau d'hiver élégant",38057
 "Tenue d'hiver élégante",38058
+"Sceptre de cristal d'hiver élégant",38059
+"Jambières d'hiver élégantes",38060
 "Tonique de bonhomme de neige",38061
 "Tonique de golem festif",38062
 "Tonique de renne",38063
@@ -28787,6 +28883,8 @@
 "Apparence d'arc long balestre de l'hiver",38082
 "Apparence d'arc court d'Arc de l'hiver",38084
 "Apparence de marteau cognée de l'hiver",38085
+"Billet de retrait d'arme d'Hivernel",38087
+"Fil de l'hiver",38088
 "Apparence d'espadon du Fil de l'hiver",38089
 "Tonique de fabricant de jouets inépuisable",38115
 "Tonique de figurine de Ventari inépuisable",38116
@@ -28982,6 +29080,7 @@
 "Structure de figurine de Ventari",38306
 "Structure de figurine de golem",38307
 "Bol de glace de bonbons",38308
+"Présent d'Hivernel personnalisé poussiéreux",38309
 "Modeste présent d'Hivernel",38310
 "Modeste présent d'Hivernel",38311
 "Modeste présent d'Hivernel",38312
@@ -29115,6 +29214,7 @@
 "Mini-figurine de soldat",38453
 "Mini-figurine de golem",38454
 "Mini-griffon en peluche",38455
+"Bâton factice",38457
 "Apparence de bâton factice",38458
 "Apparence d'épée factice",38460
 "Apparence de fusil à bouchon",38461
@@ -29616,6 +29716,8 @@
 "Tonique de chat mystérieux inépuisable",39101
 "Mini-Chauncey von Charade III",39103
 "Mini-Goedulf",39104
+"Laurier d'augmentation d'expérience",39105
+"Laurier d'augmentation de découverte de magie",39106
 "Pièce d'équipement de guerrier",39107
 "Faux de moissonneur avancée",39108
 "Pièce d'équipement de gardien",39109
@@ -29635,10 +29737,12 @@
 "Grand sac d'artisanat",39123
 "Sac lourd d'artisanat",39124
 "Agent immobilisant mystique",39125
+"Souvenir de réfugié",39126
 "Dessin d'enfant réfugié",39127
 "Boîte de modulation ludique",39129
 "Feux d'artifices verts",39130
 "Couvre-sac à dos de Quaggan en peluche",39131
+"Sac à dos de Quaggan en peluche",39132
 "Bouquet de roses",39133
 "Balai volant",39134
 "Lanières de sac à dos",39136
@@ -29647,25 +29751,55 @@
 "Manuel de terrain mage",39139
 "Livre des actes enragés",39140
 "Manuel de terrain militaire",39141
+"Manuel militaire de voyageur",39142
 "Amulette cavalière",39143
 "Amulette mage",39144
 "Amulette enragée",39145
 "Amulette militaire",39146
+"Amulette de voyageur",39147
 "Protection dorsale cavalière",39148
 "Protection dorsale mage",39149
 "Protection dorsale enragée",39150
 "Protection dorsale militaire",39151
+"Protection dorsale de voyageur",39152
 "Anneau cavalier",39153
 "Anneau mage",39154
 "Anneau enragé",39155
 "Anneau militaire",39156
+"Anneau de voyageur",39157
 "Bouclier grimaçant effrayant",39173
+"Dague en bois",39186
+"Focus à cloche",39187
+"Fusil à bouchon",39189
 "Baguette de princesse",39190
+"Fronde",39191
+"Épée factice",39193
+"Bottes de guerre primitives",39194
+"Harnois de guerre primitif",39195
+"Gantelets primitifs",39196
+"Heaume de guerre primitif",39197
 "Plaques de jambes primitives",39198
+"Espauliers primitifs",39199
+"Chausses du profane",39200
+"Pardessus du profane",39201
+"Gants du profane",39202
+"Masque du profane",39203
+"Pantalon du profane",39204
+"Houppelande du profane",39205
+"Bottes krytiennes",39206
+"Pourpoint krytien",39207
+"Manchettes krytiennes",39208
+"Bandana krytien",39209
+"Jambières krytiennes",39210
+"Protège-épaules krytien",39211
+"Épaulières lourdes des îles",39212
+"Masque aquatique léger du Consortium",39216
+"Masque aquatique intermédiaire du Consortium",39217
 "Sac à dos de Quaggan en peluche",39222
 "Objet non identifiable",39223
 "Plume de Durmand",39224
 "Relique de Rin en or",39225
+"Carapace de Lune",39226
 "Charme du Consortium",39227
 "Chope de Demifou",39228
 "Rouage porte-bonheur du vendeur de pommes",39229
@@ -29683,8 +29817,13 @@
 "Bracelet de vérité",39241
 "Cachet céleste",39242
 "Trophée de Mursaat ancien",39243
+"Journal de camp de magistrat (infusé)",39252
+"Cendres d'Althéa (infusées)",39253
+"Cachet céleste (infusé)",39262
 "Ecu de la famille Thackeray",39264
 "Marque de la Garde impériale",39265
+"Le brillant le plus brillant",39266
+"Médaillon de Sandford",39267
 "Collier du Premier Kommissar",39268
 "Collier de Gwen",39269
 "La graine au bois dormant",39270
@@ -29697,10 +29836,13 @@
 "L'énigme de Maut",39277
 "Le Cœur de Mellaggan",39278
 "Sang du Khan-Ur",39279
+"Etoile d'Elona",39280
 "Bijou d'Ahdashim",39281
 "Les yeux d'Abaddon",39282
 "Œil de Janthir",39283
+"Marque des Chambres de Tethyos (infusée)",39293
 "Ecu de la famille Barradin",39304
+"Circuit éthérique solidifié de Vekk",39305
 "Ecu de Jalis Martelfer",39306
 "La corde sensible de l'orateur",39307
 "Cercle de logique remarquable",39308
@@ -29777,6 +29919,7 @@
 "Souffle de Kralkatorrik",39467
 "Manifeste du Kommissar",39468
 "Glace éternelle",39469
+"Sam",39470
 "Trésor de Barbe-putride",39471
 "Symbole de l'Enqueste",39472
 "Queue d'Ulgoth",39473
@@ -29799,27 +29942,36 @@
 "Coup de grâce épineux à usage limité",39490
 "Coup de grâce mortuaire à usage limité",39492
 "Coup de grâce super explosif à usage limité",39493
+"Sac à dos de Quaggan rose",39494
 "Ensemble sac à dos de Quaggan rose",39495
 "Couvre-sac à dos de Quaggan rose",39496
+"Sac à dos de Quaggan vert",39498
 "Ensemble sac à dos de Quaggan vert",39499
 "Couvre-sac à dos de Quaggan vert",39500
 "Sac à dos de Quaggan vert",39501
 "Ensemble sac à dos de Charr guépard",39503
 "Couvre-sac à dos de Charr guépard",39504
+"Sac à dos de Charr tigre",39506
 "Ensemble sac à dos de Charr tigre",39507
 "Couvre-sac à dos de Charr tigre",39508
+"Sac à dos de Charr tigre",39509
 "Sac à dos de Charr en peluche",39510
 "Ensemble sac à dos de Charr en peluche",39511
 "Couvre-sac à dos de Charr en peluche",39512
+"Sac à dos de Charr en peluche",39513
 "Ensemble sac à dos de Charr de camouflage",39515
 "Couvre-sac à dos de Charr de camouflage",39516
+"Sac à dos de Quaggan guerrier",39518
 "Couvre-sac à dos de Quaggan guerrier",39519
 "Ensemble sac à dos de Quaggan guerrier",39520
 "Sac à dos de Quaggan guerrier",39521
 "Couvre-sac à dos de Quaggan orque",39523
 "Ensemble sac à dos de Quaggan orque",39524
+"Sac à dos de Quaggan orque",39525
+"Sac à dos de Tybalt en peluche",39526
 "Ensemble sac à dos de Tybalt en peluche",39527
 "Couvre-sac à dos de Tybalt en peluche",39528
+"Sac à dos de Tybalt en peluche",39529
 "Chemise à fleurs de cerisier",39530
 "Gants d'équitation",39531
 "Short kaki large",39532
@@ -29831,6 +29983,7 @@
 "Blouson à capuche de marque",39543
 "Iris rouge préservé",39546
 "Babiole kurzick",39547
+"Babiole kurzick (infusée)",39549
 "Héritage de famille du maître de guerre",39550
 "Totem du Gorille",39551
 "Charme de novice",39554
@@ -29864,6 +30017,7 @@
 "Chevalière de la famille Ossa (infusé)",39603
 "Signe barbelé",39604
 "Menottes de doigts de Palawa Joko",39605
+"Signe barbelé (infusé)",39606
 "Menottes de doigts de Palawa Joko (infusées)",39607
 "Sceau de Lucce",39608
 "Signe de purge",39609
@@ -29889,6 +30043,7 @@
 "Bannière de découverte de magie de guilde",39701
 "Repère routier de guilde",39702
 "Banquet de guilde",39703
+"Invocation de coffre de guilde",39704
 "Atelier d'armes de guilde",39705
 "Bannière des héros de guilde",39706
 "Bannière de récolte et de rapidité de guilde",39707
@@ -29908,6 +30063,26 @@
 "Boussole de réfugié",39727
 "Chope de réfugié",39728
 "Soldat de bois de réfugié",39729
+"Espadon de feu",39730
+"Fusil de feu",39731
+"Pistolet de combat",39732
+"Pistolet d'exactitude",39733
+"Arc court de combat",39734
+"Arc court de terre",39735
+"Hache de terre",39736
+"Cor d'exactitude",39737
+"Hache de sangsue",39738
+"Cor de fermeté",39739
+"Bâton de sangsue",39740
+"Amulette militaire",39741
+"Espadon de sangsue",39742
+"Espadon d'énergie",39743
+"Sceptre d'énergie",39744
+"Focus de fermeté",39745
+"Pistolet de fermeté",39747
+"Dague de sangsue",39748
+"Sceptre de fermeté",39749
+"Bouclier de sangsue",39750
 "Coffre de récompense pour partie gagnée",39751
 "Babiole",39752
 "Grèves de plates lourdes nécrophages",39755
@@ -30549,11 +30724,16 @@
 "Teinture fusée éclairante",41755
 "Teinture gris cendré",41756
 "Teinture noir charbon",41757
+"Espadon de la Fusion",41759
 "Apparence d'espadon de la Fusion",41760
+"Épée de la Fusion",41762
 "Apparence d'épée de la Fusion",41763
+"Dague de la Fusion",41765
 "Apparence de dague de la Fusion",41766
 "Apparence de hache de la Fusion",41769
+"Marteau de la Fusion",41771
 "Apparence de marteau de la Fusion",41772
+"Bâton de la Fusion",41774
 "Apparence de bâton de la Fusion",41775
 "Apparence de bouclier de la Fusion",41778
 "Apparence de focus de la Fusion",41781
@@ -30562,7 +30742,10 @@
 "Apparence de sceptre de la Fusion",41790
 "Apparence de pistolet de la Fusion",41793
 "Apparence de fusil de la Fusion",41796
+"Billet de retrait d'arme de la Fusion",41797
+"Arc court de la Fusion",41798
 "Apparence d'arc court de la Fusion",41800
+"Arc long de la Fusion",41801
 "Apparence d'arc long de la Fusion",41803
 "Apparence de masse de la Fusion",41806
 "Pioche de mineur de l'Alliance de la Fusion",41807
@@ -30588,8 +30771,11 @@
 "Apparence de super arc court",41958
 "Apparence de super bâton",41961
 "Apparence de super épée",41964
+"Chemise cintrée décontractée",41996
+"Chemise froncée en dentelle florale",41997
 "Gilet doublé",41998
 "Chemise ruchée ornée",41999
+"Gilet en brocart de soie avec chemise",42001
 "Plans de baliste de guilde",42003
 "Plan de catapulte de guilde",42004
 "Cristal d'azurite",42006
@@ -30787,6 +30973,7 @@
 "Apparence de brandon glyphique",42255
 "Apparence de trilance glyphique",42256
 "Apparence de cor glyphique",42257
+"Bannière de dos de guilde élégante",42397
 "Apparence de bannière de dos de guilde sauvage",42398
 "Bannière JcJ de dos de guilde élégante",42399
 "Bannière JcJ de dos de guilde sauvage",42400
@@ -30795,10 +30982,12 @@
 "Tonique infini berserker de la Fusion",42403
 "Recette : tonique infini berserker de la Fusion",42404
 "Jetpack de la Fusion décoratif",42406
+"Jetpack de la Fusion décoratif",42407
 "Billet de gantelet de la Fusion",42417
 "Gantelets lourds de la Fusion",42418
 "Gantelets intermédiaires de la Fusion",42419
 "Gantelets légers de la Fusion",42420
+"Gantelets intermédiaires de la Fusion",42423
 "Encensoir infectieux",42424
 "Carapace chitineuse de karka",42425
 "Carapace chitineuse de karka",42426
@@ -30964,8 +31153,10 @@
 "Caisse de provisions de Sud-Soleil",42600
 "Apparence de hache chitineuse",42604
 "Fragment d'arme exotique gelée",42605
+"Dague chitineuse",42606
 "Apparence de dague chitineuse",42608
 "Apparence de focus chitineux",42611
+"Espadon chitineux",42612
 "Apparence d'espadon chitineux",42614
 "Apparence de marteau chitineux",42617
 "Apparence d'arc long chitineux",42620
@@ -30976,6 +31167,7 @@
 "Apparence de bouclier chitineux",42635
 "Apparence d'arc court chitineux",42638
 "Apparence de bâton chitineux",42641
+"Épée chitineuse",42642
 "Apparence d'épée chitineuse",42644
 "Apparence de torche chitineuse",42647
 "Apparence de cor de guerre chitineux",42650
@@ -31073,17 +31265,23 @@
 "Apparence d'armure lourde étherlame",42868
 "Apparence d'armure intermédiaire étherlame",42869
 "Apparence d'armure légère étherlame",42870
+"Bottes de guerre lourdes étherlames",42871
 "Apparence de bottes de guerre lourdes étherlame",42872
 "Apparence de harnois de guerre lourd étherlame",42874
+"Gantelets lourds étherlames",42875
 "Feux d'artifice Fortune du Dragon",42876
 "Apprêt métabolique",42877
 "Apparence de gantelets lourds étherlame",42878
 "Polla",42879
+"Heaume de guerre lourd étherlame",42880
 "Apparence de heaume de guerre lourd étherlame",42881
 "Apparence de plaques de jambe lourdes étherlame",42883
+"Espauliers lourds étherlames",42884
 "Apparence d'espauliers lourds étherlame",42885
+"Chaussures légères étherlames",42886
 "Apparence de chaussures légères étherlame",42887
 "Cor de Marrin",42888
+"Gilet léger étherlame",42889
 "Apparence de gilet léger étherlame",42890
 "Apparence de gants légers étherlame",42892
 "Apparence de lunettes légères étherlame",42894
@@ -31092,8 +31290,10 @@
 "Malle du Dragon riche",42899
 "Apparence de houppelande légère étherlame",42900
 "Apparence de bottes intermédiaires étherlame",42902
+"Pourpoint intermédiaire étherlame",42903
 "Apparence de pourpoint intermédiaire étherlame",42904
 "Apparence de manchettes intermédiaires étherlame",42906
+"Casque intermédiaire étherlame",42907
 "Apparence de casque intermédiaire étherlame",42908
 "Apparence de jambières intermédiaires étherlame",42910
 "Apparence de protège-épaules intermédiaires étherlame",42912

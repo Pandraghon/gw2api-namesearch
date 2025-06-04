@@ -28736,7 +28736,20 @@
 "Sturdy Copper Mining Pick",37873
 "Sturdy Iron Harvesting Sickle",37874
 "Sturdy Iron Logging Axe",37875
+"Sturdy Iron Mining Pick",37876
 "Sturdy Steel Harvesting Sickle",37877
+"Sturdy Steel Logging Axe",37878
+"Sturdy Steel Mining Pick",37879
+"Sturdy Darksteel Harvesting Sickle",37880
+"Sturdy Darksteel Logging Axe",37881
+"Sturdy Darksteel Mining Pick",37882
+"Sturdy Mithril Harvesting Sickle",37883
+"Sturdy Mithril Logging Axe",37884
+"Sturdy Mithril Mining Pick",37885
+"Sturdy Orichalcum Harvesting Sickle",37886
+"Sturdy Orichalcum Logging Axe",37887
+"Sturdy Orichalcum Mining Pick",37888
+"Lionguard Assault Badge",37889
 "Lionguard Assault Badge",37890
 "Consortium NDA",37891
 "Consortium NDA",37892
@@ -28754,6 +28767,82 @@
 "Major Sigil of Karka Slaying",37911
 "Superior Sigil of Karka Slaying",37912
 "Lionguard Axe",37915
+"Lionguard Dagger",37916
+"Lionguard Gizmo",37917
+"Lionguard Sword",37918
+"Lionguard Hammer",37919
+"Lionguard Spear",37920
+"Lionguard Bow",37921
+"Lionguard Mace",37922
+"Lionguard Pistol",37923
+"Lionguard Rifle",37924
+"Lionguard Scepter",37925
+"Lionguard Shield",37926
+"Lionguard Short Bow",37927
+"Lionguard Cannon",37928
+"Lionguard Staff",37929
+"Lionguard Sword",37930
+"Lionguard Brand",37931
+"Lionguard Trident",37932
+"Lionguard Warhorn",37933
+"Lionguard Axe",37934
+"Lionguard Dagger",37935
+"Lionguard Gizmo",37936
+"Lionguard Sword",37937
+"Lionguard Hammer",37938
+"Lionguard Spear",37939
+"Lionguard Bow",37940
+"Lionguard Mace",37941
+"Lionguard Pistol",37942
+"Lionguard Rifle",37943
+"Lionguard Scepter",37944
+"Lionguard Shield",37945
+"Lionguard Short Bow",37946
+"Lionguard Cannon",37947
+"Lionguard Staff",37948
+"Lionguard Sword",37949
+"Lionguard Brand",37950
+"Lionguard Trident",37951
+"Lionguard Warhorn",37952
+"Lionguard Axe",37953
+"Lionguard Dagger",37954
+"Lionguard Gizmo",37955
+"Lionguard Sword",37956
+"Lionguard Hammer",37957
+"Lionguard Spear",37958
+"Lionguard Bow",37959
+"Lionguard Mace",37960
+"Lionguard Pistol",37961
+"Lionguard Rifle",37962
+"Lionguard Scepter",37963
+"Lionguard Shield",37964
+"Lionguard Short Bow",37965
+"Lionguard Cannon",37966
+"Lionguard Staff",37967
+"Lionguard Sword",37968
+"Lionguard Brand",37969
+"Lionguard Trident",37970
+"Lionguard Warhorn",37971
+"Lionguard Axe",37972
+"Lionguard Dagger",37973
+"Lionguard Gizmo",37974
+"Lionguard Sword",37975
+"Lionguard Hammer",37976
+"Lionguard Spear",37977
+"Lionguard Bow",37978
+"Lionguard Mace",37979
+"Lionguard Pistol",37980
+"Lionguard Rifle",37981
+"Lionguard Scepter",37982
+"Lionguard Shield",37983
+"Lionguard Short Bow",37984
+"Lionguard Cannon",37985
+"Lionguard Staff",37986
+"Lionguard Sword",37987
+"Lionguard Brand",37988
+"Lionguard Trident",37989
+"Lionguard Warhorn",37990
+"20 Slot Fractal Bag",38010
 "20 Slot Fractal Exotic Equipment Box",38011
 "20 Slot Fractal Rare Equipment Box",38012
 "20 Slot Fractal Uncommon Equipment Box",38013
@@ -28762,6 +28851,7 @@
 "Fractal Relic",38022
 "Glob of Coagulated Mists Essence",38023
 "Shard of Crystallized Mists Essence",38024
+"Disasembler 3BEK Kit",38026
 "Ancient Karka Chest",38027
 "Drip of Liquid Karma",38030
 "Wintersday Mystery Box",38034
@@ -28774,7 +28864,13 @@
 "Winter Warband Festive Mortar",38051
 "Festive Hat",38052
 "Wintersday Earmuffs",38053
+"Fancy Winter Boots",38054
+"Fancy Winter Coat",38055
+"Fancy Winter Gloves",38056
+"Fancy Winter Hat",38057
 "Fancy Winter Outfit",38058
+"Fancy Winter Crystal Scepter",38059
+"Fancy Winter Leggings",38060
 "Snowman Tonic",38061
 "Festive Golem Tonic",38062
 "Reindeer Tonic",38063
@@ -28787,6 +28883,8 @@
 "Winter's Reach Longbow Skin",38082
 "Winter's Arc Short Bow Skin",38084
 "Winter's Brunt Hammer Skin",38085
+"Winter's Weapon Claim Ticket",38087
+"Winter's Edge",38088
 "Winter's Edge Greatsword Skin",38089
 "Endless Toymaker's Tonic",38115
 "Endless Toy Ventari Tonic",38116
@@ -28982,6 +29080,7 @@
 "Ventari Frame",38306
 "Toy Golem Frame",38307
 "Bowl of Candy Corn Ice Cream",38308
+"Dusty Personalized Wintersday Gift",38309
 "Small Wintersday Gift",38310
 "Small Wintersday Gift",38311
 "Small Wintersday Gift",38312
@@ -29115,6 +29214,7 @@
 "Mini Toy Soldier",38453
 "Mini Toy Golem",38454
 "Mini Plush Griffon",38455
+"Toy Staff",38457
 "Toy Staff Skin",38458
 "Toy Sword Skin",38460
 "Pop Gun Skin",38461
@@ -29616,6 +29716,8 @@
 "Endless Mystery Cat Tonic",39101
 "Mini Chauncey von Snuffles III",39103
 "Mini Goedulf",39104
+"Laureate Experience Booster",39105
+"Laureate Magic Find Booster",39106
 "Piece of Warrior Gear",39107
 "Advanced Harvesting Sickle",39108
 "Piece of Guardian Gear",39109
@@ -29635,10 +29737,12 @@
 "Large Crafting Bag",39123
 "Heavy Crafting Bag",39124
 "Mystic Binding Agent",39125
+"Refugee Memento",39126
 "Refugee Child's Drawing",39127
 "Box of Fun Adjuster",39129
 "Green Fireworks",39130
 "Plush Quaggan Backpack Cover",39131
+"Plush Quaggan Backpack",39132
 "Bouquet of Roses",39133
 "Riding Broom",39134
 "Backpack Straps",39136
@@ -29647,25 +29751,55 @@
 "Magi's Field Guide",39139
 "Book of Rabid Deeds",39140
 "Soldier's Field Guide",39141
+"Wayfarer's Field Guide",39142
 "Cavalier's Amulet",39143
 "Magi's Amulet",39144
 "Rabid Amulet",39145
 "Soldier's Amulet",39146
+"Wayfarer's Amulet",39147
 "Cavalier's Spineguard",39148
 "Magi's Spineguard",39149
 "Rabid Spineguard",39150
 "Soldier's Spineguard",39151
+"Wayfarer's Spineguard",39152
 "Cavalier's Ring",39153
 "Magi's Ring",39154
 "Rabid Ring",39155
 "Soldier's Ring",39156
+"Wayfarer's Ring",39157
 "Ghastly Grinning Shield",39173
+"Wooden Dagger",39186
+"Bell Focus",39187
+"Pop Gun",39189
 "Princess Wand",39190
+"Slingshot",39191
+"Toy Sword",39193
+"Primeval Warboots",39194
+"Primeval Warplate",39195
+"Primeval Gauntlets",39196
+"Primeval Warhelm",39197
 "Primeval Legplates",39198
+"Primeval Pauldrons",39199
+"Profane Shoes",39200
+"Profane Greatcoat",39201
+"Profane Gloves",39202
+"Profane Masque",39203
+"Profane Pants",39204
+"Profane Mantle",39205
+"Krytan Boots",39206
+"Krytan Jerkin",39207
+"Krytan Armguards",39208
+"Krytan Bandana",39209
+"Krytan Leggings",39210
+"Krytan Shoulderpads",39211
+"Heavy Island Shoulder",39212
+"Light Consortium Breathing Mask",39216
+"Medium Consortium Breathing Mask",39217
 "Plush Quaggan Backpack",39222
 "Unidentifiable Object",39223
 "Durmand's Pen",39224
 "Golden Relic of Rin",39225
+"Moon Shell",39226
 "Consortium Charm",39227
 "Halfmad's Mug",39228
 "Appleseller's Lucky Cog",39229
@@ -29683,8 +29817,13 @@
 "Armbrace of Truth",39241
 "Celestial Sigil",39242
 "Ancient Mursaat Token",39243
+"Magister's Field Journal (Infused)",39252
+"Althea's Ashes (Infused)",39253
+"Celestial Sigil (Infused)",39262
 "Thackeray Family Crest",39264
 "Mark of the Imperial Guard",39265
+"The Shiniest Shiny",39266
+"Sandford's Medallion",39267
 "Collar of the First Commissar",39268
 "Gwen's Necklace",39269
 "The Sleeping Seed",39270
@@ -29697,10 +29836,13 @@
 "Conundrum of Maut",39277
 "The Heart of Mellaggan",39278
 "Blood of the Khan-Ur",39279
+"Star of Elona",39280
 "Jewel of Ahdashim",39281
 "The Eyes of Abaddon",39282
 "Eye of Janthir",39283
+"Mark of the Tethyos Houses (Infused)",39293
 "Barradin Family Crest",39304
+"Vekk's Solidified Aether Circuit",39305
 "Jalis Ironhammer's Crest",39306
 "Speaker's Dawncord",39307
 "Distinguished Circle of Logic",39308
@@ -29777,6 +29919,7 @@
 "Breath of Kralkatorrik",39467
 "Commissar's Manifesto",39468
 "Eternal Ice",39469
+"Sam",39470
 "Rotbeard's Treasure",39471
 "Symbol of the Inquest",39472
 "Ulgoth's Tail",39473
@@ -29799,27 +29942,36 @@
 "Limited-Use Thornroot Finisher",39490
 "Limited-Use Grave Finisher",39492
 "Limited-Use Super Explosive Finisher",39493
+"Pink Quaggan Backpack",39494
 "Pink Quaggan Backpack Set",39495
 "Pink Quaggan Backpack Cover",39496
+"Green Quaggan Backpack",39498
 "Green Quaggan Backpack Set",39499
 "Green Quaggan Backpack Cover",39500
 "Green Quaggan Backpack",39501
 "Cheetah Charr Backpack Set",39503
 "Cheetah Charr Backpack Cover",39504
+"Tiger Charr Backpack",39506
 "Tiger Charr Backpack Set",39507
 "Tiger Charr Backpack Cover",39508
+"Tiger Charr Backpack",39509
 "Plush Charr Backpack",39510
 "Plush Charr Backpack Set",39511
 "Plush Charr Backpack Cover",39512
+"Plush Charr Backpack",39513
 "Covert Charr Backpack Set",39515
 "Covert Charr Backpack Cover",39516
+"Warrior Quaggan Backpack",39518
 "Warrior Quaggan Backpack Cover",39519
 "Warrior Quaggan Backpack Set",39520
 "Warrior Quaggan Backpack",39521
 "Quaggan Killer Whale Backpack Cover",39523
 "Quaggan Killer Whale Backpack Set",39524
+"Quaggan Killer Whale Backpack",39525
+"Plush Tybalt Backpack",39526
 "Plush Tybalt Backpack Set",39527
 "Plush Tybalt Backpack Cover",39528
+"Plush Tybalt Backpack",39529
 "Cherry Blossom Shirt",39530
 "Riding Gloves",39531
 "Khaki Cargo Shorts",39532
@@ -29831,6 +29983,7 @@
 "Designer Hoodie",39543
 "Preserved Red Iris Flower",39546
 "Kurzick Bauble",39547
+"Kurzick Bauble (Infused)",39549
 "Warmaster's Family Heirloom",39550
 "Totem of the Gorilla",39551
 "Fledgling Charm",39554
@@ -29864,6 +30017,7 @@
 "Ossa Family Signet Ring (Infused)",39603
 "Barbed Signet",39604
 "Palawa Joko's Finger Cuff",39605
+"Barbed Signet (Infused)",39606
 "Palawa Joko's Finger Cuff (Infused)",39607
 "Lucce Seal",39608
 "Purge Signet",39609
@@ -29889,6 +30043,7 @@
 "Guild Magic Find Banner",39701
 "Guild Road Marker",39702
 "Guild Banquet",39703
+"Summon Guild Vault",39704
 "Guild Weapon Stations",39705
 "Guild Heroes Banner",39706
 "Guild Gathering and Swiftness Banner",39707
@@ -29908,6 +30063,26 @@
 "Refugee's Compass",39727
 "Refugee's Goblet",39728
 "Refugee's Wooden Soldier",39729
+"Greatsword of Fire",39730
+"Rifle of Fire",39731
+"Pistol of Battle",39732
+"Pistol of Accuracy",39733
+"Short Bow of Battle",39734
+"Short Bow of Earth",39735
+"Axe of Earth",39736
+"Horn of Accuracy",39737
+"Axe of Leeching",39738
+"Horn of Force",39739
+"Staff of Leeching",39740
+"Soldier's Amulet",39741
+"Greatsword of Leeching",39742
+"Greatsword of Energy",39743
+"Scepter of Energy",39744
+"Focus of Force",39745
+"Pistol of Force",39747
+"Dagger of Leeching",39748
+"Scepter of Force",39749
+"Shield of Leeching",39750
 "Match Win Reward Chest",39751
 "Bauble",39752
 "Carrion Heavy Plate Greaves",39755
@@ -30549,11 +30724,16 @@
 "Flare Dye",41755
 "Cinders Dye",41756
 "Charred Dye",41757
+"Fused Greatsword",41759
 "Fused Greatsword Skin",41760
+"Fused Sword",41762
 "Fused Sword Skin",41763
+"Fused Dagger",41765
 "Fused Dagger Skin",41766
 "Fused Axe Skin",41769
+"Fused Hammer",41771
 "Fused Hammer Skin",41772
+"Fused Staff",41774
 "Fused Staff Skin",41775
 "Fused Shield Skin",41778
 "Fused Focus Skin",41781
@@ -30562,7 +30742,10 @@
 "Fused Scepter Skin",41790
 "Fused Pistol Skin",41793
 "Fused Rifle Skin",41796
+"Fused Weapon Claim Ticket",41797
+"Fused Short Bow",41798
 "Fused Short Bow Skin",41800
+"Fused Longbow",41801
 "Fused Longbow Skin",41803
 "Fused Mace Skin",41806
 "Molten Alliance Mining Pick",41807
@@ -30588,8 +30771,11 @@
 "Super Short Bow Skin",41958
 "Super Staff Skin",41961
 "Super Sword Skin",41964
+"Fitted Casual Shirt",41996
+"Country Lace Gathered Shirt",41997
 "Layered Vest",41998
 "Ornate Ruched Shirt",41999
+"Silk Brocade Vest with Shirt",42001
 "Guild Ballista Blueprints",42003
 "Guild Catapult Blueprint",42004
 "Azurite Crystal",42006
@@ -30787,6 +30973,7 @@
 "Glyphic Brand Skin",42255
 "Glyphic Trispear Skin",42256
 "Glyphic Horn Skin",42257
+"Elegant Guild Back Banner",42397
 "Savage Guild Back Banner Skin",42398
 "Elegant Guild Back Banner PvP",42399
 "Savage Guild Back Banner PvP",42400
@@ -30795,10 +30982,12 @@
 "Infinite Molten Berserker Tonic",42403
 "Recipe: Infinite Molten Berserker Tonic",42404
 "Decorative Molten Jetpack",42406
+"Decorative Molten Jetpack",42407
 "Fused Gauntlet Ticket",42417
 "Heavy Fused Gauntlets",42418
 "Medium Fused Gauntlets",42419
 "Light Fused Gauntlets",42420
+"Medium Fused Gauntlets",42423
 "Fervid Censer",42424
 "Sclerite Karka Shell",42425
 "Sclerite Karka Shell",42426
@@ -30964,8 +31153,10 @@
 "Southsun Supply Crate",42600
 "Sclerite Axe Skin",42604
 "Frozen Exotic Weapon Fragment",42605
+"Sclerite Dagger",42606
 "Sclerite Dagger Skin",42608
 "Sclerite Focus Skin",42611
+"Sclerite Greatsword",42612
 "Sclerite Greatsword Skin",42614
 "Sclerite Hammer Skin",42617
 "Sclerite Longbow Skin",42620
@@ -30976,6 +31167,7 @@
 "Sclerite Shield Skin",42635
 "Sclerite Short Bow Skin",42638
 "Sclerite Staff Skin",42641
+"Sclerite Sword",42642
 "Sclerite Sword Skin",42644
 "Sclerite Torch Skin",42647
 "Sclerite Warhorn Skin",42650
@@ -31073,17 +31265,23 @@
 "Aetherblade Heavy Armor Skin",42868
 "Aetherblade Medium Armor Skin",42869
 "Aetherblade Light Armor Skin",42870
+"Aetherblade Heavy Warboots",42871
 "Aetherblade Heavy Warboot Skin",42872
 "Aetherblade Heavy Warplate Skin",42874
+"Aetherblade Heavy Gauntlets",42875
 "Dragon's Fortune Fireworks",42876
 "Metabolic Primer",42877
 "Aetherblade Heavy Gauntlet Skin",42878
 "Polla",42879
+"Aetherblade Heavy Warhelm",42880
 "Aetherblade Heavy Warhelm Skin",42881
 "Aetherblade Heavy Legplate Skin",42883
+"Aetherblade Heavy Pauldrons",42884
 "Aetherblade Heavy Pauldron Skin",42885
+"Aetherblade Light Shoes",42886
 "Aetherblade Light Shoe Skin",42887
 "Marriner's Horn",42888
+"Aetherblade Light Vest",42889
 "Aetherblade Light Vest Skin",42890
 "Aetherblade Light Glove Skin",42892
 "Aetherblade Light Goggles Skin",42894
@@ -31092,8 +31290,10 @@
 "Rich Dragon Coffer",42899
 "Aetherblade Light Mantle Skin",42900
 "Aetherblade Medium Boot Skin",42902
+"Aetherblade Medium Jerkin",42903
 "Aetherblade Medium Jerkin Skin",42904
 "Aetherblade Medium Armguard Skin",42906
+"Aetherblade Medium Helmet",42907
 "Aetherblade Medium Helmet Skin",42908
 "Aetherblade Medium Legging Skin",42910
 "Aetherblade Medium Shoulderpad Skin",42912

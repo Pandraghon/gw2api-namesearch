@@ -28669,7 +28669,20 @@
 "Stabile Kupfer-Spitzhacke",37873
 "Stabile Eisen-Erntesichel",37874
 "Stabile Eisen-Holzfälleraxt",37875
+"Stabile Eisen-Spitzhacke",37876
 "Stabile Stahl-Erntesichel",37877
+"Stabile Stahl-Holzfälleraxt",37878
+"Stabile Stahl-Spitzhacke",37879
+"Stabile Dunkelstahl-Erntesichel",37880
+"Stabile Dunkelstahl-Holzfälleraxt",37881
+"Stabile Dunkelstahl-Spitzhacke",37882
+"Stabile Mithril-Erntesichel",37883
+"Stabile Mithril-Holzfälleraxt",37884
+"Stabile Mithril-Spitzhacke",37885
+"Stabile Orichalcum-Erntesichel",37886
+"Stabile Orichalcum-Holzfälleraxt",37887
+"Stabile Orichalcum-Spitzhacke",37888
+"Sturmabzeichen der Löwengarde",37889
 "Sturmabzeichen der Löwengarde",37890
 "Konsortiums-GHV",37891
 "Konsortiums-GHV",37892
@@ -28687,6 +28700,82 @@
 "Beachtliches Sigill der Karka-Vernichtung",37911
 "Überlegenes Sigill der Karka-Vernichtung",37912
 "Löwengarden-Axt",37915
+"Löwengarden-Dolch",37916
+"Löwengarden-Gizmo",37917
+"Löwengarden-Schwert",37918
+"Löwengarden-Hammer",37919
+"Löwengarden-Speer",37920
+"Löwengarden-Bogen",37921
+"Löwengarden-Streitkolben",37922
+"Löwengarden-Pistole",37923
+"Löwengarden-Gewehr",37924
+"Löwengarden-Zepter",37925
+"Löwengarden-Schild",37926
+"Löwengarden-Kurzbogen",37927
+"Löwengarden-Kanone",37928
+"Löwengarden-Stab",37929
+"Löwengarden-Schwert",37930
+"Löwengarden-Brandmal",37931
+"Löwengarden-Dreizack",37932
+"Löwengarden-Kriegshorn",37933
+"Löwengarden-Axt",37934
+"Löwengarden-Dolch",37935
+"Löwengarden-Gizmo",37936
+"Löwengarden-Schwert",37937
+"Löwengarden-Hammer",37938
+"Löwengarden-Speer",37939
+"Löwengarden-Bogen",37940
+"Löwengarden-Streitkolben",37941
+"Löwengarden-Pistole",37942
+"Löwengarden-Gewehr",37943
+"Löwengarden-Zepter",37944
+"Löwengarden-Schild",37945
+"Löwengarden-Kurzbogen",37946
+"Löwengarden-Kanone",37947
+"Löwengarden-Stab",37948
+"Löwengarden-Schwert",37949
+"Löwengarden-Brandmal",37950
+"Löwengarden-Dreizack",37951
+"Löwengarden-Kriegshorn",37952
+"Löwengarden-Axt",37953
+"Löwengarden-Dolch",37954
+"Löwengarden-Gizmo",37955
+"Löwengarden-Schwert",37956
+"Löwengarden-Hammer",37957
+"Löwengarden-Speer",37958
+"Löwengarden-Bogen",37959
+"Löwengarden-Streitkolben",37960
+"Löwengarden-Pistole",37961
+"Löwengarden-Gewehr",37962
+"Löwengarden-Zepter",37963
+"Löwengarden-Schild",37964
+"Löwengarden-Kurzbogen",37965
+"Löwengarden-Kanone",37966
+"Löwengarden-Stab",37967
+"Löwengarden-Schwert",37968
+"Löwengarden-Brandmal",37969
+"Löwengarden-Dreizack",37970
+"Löwengarden-Kriegshorn",37971
+"Löwengarden-Axt",37972
+"Löwengarden-Dolch",37973
+"Löwengarden-Gizmo",37974
+"Löwengarden-Schwert",37975
+"Löwengarden-Hammer",37976
+"Löwengarden-Speer",37977
+"Löwengarden-Bogen",37978
+"Löwengarden-Streitkolben",37979
+"Löwengarden-Pistole",37980
+"Löwengarden-Gewehr",37981
+"Löwengarden-Zepter",37982
+"Löwengarden-Schild",37983
+"Löwengarden-Kurzbogen",37984
+"Löwengarden-Kanone",37985
+"Löwengarden-Stab",37986
+"Löwengarden-Schwert",37987
+"Löwengarden-Brandmal",37988
+"Löwengarden-Dreizack",37989
+"Löwengarden-Kriegshorn",37990
+"Fraktaltasche mit 20 Plätzen",38010
 "Fraktalbox für exotische Ausrüstung mit 20 Plätzen",38011
 "Fraktalbox für seltene Ausrüstung mit 20 Plätzen",38012
 "Fraktalbox für ungewöhnliche Ausrüstung mit 20 Plätzen",38013
@@ -28695,6 +28784,7 @@
 "Fraktal-Relikt",38022
 "Batzen geronnener Nebelessenz",38023
 "Scherbe kristallisierter Nebelessenz",38024
+"Entpackersatz 3BEK",38026
 "Uralte Karka-Truhe",38027
 "Tröpfchen Flüssiges Karma",38030
 "Wintertag-Wunderkiste",38034
@@ -28707,7 +28797,13 @@
 "Wintertruppen-Festmörser",38051
 "Festlicher Hut",38052
 "Wintertag-Ohrenwärmer",38053
+"Extravagante Winterstiefel",38054
+"Extravagantes Winterwams",38055
+"Extravagante Winterhandschuhe",38056
+"Extravaganter Winterhut",38057
 "Extravagantes Winter-Kleidungsset",38058
+"Extravagantes Winter-Kristallzepter",38059
+"Extravagantes Winter-Beinkleid",38060
 "Schneemann-Trank",38061
 "Festlicher Golem-Trank",38062
 "Rentier-Trank",38063
@@ -28720,6 +28816,8 @@
 "Skin für Wintergruß-Langbogen",38082
 "Skin für Winterbogen-Kurzbogen",38084
 "Skin für Winterwucht-Hammer",38085
+"Winterwaffen-Ticket",38087
+"Winterklinge",38088
 "Skin für Winterklinge-Großschwert",38089
 "Endloser Spielzeugmacher-Trank",38115
 "Endloser Spielzeug-Ventari-Trank",38116
@@ -28915,6 +29013,7 @@
 "Spielzeug-Ventari-Form",38306
 "Spielzeug-Golem-Form",38307
 "Schüssel mit Candy-Corn-Eis",38308
+"Verstaubtes persönliches Wintertag-Geschenk",38309
 "Kleines Wintertag-Geschenk",38310
 "Kleines Wintertag-Geschenk",38311
 "Kleines Wintertag-Geschenk",38312
@@ -29048,6 +29147,7 @@
 "Mini Spielzeugsoldat",38453
 "Mini Spielzeug-Golem",38454
 "Mini Plüsch-Greif",38455
+"Spielzeug-Stab",38457
 "Skin für Spielzeug-Stab",38458
 "Skin für Spielzeug-Schwert",38460
 "Skin für Bolzengewehr",38461
@@ -29549,6 +29649,8 @@
 "Endloser Zauberkatzen-Trank",39101
 "Mini Chauncey von Schnüffel III",39103
 "Mini Goedulf",39104
+"Lorbeerbekränzter Erfahrungsverstärker",39105
+"Lorbeerbekränzter Magisches-Gespür-Verstärker",39106
 "Teil einer Krieger-Ausrüstung",39107
 "Hochentwickelte Erntesichel",39108
 "Teil einer Wächter-Ausrüstung",39109
@@ -29568,10 +29670,12 @@
 "Große Handwerkstasche",39123
 "Schwere Handwerkstasche",39124
 "Mystisches Bindemittel",39125
+"Andenken eines Flüchtlings",39126
 "Zeichnung eines Flüchtlingskinds",39127
 "Kiste voll Spaß-Optimierer",39129
 "Grünes Feuerwerk",39130
 "Quaggan-Plüschrucksack-Bezug",39131
+"Quaggan-Plüschrucksack",39132
 "Rosenstrauß",39133
 "Hexenbesen",39134
 "Rucksack-Trageriemen",39136
@@ -29580,25 +29684,55 @@
 "Magisches Feldhandbuch",39139
 "Buch der tollwütigen Taten",39140
 "Soldatisches Feldhandbuch",39141
+"Wanderer-Feldhandbuch",39142
 "Kavaliermäßiges Amulett",39143
 "Magisches Amulett",39144
 "Tollwütiges Amulett",39145
 "Soldatisches Amulett",39146
+"Wanderer-Amulett",39147
 "Kavaliermäßige Rückenplatte",39148
 "Magische Rückenplatte",39149
 "Tollwütige Rückenplatte",39150
 "Soldatische Rückenplatte",39151
+"Wanderer-Rückenplatte",39152
 "Kavaliermäßiger Ring",39153
 "Magischer Ring",39154
 "Tollwütiger Ring",39155
 "Soldatischer Ring",39156
+"Wanderer-Ring",39157
 "Grässlich grinsender Schild",39173
+"Holzdolch",39186
+"Glockenspiel-Fokus",39187
+"Bolzengewehr",39189
 "Prinzessinnen-Zauberstab",39190
+"Schleuder",39191
+"Spielzeug-Schwert",39193
+"Altehrwürdige Kriegsstiefel",39194
+"Altehrwürdige Kriegsplatte",39195
+"Altehrwürdige Stulpenhandschuhe",39196
+"Altehrwürdiger Kriegshelm",39197
 "Altehrwürdige Beinplatten",39198
+"Altehrwürdiger Schulterschutz",39199
+"Profane Schuhe",39200
+"Profaner Soldatenmantel",39201
+"Profane Handschuhe",39202
+"Profane Maske",39203
+"Profane Hose",39204
+"Profaner Überwurf",39205
+"Kryta-Stiefel",39206
+"Kryta-Wams",39207
+"Kryta-Armschutz",39208
+"Kryta-Bandana",39209
+"Kryta-Beinkleid",39210
+"Kryta-Schulterpolster",39211
+"Schwere Insel-Schultern",39212
+"Leichte Konsortiums-Atemmaske",39216
+"Mittlere Konsortiums-Atemmaske",39217
 "Quaggan-Plüschrucksack",39222
 "Unidentifizierbares Objekt",39223
 "Füller Durmands",39224
 "Goldrelikt aus Rin",39225
+"Mondmuschel",39226
 "Konsortium-Talisman",39227
 "Humpen Halbwahns",39228
 "Glücks-Ritzel des Apfelhändlers",39229
@@ -29616,8 +29750,13 @@
 "Armreif der Wahrheit",39241
 "Himmelssigill",39242
 "Uralte Mursaat-Marke",39243
+"Notizbuch des Magisters (Infundiert)",39252
+"Asche Altheas (Infundiert)",39253
+"Himmelssigill (Infundiert)",39262
 "Thackeray-Familienwappen",39264
 "Zeichen der kaiserlichen Garde",39265
+"Das glänzigste Glänzige",39266
+"Medaillon Sandfords",39267
 "Collier des Ersten Kommissars",39268
 "Gwen-Halskette",39269
 "Der Schlafsamen",39270
@@ -29630,10 +29769,13 @@
 "Das Rätsel des Maut",39277
 "Das Herz von Mellaggan",39278
 "Blut des Khan-Ur",39279
+"Stern von Elona",39280
 "Juwel von Ahdashim",39281
 "Die Augen Abaddons",39282
 "Auge von Janthir",39283
+"Zeichen der Tethyos-Häuser (Infundiert)",39293
 "Barradin-Familienwappen",39304
+"Solidifizierter Äther-Schaltkreis Vekks",39305
 "Wappen Jalis Eisenhammers",39306
 "Morgenrot-Amulett des Sprechers",39307
 "Ausgezeichneter Zirkel der Logik",39308
@@ -29710,6 +29852,7 @@
 "Odem des Kralkatorrik",39467
 "Manifest des Kommissars",39468
 "Ewiges Eis",39469
+"Sam",39470
 "Gammelbart-Schatz",39471
 "Symbol der Inquestur",39472
 "Ulgoth-Schweif",39473
@@ -29732,27 +29875,36 @@
 "Begrenzter Dornenwurzel-Todesstoß",39490
 "Begrenzter Grab-Todesstoß",39492
 "Begrenzter Super explosiver Todesstoß",39493
+"\"Pinker Quaggan\"-Rucksack",39494
 "\"Pinker Quaggan\"-Rucksack-Set",39495
 "\"Pinker Quaggan\"-Rucksack-Bezug",39496
+"\"Grüner Quaggan\"-Rucksack",39498
 "\"Grüner Quaggan\"-Rucksack-Set",39499
 "\"Grüner Quaggan\"-Rucksack-Bezug",39500
 "Grüner Quaggan-Rucksack",39501
 "Geparden-Charr-Rucksack-Set",39503
 "Geparden-Charr-Rucksack-Bezug",39504
+"Tiger-Charr-Rucksack",39506
 "Tiger-Charr-Rucksack-Set",39507
 "Tiger-Charr-Rucksack-Bezug",39508
+"Tiger-Charr-Rucksack",39509
 "Charr-Plüschrucksack",39510
 "Charr-Plüschrucksack-Set",39511
 "Charr-Plüschrucksack-Bezug",39512
+"Charr-Plüschrucksack",39513
 "Geheimes Charr-Rucksack-Set",39515
 "Geheimer Charr-Rucksack-Bezug",39516
+"Krieger-Quaggan-Rucksack",39518
 "Krieger-Quaggan-Rucksack-Bezug",39519
 "Krieger-Quaggan-Rucksack-Set",39520
 "Krieger-Quaggan-Rucksack",39521
 "Quaggan-Orca-Rucksack-Bezug",39523
 "Quaggan-Orca-Rucksack-Set",39524
+"Quaggan-Orca-Rucksack",39525
+"Tybalt-Plüschrucksack",39526
 "Tybalt-Plüschrucksack-Set",39527
 "Tybalt-Plüschrucksack-Bezug",39528
+"Tybalt-Plüschrucksack",39529
 "Kirschblüten-Hemd",39530
 "Reithandschuhe",39531
 "Khakifarbene Cargohose",39532
@@ -29764,6 +29916,7 @@
 "Designer-Kapuzenpulli",39543
 "Konservierte rote Irisblüte",39546
 "Kurzick-Flitter",39547
+"Kurzick-Flitter (Infundiert)",39549
 "Kriegsmeister-Familienerbstück",39550
 "Gorilla-Totem",39551
 "Küken-Talisman",39554
@@ -29797,6 +29950,7 @@
 "Siegelring der Ossa-Familie (Infundiert)",39603
 "Siegel der Stacheln",39604
 "Fingerfessel Palawa Jokos",39605
+"Siegel der Stacheln (Infundiert)",39606
 "Fingerfessel Palawa Jokos (Infundiert)",39607
 "Lucce-Siegel",39608
 "Siegel der Reinigung",39609
@@ -29822,6 +29976,7 @@
 "Gilden-Banner für Magisches Gespür",39701
 "Gilden-Straßenmarkierung",39702
 "Gilden-Bankett",39703
+"Gilden-Tresor herbeirufen",39704
 "Gilden-Waffenstation",39705
 "Gilden-Banner für Helden",39706
 "Gilden-Banner für Sammeln und Eile",39707
@@ -29841,6 +29996,26 @@
 "Kompass eines Flüchtlings",39727
 "Kelch eines Flüchtlings",39728
 "Holzsoldat eines Flüchtlings",39729
+"Großschwert des Feuers",39730
+"Gewehr des Feuers",39731
+"Pistole des Kampfes",39732
+"Pistole der Treffsicherheit",39733
+"Kurzbogen des Kampfes",39734
+"Kurzbogen der Erde",39735
+"Axt der Erde",39736
+"Horn der Treffsicherheit",39737
+"Axt des Lebensfressers",39738
+"Horn der Heftigkeit",39739
+"Stab des Lebensfressers",39740
+"Soldatisches Amulett",39741
+"Großschwert des Lebensfressers",39742
+"Großschwert der Energie",39743
+"Zepter der Energie",39744
+"Fokus der Heftigkeit",39745
+"Pistole der Heftigkeit",39747
+"Dolch des Lebensfressers",39748
+"Zepter der Heftigkeit",39749
+"Schild des Lebensfressers",39750
 "Spielsieg-Belohnungstruhe",39751
 "Sphäre",39752
 "Faulende Schwere Platten-Beinschienen",39755
@@ -30482,11 +30657,16 @@
 "Feuerlodern-Farbe",41755
 "Schlacke-Farbe",41756
 "Verkohlte Farbe",41757
+"Pyro-Großschwert",41759
 "Skin für Pyro-Großschwert",41760
+"Pyro-Schwert",41762
 "Skin für Pyro-Schwert",41763
+"Pyro-Dolch",41765
 "Skin für Pyro-Dolch",41766
 "Skin für Pyro-Axt",41769
+"Pyro-Hammer",41771
 "Skin für Pyro-Hammer",41772
+"Pyro-Stab",41774
 "Skin für Pyro-Stab",41775
 "Skin für Pyro-Schild",41778
 "Skin für Pyro-Fokus",41781
@@ -30495,7 +30675,10 @@
 "Skin für Pyro-Zepter",41790
 "Skin für Pyro-Pistole",41793
 "Skin für Pyro-Gewehr",41796
+"Ticket für Pyro-Waffe",41797
+"Pyro-Kurzbogen",41798
 "Skin für Pyro-Kurzbogen",41800
+"Pyro-Langbogen",41801
 "Skin für Pyro-Langbogen",41803
 "Skin für Pyro-Streitkolben",41806
 "Feurige Allianz-Spitzhacke",41807
@@ -30521,8 +30704,11 @@
 "Skin für Super-Kurzbogen",41958
 "Skin für Super-Stab",41961
 "Skin für Super-Schwert",41964
+"Maßgeschneidertes legeres Hemd",41996
+"Rustikales gerafftes Hemd",41997
 "Mehrlagige Weste",41998
 "Verziertes Rüschenhemd",41999
+"Seiden-Brokat-Weste mit Hemd",42001
 "Blaupause für Balliste",42003
 "Blaupause für Katapult",42004
 "Azuritkristall",42006
@@ -30720,6 +30906,7 @@
 "Skin für Glyphen-Brandmal",42255
 "Skin für Glyphen-Dreispieß",42256
 "Skin für Glyphen-Horn",42257
+"Elegantes Gilden-Rückenbanner",42397
 "Skin für wildes Gilden-Rückenbanner",42398
 "Elegantes Gilden-Rückenbanner für PvP",42399
 "Wildes Gilden-Rückenbanner für PvP",42400
@@ -30728,10 +30915,12 @@
 "Unendlicher Feuriger Berserker-Trank",42403
 "Rezept: Unendlicher feuriger Berserker-Trank",42404
 "Dekorativer Feuriger Raketen-Rucksack",42406
+"Dekorativer Feuriger Raketen-Rucksack",42407
 "Ticket für Pyro-Stulpenhandschuhe",42417
 "Schwere Pyro-Stulpenhandschuhe",42418
 "Mittlere Pyro-Stulpenhandschuhe",42419
 "Leichte Pyro-Stulpenhandschuhe",42420
+"Mittlere Pyro-Stulpenhandschuhe",42423
 "Duftrauchbrenner",42424
 "Sklero-Karka-Panzer",42425
 "Sklero-Karka-Panzer",42426
@@ -30897,8 +31086,10 @@
 "Südlicht-Vorratskiste",42600
 "Skin für Sklero-Axt",42604
 "Gefrorenes Fragment exotischer Waffen",42605
+"Sklero-Dolch",42606
 "Skin für Sklero-Dolch",42608
 "Skin für Sklero-Fokus",42611
+"Sklero-Großschwert",42612
 "Skin für Sklero-Großschwert",42614
 "Skin für Sklero-Hammer",42617
 "Skin für Sklero-Langbogen",42620
@@ -30909,6 +31100,7 @@
 "Skin für Sklero-Schild",42635
 "Skin für Sklero-Kurzbogen",42638
 "Skin für Sklero-Stab",42641
+"Sklero-Schwert",42642
 "Skin für Sklero-Schwert",42644
 "Skin für Sklero-Fackel",42647
 "Skin für Sklero-Kriegshorn",42650
@@ -31006,17 +31198,23 @@
 "Skin für schwere Ätherklingen-Rüstung",42868
 "Skin für mittlere Ätherklingen-Rüstung",42869
 "Skin für leichte Ätherklingen-Rüstung",42870
+"Schwere Ätherklingen-Kriegsstiefel",42871
 "Skin für schwere Ätherklingen-Kriegsstiefel",42872
 "Skin für schwere Ätherklingen-Kriegsplatte",42874
+"Schwere Ätherklingen-Stulpenhandschuhe",42875
 "Drachenglück-Feuerwerk",42876
 "Stoffwechselstarter",42877
 "Skin für schwere Ätherklingen-Stulpenhandschuhe",42878
 "Polla",42879
+"Schwerer Ätherklingen-Kriegshelm",42880
 "Skin für schweren Ätherklingen-Kriegshelm",42881
 "Skin für schwere Ätherklingen-Beinplatten",42883
+"Schwerer Ätherklingen-Schulterschutz",42884
 "Skin für schweren Ätherklingen-Schulterschutz",42885
+"Leichte Ätherklingen-Schuhe",42886
 "Skin für leichte Ätherklingen-Schuhe",42887
 "Horn des Marriners",42888
+"Leichte Ätherklingen-Weste",42889
 "Skin für leichte Ätherklingen-Weste",42890
 "Skin für leichte Ätherklingen-Handschuhe",42892
 "Skin für leichte Ätherklingen-Brille",42894
@@ -31025,8 +31223,10 @@
 "Üppige Drachenkiste",42899
 "Skin für leichten Ätherklingen-Überwurf",42900
 "Skin für mittlere Ätherklingen-Stiefel",42902
+"Mittlere Ätherklingen-Jacke",42903
 "Skin für mittlere Ätherklingen-Jacke",42904
 "Skin für mittleren Ätherklingen-Armschutz",42906
+"Mittlerer Ätherklingen-Helm",42907
 "Skin für mittleren Ätherklingen-Helm",42908
 "Skin für mittleres Ätherklingen-Beinkleid",42910
 "Skin für mittlere Ätherklingen-Schulterpolster",42912
