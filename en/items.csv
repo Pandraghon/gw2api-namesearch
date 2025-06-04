@@ -15646,9 +15646,27 @@
 "Fiery Dragon Sword",21017
 "Diamond Aegis Shield",21018
 "Heavy Baroque Mask",21019
+"Light Baroque Mask",21020
+"Centurions Claw",21022
+"Wheelock Rifle",21023
+"Wayward Wand Scepter",21024
+"Seathunder Pistol",21025
+"Heavenly Heavy Bracers",21026
 "Heavenly Light Bracers",21027
+"Heavenly Medium Bracers",21028
+"Deldrimor Mace",21029
+"Chimeric Prism Focus",21030
+"Ithas Longbow",21031
+"Fellblade",21032
 "Icelord's Heavy Diadem",21033
 "Icelord's Light Diadem",21034
+"Icelord's Medium Diadem",21035
+"Icebreaker",21036
+"Flaming Beacon",21037
+"Stygian Axe",21038
+"Mountaincall Warhorn",21039
+"Fire God's Heavy Vambraces",21040
+"Fire God's Light Vambraces",21041
 "Fire God's Medium Vambraces",21042
 "Golem Banker",21043
 "Hero's Band",21044
@@ -15656,19 +15674,73 @@
 "Tome of Influence",21046
 "Mini Rytlock",21047
 "Golem Banker",21048
+"Axe",21049
+"Longbow",21050
+"Short Bow",21051
+"Dagger",21052
+"Focus",21053
+"Greatsword",21054
+"Hammer",21055
+"Mace",21056
+"Pistol",21057
+"Rifle",21058
+"Scepter",21059
+"Shield",21060
+"Staff",21061
+"Sword",21062
+"Torch",21063
+"Horn",21064
+"Rabid Amulet",21081
 "Soldier's Amulet",21083
+"Barbarian's Amulet",21088
 "Rune of Strength",21092
+"Berserker's Jewel",21093
+"Cleric's Jewel",21094
+"Celestial Amulet",21095
+"Trident",21096
+"Spear",21097
+"Harpoon Gun",21098
+"Berserker's Amulet",21105
+"Carrion Amulet",21106
+"Rampager's Amulet",21107
+"Cleric's Amulet",21108
+"Settler's Amulet",21109
+"Valkyrie's Amulet",21110
 "Flawed Guild Catapult Blueprint",21119
 "Sigil of Agony",21121
 "Sigil of Smoldering",21122
+"Sigil of Hobbling",21123
+"Sigil of Accuracy",21124
+"Sigil of Force",21125
+"Sigil of Chilling",21126
 "Sigil of Venom",21127
+"Sigil of Paralyzation",21128
 "Sigil of Peril",21129
+"Sigil of Debility",21130
+"Sigil of Corruption",21131
+"Sigil of Stamina",21132
 "Sigil of Life",21133
+"Sigil of Restoration",21134
+"Sigil of Benevolence",21135
+"Sigil of Bloodlust",21136
+"Sigil of Perception",21137
+"Sigil of Demon Summoning",21138
+"Sigil of Speed",21139
+"Sigil of Air",21140
 "Sigil of Earth",21141
+"Sigil of Fire",21142
+"Sigil of Rage",21143
+"Sigil of Ice",21144
+"Sigil of Blood",21145
+"Sigil of Strength",21146
 "Sigil of Fallibility",21147
+"Sigil of Water",21148
 "Sigil of Intelligence",21149
 "Sigil of Doom",21150
+"Sigil of Geomancy",21151
 "Sigil of Energy",21152
+"Sigil of Hydromancy",21153
+"Sigil of Leeching",21154
 "Sigil of Battle",21155
 "Arrow Cart Blueprints",21156
 "Ballista Blueprints",21157
@@ -15676,6 +15748,14 @@
 "Alpha Siege Golem Blueprints",21159
 "Trebuchet Blueprints",21160
 "Flame Ram Blueprints",21161
+"Barbarian's Jewel",21162
+"Soldier's Jewel",21163
+"Carrion Jewel",21164
+"Rabid Jewel",21165
+"Rampager's Jewel",21166
+"Settler's Jewel",21167
+"Valkyrie's Jewel",21168
+"Celestial Jewel",21169
 "Rune of the Afflicted",21170
 "Rune of Air",21171
 "Rune of Balthazar",21172
@@ -15695,8 +15775,11 @@
 "Rune of Ice",21187
 "Rune of Infiltration",21188
 "Rune of the Krait",21189
+"Rune of the Lich",21190
 "Rune of Lyssa",21191
 "Rune of Melandru",21192
+"Rune of Mercy",21193
+"Rune of the Ogre",21194
 "Rune of the Pack",21195
 "Rune of Rage",21197
 "Rune of Rata Sum",21198
@@ -15724,30 +15807,80 @@
 "Rune of the Baelfire",21220
 "Rune of Sanctuary",21221
 "Rune of Orr",21222
+"Rifle of Accuracy",21224
+"Axe of Force",21225
+"Pistol of Accuracy",21226
+"Dagger of Force",21227
+"Greatsword Sword of Force",21228
+"Longbow of Force",21229
+"Horn of Debility",21230
+"Scepter of Agony",21231
+"Focus of Chilling",21232
+"Axe of Force",21233
+"Torch of Smoldering",21234
+"Scepter of Smoldering",21235
+"Greatsword Sword of Force",21236
 "Staff of Life",21237
+"Shield of Leeching",21238
+"Mace of Life",21239
+"Rifle of Force",21240
 "Staff of Smoldering",21241
 "Trident of Force",21242
+"Harpoon Gun of Force",21243
+"Harpoon Gun of Agony",21244
+"Harpoon Gun of Force",21245
+"Harpoon Gun of Accuracy",21246
+"Trident of Smoldering",21247
+"Trident of Agony",21248
+"Trident of Force",21249
+"Spear of Force",21250
+"Spear of Venom",21251
+"Spear of Smoldering",21252
+"Spear of Force",21253
+"Spear of Accuracy",21254
+"Spear of Force",21255
+"Sigil of Nullification",21257
+"Sigil of Purity",21258
 "Omega Siege Golem Blueprints",21259
 "Superior Arrow Cart Blueprints",21260
 "Superior Ballista Blueprints",21261
 "Superior Catapult Blueprints",21262
 "Superior Flame Ram Blueprints",21263
 "Superior Trebuchet Blueprints",21264
+"Repair Hammer",21265
 "Glory Booster",21268
 "Copper Tournament Reward Chest",21269
 "Silver Tournament Reward Chest",21270
+"Silver Rabbit Chest",21273
+"Gold Deer Chest",21276
 "Gold Shark Chest",21291
 "Unidentified Dye",21299
+"Soldier's Bag",21300
+"Soldier's Sack",21301
+"Soldier's Satchel",21302
+"Soldier's Pack",21303
+"Soldier's Ruck",21304
+"Soldier's Backpack",21305
+"Rabbit Finisher",21306
+"Deer Finisher",21307
+"Dolyak Finisher",21308
 "Copper Free Tournament Reward Chest",21309
 "Gold Free Tournament Reward Chest",21310
 "Silver Free Tournament Reward Chest",21311
+"Tiger Finisher",21312
+"Wolf Finisher",21313
+"Bear Finisher",21314
 "Rabbit Reward Chest",21318
 "Deer Reward Chest",21319
 "Dolyak Reward Chest",21320
 "Wolf Reward Chest",21321
+"Tiger Reward Chest",21322
 "Griffon Claw",21374
 "Boar Tusk",21375
 "Minotaur Horn",21376
+"Caladbolg",21409
+"Caladbolg",21520
+"Greatsword",21651
 "Tattered Pelt",21653
 "Ripped Pelt",21654
 "Torn Pelt",21655
@@ -15820,7 +15953,22 @@
 "Centaur Feed",22472
 "Bottle of Skrittsburgh Special",22474
 "Mysterious Meat",22475
+"Steady Axe",22854
+"Steady Longbow",22855
+"Steady Short Bow",22856
+"Steady Dagger",22857
+"Steady Focus",22858
+"Steady Greatsword",22859
 "Steady Hammer",22860
+"Steady Mace",22861
+"Steady Pistol",22862
+"Steady Scepter",22864
+"Steady Shield",22865
+"Steady Staff",22866
+"Steady Sword",22867
+"Steady Torch",22868
+"Steady Warhorn",22869
+"Steady Rifle",22871
 "Mini-moa Egg",22935
 "Iron Harvesting Sickle",22992
 "Iron Logging Axe",22994
@@ -15881,12 +16029,15 @@
 "Insightful Griffon Necklace",23106
 "Mighty Griffon Necklace",23107
 "Topaz Heart",23108
+"Carnelian Heart",23109
 "Ruby Heart",23110
 "Emerald Heart",23111
 "Amethyst Heart",23112
 "Sapphire Heart",23113
 "Beautiful Pendant",23114
+"Shining Pendant",23115
 "Whisper's Power",23117
+"Shining Pendant",23119
 "Vigil's Might",23120
 "Priory Pride",23123
 "Copper Cowbell",23131
@@ -15951,6 +16102,7 @@
 "Rampager's Amulet",23193
 "Rampager's Amulet",23194
 "Cleric's Amulet",23195
+"Traveler's Amulet",23196
 "Carrion Amulet",23197
 "Traveler's Amulet",23198
 "Berserker's Ring",23199
@@ -15970,6 +16122,7 @@
 "Cleric's Ring",23213
 "Cleric's Ring",23214
 "Cleric's Ring",23215
+"Traveler's Ring",23216
 "Traveler's Ring",23217
 "Mighty Ring",23218
 "Mighty Ring",23219
@@ -16033,9 +16186,12 @@
 "Aviator Badge",23283
 "Army Badge",23284
 "Navy Badge",23285
+"Rejuvenating Ring",23286
 "Vigorous Ring",23287
 "Potent Ring",23288
 "Penetrating ring",23289
+"Stout Ring",23290
+"Hearty Ring",23291
 "Orrian Trinket",23292
 "Large Horn",23294
 "Prize Winning Horn",23295
@@ -16599,7 +16755,11 @@
 "Ancient Ring",23854
 "Ancient Ring",23855
 "Arcane Council Petition",23856
+"Incinergen Labs Medal",23857
 "Antique Golem Head",23858
+"Hydrone Labs Medal",23859
+"Terranexic Labs Medal",23860
+"Aeronotics Labs Medal",23861
 "Deputy Peacemaker Badge",23862
 "Lightning Jar",23863
 "Dragonfly-Wing Earrings",23864
@@ -16612,6 +16772,7 @@
 "Golem Prototype Ankle Crystal",23871
 "Hylek-Slayer Badge",23872
 "Skritt Research Footage",23873
+"Water Toxin Analyzer",23874
 "Wardenlight Emblem",23875
 "Preserved Red Cap",23877
 "Verdant Charm",23878
@@ -16721,6 +16882,8 @@
 "Twitching Undead Hand",23982
 "Troll Tooth Necklace",23983
 "Troll Tooth Necklace",23984
+"Ring of the Sun-God",23985
+"Ring of the Sun-God",23986
 "Beaded Hylek Necklace",23987
 "Vigil Commendation for Logistics Excellence",23988
 "Shiny Asura Crystal Matrix",23989
@@ -16786,33 +16949,46 @@
 "Durmand Priory Supply Container",24100
 "Griffon Feather",24102
 "Harpy Gland",24103
+"Block of Stone",24106
 "Cow Treat",24108
 "Catapult Part",24109
 "Elemental Lodestone",24110
 "Wurm Egg",24113
 "Slab of Wurm Meat",24114
+"Water Testing Kit",24117
+"Data Crystal",24119
+"Gate Piece",24120
 "Data Core",24122
+"Durmand Priory Book",24123
 "Firefly Luminescence",24126
 "Sample of Hylek Poison",24127
 "Fire Opal",24128
 "Krait Skin",24136
 "Cavern Scutter Energy",24137
 "Air Elemental Essence",24138
+"Sylvari Turret Seed",24141
 "Lion's Arch Supply Container",24145
+"Shiny Trinket",24146
 "Pirate Outfit",24149
 "Logging Tool",24150
+"Seraph Badge",24151
 "Grub Remains",24156
 "Divinity's Reach Supplies",24158
 "Shiny Red Apple",24162
 "Norn Supplies",24163
 "Slab of Moa Meat",24165
+"Dredge Helmet",24176
 "Pile of Strange Fur",24178
+"Alpine Lily",24182
+"Giant Pearl",24190
+"Ebon Vanguard Helm",24193
 "Piece of Scrap Metal",24195
 "Toxin Antidote",24196
 "Piece of Tattered Armor",24197
 "Shrinkcap Spore",24198
 "Lashtail Devourer Egg",24199
 "Gear Crank",24200
+"Yellow Gentian Flower",24201
 "Earth Elemental Core",24205
 "Piece of Ettin Refuse",24207
 "Dwarven Artifact",24208
@@ -16823,12 +16999,17 @@
 "Harpy Nest Ticket",24215
 "Moorwatch Tower Ticket",24216
 "Harpy Roost Ticket",24217
+"Defense Plans",24219
 "Raven Egg",24220
 "Flame Legion Battle Plans",24222
 "Seraph Badge",24223
+"Ascalonian Battle Plan",24226
 "Inquest Golem Part",24227
 "Skale Egg",24228
 "Order of Whispers Tazer Glove",24229
+"Data Crystal",24230
+"Renegade Battle Plan",24231
+"Chunk of Raw Dredge Ore",24232
 "Piece of Charr Scrap Metal",24234
 "Prickleberry",24235
 "Grub Egg",24236
@@ -16838,17 +17019,31 @@
 "Fragment of Earth",24243
 "Burning Ember",24244
 "Heart of Darkness",24245
+"Divinity's Reach Supplies",24246
+"Piece of Scrap Metal",24247
+"Piece of Arctic Kelp",24248
 "Volcanic Earth Elemental Core",24249
 "Alpha Inquest Control Key",24250
 "Beta Inquest Control Key",24251
 "Grawl Potion",24252
+"Raptor Egg",24253
+"Chunk of Unrefined Dredge Ore",24254
+"Marsh Plant Leaves",24255
+"Quaggan Egg",24256
+"Defense Plans",24257
+"Discolored Wurm Egg",24258
 "Piece of Undead",24259
+"Spare Parts",24261
 "Inquest Blueprints",24262
+"Strand of Lush Kelp",24263
 "Breeze Rider Essence",24264
 "Encryption Crystal",24265
 "Orrian Energy Source",24266
+"Bittersweet Omnomberry",24267
 "Harpy Feather",24268
+"Explosive Powder",24269
 "Jotun Runestone",24270
+"Discarded Sylvari Tool",24271
 "Pile of Glittering Dust",24272
 "Pile of Shimmering Dust",24273
 "Pile of Radiant Dust",24274
@@ -16946,12 +17141,17 @@
 "Oily Skale Sac",24413
 "Tuning Crystal",24414
 "Cursed Pirate Artifact",24415
+"Skale Egg",24416
 "Jellyfish Remains",24417
 "Crabmeat",24419
 "Marsh Frog",24420
 "Meat Hunk",24421
 "Firefly Essence",24426
+"Blackvein Fiber",24427
 "Slice of Grub Meat",24428
+"Seraph Supplies",24430
+"Whetstone",24431
+"Green Stinkhorn",24432
 "Undamaged Power-Bauble",24433
 "Red Summoning Stone",24435
 "Blue Summoning Stone",24436

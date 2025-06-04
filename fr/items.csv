@@ -15646,9 +15646,27 @@
 "Épée du Dragon de feu",21017
 "Bouclier d'égide de diamant",21018
 "Masque baroque lourd",21019
+"Masque baroque léger",21020
+"Griffe de centurion",21022
+"Mousquet",21023
+"Sceptre magique du rétif",21024
+"Pistolet du tonnerre marin",21025
+"Brassards lourds divins",21026
 "Brassards légers divins",21027
+"Brassards intermédiaires divins",21028
+"Masse de Deldrimor",21029
+"Focus de prisme chimérique",21030
+"Arc long d'Ithas",21031
+"Épée damnée",21032
 "Diadème lourd du seigneur de glace",21033
 "Diadème léger du seigneur de glace",21034
+"Diadème intermédiaire du seigneur de glace",21035
+"Brise-glace",21036
+"Fanal",21037
+"Hache des Ténèbres",21038
+"Cor de guerre de l'appel des cimes",21039
+"Canons d'avant-bras lourds du dieu du feu",21040
+"Canons d'avant-bras légers du dieu du feu",21041
 "Canons d'avant-bras intermédiaires du dieu du feu",21042
 "Golem banquier",21043
 "Anneau du Héros",21044
@@ -15656,19 +15674,73 @@
 "Grimoire d'influence",21046
 "Mini-Rytlock",21047
 "Golem banquier",21048
+"Hache",21049
+"Arc long",21050
+"Arc court",21051
+"Dague",21052
+"Focus",21053
+"Espadon",21054
+"Marteau",21055
+"Masse",21056
+"Pistolet",21057
+"Fusil",21058
+"Sceptre",21059
+"Bouclier",21060
+"Bâton",21061
+"Épée",21062
+"Torche",21063
+"Cor",21064
+"Amulette enragée",21081
 "Amulette militaire",21083
+"Amulette barbare",21088
 "Rune de force",21092
+"Joyau berserker",21093
+"Joyau clérical",21094
+"Amulette céleste",21095
+"Trident",21096
+"Lance",21097
+"Fusil-harpon",21098
+"Amulette berserker",21105
+"Amulette nécrophage",21106
+"Amulette saccageuse",21107
+"Amulette cléricale",21108
+"Amulette colonisatrice",21109
+"Amulette valkyrienne",21110
 "Plan de catapulte de guilde imparfait",21119
 "Cachet d'agonie",21121
 "Cachet de consumation",21122
+"Cachet de boitement",21123
+"Cachet d'exactitude",21124
+"Cachet de fermeté",21125
+"Cachet de frisson",21126
 "Cachet de venin",21127
+"Cachet de paralysie",21128
 "Cachet de péril",21129
+"Cachet de faiblesse",21130
+"Cachet de corruption",21131
+"Cachet d'endurance",21132
 "Cachet de vie",21133
+"Cachet de restauration",21134
+"Cachet de bienveillance",21135
+"Cachet de soif de sang",21136
+"Cachet de perception",21137
+"Cachet d'invocation démoniaque",21138
+"Cachet de vitesse",21139
+"Cachet d'air",21140
 "Cachet de terre",21141
+"Cachet de feu",21142
+"Cachet de rage",21143
+"Cachet de glace",21144
+"Cachet de sang",21145
+"Cachet de force",21146
 "Cachet de faillibilité",21147
+"Cachet d'eau",21148
 "Cachet d'intelligence",21149
 "Cachet de malédiction",21150
+"Cachet de géomancie",21151
 "Cachet d'énergie",21152
+"Cachet d'hydromancie",21153
+"Cachet de sangsue",21154
 "Cachet de combat",21155
 "Plans de chariot à flèches",21156
 "Plans de baliste",21157
@@ -15676,6 +15748,14 @@
 "Plans de golem de siège alpha",21159
 "Plans de trébuchet",21160
 "Plans de bélier de feu",21161
+"Joyau barbare",21162
+"Joyau militaire",21163
+"Joyau nécrophage",21164
+"Joyau enragé",21165
+"Joyau saccageur",21166
+"Joyau colonisateur",21167
+"Joyau valkyrien",21168
+"Bijou céleste",21169
 "Rune des Affligés",21170
 "Rune d'air",21171
 "Rune de Balthazar",21172
@@ -15695,8 +15775,11 @@
 "Rune de glace",21187
 "Rune d'infiltration",21188
 "Rune de Krait",21189
+"Rune de la liche",21190
 "Rune de Lyssa",21191
 "Rune de Melandru",21192
+"Rune de pitié",21193
+"Rune d'Ogre",21194
 "Rune de la meute",21195
 "Rune de rage",21197
 "Rune de Rata Sum",21198
@@ -15724,30 +15807,80 @@
 "Rune de Feu-de-Bael",21220
 "Rune de sanctuaire",21221
 "Rune d'Orr",21222
+"Fusil d'exactitude",21224
+"Hache de fermeté",21225
+"Pistolet d'exactitude",21226
+"Dague de fermeté",21227
+"Espadon de fermeté",21228
+"Arc long de fermeté",21229
+"Cor de faiblesse",21230
+"Sceptre d'agonie",21231
+"Focus de frisson",21232
+"Hache de fermeté",21233
+"Torche de consumation",21234
+"Sceptre de consumation",21235
+"Espadon de fermeté",21236
 "Bâton de vie",21237
+"Bouclier de sangsue",21238
+"Masse de vie",21239
+"Fusil de fermeté",21240
 "Bâton de consumation",21241
 "Trident de fermeté",21242
+"Fusil-harpon de fermeté",21243
+"Fusil-harpon d'agonie",21244
+"Fusil-harpon de fermeté",21245
+"Fusil-harpon d'exactitude",21246
+"Trident de consumation",21247
+"Trident d'agonie",21248
+"Trident de fermeté",21249
+"Lance de fermeté",21250
+"Lance de venin",21251
+"Lance de consumation",21252
+"Lance de fermeté",21253
+"Lance d'exactitude",21254
+"Lance de fermeté",21255
+"Cachet d'invalidation",21257
+"Cachet de pureté",21258
 "Plans de golem de siège omega",21259
 "Plans de chariot à flèches supérieures",21260
 "Plans de baliste supérieure",21261
 "Plans de catapulte supérieure",21262
 "Plans de bélier de feu supérieur",21263
 "Plans de trébuchet supérieur",21264
+"Marteau de réparation",21265
 "Augmentation de gloire",21268
 "Coffre de récompense de tournoi en cuivre",21269
 "Coffre de récompense de tournoi en argent",21270
+"Coffre du Lapin en argent",21273
+"Coffre du Daim en or",21276
 "Coffre du Requin en or",21291
 "Teinture non identifiée",21299
+"Sac militaire",21300
+"Besace militaire",21301
+"Sacoche militaire",21302
+"Musette militaire",21303
+"Havresac militaire",21304
+"Sac à dos militaire",21305
+"Coup de grâce du Lapin",21306
+"Coup de grâce du Daim",21307
+"Coup de grâce du dolyak",21308
 "Coffre de récompense de tournoi gratuit en cuivre",21309
 "Coffre de récompense de tournoi gratuit en or",21310
 "Coffre de récompense de tournoi gratuit en argent",21311
+"Coup de grâce du Tigre",21312
+"Coup de grâce du Loup",21313
+"Coup de grâce de l'Ourse",21314
 "Coffre de récompense du Lapin",21318
 "Coffre de récompense du Daim",21319
 "Coffre de récompense du dolyak",21320
 "Coffre de récompense du Loup",21321
+"Coffre de récompense du Tigre",21322
 "Griffe de griffon",21374
 "Défense de sanglier",21375
 "Corne de minotaure",21376
+"Caladbolg",21409
+"Caladbolg",21520
+"Espadon",21651
 "Peau en lambeaux",21653
 "Fourrure arrachée",21654
 "Fourrure déchirée",21655
@@ -15820,7 +15953,22 @@
 "Fourrage centaure",22472
 "Bouteille de boisson spéciale de Skrittsburgh",22474
 "Viande mystérieuse",22475
+"Hache stable",22854
+"Arc long stable",22855
+"Arc court stable",22856
+"Dague stable",22857
+"Focus stable",22858
+"Espadon stable",22859
 "Marteau stable",22860
+"Masse stable",22861
+"Pistolet stable",22862
+"Sceptre stable",22864
+"Bouclier stable",22865
+"Bâton stable",22866
+"Épée stable",22867
+"Torche stable",22868
+"Cor de guerre stable",22869
+"Fusil stable",22871
 "Œuf de mini-moa",22935
 "Faux de moissonneur en fer",22992
 "Hache de bûcheron en fer",22994
@@ -15881,12 +16029,15 @@
 "Collier du griffon perspicace",23106
 "Collier du griffon puissant",23107
 "Cœur de topaze",23108
+"Cœur de cornaline",23109
 "Cœur de rubis",23110
 "Cœur d'émeraude",23111
 "Cœur d'améthyste",23112
 "Cœur de Saphir",23113
 "Pendentif magnifique",23114
+"Pendentif brillant",23115
 "Puissance des Soupirs",23117
+"Pendentif brillant",23119
 "Pouvoir des Veilleurs",23120
 "Fierté du Prieuré",23123
 "Clarine en cuivre",23131
@@ -15951,6 +16102,7 @@
 "Amulette saccageuse",23193
 "Amulette saccageuse",23194
 "Amulette cléricale",23195
+"Amulette du voyageur",23196
 "Amulette nécrophage",23197
 "Amulette du voyageur",23198
 "Anneau berserker",23199
@@ -15970,6 +16122,7 @@
 "Anneau clérical",23213
 "Anneau clérical",23214
 "Anneau clérical",23215
+"Anneau du voyageur",23216
 "Anneau du voyageur",23217
 "Anneau puissant",23218
 "Anneau puissant",23219
@@ -16033,9 +16186,12 @@
 "Insigne d'aviateur",23283
 "Insigne d'armée",23284
 "Insigne de marine",23285
+"Anneau rajeunissant",23286
 "Anneau vigoureux",23287
 "Anneau absolu",23288
 "Anneau pénétrant",23289
+"Anneau opulent",23290
+"Anneau robuste",23291
 "Colifichet orrien",23292
 "Grand cor",23294
 "Cor primé",23295
@@ -16599,7 +16755,11 @@
 "Ancien anneau",23854
 "Ancien anneau",23855
 "Pétition du Conseil des arcanes",23856
+"Médaille des labos d'Incinergie",23857
 "Tête de golem antique",23858
+"Médaille des labos d'Hydrone",23859
+"Médaille des labos de Terranexic",23860
+"Médaille des labos d'Aéronautique",23861
 "Insigne de Pacificateur adjoint",23862
 "Bocal d'éclair",23863
 "Boucles d'oreilles en ailes de libellule",23864
@@ -16612,6 +16772,7 @@
 "Cristal de cheville prototype pour golem",23871
 "Insigne de pourfendeur hylek",23872
 "Compte-rendu de recherche skritt",23873
+"Analyseur de toxine d'eau",23874
 "Emblème de gardelumière",23875
 "Chapeau-rouge préservé",23877
 "Amulette verdoyante",23878
@@ -16721,6 +16882,8 @@
 "Main de mort-vivant animée",23982
 "Collier en dent de troll",23983
 "Collier en dent de troll",23984
+"Anneau du Dieu Soleil",23985
+"Anneau du Dieu Soleil",23986
 "Collier de perles hylek",23987
 "Approbation d'excellence logistique de la part des Veilleurs",23988
 "Matrice de cristal asura brillante",23989
@@ -16786,33 +16949,46 @@
 "Conteneur de ravitaillement du Prieuré de Durmand",24100
 "Plume de griffon",24102
 "Glande de harpie",24103
+"Bloc de pierre",24106
 "Friandise pour vache",24108
 "Pièce de catapulte",24109
 "Magnétite élémentaire",24110
 "Œuf de guivre",24113
 "Tranche de viande de guivre",24114
+"Nécessaire de test d'eau",24117
+"Cristal de données",24119
+"Morceau de portail",24120
 "Noyau de données",24122
+"Livre du Prieuré de Durmand",24123
 "Luminescence incendiaire",24126
 "Échantillon de poison hylek",24127
 "Opale de feu",24128
 "Peau krait",24136
 "Energie de vire-vire des cavernes",24137
 "Essence d'élémentaire d'air",24138
+"Graine de tourelle sylvari",24141
 "Conteneur de ravitaillement de l'Arche du Lion",24145
+"Colifichet brillant",24146
 "Tenue de pirate",24149
 "Outils de bûcheron",24150
+"Insigne séraphin",24151
 "Restes de vers",24156
 "Ravitaillement du Promontoire divin",24158
 "Pomme rouge brillante",24162
 "Conteneur de ravitaillement norn",24163
 "Tranche de viande de Moa",24165
+"Casque draguerre",24176
 "Tas de fourrures étranges",24178
+"Lys alpin",24182
+"Perle géante",24190
+"Heaume de l'Avant-garde d'Ebon",24193
 "Morceau de métal de rebut",24195
 "Antidote anti-toxines",24196
 "Morceau d'armure en lambeaux",24197
 "Spore de minichapeau",24198
 "Œuf de dévoreur queue-cinglante",24199
 "Manivelle",24200
+"Fleur de gentiane jaune",24201
 "Noyau d'élémentaire de terre",24205
 "Morceau de boule de poils",24207
 "Artefact nain",24208
@@ -16823,12 +16999,17 @@
 "Ticket de nid de Harpies",24215
 "Ticket pour la Tour de Mirelande",24216
 "Ticket de perchoir de Harpies",24217
+"Plans de défense",24219
 "Œuf de corbeau",24220
 "Plans de bataille de la Légion de la Flamme",24222
 "Insigne séraphin",24223
+"Plan de bataille ascalonien",24226
 "Pièce de golem de l'Enqueste",24227
 "Œuf d'écailleux",24228
 "Gant taser de l'Ordre des Soupirs",24229
+"Cristal de données",24230
+"Plan de bataille renégat",24231
+"Morceau de minerai draguerre brut",24232
 "Morceau de métal de rebut charr",24234
 "Groseille",24235
 "Œuf de ver",24236
@@ -16838,17 +17019,31 @@
 "Fragment de Terre",24243
 "Braise brûlante",24244
 "Cœur des ténèbres",24245
+"Ravitaillement du Promontoire divin",24246
+"Morceau de métal de rebut",24247
+"Morceau de varech arctique",24248
 "Noyau d'élémentaire de terre volcanique",24249
 "Clé de contrôle de l'Enqueste alpha",24250
 "Clé de contrôle de l'Enqueste bêta",24251
 "Potion de Grawl",24252
+"Œuf de raptor",24253
+"Morceau de minerai draguerre brut",24254
+"Feuilles de plantes des marais",24255
+"Œuf de Quaggan",24256
+"Plans de défense",24257
+"Œuf de guivre décoloré",24258
 "Morceau de mort-vivant",24259
+"Pièces détachées",24261
 "Plans de l'Enqueste",24262
+"Fil de varech luxuriant",24263
 "Essence de chevaucheur de brise",24264
 "Cristal de cryptage",24265
 "Source d'énergie orrienne",24266
+"Baie d'Omnom douce-amère",24267
 "Plume de harpie",24268
+"Poudre explosive",24269
 "Pierre de rune jotun",24270
+"Outil sylvari abandonné",24271
 "Tas de poussière scintillante",24272
 "Tas de poussière étincelante",24273
 "Tas de poussière rayonnante",24274
@@ -16946,12 +17141,17 @@
 "Poche à huile d'écailleux",24413
 "Cristal d'harmonisation",24414
 "Artefact de pirate maudit",24415
+"Œuf d'écailleux",24416
 "Restes de méduse",24417
 "Chair de crabe",24419
 "Grenouille des marais",24420
 "Morceau de viande",24421
 "Essence de luciole",24426
+"Fibre de veine noire",24427
 "Tranche de viande de ver",24428
+"Provisions des Séraphins",24430
+"Pierre à aiguiser",24431
+"Satyre vert",24432
 "Babiole de puissance intacte",24433
 "Pierre d'invocation rouge",24435
 "Pierre d'invocation bleue",24436

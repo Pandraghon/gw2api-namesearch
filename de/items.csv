@@ -15607,9 +15607,27 @@
 "Feuriges Drachen-Schwert",21017
 "Diamanten-Aegis-Schild",21018
 "Schwere Barock-Maske",21019
+"Leichte Barock-Maske",21020
+"Zenturios Klaue",21022
+"Radschloss-Gewehr",21023
+"Eigensinniger Zauberstab",21024
+"Seedonner-Pistole",21025
+"Schwerer himmlischer Handschutz",21026
 "Leichter himmlischer Handschutz",21027
+"Mittlerer himmlischer Handschutz",21028
+"Deldrimor-Streitkolben",21029
+"Chimärischer Prismafokus",21030
+"Ithas-Langbogen",21031
+"Todesklinge",21032
 "Schweres Eisfürsten-Diadem",21033
 "Leichtes Eisfürsten-Diadem",21034
+"Mittleres Eisfürsten-Diadem",21035
+"Eisbrecher",21036
+"Flammendes Signal",21037
+"Stygische Axt",21038
+"Bergrufer-Kriegshorn",21039
+"Schwerer Feuergott-Armschutz",21040
+"Leichter Feuergott-Armschutz",21041
 "Mittlerer Feuergott-Armschutz",21042
 "Golem-Bankier",21043
 "Band des Helden",21044
@@ -15617,19 +15635,73 @@
 "Foliant des Einflusses",21046
 "Mini Rytlock",21047
 "Golem-Bankier",21048
+"Axt",21049
+"Langbogen",21050
+"Kurzbogen",21051
+"Dolch",21052
+"Fokus",21053
+"Großschwert",21054
+"Hammer",21055
+"Streitkolben",21056
+"Pistole",21057
+"Gewehr",21058
+"Zepter",21059
+"Schild",21060
+"Stab",21061
+"Schwert",21062
+"Fackel",21063
+"Horn",21064
+"Tollwütiges Amulett",21081
 "Soldatisches Amulett",21083
+"Amulett des Barbaren",21088
 "Rune der Stärke",21092
+"Juwel des Berserkers",21093
+"Juwel des Klerikers",21094
+"Himmlisches Amulett",21095
+"Dreizack",21096
+"Speer",21097
+"Harpunenschleuder",21098
+"Berserkerhaftes Amulett",21105
+"Faulendes Amulett",21106
+"Wütendes Amulett",21107
+"Klerikales Amulett",21108
+"Siedelndes Amulett",21109
+"Walkürisches Amulett",21110
 "Fehlerhafte Blaupause für Gilden-Katapult",21119
 "Sigill der Qual",21121
 "Sigill der Glut",21122
+"Sigill des Humpelns",21123
+"Sigill der Treffsicherheit",21124
+"Sigill der Heftigkeit",21125
+"Sigill der Kühle",21126
 "Sigill des Giftes",21127
+"Sigill der Lähmung",21128
 "Sigill der Gefahr",21129
+"Sigill der Schwäche",21130
+"Sigill der Verdorbenheit",21131
+"Sigill der Ausdauer",21132
 "Sigill des Lebens",21133
+"Sigill der Wiederherstellung",21134
+"Sigill des Wohlwollens",21135
+"Sigill der Blutgier",21136
+"Sigill der Wahrnehmung",21137
+"Sigill der Dämonenbeschwörung",21138
+"Sigill der Geschwindigkeit",21139
+"Sigill der Luft",21140
 "Sigill der Erde",21141
+"Sigill des Feuers",21142
+"Sigill der Rage",21143
+"Sigill des Eises",21144
+"Sigill des Blutes",21145
+"Sigill der Stärke",21146
 "Sigill der Fehlbarkeit",21147
+"Sigill des Wassers",21148
 "Sigill der Intelligenz",21149
 "Sigill der Verdammnis",21150
+"Sigill der Geomantie",21151
 "Sigill der Energie",21152
+"Sigill der Hydromantie",21153
+"Sigill des Lebensfressers",21154
 "Sigill des Kampfes",21155
 "Blaupause für Pfeilwagen",21156
 "Blaupause für Balliste",21157
@@ -15637,6 +15709,14 @@
 "Blaupause für Alpha-Belagerungs-Golem",21159
 "Blaupause für Trébuchet",21160
 "Blaupause für Flammenbock",21161
+"Juwel des Barbaren",21162
+"Juwel des Soldaten",21163
+"Juwel der Fäulnis",21164
+"Juwel der Tollwut",21165
+"Juwel des Wüters",21166
+"Juwel der Siedler",21167
+"Juwel der Walküre",21168
+"Himmlischer Edelstein",21169
 "Rune der Befallenen",21170
 "Rune der Luft",21171
 "Rune des Balthasar",21172
@@ -15656,8 +15736,11 @@
 "Rune des Eises",21187
 "Rune der Infiltration",21188
 "Rune der Krait",21189
+"Rune des Lich",21190
 "Rune der Lyssa",21191
 "Rune der Melandru",21192
+"Rune der Gnade",21193
+"Rune des Ogers",21194
 "Rune des Rudels",21195
 "Rune der Rage",21197
 "Rune von Rata Sum",21198
@@ -15685,30 +15768,80 @@
 "Rune des Baelfeuers",21220
 "Rune der Zuflucht",21221
 "Rune von Orr",21222
+"Gewehr der Treffsicherheit",21224
+"Axt der Heftigkeit",21225
+"Pistole der Treffsicherheit",21226
+"Dolch der Heftigkeit",21227
+"Großschwert der Heftigkeit",21228
+"Langbogen der Heftigkeit",21229
+"Horn der Schwäche",21230
+"Zepter der Qual",21231
+"Fokus der Kühle",21232
+"Axt der Heftigkeit",21233
+"Fackel der Glut",21234
+"Zepter der Glut",21235
+"Großschwert der Heftigkeit",21236
 "Stab des Lebens",21237
+"Schild des Lebensfressers",21238
+"Streitkolben des Lebens",21239
+"Gewehr der Heftigkeit",21240
 "Stab der Glut",21241
 "Dreizack der Heftigkeit",21242
+"Harpunenschleuder der Heftigkeit",21243
+"Harpunenschleuder der Qual",21244
+"Harpunenschleuder der Heftigkeit",21245
+"Harpunenschleuder der Treffsicherheit",21246
+"Dreizack der Glut",21247
+"Dreizack der Qual",21248
+"Dreizack der Heftigkeit",21249
+"Speer der Heftigkeit",21250
+"Speer des Giftes",21251
+"Speer der Glut",21252
+"Speer der Heftigkeit",21253
+"Speer der Treffsicherheit",21254
+"Speer der Heftigkeit",21255
+"Sigill der Auslöschung",21257
+"Sigill der Reinheit",21258
 "Blaupause für Belagerungs-Golem",21259
 "Blaupause für Überlegener Pfeilwagen",21260
 "Blaupause für Überlegene Balliste",21261
 "Blaupause für Überlegenes Katapult",21262
 "Blaupause für Überlegener Flammenbock",21263
 "Blaupause für Überlegenes Trébuchet",21264
+"Reparatur-Hammer",21265
 "Ruhmverstärker",21268
 "Kupferturnier-Belohnungstruhe",21269
 "Silberturnier-Belohnungstruhe",21270
+"Silber-Kaninchentruhe",21273
+"Gold-Hirschtruhe",21276
 "Gold-Haitruhe",21291
 "Nicht identifizierte Farbe",21299
+"Beutel des Soldaten",21300
+"Sack des Soldaten",21301
+"Tornister des Soldaten",21302
+"Tasche des Soldaten",21303
+"Schultertasche des Soldaten",21304
+"Soldatischer Rucksack",21305
+"Kaninchen-Todesstoß",21306
+"Hirsch-Todesstoß",21307
+"Dolyak-Todesstoß",21308
 "Kupfer-Belohnungstruhe (Kostenloses Turnier)",21309
 "Gold-Belohnungstruhe (Kostenloses Turnier)",21310
 "Silber-Belohnungstruhe (Kostenloses Turnier)",21311
+"Tiger-Todesstoß",21312
+"Wolf-Todesstoß",21313
+"Bären-Todesstoß",21314
 "Kaninchen-Belohnungstruhe",21318
 "Hirsch-Belohnungstruhe",21319
 "Dolyak-Belohnungstruhe",21320
 "Wolfs-Belohnungstruhe",21321
+"Tiger-Belohnungstruhe",21322
 "Greifenkralle",21374
 "Eber-Stoßzahn",21375
 "Minotauren-Horn",21376
+"Caladbolg",21409
+"Caladbolg",21520
+"Großschwert",21651
 "Ramponierter Pelz",21653
 "Eingerissener Pelz",21654
 "Zerrissener Pelz",21655
@@ -15781,7 +15914,22 @@
 "Zentauren-Nahrung",22472
 "Flasche Skrittsburg Spezial",22474
 "Rätselhaftes Fleisch",22475
+"Ruhige Axt",22854
+"Ruhiger Langbogen",22855
+"Ruhiger Kurzbogen",22856
+"Ruhiger Dolch",22857
+"Ruhiger Fokus",22858
+"Ruhiges Großschwert",22859
 "Ruhiger Hammer",22860
+"Ruhiger Streitkolben",22861
+"Ruhige Pistole",22862
+"Ruhiges Zepter",22864
+"Ruhiger Schild",22865
+"Ruhiger Stab",22866
+"Ruhiges Schwert",22867
+"Ruhige Fackel",22868
+"Ruhiges Kriegshorn",22869
+"Ruhiges Gewehr",22871
 "Miniatur-Moas-Ei",22935
 "Eisen-Erntesichel",22992
 "Eisen-Holzfälleraxt",22994
@@ -15842,12 +15990,15 @@
 "Einsichtsvolle Greifen-Halskette",23106
 "Mächtige Greifen-Halskette",23107
 "Topasherz",23108
+"Karneolherz",23109
 "Rubinherz",23110
 "Smaragdherz",23111
 "Amethyst-Herz",23112
 "Saphirherz",23113
 "Schöner Anhänger",23114
+"Glänzender Anhänger",23115
 "Gerüchte-Kraft",23117
+"Glänzender Anhänger",23119
 "Wachsamen-Macht",23120
 "Abtei-Stolz",23123
 "Kupferne Kuhglocke",23131
@@ -15912,6 +16063,7 @@
 "Wütendes Amulett",23193
 "Wütendes Amulett",23194
 "Klerikales Amulett",23195
+"Amulett des Reisenden",23196
 "Faulendes Amulett",23197
 "Amulett des Reisenden",23198
 "Berserkerhafter Ring",23199
@@ -15931,6 +16083,7 @@
 "Klerikaler Ring",23213
 "Klerikaler Ring",23214
 "Klerikaler Ring",23215
+"Ring des Reisenden",23216
 "Ring des Reisenden",23217
 "Mächtiger Ring",23218
 "Mächtiger Ring",23219
@@ -15994,9 +16147,12 @@
 "Piloten-Abzeichen",23283
 "Armee-Abzeichen",23284
 "Marine-Abzeichen",23285
+"Verjüngender Ring",23286
 "Energischer Ring",23287
 "Wirkungsvoller Ring",23288
 "Durchdringender Ring",23289
+"Stabiler Ring",23290
+"Wackerer Ring",23291
 "Orrianisches Schmuckstück",23292
 "Großes Horn",23294
 "Prämiertes Horn",23295
@@ -16560,7 +16716,11 @@
 "Uralter Ring",23854
 "Uralter Ring",23855
 "Petition an den Arkanen Rat",23856
+"Medaille des Incinergen-Labors",23857
 "Antiker Golem-Kopf",23858
+"Medaille des Hydron-Labors",23859
+"Medaille des Terranexik-Labors",23860
+"Medaille des Aeronotek-Labors",23861
 "Friedensstifter-Unterkonstabler-Abzeichen",23862
 "Blitztopf",23863
 "Libellenflügel-Ohrringe",23864
@@ -16573,6 +16733,7 @@
 "Golem-Prototyp-Knöchelkristall",23871
 "Hylek-Schlächter-Abzeichen",23872
 "Skritt-Forschungsaufzeichnungen",23873
+"Wassertoxin-Analysator",23874
 "Hüterlicht-Wappen",23875
 "Konserviertes Rotkäppchen",23877
 "Grasgrüner Talisman",23878
@@ -16682,6 +16843,8 @@
 "Zuckende untote Hand",23982
 "Troll-Zahnhalskette",23983
 "Troll-Zahnhalskette",23984
+"Ring des Sonnengottes",23985
+"Ring des Sonnengottes",23986
 "Hylek-Perlenhalskette",23987
 "Belobigung der Wachsamen für außerordentliche Verdienste in der Logistik",23988
 "Glänzige Asura-Kristallmatrix",23989
@@ -16747,33 +16910,46 @@
 "Versorgungsbehälter der Abtei Durmand",24100
 "Greifen-Feder",24102
 "Harpyien-Drüse",24103
+"Steinblock",24106
 "Kuhleckerei",24108
 "Katapultteil",24109
 "Elementar-Magnetstein",24110
 "Wurmei",24113
 "Scheibe Wurmfleisch",24114
+"Wasser-Testkit",24117
+"Asura-Datenkristall",24119
+"Portalstück",24120
 "Datenkern",24122
+"Buch der Abtei Durmand",24123
 "Leuchtkäfer-Lumineszenz",24126
 "Topf mit Hylek-Gift",24127
 "Feueropal",24128
 "Krait-Haut",24136
 "Kavernenkrabbler-Energie",24137
 "Luft-Elementar-Essenz",24138
+"Sylvari-Geschützturmsamen",24141
 "Löwenstein-Versorgungsbehälter",24145
+"Glänzendes Schmuckstück",24146
 "Piraten-Kleidung",24149
 "Holzfällerwerkzeug",24150
+"Seraphen-Abzeichen",24151
 "Raupen-Überreste",24156
 "Götterfels-Vorräte",24158
 "Leuchtend roter Apfel",24162
 "Norn-Vorratsbehälter",24163
 "Stück Moa-Fleisch",24165
+"Schaufler-Helm",24176
 "Haufen merkwürdiger Felle",24178
+"Gebirgslilie",24182
+"Riesenperle",24190
+"Ebon-Vorhut-Helm",24193
 "Stück Metallschrott",24195
 "Gift-Gegenmittel",24196
 "Stück einer Ramponierten Rüstung",24197
 "Schrumpfkopfspore",24198
 "Geißelschwanz-Verschlinger-Ei",24199
 "Zahnradkurbel",24200
+"Gelber Enzian",24201
 "Erd-Elementar-Kern",24205
 "Stück Ettin-Abfall",24207
 "Zwergen-Artefakt",24208
@@ -16784,12 +16960,17 @@
 "Harpyien-Nest-Ticket",24215
 "Moorwachtturm-Ticket",24216
 "Harpyien-Horst-Ticket",24217
+"Verteidigungspläne",24219
 "Raben-Ei",24220
 "Flammen-Legion-Schlachtpläne",24222
 "Seraphen-Abzeichen",24223
+"Ascalon-Schlachtplan",24226
 "Inquestur-Golem-Teile",24227
 "Skal-Ei",24228
 "Elektroschockhandschuh des Ordens der Gerüchte",24229
+"Asura-Datenkristall",24230
+"Abtrünnigen-Schlachtplan",24231
+"Brocken rohes Schaufler-Erz",24232
 "Stück Metallschrott der Charr",24234
 "Kitzelbeere",24235
 "Raupenei",24236
@@ -16799,17 +16980,31 @@
 "Fragment der Erde",24243
 "Brennendes Stück Glut",24244
 "Herz der Dunkelheit",24245
+"Götterfels-Vorräte",24246
+"Stück Metallschrott",24247
+"Stück Arktischen Tangs",24248
 "Vulkanischer Erd-Elementar-Kern",24249
 "Steuerschlüssel der Inquestur Alpha",24250
 "Steuerschlüssel der Inquestur Beta",24251
 "Grawl-Trank",24252
+"Raptoren-Ei",24253
+"Brocken unraffiniertes Schaufler-Erz",24254
+"Marschpflanzenblätter",24255
+"Quaggan-Ei",24256
+"Verteidigungspläne",24257
+"Farbloses Wurmei",24258
 "Körperteil von Untoten",24259
+"Ersatzteile",24261
 "Inquestur-Blaupausen",24262
+"Strang saftigen Tangs",24263
 "Brisenreiter-Essenz",24264
 "Chiffrierungskristall",24265
 "Orrianische Energiequelle",24266
+"Bittersüße Omnombeere",24267
 "Harpyien-Feder",24268
+"Explosives Pulver",24269
 "Jotun-Runenstein",24270
+"Weggeworfenes Sylvari-Werkzeug",24271
 "Haufen glitzernden Staubs",24272
 "Haufen schimmernden Staubs",24273
 "Haufen strahlenden Staubs",24274
@@ -16907,12 +17102,17 @@
 "Öliger Skal-Sack",24413
 "Abstimmkristall",24414
 "Verfluchtes Piraten-Artefakt",24415
+"Skal-Ei",24416
 "Quallenüberreste",24417
 "Krebsfleisch",24419
 "Sumpffrosch",24420
 "Fleischstück",24421
 "Leuchtkäferessenz",24426
+"Schwarzaderfaser",24427
 "Scheibe Raupenfleisch",24428
+"Seraphen-Vorräte",24430
+"Schleifstein",24431
+"Grünes Stinkhorn",24432
 "Unbeschädigter Kraft-Klunker",24433
 "Roter Herbeirufstein",24435
 "Blauer Herbeirufstein",24436
