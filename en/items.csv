@@ -31296,7 +31296,16 @@
 "Aetherblade Medium Helmet",42907
 "Aetherblade Medium Helmet Skin",42908
 "Aetherblade Medium Legging Skin",42910
+"Aetherblade Medium Shoulderpads",42911
 "Aetherblade Medium Shoulderpad Skin",42912
+"Aetherblade Light Shoes",42919
+"Aetherblade Light Vest",42920
+"Aetherblade Light Gloves",42921
+"Aetherblade Light Goggles",42922
+"Aetherblade Light Pants",42923
+"Aetherblade Light Mantle",42924
+"Aetherblade Medium Armguards",42927
+"Aetherblade Medium Helmet",42928
 "Chop-It-All Logging Axe",42931
 "Storage Expander",42932
 "Mini Mordrem Leyleecher",42951
@@ -31327,79 +31336,156 @@
 "Zodiac Heavy Armor Skin",43016
 "Zodiac Medium Armor Skin",43017
 "Zodiac Light Armor Skin",43018
+"Zodiac Heavy Warboot",43019
 "Zodiac Heavy Warboot Skin",43020
+"Zodiac Heavy Warplate",43021
 "Zodiac Heavy Warplate Skin",43022
+"Zodiac Heavy Gauntlets",43023
 "Zodiac Heavy Gauntlet Skin",43024
+"Zodiac Heavy Warhelm",43025
 "Zodiac Heavy Warhelm Skin",43026
+"Zodiac Heavy Legplates",43027
 "Zodiac Heavy Legplate Skin",43028
+"Zodiac Heavy Pauldrons",43029
 "Zodiac Heavy Pauldron Skin",43030
 "Zodiac Light Shoe Skin",43032
 "Zodiac Light Vest Skin",43034
+"Zodiac Light Gloves",43035
 "Zodiac Light Glove Skin",43036
 "Zodiac Light Goggles Skin",43038
 "Zodiac Light Pant Skin",43040
+"Zodiac Light Mantle",43041
 "Zodiac Light Mantle Skin",43042
+"Zodiac Medium Boots",43043
 "Zodiac Medium Boot Skin",43044
+"Zodiac Medium Jerkin",43045
 "Zodiac Medium Jerkin Skin",43046
 "Zodiac Medium Armguard Skin",43048
+"Zodiac Medium Helmet",43049
 "Zodiac Medium Helmet Skin",43050
+"Zodiac Medium Leggings",43051
 "Zodiac Medium Legging Skin",43052
 "Zodiac Medium Shoulderpad Skin",43054
+"Zodiac Light Shoes",43061
 "Zodiac Light Vest",43062
+"Zodiac Light Gloves",43063
+"Zodiac Light Goggles",43064
+"Zodiac Light Pants",43065
+"Zodiac Light Mantle",43066
+"Evon Gnashblade Support Bundle",43073
+"Ellen Kiel Support Bundle",43074
 "Instant Trait Reset",43075
 "Wind Kite",43076
 "Black Lion Introductory Package",43077
 "Lion's Arch Commemorative Dye Kit",43078
+"Bloody Prince's Mask",43087
+"Bloody Prince's Shirt",43089
 "Bloody Prince's Outfit",43091
+"Bloody Prince's Staff Toy",43092
+"Executioner Gloves",43093
+"Executioner Hood",43094
+"Executioner Boots",43095
+"Executioner Shirt",43096
 "Executioner's Outfit",43098
 "Executioner Axe Toy",43099
 "Phalanx Heavy-Armor Skin",43100
 "Viper's Medium-Armor Skin",43101
 "Trickster's Light-Armor Skin",43102
+"Phalanx Warboots",43103
 "Phalanx Heavy Warboot Skin",43104
+"Phalanx Warplate",43105
 "Phalanx Heavy Warplate Skin",43106
+"Phalanx Gauntlets",43107
 "Phalanx Heavy Gauntlet Skin",43108
+"Phalanx Warhelm",43109
 "Phalanx Heavy Warhelm Skin",43110
+"Phalanx Legplates",43111
 "Phalanx Heavy Legplate Skin",43112
+"Phalanx Shoulders",43113
 "Phalanx Heavy Shoulder Skin",43114
+"Trickster's Shoes",43115
 "Trickster's Light Shoe Skin",43116
+"Trickster's Vest",43117
 "Trickster's Light Vest Skin",43118
+"Trickster's Gloves",43119
 "Trickster's Light Glove Skin",43120
+"Trickster's Mask",43121
 "Trickster's Light Mask Skin",43122
+"Trickster's Leggings",43123
 "Trickster's Light Leggings Skin",43124
+"Trickster's Mantle",43125
 "Trickster's Light Mantle Skin",43126
+"Viper's Boots",43127
 "Viper's Medium Boot Skin",43128
+"Viper's Jerkin",43129
 "Viper's Medium Jerkin Skin",43130
 "Viper's Medium Armguard Skin",43132
+"Viper's Monocle",43133
 "Viper's Medium Monocle Skin",43134
+"Viper's Leggings",43135
 "Viper's Medium Legging Skin",43136
 "Viper's Medium Shoulderpad Skin",43138
 "Phalanx Warboots",43139
 "Phalanx Warplate",43140
 "Phalanx Gauntlets",43141
+"Phalanx Shoulders",43144
+"Trickster's Shoes",43145
+"Trickster's Vest",43146
+"Trickster's Gloves",43147
+"Trickster's Mask",43148
+"Trickster's Leggings",43149
+"Trickster's Mantle",43150
 "Braham's Heavy Armor Skin",43157
 "Magitech Medium Armor Skin",43158
 "Phoenix Light Armor Skin",43159
+"Braham's Warboots",43160
 "Braham's Warboot Skin",43161
+"Braham's Chestplate",43162
 "Braham's Chestplate Skin",43163
+"Braham's Gauntlets",43164
 "Braham's Gauntlet Skin",43165
 "Braham's Warhelm Skin",43167
+"Braham's Legplates",43168
 "Braham's Legplate Skin",43169
+"Braham's Pauldrons",43170
 "Braham's Pauldron Skin",43171
 "Phoenix Shoe Skin",43173
+"Phoenix Vest",43174
 "Phoenix Vest Skin",43175
 "Phoenix Glove Skin",43177
 "Phoenix Mask Skin",43179
+"Phoenix Pants",43180
 "Phoenix Pant Skin",43181
 "Phoenix Mantle Skin",43183
 "Magitech Boot Skin",43185
+"Magitech Jerkin",43186
 "Magitech Jerkin Skin",43187
 "Magitech Armguard Skin",43189
+"Magitech Helmet",43190
 "Magitech Helmet Skin",43191
+"Magitech Leggings",43192
 "Magitech Legging Skin",43193
 "Magitech Shoulderpad Skin",43195
+"Braham's Warboots",43196
+"Braham's Chestplate",43197
+"Braham's Gauntlets",43198
+"Braham's Warhelm",43199
+"Braham's Legplates",43200
+"Braham's Pauldrons",43201
+"Phoenix Shoes",43202
+"Phoenix Vest",43203
+"Phoenix Gloves",43204
+"Phoenix Mask",43205
+"Phoenix Pants",43206
 "Phoenix Mantle",43207
+"Magitech Boots",43208
+"Magitech Jerkin",43209
+"Magitech Armguards",43210
+"Magitech Helmet",43211
+"Magitech Leggings",43212
+"Magitech Shoulderpads",43213
 "Sample Detector",43230
+"Gift of Heroes",43244
 "Settler's Amulet",43245
 "Settler's Keepsake",43246
 "Settler's Ring",43247
@@ -31418,10 +31504,18 @@
 "Fireworks",43308
 "Piece of Zhaitaffy",43319
 "Jorbreaker",43320
+"Bag of Coins",43330
+"Horns of the Dragon",43331
+"Horns of the Dragon",43332
+"Horns of the Dragon",43333
 "Gift of the Dragon Bash",43334
 "Heavy Horns of the Dragon Skin",43335
+"Horns of the Dragon",43336
+"Horns of the Dragon",43338
 "Light Horns of the Dragon Skin",43339
 "Medium Horns of the Dragon Skin",43340
+"Holographic Dragon Wings",43343
+"Holographic Dragon Wings",43345
 "Holographic Dragon Wing Cover",43346
 "Holographic Shattered Dragon Wings",43347
 "Holographic Shattered Dragon Wing Cover",43348
@@ -31437,19 +31531,29 @@
 "Koi Cake",43361
 "Slice of Candied Dragon Roll",43362
 "Dragonfish Candy",43363
+"Dragon's Jade Reaver",43365
 "Dragon's Jade Reaver Skin",43367
+"Dragon's Jade Kris",43368
+"Dragon's Jade Kris",43369
 "Dragon's Jade Kris Skin",43370
 "Dragon's Jade Aspect Skin",43373
+"Dragon's Jade Avenger",43374
 "Dragon's Jade Avenger Skin",43376
+"Dragon's Jade Warhammer",43377
 "Dragon's Jade Warhammer Skin",43379
 "Dragon's Jade Hornbow Skin",43382
 "Dragon's Jade Cudgel Skin",43385
 "Dragon's Jade Flintlock Skin",43388
 "Dragon's Jade Blunderbuss Skin",43391
 "Dragon's Jade Truncheon Skin",43394
+"Dragon's Jade Wall",43395
 "Dragon's Jade Wall Skin",43397
+"Dragon's Jade Needler",43398
 "Dragon's Jade Needler Skin",43400
+"Dragon's Jade Quarterstaff",43401
 "Dragon's Jade Quarterstaff Skin",43403
+"Dragon's Jade Lacerator",43404
+"Dragon's Jade Lacerator",43405
 "Dragon's Jade Lacerator Skin",43406
 "Dragon's Jade Flame Skin",43409
 "Dragon's Jade Harbinger Skin",43412
@@ -31475,12 +31579,20 @@
 "Recipe: Potent Master Tuning Crystals",43484
 "WXP Mini-Booster",43485
 "Sun Kite",43487
+"Wind Catcher",43489
 "Wind Catcher Skin",43490
+"Lightning Catcher",43491
 "Lightning Catcher Skin",43492
+"Sun Catcher",43493
 "Sun Catcher Skin",43494
+"Wind Catcher",43495
+"Lightning Catcher",43496
+"Zephyrite Wind Helm",43498
 "Heavy Zephyrite Wind Helm Skin",43499
 "Light Zephyrite Wind Helm Skin",43501
 "Medium Zephyrite Wind Helm Skin",43503
+"Zephyrite Wind Helm",43505
+"Zephyrite Sun Helm",43507
 "Heavy Zephyrite Sun Helm Skin",43508
 "Light Zephyrite Sun Helm Skin",43510
 "Medium Zephyrite Sun Helm Skin",43512
@@ -31510,57 +31622,125 @@
 "Flamewalker Medium Armor Skin",43575
 "Flamekissed Light Armor Skin",43576
 "Flamewrath Warboots Skin",43578
+"Flamewrath Chestplate",43579
 "Flamewrath Chestplate Skin",43580
 "Flamewrath Gauntlets Skin",43582
 "Flamewrath Helm Skin",43584
+"Flamewrath Legplates",43585
 "Flamewrath Legplates Skin",43586
 "Flamewrath Pauldrons Skin",43588
+"Flamekissed Shoes",43589
 "Flamekissed Shoes Skin",43590
+"Flamekissed Vest",43591
 "Flamekissed Vest Skin",43592
 "Flamekissed Gloves",43593
 "Flamekissed Gloves Skin",43594
+"Flamekissed Mask",43595
 "Flamekissed Mask Skin",43596
+"Flamekissed Pants",43597
 "Flamekissed Pants Skin",43598
+"Flamekissed Mantle",43599
 "Flamekissed Mantle Skin",43600
+"Flamewalker Boots",43601
 "Flamewalker Boots Skin",43602
+"Flamewalker Coat",43603
 "Flamewalker Coat Skin",43604
 "Flamewalker Armguards",43605
 "Flamewalker Armguards Skin",43606
+"Flamewalker Hat",43607
 "Flamewalker Hat Skin",43608
+"Flamewalker Leggings",43609
 "Flamewalker Leggings Skin",43610
+"Flamewalker Shoulderpads",43611
 "Flamewalker Shoulderpads Skin",43612
+"Flamewrath Chestplate",43614
+"Flamewrath Helm",43616
+"Flamewalker Boots",43625
+"Flamewalker Coat",43626
+"Flamewalker Hat",43628
+"Flamewalker Leggings",43629
+"Flamewalker Shoulderpads",43630
 "Tournament of Legends: Fourth Place",43631
 "Tournament of Legends: Third Place and Fourth Place",43632
 "Tournament of Legends: Second Place",43633
 "Tournament of Legends: First Place",43634
 "PvP Prize Package",43635
+"Radiant Vambraces",43639
+"Radiant Vambraces",43640
+"Radiant Vambraces",43642
+"Radiant Vambraces",43643
 "Light Radiant Vambraces Skin",43644
 "Radiant Vambraces",43645
+"Radiant Vambraces",43646
+"Hellfire Vambraces",43649
+"Heavy Hellfire Vambraces Skin",43650
+"Hellfire Vambraces",43651
 "Hellfire Vambraces",43652
+"Hellfire Vambraces",43655
+"Radiant Warhelm",43657
+"Radiant Warhelm",43658
+"Radiant Warhelm",43663
+"Hellfire Warhelm",43666
+"Hellfire Warhelm",43667
 "Hellfire Warhelm",43670
+"Hellfire Warhelm",43672
+"Radiant Mantle",43675
+"Radiant Mantle",43676
+"Radiant Mantle",43679
+"Radiant Mantle",43681
+"Radiant Mantle",43682
 "Medium Radiant Mantle Skin",43683
+"Hellfire Mantle",43684
+"Hellfire Mantle",43685
 "Hellfire Mantle",43687
+"Hellfire Mantle",43688
+"Hellfire Mantle",43691
 "Zenith Recurve Bow Skin",43693
+"Zenith Recurve Bow",43695
+"Zenith Short Bow",43697
 "Zenith Short Bow Skin",43698
+"Zenith Spire",43699
+"Zenith Spire",43700
 "Zenith Spire Skin",43701
+"Zenith Thunder",43702
+"Zenith Thunder",43703
 "Zenith Thunder Skin",43704
+"Zenith Avenger",43705
+"Zenith Avenger",43706
 "Zenith Avenger Skin",43707
+"Zenith Blade",43708
+"Zenith Blade",43709
 "Zenith Blade Skin",43710
+"Zenith Cesta",43711
+"Zenith Cesta",43712
 "Zenith Cesta Skin",43713
+"Zenith Scroll",43715
 "Zenith Scroll Skin",43716
+"Zenith Reaver",43717
+"Zenith Reaver",43718
 "Zenith Reaver Skin",43719
+"Zenith Ward",43721
 "Zenith Ward Skin",43722
+"Zenith Kris",43724
 "Zenith Kris Skin",43725
 "Zenith Mace Skin",43728
+"Zenith Flame",43730
 "Zenith Flame Skin",43731
+"Zenith Pistol",43732
+"Zenith Pistol",43733
 "Zenith Pistol Skin",43734
+"Zenith Rifle",43736
 "Zenith Rifle Skin",43737
+"Zenith Harbinger",43738
+"Zenith Harbinger",43739
 "Zenith Harbinger Skin",43740
 "Tome of Knowledge",43741
 "Heavy Tome of Knowledge",43742
+"Zenith Trident",43746
 "Zenith Trident Skin",43747
 "Zenith Impaler",43748
 "Zenith Impaler Skin",43750
+"Zenith Wake",43752
 "Zenith Wake Skin",43753
 "Radiant Vambraces Skin",43754
 "Radiant Warhelm Skin",43755
@@ -31692,14 +31872,19 @@
 "PvP Achievement Rewards",43936
 "Bag of Coins",43937
 "Bag of Coins",43938
+"Desert Rose",43951
 "Desert Rose Skin",43952
 "Zephyr Rucksack Skin",43955
 "Ellen Kiel Representation Button",43956
 "Evon Gnashblade Representation Button",43957
+"Ellen Kiel Representation Button",43958
+"Evon Gnashblade Representation Button",43959
+"Splendid Chest",43960
 "Splendid Chest",43961
 "Desert Rose Skin",43963
 "Zephyr Rucksack Skin",43965
 "Bag of Coins",43966
+"Bag of Coins",43967
 "Bag of Coins",43968
 "Chest",43969
 "Chest",43970
@@ -31724,15 +31909,20 @@
 "Evon Gnashblade Support Banner",43994
 "Ellen Kiel Support Banner",43995
 "Support Booster",43996
+"Support Reminder",43997
 "Black Lion Claim Ticket Scrap",43998
+"Aetherized Axe",43999
 "Aetherized Axe Skin",44001
 "Aetherized Dagger Skin",44004
 "Aetherized Focus Skin",44007
 "Aetherized Greatsword Skin",44010
+"Aetherized Hammer",44011
 "Aetherized Hammer Skin",44013
 "Aetherized Longbow Skin",44016
 "Aetherized Mace Skin",44019
+"Aetherized Pistol",44020
 "Aetherized Pistol Skin",44022
+"Aetherized Rifle",44023
 "Aetherized Rifle Skin",44025
 "Aetherized Scepter Skin",44028
 "Aetherized Shield Skin",44031
@@ -31746,6 +31936,9 @@
 "Aetherized Trident Skin",44049
 "Aetherized Harpoon Gun Skin",44052
 "Aetherized Spear Skin",44055
+"Steady Spear",44056
+"Steady Harpoon Gun",44057
+"Steady Trident",44058
 "Chest",44059
 "Splendid Chest",44060
 "Bag of Coins",44061
@@ -31758,6 +31951,7 @@
 "Permanent Scarecrow Finisher",44069
 "Permanent Gift Finisher",44070
 "Permanent Snowman Finisher",44071
+"Scroll of Knowledge",44075
 "Fallen Adventurer's Backpack",44077
 "Fallen Adventurer's Backpack",44078
 "Fallen Adventurer's Backpack",44079
@@ -32169,6 +32363,12 @@
 "Offering of the Sanctuary",44542
 "Offering of Baelfire",44543
 "Offering of Knowledge",44544
+"Holographic Communicator",44555
+"Bag of Coins",44595
+"Bag of Coins",44596
+"Bag of Coins",44597
+"Elaborate Watchwork Box",44598
+"Ornate Watchwork Box",44599
 "Permanent Twisted Watchwork Finisher",44601
 "Copper-Fed Salvage-o-Matic",44602
 "Royal Pass (2 weeks)",44604

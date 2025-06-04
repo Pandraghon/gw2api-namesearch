@@ -31296,7 +31296,16 @@
 "Casque intermédiaire étherlame",42907
 "Apparence de casque intermédiaire étherlame",42908
 "Apparence de jambières intermédiaires étherlame",42910
+"Protège-épaules intermédiaires étherlames",42911
 "Apparence de protège-épaules intermédiaires étherlame",42912
+"Chaussures légères étherlames",42919
+"Gilet léger étherlame",42920
+"Gants légers étherlames",42921
+"Lunettes légères étherlames",42922
+"Pantalon léger étherlame",42923
+"Houppelande légère étherlame",42924
+"Manchettes intermédiaires étherlames",42927
+"Casque intermédiaire étherlame",42928
 "Hache de bûcheron \"Coupez tout\"",42931
 "Agrandisseur de collection",42932
 "Mini-sangsue des lignes de force mordrem",42951
@@ -31327,79 +31336,156 @@
 "Apparence d'armure lourde zodiacale",43016
 "Apparence d'armure intermédiaire zodiacale",43017
 "Apparence d'armure légère zodiacale",43018
+"Bottes de guerre lourdes zodiacales",43019
 "Apparence de bottes de guerre lourdes zodiacales",43020
+"Harnois de guerre lourd zodiacal",43021
 "Apparence de harnois de guerre lourd zodiacal",43022
+"Gantelets lourds zodiacaux",43023
 "Apparence de gantelets lourds zodiacaux",43024
+"Heaume de guerre lourd zodiacal",43025
 "Apparence de heaume de guerre lourd zodiacal",43026
+"Plaques de jambes lourdes zodiacales",43027
 "Apparence de plaques de jambe lourdes zodiacales",43028
+"Espauliers lourds zodiacaux",43029
 "Apparence d'espauliers lourds zodiacaux",43030
 "Apparence de chausses légères zodiacales",43032
 "Apparence de gilet léger zodiacal",43034
+"Gants légers zodiacaux",43035
 "Apparence de gants légers zodiacaux",43036
 "Apparence de lunettes légères zodiacales",43038
 "Apparence de pantalon léger zodiacal",43040
+"Houppelande légère zodiacale",43041
 "Apparence de houppelande légère zodiacale",43042
+"Bottes intermédiaires zodiacales",43043
 "Apparence de bottes intermédiaires zodiacales",43044
+"Pourpoint intermédiaire zodiacal",43045
 "Apparence de pourpoint intermédiaire zodiacal",43046
 "Apparence de manchettes intermédiaires zodiacales",43048
+"Casque intermédiaire zodiacal",43049
 "Apparence de casque intermédiaire zodiacal",43050
+"Jambières intermédiaires zodiacales",43051
 "Apparence de jambières intermédiaires zodiacales",43052
 "Apparence de protège-épaules intermédiaires zodiacaux",43054
+"Chausses légères zodiacales",43061
 "Gilet léger zodiacal",43062
+"Gants légers zodiacaux",43063
+"Lunettes légères zodiacales",43064
+"Pantalon léger zodiacal",43065
+"Houppelande légère zodiacale",43066
+"Lot de soutien à Evon Grincelame",43073
+"Lot de soutien à Ellen Kiel",43074
 "Réinitialisation instantanée d'aptitudes",43075
 "Cerf-volant du vent",43076
 "Lot de base du Lion noir",43077
 "Kit de teintures commémoratives de l'Arche du Lion",43078
+"Masque du Prince Sanglant",43087
+"Chemise du Prince Sanglant",43089
 "Tenue du Prince Sanglant",43091
+"Bâton factice du Prince Sanglant",43092
+"Gants de bourreau",43093
+"Capuchon de bourreau",43094
+"Bottes de bourreau",43095
+"Chemise de bourreau",43096
 "Tenue de bourreau",43098
 "Hache factice de bourreau",43099
 "Apparence d'armure lourde de phalange",43100
 "Apparence d'armure intermédiaire vipérine",43101
 "Apparence d'armure légère d'illusionniste",43102
+"Bottes de guerre de phalange",43103
 "Apparence de bottes de guerre lourdes de phalange",43104
+"Harnois de guerre de phalange",43105
 "Apparence de harnois de guerre lourd de phalange",43106
+"Gantelets de phalange",43107
 "Apparence de gantelets lourds de phalange",43108
+"Heaume de guerre de phalange",43109
 "Apparence de heaume de guerre lourd de phalange",43110
+"Plaques de jambes de phalange",43111
 "Apparence de plaques de jambe lourdes de phalange",43112
+"Épaulières de phalange",43113
 "Apparence d'épaulières lourdes de phalange",43114
+"Chausses d'illusionniste",43115
 "Apparence de chaussures légères d'illusionniste",43116
+"Gilet d'illusionniste",43117
 "Apparence de gilet léger d'illusionniste",43118
+"Gants d'illusionniste",43119
 "Apparence de gants légers d'illusionniste",43120
+"Masque d'illusionniste",43121
 "Apparence de masque léger d'illusionniste",43122
+"Jambières d'illusionniste",43123
 "Apparence de jambières légères d'illusionniste",43124
+"Houppelande d'illusionniste",43125
 "Apparence de houppelande légère d'illusionniste",43126
+"Bottes vipérines",43127
 "Apparence de bottes intermédiaires vipérines",43128
+"Pourpoint vipérin",43129
 "Apparence de pourpoint intermédiaire vipérin",43130
 "Apparence de manchettes intermédiaires vipérines",43132
+"Monocle vipérin",43133
 "Apparence de monocle intermédiaire vipérin",43134
+"Jambières vipérines",43135
 "Apparence de jambières intermédiaires vipérines",43136
 "Apparence de protège-épaules intermédiaires vipérin",43138
 "Bottes de guerre de phalange",43139
 "Harnois de guerre de phalange",43140
 "Gantelets de phalange",43141
+"Épaulières de phalange",43144
+"Chausses d'illusionniste",43145
+"Gilet d'illusionniste",43146
+"Gants d'illusionniste",43147
+"Masque d'illusionniste",43148
+"Jambières d'illusionniste",43149
+"Houppelande d'illusionniste",43150
 "Apparence d'armure lourde de Braham",43157
 "Apparence d'armure intermédiaire technomagique",43158
 "Apparence d'armure légère du Phénix",43159
+"Bottes de guerre de Braham",43160
 "Apparence de bottes de guerre de Braham",43161
+"Pansière de Braham",43162
 "Apparence de pansière de Braham",43163
+"Gantelets de Braham",43164
 "Apparence de gantelets de Braham",43165
 "Apparence de heaume de guerre de Braham",43167
+"Plaques de jambes de Braham",43168
 "Apparence de plaques de jambe de Braham",43169
+"Espauliers de Braham",43170
 "Apparence d'espauliers de Braham",43171
 "Apparence de chausses du Phénix",43173
+"Gilet du Phénix",43174
 "Apparence de gilet du Phénix",43175
 "Apparence de gants du Phénix",43177
 "Apparence de masque du Phénix",43179
+"Pantalon du Phénix",43180
 "Apparence de pantalon du Phénix",43181
 "Apparence de houppelande du Phénix",43183
 "Apparence de bottes technomagiques",43185
+"Pourpoint technomagique",43186
 "Apparence de pourpoint technomagique",43187
 "Apparence de manchettes technomagiques",43189
+"Casque technomagique",43190
 "Apparence de casque technomagique",43191
+"Jambières technomagiques",43192
 "Apparence de jambières technomagiques",43193
 "Apparence de protège-épaules technomagiques",43195
+"Bottes de guerre de Braham",43196
+"Pansière de Braham",43197
+"Gantelets de Braham",43198
+"Heaume de guerre de Braham",43199
+"Plaques de jambes de Braham",43200
+"Espauliers de Braham",43201
+"Chausses du Phénix",43202
+"Gilet du Phénix",43203
+"Gants du Phénix",43204
+"Masque du Phénix",43205
+"Pantalon du Phénix",43206
 "Houppelande du Phénix",43207
+"Bottes technomagiques",43208
+"Pourpoint technomagique",43209
+"Manchettes technomagiques",43210
+"Casque technomagique",43211
+"Jambières technomagiques",43212
+"Protège-épaules technomagiques",43213
 "Détecteur d'échantillons",43230
+"Don des héros",43244
 "Amulette colonisatrice",43245
 "Souvenir colonisateur",43246
 "Anneau colonisateur",43247
@@ -31418,10 +31504,18 @@
 "Feux d'artifice",43308
 "Morceau de Zhaïtella",43319
 "Jorcolat",43320
+"Sac de pièces",43330
+"Cornes du Dragon",43331
+"Cornes du Dragon",43332
+"Cornes du Dragon",43333
 "Don de la Foire du Dragon",43334
 "Apparence de cornes du Dragon lourdes",43335
+"Cornes du Dragon",43336
+"Cornes du Dragon",43338
 "Apparence de cornes du Dragon légère",43339
 "Apparence de cornes du Dragon intermédiaires",43340
+"Ailes de dragon holographique",43343
+"Ailes de dragon holographique",43345
 "Couvre aile de dragon holographique",43346
 "Ailes holographiques du Destructeur",43347
 "Couvre ailes holographiques du Destructeur",43348
@@ -31437,19 +31531,29 @@
 "Gâteau koi",43361
 "Tranche de rouleau de dragon confit",43362
 "Friandise de poisson-dragon",43363
+"Francisque de dragon de jade",43365
 "Apparence de francisque de dragon de jade",43367
+"Kriss de dragon de jade",43368
+"Kriss de dragon de jade",43369
 "Apparence de kriss de dragon de jade",43370
 "Apparence d'aspect de dragon de jade",43373
+"Vengeur de dragon de jade",43374
 "Apparence de vengeur de dragon de jade",43376
+"Marteau de guerre de dragon de jade",43377
 "Apparence de marteau de guerre de dragon de jade",43379
 "Apparence d'arc de corne de dragon de jade",43382
 "Apparence de matraque de dragon de jade",43385
 "Apparence de mousqueton de dragon de jade",43388
 "Apparence de tromblon de dragon de jade",43391
 "Apparence de casse-tête de dragon de jade",43394
+"Mur de dragon de jade",43395
 "Apparence de mur de dragon de jade",43397
+"Aiguillonneur de dragon de jade",43398
 "Apparence d'aiguillonneur de dragon de jade",43400
+"Assommoir de dragon de jade",43401
 "Apparence d'assommoir de dragon de jade",43403
+"Lacératrice de dragon de jade",43404
+"Lacératrice de dragon de jade",43405
 "Apparence de lacératrice de dragon de jade",43406
 "Apparence de flamme de dragon de jade",43409
 "Apparence de présage de dragon de jade",43412
@@ -31475,12 +31579,20 @@
 "Recette : cristaux d'harmonisation de maître absolus",43484
 "Mini-augmentation d'EXPM",43485
 "Cerf-volant du soleil",43487
+"Chasseur de vent",43489
 "Apparence de chasseur de vent",43490
+"Chasseur d'éclair",43491
 "Apparence de chasseur d'éclair",43492
+"Chasseur de soleil",43493
 "Apparence de chasseur de soleil",43494
+"Chasseur de vent",43495
+"Chasseur d'éclair",43496
+"Heaume de vent de Zéphyrite",43498
 "Apparence de heaume de vent de Zéphyrite lourd",43499
 "Apparence de heaume de vent de Zéphyrite léger",43501
 "Apparence de heaume de vent de Zéphyrite intermédiaire",43503
+"Heaume de vent de Zéphyrite",43505
+"Heaume de soleil de Zéphyrite",43507
 "Apparence de heaume de soleil de Zéphyrite lourd",43508
 "Apparence de heaume de soleil de Zéphyrite léger",43510
 "Apparence de heaume de soleil de Zéphyrite intermédiaire",43512
@@ -31510,57 +31622,125 @@
 "Apparence d'armure intermédiaire d'arpenteur embrasé",43575
 "Apparence d'armure légère du baiser embrasé",43576
 "Apparence de bottes de guerre du courroux embrasé",43578
+"Pansière du courroux embrasé",43579
 "Apparence de pansière du courroux embrasé",43580
 "Apparence de gantelets du courroux embrasé",43582
 "Apparence de heaume du courroux embrasé",43584
+"Plaques de jambes du courroux embrasé",43585
 "Apparence de Plaques de jambes du courroux embrasé",43586
 "Apparence d'espauliers du courroux embrasé",43588
+"Chausses du baiser embrasé",43589
 "Apparence de chausses du baiser embrasé",43590
+"Gilet du baiser embrasé",43591
 "Apparence de gilet du baiser embrasé",43592
 "Gants du baiser embrasé",43593
 "Apparence de gants du baiser embrasé",43594
+"Masque du baiser embrasé",43595
 "Apparence de masque du baiser embrasé",43596
+"Pantalon du baiser embrasé",43597
 "Apparence de pantalon du baiser embrasé",43598
+"Houppelande du baiser embrasé",43599
 "Apparence de houppelande du baiser embrasé",43600
+"Bottes d'arpenteur embrasé",43601
 "Apparence de bottes d'arpenteur embrasé",43602
+"Manteau d'arpenteur embrasé",43603
 "Apparence de manteau d'arpenteur embrasé",43604
 "Manchettes d'arpenteur embrasé",43605
 "Apparence de manchettes d'arpenteur embrasé",43606
+"Chapeau d'arpenteur embrasé",43607
 "Apparence de chapeau d'arpenteur embrasé",43608
+"Jambières d'arpenteur embrasé",43609
 "Apparence de jambières d'arpenteur embrasé",43610
+"Protège-épaules d'arpenteur embrasé",43611
 "Apparence de protège-épaules d'arpenteur embrasé",43612
+"Pansière du courroux embrasé",43614
+"Heaume du courroux embrasé",43616
+"Bottes d'arpenteur embrasé",43625
+"Manteau d'arpenteur embrasé",43626
+"Chapeau d'arpenteur embrasé",43628
+"Jambières d'arpenteur embrasé",43629
+"Protège-épaules d'arpenteur embrasé",43630
 "Tournoi des légendes : 4e place",43631
 "Tournoi des légendes : 3e et 4e places",43632
 "Tournoi des légendes : 2e place",43633
 "Tournoi des légendes : 1re place",43634
 "Lot de prix JcJ",43635
+"Canons d'avant-bras radieux",43639
+"Canons d'avant-bras radieux",43640
+"Canons d'avant-bras radieux",43642
+"Canons d'avant-bras radieux",43643
 "Apparence de canons d'avant-bras radieux légers",43644
 "Canons d'avant-bras radieux",43645
+"Canons d'avant-bras radieux",43646
+"Canons d'avant-bras du feu infernal",43649
+"Apparence de canons d'avant-bras du feu infernal lourds",43650
+"Canons d'avant-bras du feu infernal",43651
 "Canons d'avant-bras du feu infernal",43652
+"Canons d'avant-bras du feu infernal",43655
+"Heaume de guerre radieux",43657
+"Heaume de guerre radieux",43658
+"Heaume de guerre radieux",43663
+"Heaume de guerre du feu infernal",43666
+"Heaume de guerre du feu infernal",43667
 "Heaume de guerre du feu infernal",43670
+"Heaume de guerre du feu infernal",43672
+"Houppelande radieuse",43675
+"Houppelande radieuse",43676
+"Houppelande radieuse",43679
+"Houppelande radieuse",43681
+"Houppelande radieuse",43682
 "Apparence de houppelande radieuse intermédiaire",43683
+"Houppelande du feu infernal",43684
+"Houppelande du feu infernal",43685
 "Houppelande du feu infernal",43687
+"Houppelande du feu infernal",43688
+"Houppelande du feu infernal",43691
 "Apparence d'arc recourbé zénithal",43693
+"Arc recourbé zénithal",43695
+"Arc court zénithal",43697
 "Apparence d'arc court zénithal",43698
+"Aiguillon zénithal",43699
+"Aiguillon zénithal",43700
 "Apparence d'aiguillon zénithal",43701
+"Tonnerre zénithal",43702
+"Tonnerre zénithal",43703
 "Apparence de tonnerre zénithal",43704
+"Vengeur zénithal",43705
+"Vengeur zénithal",43706
 "Apparence de vengeur zénithal",43707
+"Lame zénithale",43708
+"Lame zénithale",43709
 "Apparence de lame zénithale",43710
+"Ceste zénithal",43711
+"Ceste zénithal",43712
 "Apparence de ceste zénithal",43713
+"Parchemin zénithal",43715
 "Apparence de parchemin zénithal",43716
+"Francisque zénithale",43717
+"Francisque zénithale",43718
 "Apparence de francisque zénithale",43719
+"Protecteur zénithal",43721
 "Apparence de protecteur zénithal",43722
+"Kriss zénithal",43724
 "Apparence de kriss zénithal",43725
 "Apparence de masse zénithale",43728
+"Flamme zénithale",43730
 "Apparence de flamme zénithale",43731
+"Pistolet zénithal",43732
+"Pistolet zénithal",43733
 "Apparence de pistolet zénithal",43734
+"Fusil zénithal",43736
 "Apparence de fusil zénithal",43737
+"Présage zénithal",43738
+"Présage zénithal",43739
 "Apparence de présage zénithal",43740
 "Grimoire de connaissance",43741
 "Grimoire de connaissance lourd",43742
+"Trident zénithal",43746
 "Apparence de trident zénithal",43747
 "Empaleur zénithal",43748
 "Apparence d'empaleur zénithal",43750
+"Sillage zénithal",43752
 "Apparence de sillage zénithal",43753
 "Apparence de canons d'avant-bras radieux",43754
 "Apparence de heaume de guerre radieux",43755
@@ -31692,14 +31872,19 @@
 "Récompenses de succès JcJ",43936
 "Sac de pièces",43937
 "Sac de pièces",43938
+"Rose des sables",43951
 "Apparence de rose des sables",43952
 "Apparence de sac à dos du Zéphyr",43955
 "Badge de soutien à Ellen Kiel",43956
 "Badge de soutien à Evon Grincelame",43957
+"Badge de soutien à Ellen Kiel",43958
+"Badge de soutien à Evon Grincelame",43959
+"Coffre splendide",43960
 "Coffre splendide",43961
 "Apparence de rose des sables",43963
 "Apparence de sac à dos du Zéphyr",43965
 "Sac de pièces",43966
+"Sac de pièces",43967
 "Sac de pièces",43968
 "Coffre",43969
 "Coffre",43970
@@ -31724,15 +31909,20 @@
 "Bannière de soutien à Evon Grincelame",43994
 "Bannière de soutien à Ellen Kiel",43995
 "Augmentation de soutien",43996
+"Rappel de soutien",43997
 "Morceau de billet de retrait du Lion noir",43998
+"Hache éthérée",43999
 "Apparence de hache éthérée",44001
 "Apparence de dague éthérée",44004
 "Apparence de focus éthéré",44007
 "Apparence d'espadon éthéré",44010
+"Marteau éthéré",44011
 "Apparence de marteau éthéré",44013
 "Apparence d'arc long éthéré",44016
 "Apparence de masse éthérée",44019
+"Pistolet éthéré",44020
 "Apparence de pistolet éthéré",44022
+"Fusil éthéré",44023
 "Apparence de fusil éthéré",44025
 "Apparence de sceptre éthéré",44028
 "Apparence de bouclier éthéré",44031
@@ -31746,6 +31936,9 @@
 "Apparence de trident éthéré",44049
 "Apparence de fusil-harpon éthéré",44052
 "Apparence de lance éthérée",44055
+"Lance stable",44056
+"Fusil-harpon stable",44057
+"Trident stable",44058
 "Coffre",44059
 "Coffre splendide",44060
 "Sac de pièces",44061
@@ -31758,6 +31951,7 @@
 "Coup de grâce d'épouvantail permanent",44069
 "Coup de grâce de cadeau permanent",44070
 "Coup de grâce du bonhomme de neige permanent",44071
+"Parchemin de connaissance",44075
 "Sac à dos de l'aventurier déchu",44077
 "Sac à dos de l'aventurier déchu",44078
 "Sac à dos de l'aventurier déchu",44079
@@ -32169,6 +32363,12 @@
 "Offrande du sanctuaire",44542
 "Offrande de Feu-de-Bael",44543
 "Offrande de savoir",44544
+"Communicateur holographique",44555
+"Sac de pièces",44595
+"Sac de pièces",44596
+"Sac de pièces",44597
+"Boîte mécanique élaborée",44598
+"Boîte mécanique ornée",44599
 "Coup de grâce mécanique détraqué permanent",44601
 "Recycl-o-matic alimenté au cuivre",44602
 "Laissez-passer de la Terrasse royale (2 semaines)",44604
