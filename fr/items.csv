@@ -50801,9 +50801,12 @@
 "Coffre d'épaulières lourdes",77927
 "Coffre de heaumes légers",77928
 "Bague tissée de guérisseur (infusée)",77929
+"Coffre de bottes légères",77931
 "Arc court du Blanc-Manteau assaillant",77933
 "Anneau alimenté d'assaillant (infusé)",77935
 "Bâton de Matthias défenseur",77936
+"Coffre de gants légers",77937
+"Coffre de bottes lourdes",77938
 "Souvenirs de Zane assaillants",77939
 "Coffre de pièces d'armure de Sabetha",77940
 "Découpeur du Blanc-Manteau assaillant",77942
@@ -50824,6 +50827,7 @@
 "Grand arc du Blanc-Manteau défenseur",77959
 "Apparence de bâton du dominateur",77960
 "Apparence de pistolet du dominateur",77961
+"Coffre d'épaulières intermédiaires",77962
 "Spallières du Blanc-Manteau malveillantes",77963
 "Rempart du Blanc-Manteau assaillant",77964
 "Arc court du Blanc-Manteau défenseur",77965
@@ -51122,6 +51126,7 @@
 "Espauliers en écailles trempés militaires de revenant",78355
 "Sacoche de maître de siège",78356
 "Sac de pilleur",78358
+"Pack d'équipement de niveau 80",78359
 "Coffre de plantes du Cœur de Maguuma",78363
 "Coffre de l'expédition du Prieuré récupéré",78364
 "Tarte aux fruits rouges en conserve",78365
@@ -51270,6 +51275,7 @@
 "Grèves en écailles trempées militaires de gardien",78594
 "Tunique ailée enragée de nécromant",78596
 "Points de passage de niveau 80 déverrouillés",78598
+"Augmentation au niveau 80",78599
 "Potion de récompenses McM",78600
 "Morceau de maîtrise de Maguuma",78601
 "Amulette militaire de béryl",78602
@@ -51477,6 +51483,7 @@
 "Gravats de Titan du fort",78902
 "Torche malveillante de Titan du fort",78903
 "Coffre d'armure expérimentale lourde",78904
+"Gravats de Titan du fort",78905
 "Anneau d'assiégeant assaillant",78907
 "Apparence de bâton de corsaire",78908
 "Outil de moissonnage de bombe luisante",78909
@@ -51514,6 +51521,7 @@
 "Avis de recherche de la Lame brillante : Varre le Sournois",78954
 "Masque guérisseur de Titan du fort",78955
 "Apparence de dague de corsaire",78956
+"Fragment de tourelle de pierre de sang",78957
 "Choix d'arme de corsaire liée au compte",78960
 "Boîte d'armes de héros",78961
 "Hache assaillante du Blanc-Manteau",78963
@@ -51524,6 +51532,7 @@
 "Gants d'émissaire expérimentaux",78969
 "Trophée d'argent de « Assiéger la forteresse »",78970
 "Protège-épaules d'émissaire expérimentaux",78971
+"Morceau de ruban de Xera",78972
 "Trophée d'or de « Assiéger la forteresse »",78973
 "Chausses d'émissaire expérimentales",78974
 "Accélération de parcours de récompenses de guilde McM",78975
@@ -52101,6 +52110,7 @@
 "Apparence de marteau forgé dans le givre",79967
 "Lettre cachée \"puissance\"",79970
 "Coffre de focus de la Tyrie centrale",79971
+"Grand présent d'Hivernel personnalisé",79972
 "Apparence de cor de guerre forgé dans le givre",79973
 "Coffre d'arcs courts de la Tyrie centrale",79975
 "Apparence de sceptre forgé dans le givre",79976
@@ -52109,6 +52119,7 @@
 "Apparence de bouclier forgé dans le givre",79979
 "Pendentif de brume",79980
 "Grande mini-boule de neige",79981
+"Bague de brume (infusée)",79982
 "Rune du lynx",79983
 "Bouclier emballé du pourvoyeur de générosité",79985
 "Soupe volaille-citronnelle bien chaude",79988
@@ -52145,6 +52156,7 @@
 "Lettre cachée \"hérésie\"",80025
 "Couronne de glace",80026
 "Talisman de brume",80028
+"Bâton candélabre",80029
 "Coffre de torches de la Tyrie centrale",80030
 "Coffre de boucliers de la Tyrie centrale",80031
 "Coffre d'épées de la Tyrie centrale",80032
@@ -52209,6 +52221,7 @@
 "Gantelets draconiques séraphin",80102
 "Recette : barbute de Thackeray",80103
 "Reliquaire du surveillant",80105
+"Prisonnier empalé",80106
 "Boîte de masques de Caudecus",80107
 "Fruits de mer frais",80109
 "Livre de recettes d'arme de Thackeray",80110
@@ -52919,6 +52932,8 @@
 "Apparence de masse souvenir",81213
 "Recette : bol de soupe au navet piquante",81214
 "Molosse messager de Balthazar",81215
+"Kit de peinture de guerre zaishen",81216
+"Apparence de heaume de fidèle zaishen",81218
 "Apparence de pistolet souvenir",81219
 "Apparence de marteau souvenir",81220
 "Cachet de bestialité",81221
@@ -52984,6 +52999,7 @@
 "Essence mystique de stratégie",81319
 "Essence d'annihilation",81320
 "Hache du Héros de la forge des Brumes",81321
+"Coffre d'escarmouche",81324
 "Protège-visage du Héros triomphant de la forge des Brumes",81325
 "Essence de stratégie",81326
 "Torche du Héros de la forge des Brumes",81327
@@ -53173,6 +53189,7 @@
 "Espauliers de Norn couvegivre",81657
 "Ras de cou en corail",81658
 "Sandwich aux huitres frites",81660
+"Artefact de Dwayna",81662
 "Infusion de reine des abeilles",81663
 "Clé d'accès au Sanctuaire de Gardebrume",81664
 "Mini-reine Mahtab",81667
@@ -53312,6 +53329,7 @@
 "Infusion ondulante polyluminescente (orange)",81881
 "Assaut aérien",81882
 "Bouclier d'Abaddon",81884
+"Plumes du zéphyr",81888
 "Infusion d'aurillium liquide",81889
 "Lien de gardien brisé",81890
 "Écaille de guivre de lave chargée de pierre de sang",81891
@@ -53469,6 +53487,7 @@
 "Pommeau de marteau nain",82161
 "Mini-Jambe de bois la \"pirate\"",82162
 "Moulin à vent rond élonien",82163
+"Kit de thorax des Ruines des bêtes de guerre",82165
 "Bouclier nain à moitié garni de pointes",82166
 "Marteau éveillé",82167
 "Melki, offrande biscornue de rupture",82169
@@ -53531,6 +53550,7 @@
 "Kit de teintures de Primordius",82262
 "Recette : arc recourbé des Lanciers du soleil",82265
 "Panneau de gants de cuir durci de bête de guerre",82266
+"Cache de Tissesort",82267
 "Garde-épaules glorieux du Héros",82268
 "Lettre de Drojkor",82271
 "Protège-tibias glorieux du Héros",82272
@@ -53538,6 +53558,7 @@
 "Recette : espauliers de maréchale de la lance",82274
 "Bouclier nain à moitié garni de pointes",82275
 "Yasfahr, la rune du sacrifice",82276
+"Casier de messager 32 emplacements",82277
 "Vœu de progrès",82278
 "Bouclier éveillé",82279
 "Cache d'Incendiaire",82280
@@ -53589,10 +53610,13 @@
 "Scénario de pièce de théâtre",82351
 "Recette : bol de \"Rouge de l'Elon\"",82352
 "Coffre de culotte de chasseur de prime",82355
+"Cache d'Holographiste",82358
 "Tenue de la Garde impériale",82360
 "Boîte de bottes éloniennes",82362
+"Sacoche de maréchal 32 emplacements",82363
 "Ravitaillement de la crique de Frôlécume : argent",82364
 "Recette : joyau d'étincerouge",82366
+"Artefact",82367
 "Spallière haineuse de Cavalier",82368
 "Rapport, page 2",82369
 "Recette : bottes de maréchale de la lance",82370
@@ -53713,6 +53737,7 @@
 "Gants ailés chevaleresques d'envoûteur",82555
 "Houppelande ailée nécrophage de nécromant",82558
 "Tas de raisin rare",82559
+"Cache de Renégat",82560
 "Rune de marteau nain",82561
 "Boîte zéphyrite de rêves",82562
 "Pantalon de détrousseur assassin de rôdeur",82563
@@ -53820,6 +53845,7 @@
 "Cuissardes en écailles trempées cléricales de gardien",82711
 "Amulette en géode",82712
 "Recette : rune du Fléau supérieure",82713
+"Provisions pillées",82715
 "Caisse de provisions du promontoire du devin",82717
 "Tonneau de ravitaillement du ranch de Longsaut",82718
 "Friandise consacrée pour chacal",82720
@@ -53850,6 +53876,7 @@
 "Tour de pierre élonienne",82763
 "Pierre de rune des Lanciers du soleil",82765
 "Écrits de la dernière maréchale de la lance, volume 7",82766
+"Artefact",82767
 "Charme en dent d'anguille de Goren",82769
 "Pantalon de maréchale de la lance",82771
 "Pourpoint de bête de guerre",82773
@@ -53901,12 +53928,14 @@
 "Anneau de corsaire",82851
 "Apparence d'épaulières des îles",82852
 "Recette : grèves de bête de guerre du circaète",82853
+"Donnée de surveillance",82854
 "Maître des griffons des rives : or",82857
 "Masque de bête de guerre",82859
 "Boisseau de raisin élonien ancien",82863
 "Pièce kournane",82864
 "Sceptre d'éveillé",82865
 "Poignée de lentilles rouges",82866
+"Relique des Oubliés",82870
 "Tonneau détruit par les forgés",82872
 "Mini-capitaine Rahim",82874
 "Cachet de frénésie supérieur",82876
@@ -53955,6 +53984,7 @@
 "Bride lumineuse",82942
 "Poignée de hache naine",82944
 "Caisse de bois des Hamaseen",82946
+"Tas de déchets",82950
 "Preuve de soutien : théâtre du Jardin",82951
 "Mini-reine Nahlah",82953
 "Coup de grâce de lance de portail de royaume à usage limité",82954
@@ -53965,6 +53995,7 @@
 "Recette : tranchoir du croissant mordant",82961
 "Renseignements des ombres : argent",82962
 "Espauliers du Héros triomphant",82963
+"Cache d'Incendiaire",82967
 "Garde de dague naine",82968
 "Caisse de bois de la maison de Daoud",82969
 "Lanières de sac à dos d'enragé d'enragé",82971
@@ -54017,6 +54048,7 @@
 "Ravitaillement du jardin : argent",83045
 "Rapport, page 6",83054
 "Veilleur lumineux",83056
+"Cache de Fléau",83057
 "Vœu de justice",83059
 "Bloc de précision",83061
 "Mosaïque d'élégie de Wissper Inssani",83062
@@ -54027,6 +54059,7 @@
 "Armure de Shadi",83069
 "Recette : harnois de maréchale de la lance",83070
 "Mini-Poowulpi la Pointilleuse",83071
+"Cache de Fléau",83072
 "Boîte souvenir de la saison 1 — Flamme et festivals",83073
 "Concasseur doré de Dume",83075
 "Gants de Shadi",83076
@@ -54049,6 +54082,7 @@
 "Échantillon de guide de réinitialisation de capacité",83104
 "Trophée du Renégat champion",83105
 "Recette : gants de bête de guerre du circaète",83106
+"Gibecière des Hamaseen 32 emplacements",83109
 "Pyxide marquée par les flammes",83110
 "Le jardin des dieux, page 5",83111
 "Casque élonien de maréchal",83112
@@ -54088,8 +54122,10 @@
 "Lien corrosif",83176
 "Anneau de condamné",83179
 "Pyxide en pierre taillée",83180
+"Gibecière de cuir durci 32 emplacements",83182
 "Recette : coutelas des Lanciers du soleil",83184
 "Mini-jacaranda",83185
+"Sacoche de la ligue de Cowrie 32 emplacements",83186
 "Recette : jambières de chasseur de prime",83187
 "Epée en bronze chevaleresque de déchirement",83188
 "Obélisque patiné élonien",83189
@@ -54101,6 +54137,8 @@
 "Cache d'Incendiaire",83199
 "Ashhe, la rune du courage",83200
 "Sculpture de frappesol",83201
+"Casier de maréchal 32 emplacements",83205
+"Gibecière de messager 32 emplacements",83209
 "Panneau de manteau long de cuir durci de bête de guerre",83214
 "Bague de mercenaire",83215
 "Boîte de gants funéraires royaux",83216
@@ -54136,6 +54174,7 @@
 "Parcours de maître des griffons : argent",83279
 "Rosseur élonien",83283
 "Sable imprégné d'énergie des lignes de force",83284
+"Casier de nomade 32 emplacements",83286
 "Mini-officier forgé",83287
 "Chaussures du Héros triomphant",83289
 "Pistolet en bronze enragé de feu",83291
@@ -54230,6 +54269,7 @@
 "Chausses funéraires",83431
 "Morceau de granite",83432
 "Recette : protège-épaules de chasseur de prime",83433
+"Sacoche de messager 32 emplacements",83435
 "Sacoche en tulle 28 emplacements",83436
 "Gants de maréchale de la lance",83438
 "Trésor enfoui supérieur",83439
@@ -54260,6 +54300,7 @@
 "Espauliers du lieutenant éternel de Cavalier",83480
 "Chaussures du Héros triomphant de la forge des Brumes",83482
 "Masse funéraire",83483
+"Tas de déchets",83484
 "Épingle à cheveux antique",83487
 "Amulette d'enragé d'enragé",83488
 "Coffre-fort de l'Oasis de cristal",83491
@@ -54358,6 +54399,7 @@
 "Ravitaillement de Vehjin : or",83644
 "L'héritage, page 7",83645
 "Cachet du fou en affinité",83646
+"Cache d'Holographiste",83647
 "Main mixte de tempête de sable",83650
 "L'héritage, page 1",83651
 "Flasque de rouge de Vabbi",83653
@@ -54469,6 +54511,7 @@
 "Carte ancienne\n",83830
 "Friandise pour voldécume d'Harun",83833
 "Mosaïque d'élégie de Xoul Igra Zhoss",83837
+"Tas de déchets",83838
 "Recette : capuche de maréchale de la lance",83841
 "Recette : pourfendeur du croissant mordant",83842
 "Tourmaline tourmentée",83845
@@ -54536,6 +54579,7 @@
 "Friandise pour raptor du prêtre Hakim",83947
 "Boucle d'oreille militaire d'azurite",83950
 "Fusil éveillé",83953
+"Tas de déchets",83954
 "Bol de soupe de lentilles rouges",83955
 "Grèves de guerre glorieuses du Héros",83957
 "Friandise pour chacal de l'ossuaire",83958
@@ -54553,6 +54597,7 @@
 "Sac de qui-brillent",83979
 "Torche funéraire",83981
 "Trophée du Brisesort champion",83982
+"Trésor familial perdu",83985
 "Aqua-respirateur en métal",83986
 "Mini-Scarlet holographique",83990
 "Bannières effroyables du roi Palawa Joko I",83992
@@ -54853,6 +54898,7 @@
 "Harnois élonien de maréchal",84464
 "Manteau de détrousseur saccageur de voleur",84465
 "Ceinturon brûlant de Cavalier",84466
+"Cache d'Holographiste",84467
 "Ravitaillement du jardin : bronze",84468
 "Caisse de provisions ogre",84470
 "Rune de marteau nain",84471
@@ -54868,6 +54914,7 @@
 "Amulette chevaleresque d'émeraude",84491
 "Maître des griffons de la Désolation : or",84492
 "Médaillon de tir dans le mille",84493
+"Gibecière de maréchal 32 emplacements",84494
 "Recette : bijou de crépuscule",84498
 "Fiel ardent",84499
 "Boucle d'oreille de crépuscule",84500
@@ -54931,6 +54978,7 @@
 "Anneau d'enragé d'enragé",84585
 "Échantillon sulfurique",84587
 "Main d'atouts de tempête de sable",84588
+"Cache de Fléau",84589
 "Bouteille de parfum... de choya ?",84591
 "Maître des griffons de Vabbi : or",84594
 "Bottes funéraires",84595
@@ -55024,7 +55072,9 @@
 "Thag, cycle des larmes de rupture",84732
 "Amulette d'assassin d'opale",84733
 "Gants de détrousseur enragés d'ingénieur",84736
+"Cache d'Holographiste",84739
 "Gants éloniens de maréchal",84740
+"Cache de Renégat",84741
 "Morceau de choya",84742
 "Recette : gantelets de maréchale de la lance",84744
 "Tassettes de bête de guerre",84745
@@ -55589,6 +55639,7 @@
 "Recette : grèves de templier lunatique",85410
 "Tassettes de templier lunatique",85411
 "Recette : manteau de noble lunatique",85412
+"Pack d'apprêts",85413
 "Grèves de templier lunatique",85415
 "Carte de visite—Akibeth, DDS",85417
 "Banquette pour amoureux hantée",85418
@@ -56896,6 +56947,7 @@
 "Algue luminescente",87014
 "Sac à dos d'ailes forgé",87021
 "Déverrouillage de parcours de maîtrise",87022
+"Enregistrement de pêcheur",87023
 "Enregistrement de réfugié d'Amnoon",87026
 "Smoothie à l'avocat",87029
 "Anneau en difluorite en affinité (infusé)",87030
@@ -56953,6 +57005,7 @@
 "Module XD-356",87119
 "Capteur optique",87120
 "Module MV-337",87122
+"Sacoche de recyclage olmakhanne",87123
 "Enregistrement de sauvetage de Zéphyrite",87124
 "Recette : bol de saté de volaille",87125
 "Tonique stigmatisé inépuisable fermé",87126
@@ -56971,6 +57024,7 @@
 "Recette : smoothie à l'avocat",87145
 "Enregistrement de soins de réfugié",87147
 "Boîte à musique de Ghiwane (échangeable)",87148
+"Tiaré",87149
 "Charme olmakhan",87150
 "Scalpel de phase",87151
 "Lanière olmakhanne",87153
@@ -58832,6 +58886,7 @@
 "Torche de sang de dragon",89670
 "Amulette en orichalque et en serpentite",89671
 "Parcours de livraison volatile : or",89673
+"Ravitaillement corsaire",89675
 "Deltaplane du dragon rugissant",89676
 "Recette : arc court d'Aciétoile",89678
 "Petit artefact fragile",89679
@@ -59702,6 +59757,7 @@
 "Épaulettes touchées par les Brumes assaillantes",91026
 "Justificatif de don très généreux (Valeur: 250)",91027
 "Justificatif de don généreux (Valeur: 100)",91028
+"Vision d'équipement : bannière de la Commandante",91029
 "Vision de paysage : Domaine d'Istan",91030
 "Visière touchée par les Brumes guérisseuse",91031
 "Garde-épaules touchés par les Brumes défenseurs",91032
@@ -65047,6 +65103,7 @@
 "Tête de dragon en pierre",97869
 "Apparence de veste canthienne ancienne",97870
 "Scarabée de lave",97872
+"Pierre de rune d'ambre",97873
 "Cache de catalyseur",97876
 "Recette : jambières de Togo",97877
 "Bouclier de l'eau vive",97878
@@ -65129,6 +65186,7 @@
 "Machine de réalité Mk1",97971
 "Torche laser",97976
 "Friandise canine des dupes",97977
+"Machine de réalité Mk3",97979
 "Super sac de butin",97982
 "Machine de réalité Mk3",97983
 "Apparence de frappesol coucou tigré",97984
@@ -65314,10 +65372,13 @@
 "Grèves du dragon holographique commandant",98189
 "Ligne droite de piste holographique",98190
 "Apparence de heaume à cornes de dragon mystique",98191
+"Apparence de dracaille noble aux cent pétales",98192
 "Coffre d'arme de la Foire du Dragon",98193
+"Apparence de dracaille noble canthien",98194
 "Arc long en os de dragon",98195
 "Longue ligne droite de piste holographique",98196
 "Apparence de heaume à corne de licorne",98197
+"Apparence de dracaille noble du tonnerre céleste",98198
 "Bouclier en os de dragon",98199
 "Virage descendant à droite de piste holographique",98200
 "Torche en os de dragon",98201
@@ -65417,6 +65478,7 @@
 "Sac de trophées de Braham",98300
 "",98301
 "Note de recherche",98302
+"Bague de jade chargée par les Brumes en affinité (infusée)",98303
 "",98304
 "Tenue de technologie de jade",98306
 "Grèves de factionnaire mécanique",98308
@@ -66915,6 +66977,7 @@
 "Poisson-sagesse",100526
 "Relique de bagarreur",100527
 "Matériel pour selle durable",100530
+"Relique d'eau",100531
 "Hache de l'Œil de lynx valkyrien",100532
 "VI : Le Mortier brisé",100536
 "Jambières intermédiaires de la Garde astrale",100538
@@ -67224,6 +67287,7 @@
 "Recette : fusil d'œil de tempête",100973
 "Coffre-fort d'Amnytas",100974
 "Biomes divins",100975
+"Relique de voleur",100976
 "Torche de l'Œil de lynx valkyrien",100977
 "Diagramme d'arme historique : bâton",100978
 "Diagramme d'arme historique : hache",100979
@@ -69772,6 +69836,7 @@
 "Recette : bouclier de clarté légère",104713
 "Bava Nisos : coffre au choix du Commandant",104714
 "Apparence de cor de guerre de croissance rocheuse",104715
+"Don du dessert",104717
 "Hache de clarté légère en sommeil",104718
 "Recette : sceptre de clarté légère",104720
 "Fusil de clarté légère",104721
@@ -69789,8 +69854,10 @@
 "Mode défi de convergence : or",104739
 "La Désolation : coffre au choix du Commandant",104740
 "Anneau runique en bois en affinité",104741
+"Visage des Brumes",104742
 "Apparence de marteau de croissance rocheuse",104743
 "Épaulières de cuir kodans sylvestres",104744
+"Deltaplane d'Orrax conjuré",104745
 "Essence de brèche raffinée",104747
 "La Désolation : coffre au choix du Commandant",104748
 "Recette : brasero norn",104749
@@ -69804,6 +69871,7 @@
 "Recette : masse de clarté légère",104759
 "Apparence de scaraboule enchanté",104760
 "Lance de clarté légère",104761
+"Cor de guerre de légende sans couronne",104762
 "Don des ruines mursaats",104763
 "Trident de légende sans couronne",104765
 "Apparence de pistolet de croissance rocheuse",104766
@@ -69830,6 +69898,7 @@
 "Relique de la pierre de sang",104800
 "Apparence d'arc long de croissance rocheuse",104801
 "Domaine de Vabbi : coffre au choix du Commandant",104803
+"Anneau runique en bois (infusé)",104804
 "Recette : lance de clarté légère",104807
 "Recette : dague de clarté légère",104809
 "Bouclier de clarté légère en sommeil",104810
@@ -69850,9 +69919,11 @@
 "Livre de recettes pour pavillon : Foire du Dragon, volume 4",104834
 "Mini-petit trottetin gris",104835
 "Orée d'émeraude : coffre au choix du Commandant",104838
+"Don de l'accompagnement",104839
 "Recette : raccord de tuyau en laiton du Lion noir",104840
 "Apparence de lance de feu du renard",104842
 "Épée de clarté légère en sommeil",104843
+"Fruit de l'ombre",104844
 "Recette : bouchon de tuyau en laiton du Lion noir",104845
 "Don des ombres",104846
 "Relique de Bava Nisos",104848
@@ -69862,15 +69933,18 @@
 "Recette : tuyau en T en laiton du Lion noir",104852
 "Éclat de Bava Nisos",104855
 "Nayos intérieur : coffre au choix du Commandant",104856
+"Orrax conjuré",104857
 "Mini-poisson frétillant de Janthir",104858
 "Hache de clarté légère",104859
 "Espadon de clarté légère",104860
 "Recette : mur en laiton du Lion noir",104862
 "Anneau du crustacé en affinité (infusé)",104864
 "Livre de recettes pour pavillon : Foire du Dragon, volume 3",104865
+"Espadon de légende sans couronne",104866
 "Cor de guerre de clarté légère en sommeil",104867
 "Apparence de bouclier de croissance rocheuse",104869
 "Deltaplane à ailes du dragon stellaire",104871
+"Don du festin",104872
 "Épaulières de cuir kodans sylvestres",104873
 "Pistolet de clarté légère",104875
 "Structure norn en pierre",104876
@@ -69902,6 +69976,7 @@
 "Nayos intérieur : coffre au choix du Commandant",104929
 "Mini-fumerolle",104930
 "Sac à dos à ailes du dragon stellaire",104931
+"Don de l'entrée",104932
 "Torche de clarté légère en sommeil",104933
 "Recherche examinée par des pairs",104934
 "Livre de recettes pour pavillon : Foire du Dragon, volume 5",104935
@@ -69923,6 +69998,7 @@
 "Domaine de Vabbi : coffre au choix du Commandant",104961
 "Don des Îles de Feu-de-Brume",104962
 "Gobeur du sorcier",104963
+"Don de l'amuse-gueule",104965
 "Apparence d'espadon de croissance rocheuse",104966
 "Recette : cor de guerre de clarté légère",104967
 "Augmentation de la limite de décorations du pavillon",104971
@@ -69930,6 +70006,7 @@
 "Boîte de sélection de croissance rocheuse",104977
 "Pistolet de clarté légère en sommeil",104979
 "Épaulières de cuir kodans sylvestres",104980
+"Combo de sac à dos et deltaplane d'Orrax conjuré",104981
 "Boîte d'arme de clarté légère en sommeil",104983
 "Mode défi de convergence : bronze",104984
 "Recette : hache de clarté légère",104986
