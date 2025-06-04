@@ -1,9 +1,11 @@
 "Assassin Transform Weapon",4
+"Assassin Token",5
 "((208738))",6
 "Abomination Hammer",15
 "Sealed Package of Snowballs",24
 "PvP Heavy Helm of the Warrior",33
 "Gladiator Weapon",46
+"Gladiator Weapon",47
 "Strong Back Brace",56
 "Hearty Back Brace",57
 "Enduring Back Brace",58
@@ -70,6 +72,7 @@
 "Cleric's Sneakthief Mask of Rage",121
 "Seer Coat of Rage",122
 "Zho's Mask",123
+"Jatoro's Coat",124
 "Nika's Coat",125
 "Strong Worn Chain Greaves",126
 "Berserker's Seer Coat of Rata Sum",128
@@ -326,6 +329,7 @@
 "Shaman's Reinforced Scale Boots",379
 "Ravaging Cabalist Coat of Strength",380
 "Shaman's Reinforced Scale Boots",381
+"Errol's Boots",382
 "Ravaging Cabalist Coat of the Grove",383
 "Honed Cabalist Coat of the Eagle",384
 "Ravaging Studded Coat",385
@@ -759,6 +763,7 @@
 "Honed Swindler Pauldrons",816
 "Honed Swindler Pauldrons",817
 "Ravaging Swindler Pauldrons",818
+"Errol's Gloves",819
 "Carrion Scallywag Greaves of Lyssa",820
 "Strong Swindler Boots",821
 "Ravaging Swindler Pauldrons",822
@@ -1809,6 +1814,7 @@
 "Rurik's Legplates",1873
 "Strong Swindler Gloves of the Flame Legion",1874
 "Strong Swindler Gloves of the Grove",1876
+"Yakkington's Legplates",1877
 "Berserker's Scallywag Legs of Rata Sum",1878
 "Strong Swindler Gloves of the Afflicted",1879
 "Ravaging Swindler Gloves of the Citadel",1880
@@ -2084,6 +2090,7 @@
 "Rurik's Pauldrons",2151
 "Ravaging Magician Gloves",2152
 "Ravaging Magician Gloves",2154
+"Yakkington's Pauldrons",2155
 "Berserker's Scallywag Pauldrons of the Traveler",2156
 "Honed Magician Gloves",2157
 "Honed Magician Gloves",2158
@@ -2330,6 +2337,7 @@
 "Cleric's Seer Mask of the Pack",2399
 "Mhenlo's Mask",2400
 "Seer Mask of the Centaur",2401
+"Jatoro's Mask",2402
 "Berserker's Seer Mask of Rage",2403
 "Khilbron's Mask",2404
 "Mighty Country Mask",2405
@@ -2632,6 +2640,7 @@
 "Cleric's Seer Mantle of Lyssa",2704
 "Cleric's Seer Mantle of Scavenging",2705
 "Mhenlo's Mantle",2706
+"Jatoro's Mantle",2708
 "Berserker's Seer Mantle of Divinity",2709
 "Khilbron's Mantle",2710
 "Mighty Country Mantle",2711
@@ -4603,6 +4612,9 @@
 "Tarff Leather Coat",4865
 "Opticalium Leather Gloves",4866
 "Cerulean Matrix Pants",4867
+"Metal Aquabreather",4868
+"Cloth Aquabreather",4869
+"Leather Aquabreather",4870
 "Barnacle-Encrusted Scale Helm",4871
 "Barnacle-Encrusted Mantle",4872
 "Barnacle-Encrusted Mask",4873
@@ -5563,6 +5575,7 @@
 "Studded Leather Bracers",6274
 "Ringmail Armor",6275
 "Linen Garment",6276
+"Studded Leather Vest",6277
 "Ringmail Chausses",6278
 "Linen Pants",6279
 "Studded Leather Leggings",6280
@@ -5582,17 +5595,21 @@
 "Gemmed Circlet",6309
 "Fine Mask",6310
 "Marksman's Mask",6311
+"Rawhide Mask",6312
 "Studded Leather Mask",6313
 "Chainmail Armor",6314
 "Ringmail Armor",6315
 "Scale Hauberk",6316
+"Cloth Coat",6317
 "Linen Garment",6318
+"Velvet Coat",6319
 "Marksman's Jerkin",6320
 "Rawhide Vest",6321
 "Studded Leather Vest",6322
 "Chainmail Shoulders",6323
 "Layered Shoulders",6324
 "Scale Shoulders",6325
+"Cloth Shoulders",6326
 "Linen Shoulders",6327
 "Velvet Shoulders",6328
 "Marksman's Shoulders",6329
@@ -5600,65 +5617,118 @@
 "Studded Shoulders",6331
 "Stalwart's Armor",6341
 "Slayer's Armor",6342
+"Caretaker's Hauberk",6343
+"Stalwart's Coat",6344
 "Slayer's Coat",6345
+"Caretaker's Coat",6346
 "Stalwart's Jerkin",6347
 "Slayer's Vest",6348
+"Caretaker's Jacket",6349
+"Commando's Chausses",6350
 "Trooper's Chausses",6351
 "Outrider's Chausses",6352
+"Commando's Leggings",6353
 "Trooper's Leggings",6354
 "Outrider's Leggings",6355
 "Commando's Pants",6356
 "Trooper's Pants",6357
+"Outrider's Pants",6358
 "Commando's Hauberk",6359
 "Outrider's Armor",6360
+"Trooper's Armor",6361
+"Commando's Coat",6362
 "Outrider's Coat",6363
+"Trooper's Coat",6364
+"Commando's Jacket",6365
+"Outrider's Vest",6366
 "Trooper's Jerkin",6367
 "Commando's Helm",6368
 "Outrider's Helm",6369
+"Trooper's Helm",6370
+"Commando's Mask",6371
 "Outrider's Mask",6372
 "Trooper's Mask",6373
+"Commando's Bandanna",6374
+"Outrider's Cap",6375
+"Trooper's Mark",6376
 "Commando's Pauldrons",6377
+"Outrider's Pauldrons",6378
+"Trooper's Pauldrons",6379
+"Commando's Mantle",6380
 "Outrider's Mantle",6381
 "Trooper's Mantle",6382
+"Commando's Shoulderguards",6383
+"Outrider's Shoulderguards",6384
 "Trooper's Shoulderguards",6385
 "Slayer's Gauntlets",6386
+"Inquisitor's Gauntlets",6387
 "Stalwart's Gauntlets",6388
+"Slayers Gloves",6389
 "Inquisitor's Gloves",6390
+"Stalwart's Gloves",6391
+"Slayer's Bracers",6392
+"Inquisitor's Bracers",6393
+"Stalwart's Bracers",6394
+"Slayer's Greaves",6395
+"Inquisitor's Greaves",6396
 "Stalwart's Greaves",6397
 "Slayers Shoes",6398
 "Inquisitor's Shoes",6399
+"Stalwart's Shoes",6400
 "Slayer's Boots",6401
+"Inquisitor's Boots",6402
+"Stalwart's Boots",6403
 "Stalwart's Chausses",6404
 "Slayer's Chausses",6405
+"Inquisitor's Chausses",6406
 "Stalwart's Pants",6407
 "Slayers Pants",6408
+"Inquisitor's Pants",6409
+"Stalwart's Leggings",6410
 "Slayer's Leggings",6411
+"Inquisitor's Leggings",6412
 "Mending Greaves",6413
+"Strong Greaves",6414
+"Penetrating Greaves",6415
 "Mending Shoes",6416
 "Strong Shoes",6417
+"Penetrating Shoes",6418
 "Mending Boots",6419
 "Strong Boots",6420
 "Penetrating Boots",6421
 "Mending Gauntlets",6422
 "Strong Gauntlets",6423
+"Penetrating Gauntlets",6424
 "Mending Wraps",6425
+"Strong Wraps",6426
+"Penetrating Wraps",6427
 "Mending Gloves",6428
 "Strong Gloves",6429
 "Penetrating Gloves",6430
 "Mending Helm",6431
 "Strong Helm",6432
+"Penetrating Helm",6433
+"Mending Circlet",6434
 "Strong Masque",6435
+"Penetrating Masque",6436
 "Mending Mask",6437
 "Strong Hat",6438
 "Penetrating Mask",6439
 "Mending Shoulders",6440
 "Strong Shoulders",6441
+"Penetrating Shoulders",6442
+"Mending Epaulets",6443
 "Strong Epaulets",6444
+"Penetrating Epaulets",6445
+"Mending Shoulders",6446
 "Strong Shoulders",6447
 "Penetrating Shoulders",6448
 "Mending Chestplate",6449
+"Strong Chestplate",6450
 "Penetrating Chestplate",6451
+"Mending Chestpiece",6452
 "Strong Chestpiece",6453
+"Penetrating Chestpiece",6454
 "Mending Jacket",6455
 "Strong Jacket",6456
 "Penetrating Jacket",6457
@@ -6325,13 +6395,19 @@
 "Vacuumagic Polarizer",8292
 "Pile of Wood",8354
 "Crafting Booster",8439
+"Boon of Regeneration (Tier 3)",8444
+"Boon of Might (Tier 3)",8445
 "Magic Find Booster",8446
 "Strength Booster",8450
+"Boon of Might (Tier 5)",8451
+"Boon of Regeneration (Tier 5)",8452
 "Speed Booster",8454
 "Armor Booster",8458
 "Rejuvenation Booster",8459
+"Stat Reset",8462
 "Golem in a Box",8464
 "Belinda's Greatsword Skin",8466
+"Zephyrite Rescue Pack",8468
 "Utility Primer",8469
 "Transmutation Stone",8470
 "Transmutation Crystal",8471
@@ -6349,9 +6425,11 @@
 "Flask of Ooze Spirits",8495
 "Prismatic Soylent",8496
 "Flask of Emergency Supplies",8497
+"Slice of Eda's Apple Pie",8498
 "Glass of Melon Juice",8499
 "Heart-Shaped Cookie",8500
 "Krewe Bar",8501
+"Seraph Standard Ration",8503
 "Prototype Nutriment",8504
 "Petri Dish Delight",8505
 "T-Bone Steak",8506
@@ -6378,18 +6456,24 @@
 "Bottle of Barradin Family Wine",8529
 "Jug of Autumn Nectar",8530
 "Seared Beef Steak",8531
+"Wolf Offering",8532
 "Cooked Crawdad",8533
 "Cooked Fish Steak",8534
 "Grumble Cake",8535
+"Bear Offering",8536
 "Bit of Enchanted Clam Bait",8537
+"Snow Leopard Offering",8538
 "Stein of Light Ale",8539
 "Slice of Watermelon",8540
+"Ogre Pet Snack",8541
+"Raven Offering",8542
 "Strip of Boar Jerky",8543
 "Boiled Crawdad",8544
 "Griffon Egg",8545
 "Blueberry Muffin",8548
 "Flask of Meatoberfest Ale",8549
 "Bottle of Putrid Wine",8550
+"Grawl Snack",8552
 "Bottle of Red Wine",8553
 "Magical Fruit",8554
 "Stein of Celebratory Drink",8556
@@ -6407,6 +6491,7 @@
 "Bottle of Remi-Trundle Lager",8568
 "Bowl of Overlake Soup",8569
 "Bowl of Skalefin Soup",8570
+"Loaf of Shaemoor Bread",8571
 "Curry Bun",8572
 "Loaf of Travelers Bread",8573
 "Bottle of Silent Liqueur",8574
@@ -6513,7 +6598,9 @@
 "Fire Bomb",8685
 "Ash Legion Spy Kit",8686
 "Flaming Effigy Piece",8687
+"Pile of Junk",8689
 "Fireworks",8690
+"Bovine Potion",8691
 "Wooden Plank",8692
 "Plank",8693
 "Explosive Charge",8695
@@ -6555,7 +6642,9 @@
 "Bombardment Target Marker",8735
 "Pact Med Kit",8736
 "Miner's Explosive Charge",8739
+"Rotten Drake Egg",8740
 "Dam Debris",8741
+"Broken Prison Bar",8742
 "Bone",8743
 "Wooden Plank",8744
 "Bandit's Improvised Bomb",8745
@@ -6585,6 +6674,8 @@
 "Seraph Banner",8770
 "Medical Kit",8772
 "Inquest Golem Arm",8773
+"Hylek Poison Pot",8774
+"Sparking Rod",8775
 "Potion of Hylek Transformation",8776
 "Snowball",8777
 "Mini Golem Bomb",8778
@@ -6923,6 +7014,7 @@
 "Satchel of Resilient Embroidered Armor",9167
 "Satchel of Vital Embroidered Armor",9168
 "Satchel of Ravaging Student Armor",9169
+"Satchel of Pillaging Student Armor",9170
 "Satchel of Vigorous Student Armor",9171
 "Satchel of Honed Student Armor",9172
 "Satchel of Strong Student Armor",9173
@@ -6992,6 +7084,7 @@
 "Satchel of Knight's Feathered Armor",9249
 "Satchel of Knight's Masquerade Armor",9250
 "Enchanted Reward Boost",9251
+"Bag of Coins",9256
 "Bag of Jewels",9257
 "Bag of Jewels",9258
 "Bag of Jewels",9259
@@ -7239,8 +7332,11 @@
 "Recipe: Moogooloo Speargun",9552
 "Recipe: Match Grade Standard Rifle",9553
 "Recipe: Copper Mace",9554
+"Recipe: Wooden Sword",9555
 "Recipe: Copper Sword",9556
 "Recipe: Skale Repeater",9557
+"Recipe: Wurm Stew",9558
+"Recipe: Bjarni's Celery Snack",9559
 "Recipe: Dolyak Stew",9560
 "Recipe: Crystal Scroll",9561
 "Recipe: Skale Poking Stick",9562
@@ -7262,12 +7358,17 @@
 "18 Slot Mithril Box",9586
 "18 Slot Equipment Box",9588
 "18 Slot Safe Box",9589
+"18 Slot Oiled Box",9590
 "20 Slot Orichalcum Box",9591
 "20 Slot Equipment Box",9593
 "20 Slot Safe Box",9594
+"Recipe: Asuran Harpoon",9596
 "Recipe: Irradiated Sword",9597
+"Recipe: Asuran Speargun",9598
 "Recipe: Irradiated Pistol",9599
+"Recipe: Ooze Custard",9600
 "Recipe: Irradiated Focus",9601
+"Recipe: Asuran Trident",9602
 "Recipe: Griffon Egg Omelet",9603
 "Recipe: Minotaur Steak",9604
 "Recipe: Ascalon Ghost Potion",9605
@@ -10386,28 +10487,36 @@
 "Mangos in Bulk",12772
 "Bananas in Bulk",12773
 "Basil Leaves in Bulk",12774
+"Bay Leaves in Bulk",12775
 "Bell Peppers in Bulk",12776
 "Black Beans in Bulk",12777
 "Kidney Beans in Bulk",12778
+"Walnuts in Bulk",12779
 "Rice in Bulk",12780
 "Chickpeas in Bulk",12781
 "Coconuts in Bulk",12782
 "Horseradish Root in Bulk",12783
+"Oranges in Bulk",12784
 "Pears in Bulk",12785
 "Pinenuts in Bulk",12786
 "Shallots in Bulk",12787
 "Apples in Bulk",12788
 "Black Peppercorns in Bulk",12789
 "Celery Stalks in Bulk",12790
+"Chili Peppers in Bulk",12791
+"Cinnamon Sticks in Bulk",12792
 "Cumin in Bulk",12793
 "Green Beans in Bulk",12794
 "Lemons in Bulk",12795
 "Nutmeg Seeds in Bulk",12796
 "Tomatoes in Bulk",12798
 "Vanilla Beans in Bulk",12799
+"Butter in Bulk",12800
 "Buttermilk in Bulk",12801
 "Cheese Wedges in Bulk",12802
+"Eggs in Bulk",12803
 "Yeast in Bulk",12804
+"Chocolate Bars in Bulk",12805
 "Copper Hook",12806
 "Gold Hook",12807
 "Mithril Hook",12808
@@ -11102,6 +11211,7 @@
 "Beryl Mithril Amulet",13497
 "Chrysocola Orichalcum Amulet",13498
 "Sapphire Orichalcum Amulet",13499
+"Opal Orichalcum Amulet",13500
 "Ruby Orichalcum Amulet",13501
 "Coral Orichalcum Amulet",13502
 "Emerald Orichalcum Amulet",13503
@@ -11124,6 +11234,7 @@
 "Topaz Silver Band",13520
 "Spinel Silver Ring",13521
 "Peridot Silver Ring",13522
+"Sunstone Silver Band",13523
 "Carnelian Silver Ring",13524
 "Amethyst Silver Band",13525
 "Lapis Silver Ring",13526
@@ -11136,6 +11247,7 @@
 "Lapis Gold Ring",13533
 "Chrysocola Platinum Ring",13534
 "Sapphire Platinum Ring",13535
+"Opal Platinum Ring",13536
 "Beryl Platinum Ring",13537
 "Ruby Platinum Ring",13538
 "Coral Platinum Ring",13539
@@ -11156,6 +11268,7 @@
 "Lapis Gold Earring",13554
 "Chrysocola Platinum Earring",13555
 "Sapphire Platinum Earring",13556
+"Opal Platinum Earring",13557
 "Beryl Platinum Earring",13558
 "Ruby Platinum Earring",13559
 "Coral Platinum Earring",13560
@@ -13379,6 +13492,7 @@
 "Seal of Beetletun",17274
 "Flame Legion Charr Carving",17275
 "Knowledge Crystal",17276
+"Symbol of Koda",17277
 "Rejuvenating Reinforced Scale Legs",17278
 "Molten Axe",17316
 "Molten Longbow",17317
@@ -14266,6 +14380,7 @@
 "Forgeman Wristguards",18744
 "Forgeman Mask",18745
 "Forgeman Leggings",18746
+"Furnace Reward Pauldrons of the Forgeman",18747
 "Forgeman Greaves",18748
 "Forgeman Breastplate",18749
 "Forgeman Gauntlets",18750
@@ -14278,6 +14393,8 @@
 "Forgeman Helmet",18757
 "Forgeman Tassets",18758
 "Forgeman Pauldrons",18759
+"Ascalonian Hammer",18785
+"Elder Quarterstaff",18984
 "Fish Oil",18993
 "Bundle of Seeds",18995
 "Spring Water",18996
@@ -14287,11 +14404,15 @@
 "Hylek Armor",19186
 "Caledon Lavender",19189
 "Chunk of Scourgejaw Iron",19202
+"Pirate Rum",19203
+"Stone Relic",19207
+"Iron's Tailpipe Bandana",19210
 "Piece of Kelp",19216
 "Supplies",19217
 "Dredge Tank Blueprints",19228
 "Dwarven Key",19229
 "Containment Crystal",19230
+"Redcap",19260
 "Special Root",19271
 "Commissar's Manifesto",19337
 "Breath of Kralkatorrik",19338
@@ -14341,11 +14462,14 @@
 "Matrix Cube Key",19403
 "Matrix Cube Key",19404
 "Matrix Cube Key",19405
+"Broken Sprinkler Piece",19413
 "Wiley Pirate Paper Scraps",19415
 "Stolen Sack of Feed",19418
+"Cluster of Baneberries",19422
 "Letter of Thanks",19431
 "Eloquent Letter of Thanks",19432
 "Lengthy Letter of Thanks",19433
+"Sincere Letter of Thanks",19434
 "Guild Shield",19440
 "Guild Assassin Backpack",19443
 "Guild Heavy Armor",19445
@@ -14365,6 +14489,7 @@
 "Guild Defender Backpack",19489
 "Guild Axe",19503
 "Guild Speargun",19511
+"Letter of Commendation",19516
 "Letter of Commendation",19517
 "Broken Claw",19526
 "Dull Claw",19527
@@ -14427,6 +14552,7 @@
 "Broken Lockpick",19599
 "Broken Lockpick",19601
 "Bent Lockpick",19608
+"Broken Lockpick",19611
 "Broken Lockpick",19612
 "Cog",19613
 "Gear",19614
@@ -14899,14 +15025,25 @@
 "Mini Brackish Skale",20213
 "Mini Skritt Bottle Lobber",20214
 "Mini Lynx",20215
+"Mini Charr Warrior",20216
 "Mini Krait Damoss",20217
 "Mini Black Wind Rider",20218
+"Cook's Hat",20221
 "Reading Glasses",20222
 "Aviator Sunglasses",20225
+"Sport Sunglasses",20227
 "Inventor's Sunglasses",20229
+"Wide-Rim Glasses",20231
+"Cook's Gloves",20236
+"Cook's Boots",20238
+"Cook's Coat",20239
+"Cook's Leggings",20240
 "Ringmaster's Hat",20247
 "Cook's Outfit",20248
 "Pirate Captain's Outfit",20251
+"Pirate Sword",20261
+"Frying Pan",20262
+"Sailor's Beanie",20263
 "Top Hat",20264
 "Boxing Gloves",20268
 "Primeval Heavy Armor Skin",20272
@@ -14975,6 +15112,7 @@
 "Pig Tonic",20335
 "Plant Wolf Tonic",20336
 "Wolf Tonic",20337
+"Ice Elemental Tonic",20338
 "Skritt Tonic",20339
 "Imp Tonic",20340
 "Eagle Raptor Tonic",20341
@@ -15384,8 +15522,54 @@
 "Arcane Crystal",20800
 "Arcane Powder",20801
 "Arcane Sliver",20802
+"Light Helm Token",20803
+"Light Pauldron Token",20804
+"Light Coat Token",20805
+"Light Gloves Token",20806
+"Light Leggings Token",20807
+"Light Boots Token",20808
+"Axe Token",20809
+"Dagger Token",20810
+"Focus Token",20811
+"Greatsword Token",20812
+"Hammer Token",20813
+"Spear Token",20814
+"Longbow Token",20815
+"Mace Token",20816
+"Pistol Token",20817
+"Rifle Token",20818
+"Scepter Token",20819
+"Shield Token",20820
+"Short Bow Token",20821
+"Harpoon Gun Token",20822
+"Staff Token",20823
+"Sword Token",20824
+"Torch Token",20825
+"Trident Token",20826
+"Warhorn Token",20827
+"Rabbit Token",20828
+"Deer Token",20829
+"Dolyak Token",20830
+"Wolf Token",20831
+"Tiger Token",20832
+"Bear Token",20833
+"Shark Token",20834
+"Phoenix Token",20835
+"Free Tournament Token",20837
 "Consumable Token",20838
 "Arcane Orb",20839
+"Medium Boots Token",20840
+"Medium Coat Token",20841
+"Medium Gloves Token",20842
+"Medium Helm Token",20843
+"Medium Leggings Token",20844
+"Heavy Boots Token",20845
+"Heavy Coat Token",20846
+"Heavy Gloves Token",20847
+"Heavy Helm Token",20848
+"Heavy Leggings Token",20849
+"Medium Pauldron Token",20850
+"Heavy Pauldron Token",20851
 "Eldritch Scroll",20852
 "Paid Tournament Token",20853
 "Dragon Emblem Shirt",20854
@@ -15439,13 +15623,29 @@
 "Mini Orange Tabby Cat",20948
 "Mini Servitor Golem",20949
 "Mini Rockfur Racoon",20950
+"Heritage Warboots",20997
 "Heritage Shoes",20998
+"Heritage Boots",20999
+"Heritage Legplates",21000
 "Heritage Pants",21001
+"Heritage Legguards",21002
+"Heritage Warplate",21003
 "Heritage Greatcoat",21004
 "Heritage Jerkin",21005
+"Heritage Gauntlets",21006
 "Heritage Gloves",21007
+"Heritage Armguards",21008
+"Heritage Pauldrons",21009
 "Heritage Mantle",21010
+"Heritage Shoulderpads",21011
+"Heritage Warhelm",21012
 "Heritage Masque",21013
+"Heritage Bandana",21014
+"Gnarled Walking Staff",21015
+"Living Short Bow",21016
+"Fiery Dragon Sword",21017
+"Diamond Aegis Shield",21018
+"Heavy Baroque Mask",21019
 "Heavenly Light Bracers",21027
 "Icelord's Heavy Diadem",21033
 "Icelord's Light Diadem",21034

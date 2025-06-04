@@ -1,9 +1,11 @@
 "Arme de transformation assassine",4
+"Coupon assassin",5
 "((208738))",6
 "Marteau d'abomination",15
 "Paquet de boules de neige fermé",24
 "Heaume lourd JcJ de guerrier",33
 "Arme de gladiateur",46
+"Arme de gladiateur",47
 "Corset solide",56
 "Corset robuste",57
 "Corset d'endurance",58
@@ -70,6 +72,7 @@
 "Masque de cambrioleur clérical de rage",121
 "Manteau d'aruspice de rage",122
 "Masque de Zho",123
+"Manteau de Jatoro",124
 "Manteau de Nika",125
 "Grèves à chaînes usées solides",126
 "Manteau d'aruspice berserker de Rata Sum",128
@@ -326,6 +329,7 @@
 "Bottes en écailles renforcées chamaniques",379
 "Manteau de cabaliste ravageur de force",380
 "Bottes en écailles renforcées chamaniques",381
+"Bottes d'Errol",382
 "Manteau de cabaliste ravageur du Bosquet",383
 "Manteau de cabaliste aiguisé de l'aigle",384
 "Manteau clouté ravageur",385
@@ -759,6 +763,7 @@
 "Espauliers d'escroc aiguisés",816
 "Espauliers d'escroc aiguisés",817
 "Espauliers d'escroc ravageurs",818
+"Gants d'Errol",819
 "Grèves de voyou nécrophages de Lyssa",820
 "Bottes d'escroc solides",821
 "Espauliers d'escroc ravageurs",822
@@ -1809,6 +1814,7 @@
 "Plaques de jambes de Rurik",1873
 "Gants d'escroc solides de la Légion de la Flamme",1874
 "Gants d'escroc solides du Bosquet",1876
+"Plaques de jambes de Yakkington",1877
 "Cuissardes de voyou berserker de Rata Sum",1878
 "Gants d'escroc solides des Affligés",1879
 "Gants d'escroc ravageurs de la Citadelle",1880
@@ -2084,6 +2090,7 @@
 "Espauliers de Rurik",2151
 "Gants de magicien ravageurs",2152
 "Gants de magicien ravageurs",2154
+"Espauliers de Yakkington",2155
 "Espauliers de voyou berserker du voyageur",2156
 "Gants de magicien aiguisés",2157
 "Gants de magicien aiguisés",2158
@@ -2330,6 +2337,7 @@
 "Masque d'aruspice clérical de la meute",2399
 "Masque de Mhenlo",2400
 "Masque d'aruspice du Centaure",2401
+"Masque de Jatoro",2402
 "Masque d'aruspice berserker de rage",2403
 "Masque de Khilbron",2404
 "Masque de campagne puissant",2405
@@ -2632,6 +2640,7 @@
 "Houppelande d'aruspice cléricale de Lyssa",2704
 "Houppelande d'aruspice cléricale de profanation",2705
 "Houppelande de Mhenlo",2706
+"Houppelande de Jatoro",2708
 "Houppelande d'aruspice berserker de divinité",2709
 "Houppelande de Khilbron",2710
 "Houppelande de campagne puissante",2711
@@ -4603,6 +4612,9 @@
 "Manteau de cuir de Tarff",4865
 "Gants de cuir d'Opticalium",4866
 "Pantalon à matrice cérulée",4867
+"Aqua-respirateur en métal",4868
+"Aqua-respirateur en tissu",4869
+"Aqua-respirateur de cuir",4870
 "Heaume en écailles incrusté de bernacles",4871
 "Houppelande incrustée de bernacles",4872
 "Masque incrusté de bernacles",4873
@@ -5563,6 +5575,7 @@
 "Bracelets de cuir clouté",6274
 "Broigne",6275
 "Habit en lin",6276
+"Gilet de cuir clouté",6277
 "Chausses annelées",6278
 "Pantalon en lin",6279
 "Jambières de cuir clouté",6280
@@ -5582,17 +5595,21 @@
 "Bandeau serti",6309
 "Masque raffiné",6310
 "Masque de tireur d'élite",6311
+"Masque de cuir brut",6312
 "Masque de cuir clouté",6313
 "Armure à chaînes",6314
 "Broigne",6315
 "Haubert en écailles",6316
+"Manteau en tissu",6317
 "Habit en lin",6318
+"Manteau en velours",6319
 "Pourpoint de tireur d'élite",6320
 "Gilet de cuir brut",6321
 "Gilet de cuir clouté",6322
 "Epaulières à chaînes",6323
 "Épaulières doublées",6324
 "Epaulières en écailles",6325
+"Epaulières en tissu",6326
 "Epaulières en lin",6327
 "Epaulières en velours",6328
 "Epaulières de tireur d'élite",6329
@@ -5600,65 +5617,118 @@
 "Epaulières cloutées",6331
 "Armure vaillante",6341
 "Armure de pourfendeur",6342
+"Haubert de conservateur",6343
+"Manteau vaillant",6344
 "Manteau de pourfendeur",6345
+"Manteau de conservateur",6346
 "Pourpoint vaillant",6347
 "Gilet de pourfendeur",6348
+"Veste de conservateur",6349
+"Chausses de commando",6350
 "Chausses de fantassin",6351
 "Chausses de précurseur",6352
+"Jambières de commando",6353
 "Jambières de fantassin",6354
 "Jambières de précurseur",6355
 "Pantalon de commando",6356
 "Pantalon de fantassin",6357
+"Pantalon de précurseur",6358
 "Haubert de commando",6359
 "Armure de précurseur",6360
+"Armure de fantassin",6361
+"Manteau de commando",6362
 "Manteau de précurseur",6363
+"Manteau de fantassin",6364
+"Veste de commando",6365
+"Veste de précurseur",6366
 "Pourpoint de fantassin",6367
 "Heaume de commando",6368
 "Heaume de précurseur",6369
+"Heaume de fantassin",6370
+"Masque de commando",6371
 "Masque de précurseur",6372
 "Masque de fantassin",6373
+"Bandana de commando",6374
+"Chapeau de précurseur",6375
+"Marque de fantassin",6376
 "Espauliers de commando",6377
+"Espauliers de précurseur",6378
+"Espauliers de fantassin",6379
+"Houppelande de commando",6380
 "Houppelande de précurseur",6381
 "Houppelande de fantassin",6382
+"Garde-épaules de commando",6383
+"Garde-épaules de précurseur",6384
 "Garde-épaules de fantassin",6385
 "Gantelets de pourfendeur",6386
+"Gantelets d'inquisiteur",6387
 "Gantelets vaillants",6388
+"Gants de pourfendeur",6389
 "Gants d'inquisiteur",6390
+"Gants vaillants",6391
+"Brassards de pourfendeur",6392
+"Brassards d'inquisiteur",6393
+"Brassards vaillants",6394
+"Grèves de pourfendeur",6395
+"Grèves d'inquisiteur",6396
 "Grèves vaillantes",6397
 "Chausses de pourfendeur",6398
 "Chausses d'inquisiteur",6399
+"Chausses vaillantes",6400
 "Bottes de pourfendeur",6401
+"Bottes d'inquisiteur",6402
+"Bottes vaillantes",6403
 "Chausses vaillantes",6404
 "Chausses de pourfendeur",6405
+"Chausses d'inquisiteur",6406
 "Pantalon vaillant",6407
 "Pantalon de pourfendeur",6408
+"Pantalon d'inquisiteur",6409
+"Jambières vaillantes",6410
 "Jambières de pourfendeur",6411
+"Jambières d'inquisiteur",6412
 "Grèves rétablissantes",6413
+"Grèves solides",6414
+"Grèves pénétrantes",6415
 "Chausses rétablissantes",6416
 "Chausses solides",6417
+"Chausses pénétrantes",6418
 "Bottes rétablissantes",6419
 "Bottes solides",6420
 "Bottes pénétrantes",6421
 "Gantelets rétablissants",6422
 "Gantelets solides",6423
+"Gantelets pénétrants",6424
 "Protège-mains rétablissants",6425
+"Protège-mains solides",6426
+"Protège-mains pénétrant",6427
 "Gants rétablissants",6428
 "Gants solides",6429
 "Gants pénétrants",6430
 "Heaume rétablissant",6431
 "Heaume solide",6432
+"Heaume pénétrant",6433
+"Bandeau rétablissant",6434
 "Masque solide",6435
+"Masque pénétrant",6436
 "Masque rétablissant",6437
 "Coiffe solide",6438
 "Masque pénétrant",6439
 "Epaulières rétablissantes",6440
 "Epaulières solides",6441
+"Epaulières pénétrantes",6442
+"Epaulettes rétablissantes",6443
 "Epaulettes solides",6444
+"Epaulettes pénétrantes",6445
+"Epaulières rétablissantes",6446
 "Epaulières solides",6447
 "Epaulières pénétrantes",6448
 "Pansière rétablissante",6449
+"Pansière solide",6450
 "Pansière pénétrante",6451
+"Plastron rétablissant",6452
 "Plastron solide",6453
+"Plastron pénétrant",6454
 "Veste rétablissante",6455
 "Veste solide",6456
 "Veste pénétrante",6457
@@ -6325,13 +6395,19 @@
 "Polarisateur vidomagique",8292
 "Tas de bois",8354
 "Augmentation d'artisanat",8439
+"Avantage de régénération (niv. 3)",8444
+"Avantage de pouvoir (niv. 3)",8445
 "Augmentation de découverte de magie",8446
 "Augmentation de force",8450
+"Avantage de pouvoir (niv. 5)",8451
+"Avantage de régénération (niv. 5)",8452
 "Augmentation de vitesse",8454
 "Augmentation d'armure",8458
 "Augmentation de jouvence",8459
+"Réinitialisation des statistiques",8462
 "Golem en boîte",8464
 "Apparence d'espadon de Bélinda",8466
+"Kit de secours zéphyrite",8468
 "Apprêt utilitaire",8469
 "Pierre de transmutation",8470
 "Cristal de transmutation",8471
@@ -6349,9 +6425,11 @@
 "Flasque de spiritueux au limon",8495
 "Soleil vert prismatique",8496
 "Flasque de provisions d'urgence",8497
+"Tranche de tarte aux pommes d'Eda",8498
 "Verre de jus de melon",8499
 "Biscuit en cœur",8500
 "Barre de coterie",8501
+"Ration séraphine standard",8503
 "Prototype de nutriment",8504
 "Régal de boîtes de Pétri",8505
 "Côte de bœuf",8506
@@ -6378,18 +6456,24 @@
 "Bouteille de vin de la famille Barradin",8529
 "Cruche de nectar d'automne",8530
 "Steak de bœuf à la plancha",8531
+"Offrande du Loup",8532
 "Langoustine cuite",8533
 "Darne de poisson cuite",8534
 "Gâteau grogneur",8535
+"Offrandes de l'Ourse",8536
 "Appât à palourdes enchanté",8537
+"Offrande de la Panthère des neiges",8538
 "Chope de bière légère",8539
 "Tranche de pastèque",8540
+"En-cas pour familier ogre",8541
+"Offrande du Corbeau",8542
 "Lanière de sanglier séché",8543
 "Langoustine bouillie",8544
 "Œuf de griffon",8545
 "Muffin aux myrtilles",8548
 "Flasque de bière du Viandoberfest",8549
 "Bouteille de vin madérisé",8550
+"En-cas de Grawl",8552
 "Bouteille de vin rouge",8553
 "Fruit magique",8554
 "Chope de boisson festive",8556
@@ -6407,6 +6491,7 @@
 "Bouteille de bière blonde Remi-Trundle",8568
 "Bol de soupe d'Overlac",8569
 "Bol de soupe d'ailerons d'écailleux",8570
+"Miche de pain de Shaemoor",8571
 "Petit pain au curry",8572
 "Miche de pain du voyageur",8573
 "Bouteille de liqueur silencieuse",8574
@@ -6513,7 +6598,9 @@
 "Bombe incendiaire",8685
 "Nécessaire d'espionnage de la Légion des Cendres",8686
 "Fragment d'effigie enflammée",8687
+"Tas de déchets",8689
 "Feux d'artifice",8690
+"Potion bovine",8691
 "Planche de bois",8692
 "Planche",8693
 "Explosifs",8695
@@ -6555,7 +6642,9 @@
 "Marqueur de cible de bombardement",8735
 "Kit médical du Pacte",8736
 "Explosif de mineur",8739
+"Œuf de drake pourri",8740
 "Débris du barrage",8741
+"Barreau de prison brisé",8742
 "Os",8743
 "Planche de bois",8744
 "Bombe improvisée de bandit",8745
@@ -6585,6 +6674,8 @@
 "Bannière séraphine",8770
 "Kit médical",8772
 "Bras de golem de l'Enqueste",8773
+"Pot de poison hylek",8774
+"Baguette à étincelles",8775
 "Potion de transformation en Hylek",8776
 "Boule de neige",8777
 "Bombe mini-golem",8778
@@ -6923,6 +7014,7 @@
 "Sacoche d'armure brodée résistante",9167
 "Sacoche d'armure brodée vitale",9168
 "Sacoche d'armure d'étudiant ravageuse",9169
+"Sacoche d'armure d'étudiant pilleuse",9170
 "Sacoche d'armure d'étudiant vigoureuse",9171
 "Sacoche d'armure d'étudiant aiguisée",9172
 "Sacoche d'armure d'étudiant solide",9173
@@ -6992,6 +7084,7 @@
 "Sacoche d'armure à plumes chevaleresque",9249
 "Sacoche d'armure de mascarade chevaleresque",9250
 "Augmentation de récompense enchantée",9251
+"Sac de pièces",9256
 "Sac de bijoux",9257
 "Sac de bijoux",9258
 "Sac de bijoux",9259
@@ -7239,8 +7332,11 @@
 "Recette : lance-harpon de Moogooloo",9552
 "Recette : fusil standard de précision",9553
 "Recette : masse en cuivre",9554
+"Recette : épée en bois",9555
 "Recette : épée en cuivre",9556
 "Recette : fusil d'écailleux à répétition",9557
+"Recette : ragoût de guivre",9558
+"Recette : en-cas au céleri de Bjarni",9559
 "Recette : ragoût de dolyak",9560
 "Recette : parchemin de cristal",9561
 "Recette : bâtonnet de poinçonnage écailleux",9562
@@ -7262,12 +7358,17 @@
 "Boîte en mithril 18 emplacements",9586
 "Boîte d'équipement 18 emplacements",9588
 "Coffret 18 emplacements",9589
+"Boîte huilée 18 emplacements",9590
 "Boîte d'orichalque 20 emplacements",9591
 "Boîte d'équipement 20 emplacements",9593
 "Coffret 20 emplacements",9594
+"Recette : harpon d'Asura",9596
 "Recette : épée irradiée",9597
+"Recette : lance-harpon d'Asura",9598
 "Recette : pistolet irradié",9599
+"Recette : crème de limon",9600
 "Recette : focus irradié",9601
+"Recette : trident d'Asura",9602
 "Recette : omelette d'œufs de griffon",9603
 "Recette : steak de minotaure",9604
 "Recette : potion de fantôme ascalonien",9605
@@ -10386,28 +10487,36 @@
 "Mangues en vrac",12772
 "Bananes en vrac",12773
 "Feuilles de basilic en vrac",12774
+"Feuilles de laurier en vrac",12775
 "Poivrons en vrac",12776
 "Haricots noirs en vrac",12777
 "Haricots rouges en vrac",12778
+"Noix en vrac",12779
 "Riz en vrac",12780
 "Pois chiches en vrac",12781
 "Noix de coco en vrac",12782
 "Racines de raifort en vrac",12783
+"Oranges en vrac",12784
 "Poires en vrac",12785
 "Pignons de pin en vrac",12786
 "Echalotes en vrac",12787
 "Pommes en vrac",12788
 "Poivre noir en vrac",12789
 "Branches de céleri en vrac",12790
+"Piments rouges en vrac",12791
+"Bâtons de cannelle en vrac",12792
 "Cumin en vrac",12793
 "Haricots verts en vrac",12794
 "Citrons en vrac",12795
 "Noix de muscade en vrac",12796
 "Tomates en vrac",12798
 "Gousses de vanille en vrac",12799
+"Beurre en vrac",12800
 "Babeurre en vrac",12801
 "Morceaux de fromage en vrac",12802
+"Œufs en vrac",12803
 "Levure en vrac",12804
+"Barres de chocolat en vrac",12805
 "Crochet en cuivre",12806
 "Crochet en or",12807
 "Crochet en mithril",12808
@@ -11102,6 +11211,7 @@
 "Amulette en mithril et en béryl",13497
 "Amulette en orichalque et en chrysocolle",13498
 "Amulette en orichalque et en saphir",13499
+"Amulette en orichalque et en opale",13500
 "Amulette en orichalque et en rubis",13501
 "Amulette en orichalque et en corail",13502
 "Amulette en orichalque et en émeraude",13503
@@ -11124,6 +11234,7 @@
 "Bague en argent et en topaze",13520
 "Anneau en argent et en spinelle",13521
 "Anneau en argent et en péridot",13522
+"Bague en argent et en pierre solaire",13523
 "Anneau en argent et en cornaline",13524
 "Bague en argent et en améthyste",13525
 "Anneau en argent et en lapis",13526
@@ -11136,6 +11247,7 @@
 "Anneau en or et en lapis",13533
 "Anneau en platine et en chrysocolle",13534
 "Anneau en platine et en saphir",13535
+"Anneau en platine et en opale",13536
 "Anneau en platine et en béryl",13537
 "Anneau en platine et en rubis",13538
 "Anneau en platine et en corail",13539
@@ -11156,6 +11268,7 @@
 "Boucle d'oreille en or et en lapis",13554
 "Boucle d'oreille en platine et en chrysocolle",13555
 "Boucle d'oreille en platine et en saphir",13556
+"Boucle d'oreille en platine et en opale",13557
 "Boucle d'oreille en platine et en béryl",13558
 "Boucle d'oreille en platine et en rubis",13559
 "Boucle d'oreille en platine et en corail",13560
@@ -13379,6 +13492,7 @@
 "Sceau de Beetletun",17274
 "Gravure de Charr de la Légion de la Flamme",17275
 "Cristal de connaissance",17276
+"Symbole de Koda",17277
 "Cuissardes en écailles renforcées rajeunissantes",17278
 "Hache en fusion",17316
 "Arc long en fusion",17317
@@ -14266,6 +14380,7 @@
 "Garde-poignets de forgeron",18744
 "Masque de forgeron",18745
 "Jambières de forgeron",18746
+"Espauliers de récompense du Fourneau de forgeron",18747
 "Grèves de forgeron",18748
 "Harnois de forgeron",18749
 "Gantelets de forgeron",18750
@@ -14278,6 +14393,8 @@
 "Casque de forgeron",18757
 "Tassettes de forgeron",18758
 "Espauliers de forgeron",18759
+"Marteau ascalonien",18785
+"Assommoir en bois ancestral",18984
 "Huile de poisson",18993
 "Ballot de graines",18995
 "Eau de source",18996
@@ -14287,11 +14404,15 @@
 "Armure hylek",19186
 "Lavande de Caledon",19189
 "Morceau de fer de Mâchefléau",19202
+"Rhum de pirate",19203
+"Relique de pierre",19207
+"Bandana d'échappement en fer",19210
 "Morceau de varech",19216
 "Provisions",19217
 "Plans de tank draguerre",19228
 "Clé des Nains",19229
 "Cristal de confinement",19230
+"Chapeau-rouge",19260
 "Racine spéciales",19271
 "Manifeste du Kommissar",19337
 "Souffle de Kralkatorrik",19338
@@ -14341,11 +14462,14 @@
 "Clé matricielle cubique",19403
 "Clé matricielle cubique",19404
 "Clé matricielle cubique",19405
+"Morceau d'aspersoir brisé",19413
 "Morceaux de papier des pirates de Wiley",19415
 "Sac de nourriture volé",19418
+"Carré de cimicaires",19422
 "Lettre de remerciements",19431
 "Lettre de remerciements éloquente",19432
 "Longue lettre de remerciements",19433
+"Lettre de remerciements sincère",19434
 "Bouclier de guilde",19440
 "Sac à dos d'assassin de guilde",19443
 "Armure lourde de guilde",19445
@@ -14365,6 +14489,7 @@
 "Sac à dos de défenseur de guilde",19489
 "Hache de guilde",19503
 "Lance-harpon de guilde",19511
+"Lettre d'approbation",19516
 "Lettre d'approbation",19517
 "Griffe brisée",19526
 "Griffe émoussée",19527
@@ -14427,6 +14552,7 @@
 "Nécessaire de crochetage brisé",19599
 "Nécessaire de crochetage brisé",19601
 "Nécessaire de crochetage tordu",19608
+"Nécessaire de crochetage brisé",19611
 "Nécessaire de crochetage brisé",19612
 "Rouage",19613
 "Pièce d'engrenage",19614
@@ -14899,14 +15025,25 @@
 "Mini-écailleux saumâtre",20213
 "Mini-vide-bouteille skritt",20214
 "Mini-lynx",20215
+"Mini-guerrier charr",20216
 "Mini-Krait Damoss",20217
 "Mini-chevaucheur de vent noir",20218
+"Toque de cuisinier",20221
 "Lunettes de lecture",20222
 "Lunettes de soleil d'aviateur",20225
+"Lunettes de sport",20227
 "Lunettes de soleil d'inventeur",20229
+"Lunettes à large monture",20231
+"Gants de cuisinier",20236
+"Bottes de cuisinier",20238
+"Manteau de cuisinier",20239
+"Pantalon de cuisinier",20240
 "Chapeau de Monsieur Loyal",20247
 "Tenue de cuisinier",20248
 "Tenue de capitaine pirate",20251
+"Épée de pirate",20261
+"Poêle à frire",20262
+"Bonnet de marin",20263
 "Haut-de-forme",20264
 "Gants de boxe",20268
 "Apparence d'armure primitive lourde",20272
@@ -14975,6 +15112,7 @@
 "Tonique de cochon",20335
 "Tonique de loup végétal",20336
 "Tonique de loup",20337
+"Tonique d'élémentaire de glace",20338
 "Tonique skritt",20339
 "Tonique de diablotin",20340
 "Tonique de raptor aigle",20341
@@ -15384,8 +15522,54 @@
 "Cristal des arcanes",20800
 "Poudre des arcanes",20801
 "Esquille des arcanes",20802
+"Coupon de heaume léger",20803
+"Coupon d'espauliers légers",20804
+"Coupon de manteau léger",20805
+"Coupon de gants légers",20806
+"Coupon de jambières légères",20807
+"Coupon de bottes légères",20808
+"Coupon de hache",20809
+"Coupon de dague",20810
+"Coupon de focus",20811
+"Coupon d'espadon",20812
+"Coupon de marteau",20813
+"Coupon de lance",20814
+"Coupon d'arc long",20815
+"Coupon de masse",20816
+"Coupon de pistolet",20817
+"Coupon de fusil",20818
+"Coupon de sceptre",20819
+"Coupon de bouclier",20820
+"Coupon d'arc court",20821
+"Coupon de fusil-harpon",20822
+"Coupon de bâton",20823
+"Coupon d'épée",20824
+"Coupon de torche",20825
+"Coupon de trident",20826
+"Coupon de cor de guerre",20827
+"Coupon de lapin",20828
+"Coupon de daim",20829
+"Coupon de dolyak",20830
+"Coupon de loup",20831
+"Coupon de tigre",20832
+"Coupon d'ours",20833
+"Coupon de requin",20834
+"Coupon de phénix",20835
+"Coupon de tournoi gratuit",20837
 "Coupon consommable",20838
 "Orbe des arcanes",20839
+"Coupon de bottes intermédiaires",20840
+"Coupon de manteau intermédiaire",20841
+"Coupon de gants intermédiaires",20842
+"Coupon de heaume intermédiaire",20843
+"Coupon de jambières intermédiaires",20844
+"Coupon de bottes lourdes",20845
+"Coupon de manteau lourd",20846
+"Coupon de gants lourds",20847
+"Coupon de heaume lourd",20848
+"Coupon de jambières lourdes",20849
+"Coupon d'espauliers intermédiaires",20850
+"Coupon d'espauliers lourds",20851
 "Parchemin d'Eldritch",20852
 "Coupon de tournoi payé",20853
 "Chemise à emblème de dragon",20854
@@ -15439,13 +15623,29 @@
 "Mini-chat tigré orange",20948
 "Mini-golem servant",20949
 "Mini-raton laveur rocaillé",20950
+"Bottes de guerre d'héritage",20997
 "Chausses d'héritage",20998
+"Bottes d'héritage",20999
+"Plaques de jambes d'héritage",21000
 "Pantalon d'héritage",21001
+"Garde-jambes d'héritage",21002
+"Harnois de guerre d'héritage",21003
 "Pardessus d'héritage",21004
 "Pourpoint d'héritage",21005
+"Gantelets d'héritage",21006
 "Gants d'héritage",21007
+"Manchettes d'héritage",21008
+"Espauliers d'héritage",21009
 "Houppelande d'héritage",21010
+"Protège-épaules d'héritage",21011
+"Heaume de guerre d'héritage",21012
 "Masque d'héritage",21013
+"Bandana d'héritage",21014
+"Bâton de marche noueux",21015
+"Arc court animé",21016
+"Épée du Dragon de feu",21017
+"Bouclier d'égide de diamant",21018
+"Masque baroque lourd",21019
 "Brassards légers divins",21027
 "Diadème lourd du seigneur de glace",21033
 "Diadème léger du seigneur de glace",21034

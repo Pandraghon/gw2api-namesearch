@@ -1,9 +1,11 @@
 "Assassinen-Transformations-Waffe",4
+"Assassinen-Marke",5
 "((208738))",6
 "Abscheulichkeits-Hammer",15
 "Verschlossene Packung Schneebälle",24
 "Schwerer PvP-Helm des Kriegers",33
 "Gladiatoren-Waffe",46
+"Gladiatoren-Waffe",47
 "Starker Rückenschutz",56
 "Begeisterter Rückenschutz",57
 "Ausdauernder Rückenschutz",58
@@ -70,6 +72,7 @@
 "Klerikale Leisetreter-Maske der Rage",121
 "Seher-Wams der Rage",122
 "Zho-Maske",123
+"Jatoro-Wams",124
 "Nika-Wams",125
 "Starke Abgenutzte Ketten-Beinschienen",126
 "Berserkerhaftes Seher-Wams von Rata Sum",128
@@ -326,6 +329,7 @@
 "Schamanische Verstärkte Schuppen-Stiefel",379
 "Verwüstendes Kabbalisten-Wams der Stärke",380
 "Schamanische Verstärkte Schuppen-Stiefel",381
+"Errol-Stiefel",382
 "Verwüstendes Kabbalisten-Wams des Haines",383
 "Veredeltes Kabbalisten-Wams des Adlers",384
 "Verwüstendes Beschlagenes Wams",385
@@ -759,6 +763,7 @@
 "Veredelter Betrüger-Schulterschutz",816
 "Veredelter Betrüger-Schulterschutz",817
 "Verwüstender Betrüger-Schulterschutz",818
+"Errol-Handschuhe",819
 "Faulende Schlitzohr-Beinschienen der Lyssa",820
 "Starke Betrüger-Stiefel",821
 "Verwüstender Betrüger-Schulterschutz",822
@@ -1809,6 +1814,7 @@
 "Rurik-Beinplatten",1873
 "Starke Betrüger-Handschuhe der Flammen-Legion",1874
 "Starke Betrüger-Handschuhe des Haines",1876
+"Yakkington-Beinplatten",1877
 "Berserkerhafter Schlitzohr-Beinschutz von Rata Sum",1878
 "Starke Betrüger-Handschuhe der Befallenen",1879
 "Verwüstende Betrüger-Handschuhe der Zitadelle",1880
@@ -2084,6 +2090,7 @@
 "Rurik-Schulterschutz",2151
 "Verwüstende Magiekundigen-Handschuhe",2152
 "Verwüstende Magiekundigen-Handschuhe",2154
+"Yakkington-Schulterschutz",2155
 "Berserkerhafter Schlitzohr-Schulterschutz des Reisenden",2156
 "Veredelte Magiekundigen-Handschuhe",2157
 "Veredelte Magiekundigen-Handschuhe",2158
@@ -2330,6 +2337,7 @@
 "Klerikale Seher-Maske des Rudels",2399
 "Mhenlo-Maske",2400
 "Seher-Maske des Zentauren",2401
+"Jatoro-Maske",2402
 "Berserkerhafte Seher-Maske der Rage",2403
 "Khilbron-Maske",2404
 "Mächtige Rustikale Maske",2405
@@ -2632,6 +2640,7 @@
 "Klerikaler Seher-Überwurf der Lyssa",2704
 "Klerikaler Seher-Überwurf des Plünderns",2705
 "Mhenlo-Überwurf",2706
+"Jatoro-Überwurf",2708
 "Berserkerhafter Seher-Überwurf der Göttlichkeit",2709
 "Khilbron-Überwurf",2710
 "Mächtiger Rustikaler Überwurf",2711
@@ -4603,6 +4612,9 @@
 "Tarffs Leder-Wams",4865
 "Optikalium-Leder-Handschuhe",4866
 "Ceruleanische Matrix-Hose",4867
+"Metall-Aqua-Atmer",4868
+"Stoff-Aqua-Atmer",4869
+"Leder-Aqua-Atmer",4870
 "Pockenkrustiger Schuppen-Helm",4871
 "Pockenkrustiger Überwurf",4872
 "Pockenkrustige Maske",4873
@@ -5524,6 +5536,7 @@
 "Beschlagener Leder-Handschutz",6274
 "Ringpanzer-Rüstung",6275
 "Leinen-Kluft",6276
+"Beschlagene Leder-Weste",6277
 "Ringpanzerbeinlinge",6278
 "Leinen-Hose",6279
 "Beschlagenes Leder-Beinkleid",6280
@@ -5543,17 +5556,21 @@
 "Edelsteinbesetzter Reif",6309
 "Feine Maske",6310
 "Schützen-Maske",6311
+"Rohleder-Maske",6312
 "Beschlagene Leder-Maske",6313
 "Kettenpanzer-Rüstung",6314
 "Ringpanzer-Rüstung",6315
 "Schuppen-Haubert",6316
+"Stoff-Wams",6317
 "Leinen-Kluft",6318
+"Samt-Wams",6319
 "Schützen-Jacke",6320
 "Rohleder-Weste",6321
 "Beschlagene Leder-Weste",6322
 "Kettenpanzer-Schultern",6323
 "Mehrlagige Schultern",6324
 "Schuppen-Schultern",6325
+"Stoff-Schultern",6326
 "Leinen-Schultern",6327
 "Samtschultern",6328
 "Schützen-Schultern",6329
@@ -5561,65 +5578,118 @@
 "Beschlagene Schultern",6331
 "Entschlossenen-Rüstung",6341
 "Bezwinger-Rüstung",6342
+"Wärter-Haubert",6343
+"Entschlossenen-Wams",6344
 "Bezwinger-Wams",6345
+"Wärter-Wams",6346
 "Entschlossenen-Jacke",6347
 "Bezwinger-Weste",6348
+"Wärter-Jacke",6349
+"Kommandosoldaten-Beinlinge",6350
 "Truppenmitglied-Beinlinge",6351
 "Vorreiter-Beinlinge",6352
+"Kommandosoldaten-Beinkleid",6353
 "Truppenmitglied-Beinkleid",6354
 "Vorreiter-Beinkleid",6355
 "Kommandosoldaten-Hose",6356
 "Truppenmitglied-Hose",6357
+"Vorreiter-Hose",6358
 "Kommandosoldaten-Haubert",6359
 "Vorreiter-Rüstung",6360
+"Truppenmitglied-Rüstung",6361
+"Kommandosoldaten-Wams",6362
 "Vorreiter-Wams",6363
+"Truppenmitglied-Wams",6364
+"Kommandosoldaten-Jacke",6365
+"Vorreiter-Weste",6366
 "Truppenmitglied-Jacke",6367
 "Kommandosoldaten-Helm",6368
 "Vorreiter-Helm",6369
+"Truppenmitglied-Helm",6370
+"Kommandosoldaten-Maske",6371
 "Vorreiter-Maske",6372
 "Truppenmitglied-Maske",6373
+"Kommandosoldaten-Stirnband",6374
+"Vorreiter-Kappe",6375
+"Truppenmitglied-Zeichen",6376
 "Kommandosoldaten-Schulterschutz",6377
+"Vorreiter-Schulterschutz",6378
+"Truppenmitglied-Schulterschutz",6379
+"Kommandosoldaten-Überwurf",6380
 "Vorreiter-Überwurf",6381
 "Truppenmitglied-Überwurf",6382
+"Kommandosoldaten-Schulterschützer",6383
+"Vorreiter-Schulterschützer",6384
 "Truppenmitglied-Schulterschützer",6385
 "Bezwinger-Stulpenhandschuhe",6386
+" Inquisitor-Stulpenhandschuhe",6387
 "Entschlossenen-Stulpenhandschuhe",6388
+"Bezwinger-Handschuhe",6389
 "Inquisitor-Handschuhe",6390
+"Entschlossenen-Handschuhe",6391
+"Bezwinger-Handschutz",6392
+"Inquisitor-Handschutz",6393
+"Entschlossenen-Handschutz",6394
+"Bezwinger-Beinschienen",6395
+"Inquisitor-Beinschienen",6396
 "Entschlossenen-Beinschienen",6397
 "Bezwinger-Schuhe",6398
 "Inquisitor-Schuhe",6399
+"Entschlossenen-Schuhe",6400
 "Bezwinger-Schuhe",6401
+"Inquisitor-Schuhe",6402
+"Entschlossenen-Stiefel",6403
 "Entschlossenen-Beinkleid",6404
 "Bezwinger-Beinlinge",6405
+"Inquisitor-Beinlinge",6406
 "Entschlossenen-Hose",6407
 "Bezwinger-Hose",6408
+"Inquisitor-Hose",6409
+"Entschlossenen-Beinkleid",6410
 "Bezwinger-Beinkleid",6411
+"Inquisitor-Beinkleid",6412
 "Genesende Beinschienen",6413
+"Starke Beinschienen",6414
+"Durchdringende Beinschienen",6415
 "Genesende Schuhe",6416
 "Starke Schuhe",6417
+"Durchdringende Schuhe",6418
 "Genesende Stiefel",6419
 "Starke Stiefel",6420
 "Durchdringende Stiefel",6421
 "Genesende Stulpenhandschuhe",6422
 "Starke Stulpenhandschuhe",6423
+"Durchdringende Stulpenhandschuhe",6424
 "Genesende Bandagen",6425
+"Starke Bandagen",6426
+"Durchdringende Bandagen",6427
 "Genesende Handschuhe",6428
 "Starke Handschuhe",6429
 "Durchdringende Handschuhe",6430
 "Genesender Helm",6431
 "Starker Helm",6432
+"Durchdringender Helm",6433
+"Genesender Reif",6434
 "Starke Maske",6435
+"Durchdringende Maske",6436
 "Genesende Maske",6437
 "Starker Hut",6438
 "Durchdringende Maske",6439
 "Genesende Schultern",6440
 "Starke Schultern",6441
+"Durchdringende Schultern",6442
+"Genesende Epauletten",6443
 "Starke Epauletten",6444
+"Durchdringende Epauletten",6445
+"Genesende Schultern",6446
 "Starke Schultern",6447
 "Durchdringende Schultern",6448
 "Genesender Brustpanzer",6449
+"Starker Brustpanzer",6450
 "Durchdringender Brustpanzer",6451
+"Genesender Brustschutz",6452
 "Starker Brustschutz",6453
+"Durchdringender Brustschutz",6454
 "Genesende Jacke",6455
 "Starke Jacke",6456
 "Durchdringende Jacke",6457
@@ -6286,13 +6356,19 @@
 "Vakuumagischer Polarisierer",8292
 "Holzstapel",8354
 "Handwerksverstärker",8439
+"Segen der Regeneration (Rang 3)",8444
+"Segen der Macht (Rang 3)",8445
 "Magisches-Gespür-Verstärker",8446
 "Stärkeverstärker",8450
+"Segen der Macht (Rang 5)",8451
+"Segen der Regeneration (Rang 5)",8452
 "Geschwindigkeitsverstärker",8454
 "Rüstungsverstärker",8458
 "Verjüngungsverstärker",8459
+"Wert zurücksetzen",8462
 "Golem-aus-der-Kiste",8464
 "Skin für Belinda-Großschwert",8466
+"Zephyriten-Rettungspaket",8468
 "Versorgungsstarter",8469
 "Transmutation-Stein",8470
 "Transmutation-Kristall",8471
@@ -6310,9 +6386,11 @@
 "Flasche mit Schleimgeist",8495
 "Prisma-Soylent",8496
 "Flasche mit Notfallvorräten",8497
+"Stück vom Apfelkuchen Edas",8498
 "Glas Melonensaft",8499
 "Herzförmiger Keks",8500
 "Kru-Riegel",8501
+"Seraphen-Standardration",8503
 "Prototyp-Nahrungsmittel",8504
 "Petrischalen-Leckerli",8505
 "T-Bone-Steak",8506
@@ -6339,18 +6417,24 @@
 "Flasche Barradin-Familien-Wein",8529
 "Krug mit Herbstnektar",8530
 "Rinderbraten",8531
+"Wolf-Gabe",8532
 "Gegarter Flusskrebs",8533
 "Gebratenes Fischfilet",8534
 "Grumblekuchen",8535
+"Bären-Gabe",8536
 "Stückchen verzauberte Muschelköder",8537
+"Schneeleoparden-Gabe",8538
 "Humpen leichtes Bier",8539
 "Scheibe Wassermelone",8540
+"Oger-Zähmlingsfutter",8541
+"Raben-Gabe",8542
 "Streifen Eberdörrfleisch",8543
 "Gekochter Flusskrebs",8544
 "Greifen-Ei",8545
 "Blaubeertörtchen",8548
 "Flasche mit Fleischoberfestbier",8549
 "Flasche ungenießbaren Weins",8550
+"Grawlhappen",8552
 "Flasche Rotwein",8553
 "Magische Frucht",8554
 "Humpen mit Festtrunk",8556
@@ -6368,6 +6452,7 @@
 "Flasche Remi-Trundle-Pils",8568
 "Schüssel Oberseesuppe",8569
 "Schüssel mit Skal-Flossensuppe",8570
+"Laib Shaemoorbrot",8571
 "Currybrötchen",8572
 "Laib Reisendenbrot",8573
 "Flasche mit Stillem Likör",8574
@@ -6474,7 +6559,9 @@
 "Feuerbombe",8685
 "Asche-Legion-Spionkit",8686
 "Teil des Flammen-Abbilds",8687
+"Müllhaufen",8689
 "Feuerwerkskörper",8690
+"Rinds-Trank",8691
 "Holzplanke",8692
 "Planke",8693
 "Sprengstoffladung",8695
@@ -6516,7 +6603,9 @@
 "Bombardement-Zielmarkierung",8735
 "Pakt-Medizinkit",8736
 "Bergarbeiter-Sprengladung",8739
+"Verdorbenes Lindwurmei",8740
 "Dammtrümmer",8741
+"Zerbrochenes Kerkergitter",8742
 "Knochen",8743
 "Holzplanke",8744
 "Improvisierte Bombe des Banditen",8745
@@ -6546,6 +6635,8 @@
 "Seraphen-Banner",8770
 "Medizinkit",8772
 "Inquestur-Golem-Arm",8773
+"Topf mit Hylek-Gift",8774
+"Funkenstab",8775
 "Trank der Hylek-Verwandlung",8776
 "Schneeball",8777
 "Mini-Golem-Rakete",8778
@@ -6884,6 +6975,7 @@
 "Tornister mit Unverwüstlicher bestickter Rüstung",9167
 "Tornister mit Vitaler bestickter Rüstung",9168
 "Tornister mit Verwüstender Schüler-Rüstung",9169
+"Tornister mit Plündernder Schüler-Rüstung",9170
 "Tornister mit Energischer Schüler-Rüstung",9171
 "Tornister mit Veredelter Schüler-Rüstung",9172
 "Tornister mit Starker Schüler-Rüstung",9173
@@ -6953,6 +7045,7 @@
 "Tornister mit Ritterlicher gefiederter Rüstung",9249
 "Tornister mit Ritterlicher Maskeraden-Rüstung",9250
 "Verzauberte Belohnungsverstärkung",9251
+"Beutel mit Münzen",9256
 "Beutel mit Juwelen",9257
 "Beutel mit Juwelen",9258
 "Beutel mit Juwelen",9259
@@ -7200,8 +7293,11 @@
 "Rezept: Muuguuluu-Speerschleuder",9552
 "Rezept: Match-Grade Standardgewehr",9553
 "Rezept: Kupfer-Streitkolben",9554
+"Rezept: Holzschwert",9555
 "Rezept: Kupfer-Schwert",9556
 "Rezept: Skal-Repetiergewehr",9557
+"Rezept: Wurmeintopf",9558
+"Rezept: Sellerieimbiss Bjarnis",9559
 "Rezept: Dolyak-Eintopf",9560
 "Rezept: Kristallrolle",9561
 "Rezept: Spitzer Schuppenstock",9562
@@ -7223,12 +7319,17 @@
 "Mithril-Kiste mit 18 Plätzen",9586
 "Ausrüstungskiste mit 18 Plätzen",9588
 "Tresor mit 18 Plätzen",9589
+"Geölte Kiste mit 18 Plätzen",9590
 "Orichalcum-Kiste mit 20 Plätzen",9591
 "Ausrüstungskiste mit 20 Plätzen",9593
 "Tresor mit 20 Plätzen",9594
+"Rezept: Asura-Harpune",9596
 "Rezept: Bestrahltes Schwert",9597
+"Rezept: Asura-Speerschleuder",9598
 "Rezept: Bestrahlte Pistole",9599
+"Rezept: Schleimpudding",9600
 "Rezept: Bestrahlter Fokus",9601
+"Rezept: Asura-Dreizack",9602
 "Rezept: Greifen-Ei-Omelett",9603
 "Rezept: Minotauren-Steak",9604
 "Rezept: Ascalon-Geister-Trank",9605
@@ -10347,28 +10448,36 @@
 "Mangos en gros",12772
 "Bananen en gros",12773
 "Basilikum en gros",12774
+"Lorbeerblätter en gros",12775
 "Paprikaschoten en gros",12776
 "Schwarze Bohnen en gros",12777
 "Kidneybohnen en gros",12778
+"Walnüsse en gros",12779
 "Reis en gros",12780
 "Kichererbsen en gros",12781
 "Kokosnüsse en gros",12782
 "Meerrettich en gros",12783
+"Orangen en gros",12784
 "Birnen en gros",12785
 "Pinienkerne en gros",12786
 "Schalotten en gros",12787
 "Äpfel en gros",12788
 "Schwarzer Pfeffer en gros",12789
 "Selleriestangen en gros",12790
+"Chilischoten en gros",12791
+"Zimtstangen en gros",12792
 "Kreuzkümmel en gros",12793
 "Grüne Bohnen en gros",12794
 "Zitronen en gros",12795
 "Muskatnüsse en gros",12796
 "Tomaten en gros",12798
 "Vanilleschoten en gros",12799
+"Butter en gros",12800
 "Buttermilch en gros",12801
 "Käseecken en gros",12802
+"Eier en gros",12803
 "Hefe en gros",12804
+"Schokoriegel en gros",12805
 "Kupfer-Haken",12806
 "Gold-Haken",12807
 "Mithril-Haken",12808
@@ -11063,6 +11172,7 @@
 "Beryll-Mithril-Amulett",13497
 "Chrysokoll-Orichalcum-Amulett",13498
 "Saphir-Orichalcum-Amulett",13499
+"Opal-Orichalcum-Amulett",13500
 "Rubin-Orichalcum-Amulett",13501
 "Korallen-Orichalcum-Amulett",13502
 "Smaragd-Orichalcum-Amulett",13503
@@ -11085,6 +11195,7 @@
 "Topas-Silberring",13520
 "Spinell-Silber-Ring",13521
 "Peridot-Silber-Ring",13522
+"Sonnenstein-Silberring",13523
 "Karneol-Silber-Ring",13524
 "Amethyst-Silber-Ring",13525
 "Lapis-Silber-Ring",13526
@@ -11097,6 +11208,7 @@
 "Lapis-Gold-Ring",13533
 "Chrysokoll-Platin-Ring",13534
 "Saphir-Platin-Ring",13535
+"Opal-Platin-Ring",13536
 "Beryll-Platin-Ring",13537
 "Rubin-Platin-Ring",13538
 "Korallen-Platin-Ring",13539
@@ -11117,6 +11229,7 @@
 "Lapis-Gold-Ohrring",13554
 "Chrysokoll-Platin-Ohrring",13555
 "Saphir-Platin-Ohrring",13556
+"Opal-Platin-Ohrring",13557
 "Beryll-Platin-Ohrring",13558
 "Rubin-Platin-Ohrring",13559
 "Korallen-Platin-Ohrring",13560
@@ -13340,6 +13453,7 @@
 "Beetletuns Siegel",17274
 "Flammen-Legion-Charr-Schnitzerei",17275
 "Wissenskristall",17276
+"Symbol Kodas",17277
 "Verjüngender Verstärkter Schuppen-Beinschutz",17278
 "Geschmolzene Axt",17316
 "Geschmolzener Langbogen",17317
@@ -14227,6 +14341,7 @@
 "Schmied-Handgelenkschutz",18744
 "Schmied-Maske",18745
 "Schmied-Beinkleid",18746
+"Hochofenbelohnung Schulterschutz des Schmieds",18747
 "Schmied-Beinschienen",18748
 "Schmied-Brustplatte",18749
 "Schmied-Stulpenhandschuhe",18750
@@ -14239,6 +14354,8 @@
 "Schmied-Helm",18757
 "Schmied-Schenkelstücke",18758
 "Schmied-Schulterschutz",18759
+"Ascalon-Hammer",18785
+"Alter Kurzstab",18984
 "Fischöl",18993
 "Samenbündel",18995
 "Quellwasser",18996
@@ -14248,11 +14365,15 @@
 "Hylek-Rüstung",19186
 "Caledon-Lavendel",19189
 "Stück Geißelkiefer-Eisen",19202
+"Piraten-Rum",19203
+"Steinrelikt",19207
+"Bandana des Eisernen Dröhnrohrs",19210
 "Stück Tang",19216
 "Vorräte",19217
 "Blaupause für Schauflerpanzer",19228
 "Zwergen-Schlüssel",19229
 "Eindämmungskristall",19230
+"Rotkäppchen",19260
 "Spezialwurzel",19271
 "Manifest des Kommissars",19337
 "Odem des Kralkatorrik",19338
@@ -14302,11 +14423,14 @@
 "Matrixwürfel-Schlüssel",19403
 "Matrixwürfel-Schlüssel",19404
 "Matrixwürfel-Schlüssel",19405
+"Teil eines kaputten Sprinklers",19413
 "Papierschnipsel der Wiley-Piraten",19415
 "Gestohlener Sack mit Nahrung",19418
+"Bannbeerenbüschel",19422
 "Dankesbrief",19431
 "Eloquenter Dankesbrief",19432
 "Ausschweifender Dankesbrief",19433
+"Aufrichtiger Dankesbrief",19434
 "Gilden-Schild",19440
 "Gilden-Assassinen-Rucksack",19443
 "Schwere Gilden-Rüstung",19445
@@ -14326,6 +14450,7 @@
 "Gilden-Verteidiger-Rucksack",19489
 "Gilden-Axt",19503
 "Gilden-Speerschleuder",19511
+"Belobigungsschreiben",19516
 "Belobigungsschreiben",19517
 "Zerbrochene Klaue",19526
 "Matte Klaue",19527
@@ -14388,6 +14513,7 @@
 "Kaputter Dietrich",19599
 "Kaputter Dietrich",19601
 "Verbogener Dietrich",19608
+"Kaputter Dietrich",19611
 "Kaputter Dietrich",19612
 "Ritzel",19613
 "Zahnrad",19614
@@ -14860,14 +14986,25 @@
 "Mini Brackwasser-Skal",20213
 "Mini Skritt-Flaschenwerfer",20214
 "Mini Luchs",20215
+"Mini Charr-Krieger",20216
 "Mini Krait-Damoss",20217
 "Mini Schwarzer Windreiter",20218
+"Koch-Mütze",20221
 "Lesebrille",20222
 "Piloten-Sonnenbrille",20225
+"Sport-Sonnenbrille",20227
 "Erfinder-Sonnenbrille",20229
+"Hornbrille",20231
+"Koch-Handschuhe",20236
+"Koch-Stiefel",20238
+"Koch-Wams",20239
+"Koch-Beinkleid",20240
 "Zirkusdirektor-Hut",20247
 "Koch-Kleidungsset",20248
 "Piratenkapitän-Kleidungsset",20251
+"Piraten-Schwert",20261
+"Bratpfanne",20262
+"Seemannsmütze",20263
 "Zylinder",20264
 "Boxhandschuhe",20268
 "Skin für Schwere altehrwürdige Rüstung",20272
@@ -14936,6 +15073,7 @@
 "Schweine-Trank",20335
 "Pflanzenwolf-Trank",20336
 "Wolf-Trank",20337
+"Eis-Elementar-Trank",20338
 "Skritt-Trank",20339
 "Kobold-Trank",20340
 "Adlerraptoren-Trank",20341
@@ -15345,8 +15483,54 @@
 "Arkaner Kristall",20800
 "Arkanes Pulver",20801
 "Arkaner Span",20802
+"Leichte Helm-Marke",20803
+"Leichte Schulterpolster-Marke",20804
+"Leichte Wams-Marke",20805
+"Leichte Handschuh-Marke",20806
+"Leichte Beinkleid-Marke",20807
+"Leichte Stiefel-Marke",20808
+"Axt-Marke",20809
+"Dolch-Marke",20810
+"Fokus-Marke",20811
+"Großschwert-Marke",20812
+"Hammer-Marke",20813
+"Speer-Marke",20814
+"Langbogen-Marke",20815
+"Streitkolben-Marke",20816
+"Pistolen-Marke",20817
+"Gewehr-Marke",20818
+"Zepter-Marke",20819
+"Schild-Marke",20820
+"Kurzbogen-Marke",20821
+"Harpunenschleuder-Marke",20822
+"Stab-Marke",20823
+"Schwert-Marke",20824
+"Fackel-Marke",20825
+"Dreizack-Marke",20826
+"Kriegshorn-Marke",20827
+"Kaninchen-Marke",20828
+"Hirsch-Marke",20829
+"Dolyak-Marke",20830
+"Wolfs-Marke",20831
+"Tiger-Marke",20832
+"Bären-Marke",20833
+"Hai-Marke",20834
+"Phönix-Marke",20835
+"Kostenlose Turniermarke",20837
 "Verbrauchbare Marke",20838
 "Arkane Kugel",20839
+"Mittlere Stiefel-Marke",20840
+"Mittlere Wams-Marke",20841
+"Mittlere Handschuh-Marke",20842
+"Mittlere Helm-Marke",20843
+"Mittlere Beinkleid-Marke",20844
+"Schwere Stiefel-Marke",20845
+"Schwere Wams-Marke",20846
+"Schwere Handschuh-Marke",20847
+"Schwere Helm-Marke",20848
+"Schwere Beinkleid-Marke",20849
+"Mittlere Schulterpolster-Marke",20850
+"Schwere Schulterpolster-Marke",20851
 "Eldritch-Schriftrolle",20852
 "Bezahlte Turniermarke",20853
 "Drachenemblem-Hemd",20854
@@ -15400,13 +15584,29 @@
 "Mini Orangefarbene Tigerkatze",20948
 "Mini Servitor-Golem",20949
 "Mini Felsfell-Waschbär",20950
+"Vermächtnis-Kriegsstiefel",20997
 "Vermächtnis-Schuhe",20998
+"Vermächtnis-Stiefel",20999
+"Vermächtnis-Beinplatten",21000
 "Vermächtnis-Hosen",21001
+"Vermächtnis-Beinschützer",21002
+"Vermächtnis-Kriegsplatte",21003
 "Vermächtnis-Soldatenmantel",21004
 "Vermächtnis-Jacke",21005
+"Vermächtnis-Stulpenhandschuhe",21006
 "Vermächtnis-Handschuhe",21007
+"Vermächtnis-Armschutz",21008
+"Vermächtnis-Schulterschutz",21009
 "Vermächtnis-Überwurf",21010
+"Vermächtnis-Schulterpolster",21011
+"Vermächtnis-Kriegshelm",21012
 "Vermächtnis-Maske",21013
+"Vermächtnis-Bandana",21014
+"Knorriger Gehstock",21015
+"Lebender Kurzbogen",21016
+"Feuriges Drachen-Schwert",21017
+"Diamanten-Aegis-Schild",21018
+"Schwere Barock-Maske",21019
 "Leichter himmlischer Handschutz",21027
 "Schweres Eisfürsten-Diadem",21033
 "Leichtes Eisfürsten-Diadem",21034
