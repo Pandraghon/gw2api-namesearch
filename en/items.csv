@@ -32369,6 +32369,7 @@
 "Bag of Coins",44597
 "Elaborate Watchwork Box",44598
 "Ornate Watchwork Box",44599
+"Resplendent Watchwork Box",44600
 "Permanent Twisted Watchwork Finisher",44601
 "Copper-Fed Salvage-o-Matic",44602
 "Royal Pass (2 weeks)",44604
@@ -32376,6 +32377,7 @@
 "Mask of the Jubilee",44607
 "Mask of the Queen",44608
 "Mask of the Crown",44609
+"Mask of the Queen",44622
 "Mask of the Crown",44632
 "Flames of Kryta",44637
 "Hot Air Balloon Souvenir",44638
@@ -32403,13 +32405,17 @@
 "Recipe: Minor Sigil of Malice",44663
 "Recipe: Superior Sigil of Malice",44664
 "Sovereign Eviscerator Skin",44667
+"Sovereign Cinquedea",44668
 "Sovereign Cinquedea Skin",44670
+"Sovereign Artifact",44671
 "Sovereign Artifact Skin",44673
+"Sovereign Crusader",44674
 "Sovereign Crusader Skin",44676
 "Sovereign Warhammer Skin",44679
 "Sovereign Greatbow Skin",44682
 "Sovereign Punisher Skin",44685
 "Sovereign Firearm Skin",44688
+"Sovereign Arquebus",44690
 "Sovereign Arquebus Skin",44691
 "Sovereign Scepter Skin",44694
 "Sovereign Protector Skin",44697
@@ -32436,15 +32442,20 @@
 "Mini Twisted Mender",44730
 "Plush Moto Backpack Cover",44733
 "Plush Moto Backpack Cover",44735
+"Mask of the Night",44736
 "Mask of the Night Skin",44738
+"Mask of the Night",44739
 "Paper-Bag Helm Skin (Blush)",44745
 "Paper Bag Helm Skin (Happy)",44759
 "Paper Bag Helm Skin (Sad)",44766
 "Paper Bag Helm Skin (Angry)",44773
 "Costumed Mini 3-Pack",44779
+"Chiroptophobia",44789
 "Chiroptophobia Greatsword Skin",44791
 "Araneae Longbow Skin",44797
+"Dead Stop",44810
 "Dead Stop Shield Skin",44812
+"Bloody Prince Staff",44816
 "Bloody Prince Staff",44817
 "Bloody Prince Staff Skin",44818
 "Silly Scimitar Skin",44821
@@ -32454,6 +32465,7 @@
 "Zodiac Focus Skin",44836
 "Zodiac Greatsword Skin",44839
 "Zodiac Hammer Skin",44842
+"Zodiac Longbow",44843
 "Zodiac Longbow Skin",44845
 "Zodiac Mace Skin",44848
 "Zodiac Pistol Skin",44851
@@ -32462,8 +32474,10 @@
 "Zodiac Shield Skin",44860
 "Zodiac Short Bow",44861
 "Zodiac Short Bow Skin",44863
+"Zodiac Staff",44864
 "Zodiac Staff Skin",44866
 "Zodiac Sword Skin",44869
+"Zodiac Torch",44870
 "Zodiac Torch Skin",44872
 "Zodiac Warhorn Skin",44875
 "Jack-in-the-Box Scythe",44876
@@ -32477,7 +32491,9 @@
 "Basic Ore Node Pack",44884
 "Mist Herald Back Item Skin Set",44886
 "Mist Herald Back Item Skin",44888
+"Lovestruck Axe",44889
 "Lovestruck Axe Skin",44891
+"Lovestruck Anlace",44892
 "Lovestruck Anlace Skin",44894
 "Lovestruck Focus Skin",44897
 "Lovestruck Greatsword Skin",44900
@@ -32487,12 +32503,15 @@
 "Lovestruck Pistol Skin",44912
 "Lovestruck Rifle Skin",44915
 "Lovestruck Scepter Skin",44918
+"Lovestruck Protector",44919
 "Lovestruck Protector Skin",44921
 "Lovestruck Short Bow Skin",44924
 "Lovestruck Staff Skin",44927
 "Lovestruck Sword Skin",44930
 "Lovestruck Flame Skin",44933
+"Lovestruck Call",44934
 "Lovestruck Call Skin",44936
+"Permanent Second Place Trophy Finisher",44938
 "Watchwork Sprocket",44941
 "Minor Sigil of Bursting",44942
 "Major Sigil of Bursting",44943
@@ -32564,6 +32583,11 @@
 "Gift from Scarlet",45029
 "Twisted Watchwork Shoulder Scrap",45030
 "Scarlet's Secret Stash",45031
+"Twisted Watchwork Shoulders",45032
+"Twisted Watchwork Shoulders",45033
+"Twisted Watchwork Shoulders",45034
+"Twisted Watchwork Shoulders",45035
+"Twisted Watchwork Shoulders",45037
 "Twisted Watchwork Shoulders",45038
 "Bit of Twisted Watchwork Scrap",45039
 "Pile of Twisted Watchwork Scrap",45040
@@ -32579,6 +32603,8 @@
 "WXP Booster",45055
 "WXP Booster",45056
 "WXP Booster",45057
+"WXP Booster",45058
+"WXP Booster",45059
 "WXP Mini-Booster",45060
 "Candy Corn Gold Amulet",45061
 "Candy Corn Silver Pendant",45062
@@ -33938,6 +33964,7 @@
 "Diffraction Crystal",46466
 "Sam",46467
 "All Seeing",46468
+"Plush Moto Backpack",46490
 "Plush Moto Backpack Cover",46492
 "Plush Moto Backpack Cover",46493
 "Mini Super Banana",46494
@@ -34007,7 +34034,9 @@
 "Princess Miya's Wig",46644
 "Princess Miya's Dress",46645
 "Princess Miya's Tiara",46646
+"King Toad's Backpack Cover",46647
 "King Toad's Backpack Cover",46649
+"Storm Wizard Backpack Cover",46650
 "Storm Wizard Backpack Cover",46652
 "Mini Princess Miya",46653
 "Mini Moto",46654
@@ -35163,8 +35192,13 @@
 "Soldier's Benthic Waterbreather of the Afflicted",47875
 "Limited-Use Vigil Megalaser Finisher",47879
 "Permanent Vigil Megalaser Finisher",47880
+"Heavy Stag Helm",47881
 "Stag Helm Skin",47883
+"Heavy Grenth Hood",47888
 "Grenth Hood Skin",47890
+"Light Grenth Hood",47891
+"Light Grenth Hood",47892
+"Medium Grenth Hood",47893
 "Limited-Use Snow Globe Finisher",47895
 "Permanent Snow Globe Finisher",47896
 "Watchwork Mining Pick",47897
@@ -35955,6 +35989,7 @@
 "Halloween Pail",48715
 "Completed Aetherkey",48716
 "Aetherkey Piece",48717
+"Slickpack",48719
 "Slickpack",48721
 "Deathcamas of Dreams",48723
 "Crying Thorn of Dreams",48724
@@ -35983,7 +36018,21 @@
 "Mini Aviator Trick-or-Treater",48755
 "Mini Caithe",48756
 "Mini Dolyak",48761
+"WvW Season 1 Reward Chest Key",48762
 "WvW Season 1 Participation Bag",48763
+"WvW Season 1 Achievement Chest",48764
+"WvW Season One Reward Chest (Locked)",48765
+"WvW Season One Reward Chest (Locked)",48767
+"WvW Season One Reward Chest (Unlocked)",48768
+"WvW Season One Reward Chest (Locked)",48769
+"WvW Season One Reward Chest (Locked)",48771
+"WvW Season One Reward Chest (Locked)",48773
+"WvW Season One Reward Chest (Locked)",48775
+"WvW Season One Reward Chest (Locked)",48777
+"WvW Season One Reward Chest (Unlocked)",48778
+"WvW Season One Reward Chest (Locked)",48779
+"WvW Season One Reward Chest (Locked)",48781
+"Bag of Confiscated Treats",48795
 "Mad King Chest",48796
 "Tassi's Relay Golem",48803
 "Gift of Candy Corn",48804
@@ -36001,14 +36050,20 @@
 "Chest",48832
 "Splendid Chest",48833
 "Krait Obelisk Shard",48875
+"Healing Tome: Antitoxin Spray",48876
 "Mini Toxic Hybrid",48877
 "Mini Toxic Nimross",48879
 "Mushed Spore Sample",48882
 "Pristine Toxic Spore Sample",48884
+"Gas Mask",48887
+"Gas Mask",48889
+"Gas Mask",48891
 "Gas Mask Skin",48893
+"Air-Filtration Device Skin",48895
 "Air-Filtration Device of Antitoxin",48896
 "Air-Filtration Device of Antitoxin",48897
 "Air-Filtration Device of Antitoxin",48898
+"Toxic Spore",48903
 "Toxic Spore Skin",48905
 "Scroll of Knowledge",48906
 "Superior Rune of Antitoxin",48907
@@ -36044,18 +36099,23 @@
 "Wurmslayer's Wristguards",48939
 "Wurmslayer's Grips",48941
 "Mask of the Wanderer Skin",48944
+"Mask of the Wanderer",48946
+"Mask of the Wanderer",48950
 "Gathering Booster",48951
 "Permanent Toxic Offshoot Finisher",48952
 "Limited-Use Toxic Offshoot Finisher",48953
 "Toxic Dye Kit",48954
 "Dreamcleaver Logging Axe",48955
+"Dreamthistle Axe",48956
 "Dreamthistle Axe Skin",48958
 "Dreamthistle Dagger Skin",48961
 "Dreamthistle Focus Skin",48964
+"Dreamthistle Greatsword",48965
 "Dreamthistle Greatsword Skin",48967
 "Dreamthistle Hammer Skin",48970
 "Dreamthistle Longbow Skin",48973
 "Dreamthistle Mace Skin",48976
+"Dreamthistle Pistol",48977
 "Dreamthistle Pistol Skin",48979
 "Dreamthistle Rifle Skin",48982
 "Dreamthistle Scepter Skin",48985
@@ -36070,11 +36130,21 @@
 "Dreamthistle Trident Skin",49006
 "Dreamthistle Harpoon Gun Skin",49009
 "Dreamthistle Spear Skin",49012
+"Marjory's Axe",49013
 "Marjory's Axe Skin",49015
+"Marjory's Dagger",49016
 "Marjory's Dagger Skin",49018
+"Kasmeer's Staff",49019
+"Kasmeer's Staff",49020
 "Kasmeer's Staff Skin",49021
+"Toxic Pauldron",49022
 "Toxic Mantle Skin",49024
+"Toxic Mantle",49025
+"Toxic Shoulderpad",49027
+"Toxic Gauntlets",49029
 "Toxic Gloves Skin",49031
+"Toxic Gloves",49032
+"Toxic Armguard",49034
 "Bag of Coins",49037
 "Shell Pouch",49038
 "Heirloom Seed Pouch",49039
@@ -36084,6 +36154,14 @@
 "Tricolor Key",49132
 "Infinite Toxic Krait Tonic",49133
 "Recipe: Infinite Toxic Krait Tonic",49134
+"Molten Iron Scrap",49135
+"Aetherblade Data",49136
+"Watchwork Core",49137
+"Dried Toxic Spore",49138
+"Sturdy Stick",49139
+"Dry Roots",49140
+"Makeshift Torch Handle",49141
+"Makeshift Torch",49143
 "Unopened Endless Mystery Tonic",49145
 "Unopened Endless Mystery Tonic",49146
 "Unopened Endless Mystery Tonic",49147
@@ -36095,6 +36173,7 @@
 "Permanent Ascalonian-Leader Finisher",49164
 "Permanent Mystical Dragon Finisher",49165
 "Permanent Skritt-Scavenger Finisher",49169
+"Hoard of Ascended Materials",49206
 "Ascended Weapon Chest",49207
 "Ascended Armor Chest",49208
 "Recipe: Superior Rune of Resistance",49209
@@ -36137,6 +36216,7 @@
 "Tormented Axe Skin",49314
 "Tormented Dagger Skin",49317
 "Tormented Focus Skin",49320
+"Tormented Greatsword",49321
 "Tormented Greatsword Skin",49323
 "Tormented Hammer Skin",49326
 "Tormented Longbow Skin",49329
@@ -36271,6 +36351,8 @@
 "Tarrktun Personal Delivery Portal",49501
 "Massive Glob of Ectoplasm",49503
 "Recipe: Settler's Intricate Gossamer Insignia",49509
+"Antitoxin Injector",49519
+"Antitoxin Injector",49520
 "Antitoxin Injector Skin",49521
 "Dire Intricate Gossamer Insignia",49522
 "Lesser Vision Crystal",49523
@@ -36282,6 +36364,18 @@
 "Prosperity Dye",49529
 "Recall Dye",49530
 "Gathering Tool 3 Pack",49531
+"Soldier's Duffel",49532
+"PvP Mystery Coffer",49533
+"Koda Heavy Armor Box",49549
+"Koda Light Armor Box",49551
+"Orrian Heavy Armor Box",49555
+"Orrian Light Armor Box",49557
+"Human Tier 3 Heavy Armor Box",49564
+"Human Tier 3 Light Armor Box",49566
+"Asuran Tier 1 Light Armor Box",49577
+"Asuran Tier 2 Light Armor Box",49580
+"Asuran Tier 2 Medium Armor Box",49581
+"Asuran Tier 3 Light Armor Box",49583
 "Norn Tier 2 Heavy Armor Box",49588
 "Keeper's Warfists",49611
 "Keeper's Shoulderguard",49612
@@ -36309,9 +36403,11 @@
 "Hoard of the Marionette Warden I",49657
 "Hoard of the Marionette Warden V",49658
 "Scarlet's Spare Keys",49662
+"Bag of Power Core Pieces",49663
 "The Wurm's Golden Chest",49664
 "The Wurm's Bronze Chest",49666
 "The Wurm's Silver Chest",49667
+"Daily Wurm Chest",49669
 "Pile of Regurgitated Armor",49670
 "Recipe: Keeper's Harpoon Gun",49672
 "Recipe: Keeper's Brazier",49673
@@ -36449,6 +36545,7 @@
 "Mini Twisted Watchwork Moa",49827
 "Amulet of Triple Curiosity",49828
 "Annelid Rifle Skin",49831
+"Wurmslayer's Visor",49832
 "Wurmslayer's Masque",49833
 "Wurmslayer's Visage",49835
 "Connie's Lost Wedding Ring",49836
@@ -36514,6 +36611,7 @@
 "Koda's Hammer",49925
 "Sentry Turret",49926
 "Air-Strike Grenade",49927
+"Singed Golem Parts",49929
 "Boxing Gloves",49930
 "Riding Broom",49931
 "Enchanted Broom",49932
@@ -36528,6 +36626,8 @@
 "Mini Mai Trin",49950
 "Permanent Llama Finisher",49952
 "Permanent Quaggan Finisher",49954
+"Oil Barrel",49957
+"Ice Block",49958
 "Mini Chest of the Mists",49959
 "Chest of the Mists",49960
 "Selfless Potion",50014
@@ -37243,6 +37343,7 @@
 "Forsaken Titan's Brand",51822
 "Forsaken Bellower",51823
 "Forsaken Cauterizer",51824
+"Forsaken Big Grin",51825
 "Forsaken Razor Shard",51827
 "Forsaken Hand Furnace",51828
 "Forsaken Fury Unleashed",51829
@@ -41784,13 +41885,24 @@
 "Rampagers Spineguard of Coral",63276
 "Berserkers Spineguard of Ruby",63277
 "Clerics Spineguard of Sapphire",63278
+"Assassin's Elder Staff",63279
 "Apothecary's Elder Short Bow",63280
 "Cleric's Elder Staff",63281
 "Rampager's Mithril Greatsword",63282
 "Knight's Mithril Hammer",63283
 "Berserker's Elder Longbow",63284
 "Berserker's Mithril Rifle",63286
+"Cleric's Mithril Rifle",63287
+"Berserker's Elder Short Bow",63288
+"Commando's Pauldrons",63289
+"Outrider's Pauldrons",63290
+"Trooper's Pauldrons",63291
+"Commando's Mantle",63292
 "Outrider's Mantle",63293
+"Trooper's Mantle",63294
+"Commando's Shoulderguards",63295
+"Outrider's Shoulderguards",63296
+"Trooper's Shoulderguards",63297
 "Commando's Helm",63298
 "Outrider's Helm",63299
 "Trooper's Helm",63300
@@ -41854,6 +41966,7 @@
 "Carrion Darksteel Axe",63359
 "Strong Student Mantle",63360
 "",63366
+"Scroll of Knowledge",63378
 "Bag of Loot",63379
 "Avenger's Staff",63383
 "Avenger's Longbow",63384
@@ -42196,8 +42309,11 @@
 "Malign Dagger",63833
 "Liberator of Lion's Arch Chest",63847
 "Scarlet's Veil Skin",63853
+"Scarlet's Veil",63854
 "Scarlet's Rainbow",63856
 "Scarlet's Kiss",63857
+"Scarlet's Veil",63858
+"Scarlet's Veil",63861
 "Ornate Watchwork Box",63862
 "Minis 3-Pack (Set 3)",63870
 "Mini Revenant Rytlock",63871
@@ -42336,6 +42452,8 @@
 "Honed Iron Sword of Venom",64125
 "Hearty Worn Scale Coat of Vampirism",64126
 "Iron Ring",64127
+"Iron Ring",64128
+"Hardy Amulet",64129
 "Mighty Amulet",64130
 "Carrion Amulet",64131
 "Hearty Iron Spear",64132
@@ -42483,8 +42601,16 @@
 "Hero's Warhorn",64301
 "WvW Spring Tournament 2014 Reward Chest (Unlocked)",64340
 "WvW Achievement Reward Chest",64348
+"WvW Spring Tournament 2014 Reward Chest (Unlocked)",64349
 "WvW Spring Tournament 2014 Reward Chest (Unlocked)",64351
+"WvW Spring Tournament 2014 Reward Chest (Unlocked)",64352
+"WvW Spring Tournament 2014 Reward Chest (Unlocked)",64353
 "WvW Achievement Reward Chest",64354
+"WvW Spring Tournament 2014 Reward Chest (Unlocked)",64355
+"WvW Spring Tournament 2014 Reward Chest (Unlocked)",64356
+"WvW Spring Tournament 2014 Reward Chest (Unlocked)",64357
+"WvW Achievement Reward Chest",64359
+"WvW Achievement Reward Chest",64360
 "WvW Achievement Reward Chest",64362
 "WvW Achievement Reward Chest",64363
 "Swelter's Gait",64526
@@ -43004,12 +43130,15 @@
 "Fervid Censer",66205
 "Sclerite Karka Shell",66206
 "Bronze Boss Blitz Chest",66208
+"Festival Welcome Gift",66209
 "Gold Boss Blitz Chest",66210
+"Bounty of the Festival",66211
 "Equipment Bag",66212
 "Horns of the Dragon Helm Set",66213
 "Endless Dolyak Calf Tonic",66214
 "Mini Panda",66216
 "Silver Boss Blitz Chest",66217
+"Gauntlet Chance",66219
 "Favor of the Festival",66220
 "Sparkling Effervescence",66221
 "Weathered Favor of the Bazaar",66222
@@ -43040,7 +43169,12 @@
 "Metal Aquabreather",66344
 "Leather Aquabreather",66345
 "Cloth Aquabreather",66346
+"WvW Spring Tournament 2014 Reward Chest (Unlocked)",66350
+"WvW Spring Tournament 2014 Reward Chest (Unlocked)",66351
 "WvW Tournament Claim Ticket",66352
+"WvW Spring Tournament 2014 Reward Chest (Unlocked)",66355
+"WvW Spring Tournament 2014 Reward Chest (Unlocked)",66356
+"WvW Spring Tournament 2014 Reward Chest (Unlocked)",66357
 "Ventari's Wristguards",66359
 "Ventari's Shoulderguard",66360
 "Ventari's Leggings",66361
@@ -43245,6 +43379,7 @@
 "Saboteur's Rucksack",66621
 "Box of Inquest Research Supplies",66622
 "Rampager's Adventurer's Scarf",66623
+"Zephyrite Lockpick",66624
 "Cleric's Adventurer's Spectacles",66625
 "Ambrite Fossilized Centipede",66636
 "Piece of Ambrite",66637
@@ -43269,6 +43404,8 @@
 "Ambrite Fossilized Mosquito",66656
 "Ambrite Fossilized Mantis",66657
 "Shadow Assassin Outfit",66658
+"PvP Qualifier Prizes: First and Second Place",66660
+"PvP Qualifier Prizes: Third and Fourth Place",66661
 "Tournament of Legends: 5th through 8th Place",66662
 "PvP Qualifier Prizes: 5th through 8th Place",66666
 "Tournament of Legends: 9th through 16th Place",66667
@@ -43428,6 +43565,7 @@
 "Story Unlock: \"Entanglement\"",66871
 "Story Unlock: \"The Dragon's Reach, Part 1\"",66872
 "Story Unlock: \"Gates of Maguuma\"",66873
+"Mordrem Husk Samples",66885
 "Cultivated Shoot",66890
 "Unopened Prosperity Mine Kite",66893
 "Unopened Crystal Shard Kite",66895
@@ -43756,6 +43894,7 @@
 "Jormag's Claw Fragment",67276
 "Waypoint Unlock Box",67279
 "Teleport to Friend",67280
+"Mini Chieftain Utahein and Mini Svanir",67281
 "Black Lion Salvage Kit",67283
 "Electro Pink Dye",67284
 "Electro Lemon Dye",67285
@@ -43785,11 +43924,15 @@
 "Superior Rune of Radiance",67342
 "Superior Sigil of Incapacitation",67343
 "Superior Rune of Evasion",67344
+"WvW First Place Reward Chest",67345
+"WvW Second Place Reward Chest",67346
+"WvW Third Place Reward Chest",67347
 "Siege Disabler",67348
 "Foil-Wrapped Candy",67352
 "Shiny Foil Candy Wrapper",67353
 "Ghostly Mail Courier",67355
 "Magic Carpet",67356
+"World vs. World Support Pack",67359
 "Oontz's Necklace of the Pumpkin",67361
 "Endless Bottle of Batwing Brew",67362
 "Bloody Prince's Toy Chest",67363
@@ -44003,6 +44146,7 @@
 "Endless Arid Devourer Tonic",67783
 "Endless Dust Mite Tonic",67784
 "Sinister Jewelry Recipe Book",67786
+"Bandit Crest",67787
 "Bandit Cache",67788
 "Ogden's Gratitude",67789
 "Ghostly Bag of Loot",67790
@@ -44242,6 +44386,7 @@
 "Writ of Experience",68109
 "Potion of PvP Reward",68110
 "Essence of Gold",68111
+"Chest of Lumber",68112
 "Chest of the Hero",68115
 "Fallen Hero Chest",68117
 "Chest of the Adventurer",68118
@@ -44261,28 +44406,40 @@
 "Chest of the Hero",68149
 "Chest of Citadel of Flame Goods",68151
 "Chest of Crucible of Eternity Goods",68153
+"Chest of the Mists",68155
 "Transcendent Chest",68156
 "Transcendent Chest of Knowledge",68159
 "Chest of Monstrous Goods",68160
 "Chest of the Athlete",68162
 "Chest of the Explorer",68164
+"Chest of the Mystic",68201
 "Chest of the Hero",68207
+"Chest of the Adventurer",68214
+"Fractal Initiate's Research Chest",68217
 "Transcendent Chest",68224
 "Chest of Monstrous Goods",68227
+"Fallen Hero Chest",68229
 "Chest of Ore",68230
 "Chest of the Hero",68232
 "Fallen Hero Chest",68233
+"Chest of Plants",68235
 "Transcendent Chest of Knowledge",68240
+"Transcendent Chest",68242
+"Chest of Plants",68256
 "Fallen Hero Chest",68269
 "Fallen Hero Chest",68272
 "Transcendent Chest",68279
 "Chest of the Mystic",68281
 "Chest of Ore",68283
 "Transcendent Chest",68284
+"Chest of Lumber",68290
 "Transcendent Chest of Knowledge",68291
 "Chest of the Adventurer",68293
+"Fractal Initiate's Research Chest",68294
 "Chest of the Hero",68295
+"Chest of the Crafter",68298
 "Chest of the Hero",68303
+"Chest of Monstrous Goods",68308
 "Bag of Laurels",68314
 "Chest of Black Lion Goods",68315
 "Bag of Experience",68316
@@ -44341,6 +44498,7 @@
 "Page from Wintersday Rituals for Honoring the Recently Vanquished",68372
 "Frostbitten Orichalcum Logging Axe",68373
 "Frostbitten Toolbox",68374
+"Organized Frostbitten Toolbox",68375
 "Frostbitten Orichalcum Mining Pick",68376
 "Frostbitten Orichalcum Harvesting Sickle",68377
 "Beautiful Knit Sock",68378
@@ -44349,16 +44507,22 @@
 "Huge Dusty Box of Winter Clothes",68381
 "Dusty Box of Winter Clothes",68382
 "Frozen Box of Holiday Clothing",68383
+"Mysterious Grubby Package",68386
 "Orphan Laine's Letter",68387
+"Mysterious Grubby Package",68388
 "Wrecked Wintersday Ornament",68389
 "Pile of Glittery Garbage",68390
+"Mysterious Grubby Package",68391
 "Orphan's Generous Gift",68392
+"Mysterious Grubby Package",68393
 "Purple Ball Ornament",68394
 "Rocking Horse Ornament",68395
 "Gold Ball Ornament",68396
 "Small Doll Ornament",68397
 "Sparkling Tinsel Ornament",68398
+"Mysterious Grubby Package",68399
 "Green Ball Ornament",68400
+"Mysterious Grubby Package",68401
 "Chalice of Bloodstone Chili",68402
 "Cup of Bloodstone Soup",68403
 "Bowl of Bloodstone Ice Cream",68404
@@ -44374,9 +44538,13 @@
 "Bottle-Shaped Present",68414
 "Cold Weather Conqueror's Superior Kit",68417
 "Tixx's Gift",68418
+"Cold Weather Conqueror's Minor Selection",68419
+"Cold Weather Conqueror's Major Selection",68420
+"Cold Weather Conqueror's Superior Selection",68421
 "Festively Wrapped Beverage Case",68424
 "Book of Festive Beverage Recipes",68426
 "Cold Weather Conqueror's Major Kit",68427
+"Penn's Ultimate Wintersday Gift",68429
 "Personalized Wintersday Gift",68431
 "Mini Festive Lord Faren",68432
 "Major Sigil of Mischief",68434
@@ -44487,8 +44655,10 @@
 "Red Festival Lantern",68638
 "Golden Ram Figurine",68639
 "Ornamental Golden Trophy",68640
+"Stack of 5 Divine Lucky Envelopes",68641
 "Homemade Lucky Envelope",68642
 "Dragon Ball Champion's Chest of 10 Divine Lucky Envelopes",68643
+"Personalized Homemade Lucky Envelope",68644
 "Little Lucky Envelope",68645
 "Divine Lucky Envelope",68646
 "Dragon Ball Champion's Divine Lucky Envelope",68647
@@ -45955,6 +46125,7 @@
 "Recipe: Vigilant Draconic Pauldrons",71690
 "Writ of Masterful Speed",71691
 "Pouch of Red Pigment",71692
+"Risen Knight Soul Energy",71693
 "Cleric's Auric Mace",71694
 "Recipe: Laranthir's Reaver",71695
 "Archdiviner's Talisman",71696
@@ -46079,6 +46250,7 @@
 "Spinach Seeds",71863
 "Viper's Pearl Blunderbuss",71864
 "Recipe: Tizlak's Leggings",71865
+"Champion Chest of the Mists",71866
 "Order of Whispers Maintenance Oil",71867
 "Ghostly Pirate Token",71869
 "Angchu Metal Breather",71870
@@ -46090,6 +46262,7 @@
 "Row of Candles",71878
 "Oiled Orichalcum Helmet Lining",71879
 "The Bifrost Vol. 2",71881
+"Basic Elder Focus Requisition",71882
 "Balanced Trident Shaft",71883
 "Wanderer's Leystone Boots",71884
 "Third Order Mist Frame",71885
@@ -46261,6 +46434,7 @@
 "Modniir's Ruin",72104
 "Guild Gathering Boost",72105
 "Attuned Mellaggan's Whorl",72106
+"Veteran Chest of the Mists",72107
 "Ruka's Revolver",72108
 "Machined Scepter",72109
 "Airship-Grade Sword Gear",72110
@@ -46340,6 +46514,7 @@
 "Chak Egg",72205
 "Guide: Mistward Pauldrons",72208
 "Hard Wood Pen",72209
+"Machete",72210
 "Recipe: Yassith's Blade",72212
 "Ruka's Pauldrons",72214
 "Heimdahl's Stand Runestone Rubbing",72215
@@ -46427,6 +46602,7 @@
 "Disgruntled Ooze",72322
 "Recipe: Ruka's Doublet",72323
 "Guild Gathering Boost",72324
+"Caithe's Blossom",72325
 "Shooting Gallery: Silver",72326
 "Enormous Megalodon Tooth",72328
 "The Flameseeker Prophecies Vol. 2",72329
@@ -46515,6 +46691,7 @@
 "Exquisite Black Diamond Jewel",72435
 "Agate Orb",72436
 "Freshwater Pearl Orichalcum Ring",72437
+"Chak Cache",72438
 "Recipe: Verata's Metal Breather",72439
 "Charged Mace Head",72440
 "Map Bonus Rate Increase",72441
@@ -47753,6 +47930,7 @@
 "Wanderer's Leystone Gloves",74102
 "Trailblazer's Draconic Helm",74103
 "Sphere Topiary",74104
+"Fleshgrazer's Magic",74106
 "Essence of the Grove",74107
 "Rune of Thorns",74108
 "Recipe: Commander's Pearl Rod",74109
@@ -48084,6 +48262,7 @@
 "Plated Greatsword",74558
 "Centaur Sundial",74559
 "Superior Longbow Woodworking Tools",74560
+"Hylek Loot Box",74561
 "Pillar Candle",74563
 "Recipe: Commander's Draconic Boots",74564
 "Minstrel's Pearl Crusher",74565
@@ -48102,6 +48281,7 @@
 "Recipe: Ruka's Greaves",74582
 "Recipe: Trailblazer's Emblazoned Gloves",74584
 "Tenebrous Scepter",74585
+"Caithe's Remorse",74586
 "Lattice Arbor",74588
 "Rampager's Auric Scepter",74589
 "Chest of Fish",74591
@@ -48234,6 +48414,7 @@
 "Airship-Grade Staff Gear",74758
 "Potted Sprouting Night Thistle",74759
 "Gold Fractal Speargun",74760
+"Forgotten Treatment",74761
 "Mini Tengu",74762
 "Tub of Wood Glue",74763
 "Plains Wurm Meat",74764
@@ -48618,6 +48799,7 @@
 "Ogden's Notes",75279
 "Charged Short Bow Stave",75280
 "Bottle of Uncategorized Energy",75281
+"Fleshreaver's Magic",75283
 "Ascended Salvage Tool",75284
 "Pahua's Visage",75285
 "Assassin's Auric Longbow",75286
@@ -48728,6 +48910,7 @@
 "Ornate Pistol Frame",75429
 "Recipe: Tizlak's Commander's Inscription",75430
 "Pact Supremacy",75433
+"Friend of the Hounds",75434
 "Exquisite Agate Jewel",75435
 "Recipe: Wanderer's Pearl Trident",75436
 "Marauder Draconic Coat",75437
@@ -48772,6 +48955,7 @@
 "Recipe: Trailblazer's Pearl Quarterstaff",75496
 "Ley-Line Warhorn Core",75497
 "Pile of Beryl Dust",75498
+"Resilient Whispers Belt",75500
 "Recipe: Laranthir's Vigilant Insignia",75501
 "Essence of Chemistry",75504
 "Sigil Bag",75505
@@ -49280,6 +49464,7 @@
 "Keeper's Leather Breather",76184
 "Ossa's Epaulets",76186
 "Balanced Scepter Rod",76187
+"Blessed by Raven",76189
 "Dream of Kralkatorrik",76190
 "Recipe: Ossa's Warhammer",76191
 "Tenebrous Mace",76193
@@ -49982,6 +50167,7 @@
 "Raven Feather",77154
 "Notes on Music Theory",77155
 "Perfected Dagger",77156
+"Sunken Pirate Treasure",77157
 "Spiketail Spike",77158
 "Chest of Spirit",77159
 "Grymm Mini Reward Box",77160
@@ -50260,6 +50446,7 @@
 "Gift of Skirmishing",77485
 "Certificate of Support",77486
 "Essence of Challenge",77488
+"Platinum Guild Challenger Reward",77490
 "Merciless Axe Skin",77491
 "Mystic Essence of Challenge",77492
 "The Thrill of Battle",77493
@@ -50444,10 +50631,13 @@
 "Bottle of Bloodstone Orange Summer Ale",77719
 "Eldvin Monastery VIP Package",77720
 "Silver Tequatl Trophy",77721
+"Slothasor Mushroom",77722
+"Sabetha Flamethrower Fragment",77723
 "Gold White Mantle Abomination Trophy",77724
 "Ram Statue",77725
 "Lunar Arch",77726
 "Sabetha Flamethrower Fragment Piece",77728
+"Gorseval Tentacle",77729
 "Red Festival Tent",77730
 "Bronze Vale Guardian Trophy",77731
 "Bronze Tequatl Trophy",77732
@@ -50475,6 +50665,7 @@
 "Bronze Mordremoth Trophy",77757
 "Shatterer Crystal",77759
 "Brewmaster's Backpack Kit",77760
+"White Mantle Abomination Crystal",77761
 "Lucky Firecracker",77762
 "Red Lantern",77763
 "Silver White Mantle Abomination Trophy",77764
@@ -50489,6 +50680,7 @@
 "Chak Gerent Eye",77773
 "Bottle of Pale Tree Pilsner",77775
 "Bottle of Barrel-Aged Ascalonian Amber",77776
+"Vale Guardian Pieces",77777
 "Bottle of Black Lion's Reserve",77781
 "Silver Sabetha Trophy",77782
 "Bronze Slothasor Trophy",77783
@@ -50528,6 +50720,7 @@
 "Defender's Sloth-Skin Handwraps",77829
 "Assaulter's Sloth-Skin Gauntlets",77830
 "Malicious White Mantle Gavel",77831
+"Chest of Heavy Coats",77835
 "Healer's Sloth-Skin Gauntlets",77836
 "Malicious Sloth-Skin Handwraps",77837
 "Attuned Defender's Energized Loop",77838
@@ -50557,18 +50750,23 @@
 "Defender's White Mantle Amice",77868
 "Box of Raider's Supplies",77869
 "Mini Slothasor",77870
+"Chest of Light Leggings",77871
+"Chest of Light Coats",77872
 "Healer's White Mantle Spaulders",77873
 "Assaulter's Sloth-Skin Gloves",77874
 "Defender's Sloth-Skin Gloves",77875
 "Malicious White Mantle Bugle",77876
+"Chest of Medium Helms",77877
 "Defender's Woven Band (Infused)",77878
 "Chest of Light Shoulders",77879
 "Dominator Short Bow Skin",77880
 "Dominator Hammer Skin",77881
 "Assaulter's White Mantle Shoulders",77882
+"Chest of Heavy Gloves",77883
 "Malicious White Mantle Censer",77885
 "Chest of Insignia",77886
 "Assaulter's White Mantle Pistol",77887
+"Chest of Medium Boots",77888
 "Assaulter's White Mantle Spaulders",77889
 "Attuned Malicious Woven Band (Infused)",77890
 "Matthias's Assaulter Staff",77891
@@ -50579,6 +50777,7 @@
 "Dominator Dagger Skin",77897
 "Dominator Greatsword Skin",77898
 "Malicious Woven Band (Infused)",77899
+"Chest of Heavy Leggings",77901
 "Healer's White Mantle Short Bow",77903
 "Assaulter's White Mantle Censer",77904
 "Assaulter's White Mantle Amice",77905
@@ -50599,6 +50798,7 @@
 "Defender's Slothasor Effigy",77922
 "Assaulter's White Mantle Greatbow",77924
 "Attuned Malicious Energized Loop",77926
+"Chest of Heavy Shoulders",77927
 "Healer's Woven Band (Infused)",77929
 "Assaulter's White Mantle Short Bow",77933
 "Assaulter's Energized Loop (Infused)",77935

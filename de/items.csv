@@ -32302,6 +32302,7 @@
 "Beutel mit Münzen",44597
 "Kunstvolle Uhrwerkskiste",44598
 "Verzierte Uhrwerkskiste",44599
+"Prächtige Uhrwerkskiste",44600
 "Permanenter \"Verdrehtes Uhrwerk\"-Todesstoß",44601
 "Kupferbetriebener Wiederverwert-o-Mat",44602
 "Königlicher Passierschein (2 Wochen)",44604
@@ -32309,6 +32310,7 @@
 "Skin für Maske des Jubiläums",44607
 "Skin für Maske der Königin",44608
 "Skin für Maske der Krone",44609
+"Maske der Königin",44622
 "Maske der Krone",44632
 "Flammen von Kryta",44637
 "Heißluftballon-Souvenir",44638
@@ -32336,13 +32338,17 @@
 "Rezept: Geringes Sigill der Bosheit",44663
 "Rezept: Überlegenes Sigill der Bosheit",44664
 "Skin für hoheitlichen Ausweider",44667
+"Hoheitliche Cinquedea",44668
 "Skin für hoheitliche Cinquedea",44670
+"Hoheitliches Artefakt",44671
 "Skin für hoheitliches Artefakt",44673
+"Hoheitlicher Recke",44674
 "Skin für hoheitlichen Recken",44676
 "Skin für hoheitlichen Kriegshammer",44679
 "Skin für hoheitlichen Großbogen",44682
 "Skin für hoheitlichen Bestrafer",44685
 "Skin für hoheitliche Schusswaffe",44688
+"Hoheitliche Hakenbüchse",44690
 "Skin für hoheitliche Hakenbüchse",44691
 "Skin für hoheitliches Zepter",44694
 "Skin für hoheitlichen Beschützer",44697
@@ -32369,15 +32375,20 @@
 "Mini Verdrehter Reparierer",44730
 "Moto-Plüschrucksack-Bezug",44733
 "Moto-Plüschrucksack-Bezug",44735
+"Maske der Nacht",44736
 "Skin für Maske der Nacht",44738
+"Maske der Nacht",44739
 "Skin für Papiertütenhelm (Errötet)",44745
 "Skin für Papiertütenhelm (Froh)",44759
 "Skin für Papiertütenhelm (Traurig)",44766
 "Skin für Papiertütenhelm (Verärgert)",44773
 "Kostümierte Minis 3er-Pack",44779
+"Chiroptophobie",44789
 "Skin für Chiroptophobie-Großschwert",44791
 "Skin für Araneae-Langbogen",44797
+"Vollstopp",44810
 "Skin für Vollstopp-Schild",44812
+"Stab des Blutigen Prinzen",44816
 "Stab des Blutigen Prinzen",44817
 "Skin für Stab des Blutigen Prinzen",44818
 "Skin für Albernen Krummsäbel",44821
@@ -32387,6 +32398,7 @@
 "Skin für Zodiak-Fokus",44836
 "Skin für Zodiak-Großschwert",44839
 "Skin für Zodiak-Hammer",44842
+"Zodiak-Langbogen",44843
 "Skin für Zodiak-Langbogen",44845
 "Skin für Zodiak-Streitkolben",44848
 "Skin für Zodiak-Pistole",44851
@@ -32395,8 +32407,10 @@
 "Skin für Zodiak-Schild",44860
 "Zodiak-Kurzbogen",44861
 "Skin für Zodiak-Kurzbogen",44863
+"Zodiak-Stab",44864
 "Skin für Zodiak-Stab",44866
 "Skin für Zodiak-Schwert",44869
+"Zodiak-Fackel",44870
 "Skin für Zodiak-Fackel",44872
 "Skin für Zodiak-Kriegshorn",44875
 "Kastenteufel-Sense",44876
@@ -32410,7 +32424,9 @@
 "Einfaches Erzknotenpaket",44884
 "Skin-Satz für Nebelherold-Rücken-Gegenstand",44886
 "Skin für Nebelherold-Rücken-Gegenstand",44888
+"Liebestrunkene Axt",44889
 "Skin für liebestrunkene Axt",44891
+"Liebestrunkene Ochsenzunge",44892
 "Skin für liebestrunkene Ochsenzunge",44894
 "Skin für liebestrunkenen Fokus",44897
 "Skin für liebestrunkenes Großschwert",44900
@@ -32420,12 +32436,15 @@
 "Skin für liebestrunkene Pistole",44912
 "Skin für liebestrunkenes Gewehr",44915
 "Skin für liebestrunkenes Zepter",44918
+"Liebestrunkener Beschützer",44919
 "Skin für liebestrunkenen Beschützer",44921
 "Skin für liebestrunkenen Kurzbogen",44924
 "Skin für liebestrunkenen Stab",44927
 "Skin für liebestrunkenes Schwert",44930
 "Skin für liebestrunkene Flamme",44933
+"Liebestrunkener Ruf",44934
 "Skin für liebestrunkenen Ruf",44936
+"Permanenter Zweitplatzierten-Trophäen-Todesstoß",44938
 "Uhrwerk-Zwischenzahnrad",44941
 "Geringes Sigill der Explosion",44942
 "Beachtliches Sigill der Explosion",44943
@@ -32497,6 +32516,11 @@
 "Geschenk von Scarlet",45029
 "\"Verdrehtes Uhrwerk\"-Schulterfragment",45030
 "Scarlet-Geheimvorrat",45031
+"\"Verdrehtes Uhrwerk\"-Schultern",45032
+"\"Verdrehtes Uhrwerk\"-Schultern",45033
+"\"Verdrehtes Uhrwerk\"-Schultern",45034
+"\"Verdrehtes Uhrwerk\"-Schultern",45035
+"\"Verdrehtes Uhrwerk\"-Schultern",45037
 "\"Verdrehtes Uhrwerk\"-Schultern",45038
 "Stückchen \"Verdrehtes Uhrwerk\"-Fragment",45039
 "Haufen \"Verdrehtes Uhrwerk\"-Fragment",45040
@@ -32512,6 +32536,8 @@
 "WEP-Verstärker",45055
 "WEP-Verstärker",45056
 "WEP-Verstärker",45057
+"WEP-Verstärker",45058
+"WEP-Verstärker",45059
 "WEP-Mini-Verstärker",45060
 "Candy-Corn-Gold-Amulett",45061
 "Candy-Corn-Silberanhänger",45062
@@ -33871,6 +33897,7 @@
 "Defragmentierungskristall",46466
 "Sam",46467
 "Das Allsehende",46468
+"Moto-Plüschrucksack",46490
 "Moto-Plüschrucksack-Bezug",46492
 "Moto-Plüschrucksack-Bezug",46493
 "Mini Super-Banane",46494
@@ -33940,7 +33967,9 @@
 "Perücke Prinzessin Miyas",46644
 "Kleid Prinzessin Miyas",46645
 "Tiara Prinzessin Miyas",46646
+"Krötenkönig-Rucksack-Bezug",46647
 "Krötenkönig-Rucksack-Bezug",46649
+"Sturmzauberer-Rucksack-Bezug",46650
 "Sturmzauberer-Rucksack-Bezug",46652
 "Mini Prinzessin Miya",46653
 "Mini Moto",46654
@@ -35096,8 +35125,13 @@
 "Soldatischer Benthischer Wasser-Atmer der Befallenen",47875
 "Begrenzter Wachsamen-Megalaser-Todesstoß",47879
 "Permanenter Wachsamen-Megalaser-Todesstoß",47880
+"Schwerer Hirsch-Helm",47881
 "Skin für Hirsch-Helm",47883
+"Schwere Grenth-Kapuze",47888
 "Skin für Grenth-Kapuze",47890
+"Leichte Grenth-Kapuze",47891
+"Leichte Grenth-Kapuze",47892
+"Mittlere Grenth-Kapuze",47893
 "Begrenzter Schneekugel-Todesstoß",47895
 "Permanenter Schneekugel-Todesstoß",47896
 "Uhrwerk-Spitzhacke",47897
@@ -35888,6 +35922,7 @@
 "Halloween-Kanister",48715
 "Kompletter Ätherschlüssel",48716
 "Ätherschlüsselteil",48717
+"Flutschsack",48719
 "Flutschsack",48721
 "Jochlilie der Träume",48723
 "Trauerdorn der Träume",48724
@@ -35916,7 +35951,21 @@
 "Mini Piloten-Bonbonsammler",48755
 "Mini Caithe",48756
 "Mini Dolyak",48761
+"Belohnungstruhen-Schlüssel der WvW-Saison 1",48762
 "Teilnehmertasche der WvW-Saison 1",48763
+"Erfolgstruhe der WvW-Saison 1",48764
+"Belohnungstruhe der WvW-Saison 1 (verschlossen)",48765
+"Belohnungstruhe der WvW-Saison 1 (verschlossen)",48767
+"Belohnungstruhe der WvW-Saison 1 (Aufgesperrt)",48768
+"Belohnungstruhe der WvW-Saison 1 (verschlossen)",48769
+"Belohnungstruhe der WvW-Saison 1 (verschlossen)",48771
+"Belohnungstruhe der WvW-Saison 1 (verschlossen)",48773
+"Belohnungstruhe der WvW-Saison 1 (verschlossen)",48775
+"Belohnungstruhe der WvW-Saison 1 (verschlossen)",48777
+"Belohnungstruhe der WvW-Saison 1 (Aufgesperrt)",48778
+"Belohnungstruhe der WvW-Saison 1 (verschlossen)",48779
+"Belohnungstruhe der WvW-Saison 1 (verschlossen)",48781
+"Beutel mit konfiszierten Süßigkeiten",48795
 "Truhe des Verrückten Königs",48796
 "Fernmelde-Golem Taimis",48803
 "Gabe des Candy-Corns",48804
@@ -35934,14 +35983,20 @@
 "Truhe",48832
 "Fantastische Truhe",48833
 "Krait-Obeliskenscherbe",48875
+"Heilender Foliant: Gegengift-Spray",48876
 "Mini Toxischer Hybrid",48877
 "Mini Toxischer Nimross",48879
 "Zermanschte Sporenprobe",48882
 "Makellose toxische Sporenprobe",48884
+"Gasmaske",48887
+"Gasmaske",48889
+"Gasmaske",48891
 "Skin für Gasmaske",48893
+"Skin für Luftfilterglocke",48895
 "Luftfilterglocke des Gegengifts",48896
 "Luftfilterglocke des Gegengifts",48897
 "Luftfilterglocke des Gegengifts",48898
+"Toxische Spore",48903
 "Skin für Toxische Spore",48905
 "Schriftrolle des Wissens",48906
 "Überlegene Rune des Gegengifts",48907
@@ -35977,18 +36032,23 @@
 "Wurmbezwinger-Handgelenkschutz",48939
 "Wurmbezwinger-Greifer",48941
 "Skin für Maske des Wanderers",48944
+"Maske des Wanderers",48946
+"Maske des Wanderers",48950
 "Sammelverstärker",48951
 "Permanenter Toxischer-Ableger-Todesstoß",48952
 "Begrenzter Toxischer-Ableger-Todesstoß",48953
 "Toxisches Farbkit",48954
 "Traumspalter-Holzfälleraxt",48955
+"Traumdistel-Axt",48956
 "Skin für Traumdistel-Axt",48958
 "Skin für Traumdistel-Dolch",48961
 "Skin für Traumdistel-Fokus",48964
+"Traumdistel-Großschwert",48965
 "Skin für Traumdistel-Großschwert",48967
 "Skin für Traumdistel-Hammer",48970
 "Skin für Traumdistel-Langbogen",48973
 "Skin für Traumdistel-Streitkolben",48976
+"Traumdistel-Pistole",48977
 "Skin für Traumdistel-Pistole",48979
 "Skin für Traumdistel-Gewehr",48982
 "Skin für Traumdistel-Zepter",48985
@@ -36003,11 +36063,21 @@
 "Skin für Traumdistel-Dreizack",49006
 "Skin für Traumdistel-Harpunenschleuder",49009
 "Skin für Traumdistel-Speer",49012
+"Marjory-Axt",49013
 "Skin für Marjory-Axt",49015
+"Marjory-Dolch",49016
 "Skin für Marjory-Dolch",49018
+"Kasmeer-Stab",49019
+"Kasmeer-Stab",49020
 "Skin für Kasmeer-Stab",49021
+"Toxischer Schulterschutz",49022
 "Skin für Toxischen Überwurf",49024
+"Toxischer Überwurf",49025
+"Toxisches Schulterpolster",49027
+"Toxische Stulpenhandschuhe",49029
 "Skin für Toxische Handschuhe",49031
+"Toxische Handschuhe",49032
+"Toxischer Armschutz",49034
 "Beutel mit Münzen",49037
 "Muschelbeutel",49038
 "Saatgutbeutel",49039
@@ -36017,6 +36087,14 @@
 "Dreifarbiger Schlüssel",49132
 "Endloser toxischer Krait-Trank",49133
 "Rezept: Endloser toxischer Krait-Trank",49134
+"Geschmolzenes Stück Eisen",49135
+"Ätherklingen-Daten",49136
+"Uhrwerk-Kern",49137
+"Getrocknete Toxische Spore",49138
+"Stabiler Stock",49139
+"Trockene Wurzel",49140
+"Notdürftiger Fackelgriff",49141
+"Notdürftige Fackel",49143
 "Ungeöffneter endloser Geheimtrank",49145
 "Ungeöffneter endloser Geheimtrank",49146
 "Ungeöffneter endloser Geheimtrank",49147
@@ -36028,6 +36106,7 @@
 "Permanenter Todesstoß des ascalonischen Anführers",49164
 "Permanenter Mystischer Drachen-Todesstoß",49165
 "Permanenter Todesstoß des Skritt-Plünderers",49169
+"Hort aufgestiegener Materialien",49206
 "Aufgestiegene Waffentruhe",49207
 "Aufgestiegene Rüstungstruhe",49208
 "Rezept: Überlegene Rune des Widerstands",49209
@@ -36070,6 +36149,7 @@
 "Skin für Qual-Axt",49314
 "Skin für Qual-Dolch",49317
 "Skin für Qual-Fokus",49320
+"Qual-Großschwert",49321
 "Skin für Qual-Großschwert",49323
 "Skin für Qual-Hammer",49326
 "Skin für Qual-Langbogen",49329
@@ -36204,6 +36284,8 @@
 "Tarrktuns persönliches Liefer-Portal",49501
 "Gewaltige Ektoplasmakugel",49503
 "Rezept: Siedelnde aufwändige Gaze-Insignie",49509
+"Gegengift-Injektor",49519
+"Gegengift-Injektor",49520
 "Skin für Gegengift-Injektor",49521
 "Grausame aufwändige Gaze-Insignie",49522
 "Geringerer Visionskristall",49523
@@ -36215,6 +36297,18 @@
 "Wohlstand-Farbe",49529
 "Rückruf-Farbe",49530
 "Sammelwerkzeuge im Dreierpack",49531
+"Reisetasche des Soldaten",49532
+"Geheimnisvolle PvP-Kiste",49533
+"Kiste mit schwerer Kodan-Rüstung",49549
+"Kiste mit leichter Kodan-Rüstung",49551
+"Kiste mit orrianischer schwerer Rüstung",49555
+"Kiste mit orrianischer leichter Rüstung",49557
+"Kiste mit schwerer Rüstung der Menschen Rang 3",49564
+"Kiste mit leichter Rüstung der Menschen Rang 3",49566
+"Kiste mit leichter Rüstung der Asura Rang 1",49577
+"Kiste mit leichter Rüstung der Asura Rang 2",49580
+"Kiste mit mittlerer Rüstung der Asura Rang 2",49581
+"Kiste mit leichter Rüstung der Asura Rang 3",49583
 "Kiste mit schwerer Rüstung der Norn Rang 2",49588
 "Hüter-Kriegsfäuste",49611
 "Hüter-Schulterschützer",49612
@@ -36242,9 +36336,11 @@
 "Schatz der Marionetten-Wache I",49657
 "Schatz der Marionetten-Wache V",49658
 "Ersatzschlüssel Scarlets",49662
+"Tasche mit Energiekernteilen",49663
 "Gold-Truhe des Wurms",49664
 "Bronze-Truhe des Wurms",49666
 "Silber-Truhe des Wurms",49667
+"Tägliche Wurmtruhe",49669
 "Haufen Hervorgewürgter Rüstung",49670
 "Rezept: Hüter-Harpunenschleuder",49672
 "Rezept: Hüter-Flammenschale",49673
@@ -36382,6 +36478,7 @@
 "Mini \"Verdrehtes Uhrwerk\"-Moa",49827
 "Amulett der dreifachen Neugierde",49828
 "Skin für Annelid-Gewehr",49831
+"Wurmbezwinger-Visier",49832
 "Wurmbezwinger-Maske",49833
 "Wurmbezwinger-Antlitz",49835
 "Verlorengegangener Ehering Connies",49836
@@ -36447,6 +36544,7 @@
 "Koda-Hammer",49925
 "Wach-Geschützturm",49926
 "Luftschlag-Granate",49927
+"Angesengte Golem-Teile",49929
 "Boxhandschuhe",49930
 "Hexenbesen",49931
 "Verzauberter Besen",49932
@@ -36461,6 +36559,8 @@
 "Mini Mai Trin",49950
 "Permanenter Lama-Todesstoß",49952
 "Permanenter Quaggan-Todesstoß",49954
+"Ölfass",49957
+"Eisblock",49958
 "Mini-Truhe der Nebel",49959
 "Truhe der Nebel",49960
 "Selbstloser Trank",50014
@@ -37176,6 +37276,7 @@
 "Verlassener Titanenbrand",51822
 "Verlassener Brüller",51823
 "Verlassener Kauterisierer",51824
+"Verlassenes Breites Grinsen",51825
 "Verlassener Scharfstecher",51827
 "Verlassener Hand-Feuerspucker",51828
 "Verlassener Wutanfall",51829
@@ -41717,13 +41818,24 @@
 "Rückenplatte des Wüters der Koralle",63276
 "Berserkerhafte Rückenplatte des Rubins",63277
 "Klerikale Rückenplatte des Saphirs",63278
+"Meuchelnder alter Stab",63279
 "Arzneikundlerischer alter Kurzbogen",63280
 "Klerikaler alter Stab",63281
 "Wütendes Mithril-Großschwert",63282
 "Ritterlicher Mithril-Hammer des Ritters",63283
 "Berserkerhafter Alter Langbogen",63284
 "Berserkerhaftes Mithril-Gewehr",63286
+"Klerikales Mithril-Gewehr",63287
+"Berserkerhafter Alter Kurzbogen",63288
+"Kommandosoldaten-Schulterschutz",63289
+"Vorreiter-Schulterschutz",63290
+"Truppenmitglied-Schulterschutz",63291
+"Kommandosoldaten-Überwurf",63292
 "Vorreiter-Überwurf",63293
+"Truppenmitglied-Überwurf",63294
+"Kommandosoldaten-Schulterschützer",63295
+"Vorreiter-Schulterschützer",63296
+"Truppenmitglied-Schulterschützer",63297
 "Kommandosoldaten-Helm",63298
 "Vorreiter-Helm",63299
 "Truppenmitglied-Helm",63300
@@ -41787,6 +41899,7 @@
 "Faulende Dunkelstahl-Axt",63359
 "Starker Schüler-Überwurf",63360
 "",63366
+"Schriftrolle des Wissens",63378
 "Beutetasche",63379
 "Rächer-Stab",63383
 "Rächer-Langbogen",63384
@@ -42129,8 +42242,11 @@
 "Unheilvoller Dolch",63833
 "Befreier von Löwenstein-Truhe",63847
 "Skin für Scarlet-Schleier",63853
+"Scarlet-Schleier",63854
 "Regenbogen Scarlets",63856
 "Kuss Scarlets",63857
+"Scarlet-Schleier",63858
+"Scarlet-Schleier",63861
 "Verzierte Uhrwerkskiste",63862
 "Minis 3er-Pack (Satz 3)",63870
 "Mini Wiedergänger Rytlock",63871
@@ -42269,6 +42385,8 @@
 "Veredeltes Eisen-Schwert des Giftes",64125
 "Wackeres Abgenutztes Schuppen-Wams des Vampirismus",64126
 "Eisenring",64127
+"Eisenring",64128
+"Kühnes Amulett",64129
 "Mächtiges Amulett",64130
 "Faulendes Amulett",64131
 "Wackerer Eisen-Speer",64132
@@ -42416,8 +42534,16 @@
 "Helden-Kriegshorn",64301
 "Belohnungstruhe für das WvW-Frühlingsturnier 2014 (Aufgesperrt)",64340
 "Belohnungstruhe für WvW-Erfolge",64348
+"Belohnungstruhe für das WvW-Frühlingsturnier 2014 (Aufgesperrt)",64349
 "Belohnungstruhe für das WvW-Frühlingsturnier 2014 (Aufgesperrt)",64351
+"Belohnungstruhe für das WvW-Frühlingsturnier 2014 (Aufgesperrt)",64352
+"Belohnungstruhe für das WvW-Frühlingsturnier 2014 (Aufgesperrt)",64353
 "Belohnungstruhe für WvW-Erfolge",64354
+"Belohnungstruhe für das WvW-Frühlingsturnier 2014 (Aufgesperrt)",64355
+"Belohnungstruhe für das WvW-Frühlingsturnier 2014 (Aufgesperrt)",64356
+"Belohnungstruhe für das WvW-Frühlingsturnier 2014 (Aufgesperrt)",64357
+"Belohnungstruhe für WvW-Erfolge",64359
+"Belohnungstruhe für WvW-Erfolge",64360
 "Belohnungstruhe für WvW-Erfolge",64362
 "Belohnungstruhe für WvW-Erfolge",64363
 "Swelter-Tritt",64526
@@ -42937,12 +43063,15 @@
 "Duftrauchbrenner",66205
 "Sklero-Karka-Panzer",66206
 "Bronzene Bossblitz-Truhe",66208
+"Willkommensgeschenk",66209
 "Goldene Bossblitz-Truhe",66210
+"Prämien des Festes",66211
 "Ausrüstungstasche",66212
 "Helm-Satz für Drachen-Hörner",66213
 "Endloser Dolyak-Kalb-Trank",66214
 "Mini Panda",66216
 "Silberne Bossblitz-Truhe",66217
+"Spießrutenlauf-Chance",66219
 "Gunst des Festes",66220
 "Prickelsprudel",66221
 "Verwitterte Gunst des Basars",66222
@@ -42973,7 +43102,12 @@
 "Metall-Aqua-Atmer",66344
 "Leder-Aqua-Atmer",66345
 "Stoff-Aqua-Atmer",66346
+"Belohnungstruhe für das WvW-Frühlingsturnier 2014 (Aufgesperrt)",66350
+"Belohnungstruhe für das WvW-Frühlingsturnier 2014 (Aufgesperrt)",66351
 "WvW-Turnier-Ticket",66352
+"Belohnungstruhe für das WvW-Frühlingsturnier 2014 (Aufgesperrt)",66355
+"Belohnungstruhe für das WvW-Frühlingsturnier 2014 (Aufgesperrt)",66356
+"Belohnungstruhe für das WvW-Frühlingsturnier 2014 (Aufgesperrt)",66357
 "Ventari-Handgelenkschutz",66359
 "Ventari-Schulterschützer",66360
 "Ventari-Beinkleid",66361
@@ -43178,6 +43312,7 @@
 "Saboteur-Rucksack",66621
 "Kiste mit Vorräten der Inquestur-Forscher",66622
 "Wütender Abenteurer-Schal",66623
+"Zephyriten-Dietrich",66624
 "Klerikale Abenteurer-Brille",66625
 "Ambritversteinerter Hundertfüßler",66636
 "Ambrit-Stück",66637
@@ -43202,6 +43337,8 @@
 "Ambritversteinerter Moskito",66656
 "Ambritversteinerte Gottesanbeterin",66657
 "Schattenassassinen-Kleidungsset",66658
+"Preise für PvP-Qualifikanten: Plätze 1 und 2",66660
+"Preise für PvP-Qualifikanten: Plätze 3 und 4",66661
 "Turnier der Legenden: Plätze 5 bis 8",66662
 "Preise für PvP-Qualifikanten: Plätze 5 bis 8",66666
 "Turnier der Legenden: Plätze 9 bis 16",66667
@@ -43361,6 +43498,7 @@
 "Episodenschlüssel: Verschlingung",66871
 "Episodenschlüssel: Im Bann des Drachen (Teil I)",66872
 "Episodenschlüssel: Pforten von Maguuma",66873
+"Mordrem-Hülle-Proben",66885
 "Kultivierter Ableger",66890
 "Ungeöffneter Wohlstand-Mine-Lenkdrachen",66893
 "Ungeöffneter Kristallscherben-Lenkdrachen",66895
@@ -43689,6 +43827,7 @@
 "Jormag-Klauen-Fragment",67276
 "Wegmarkenpass-Kiste",67279
 "Teleport zum Freund",67280
+"Mini Häuptling Utahein und Mini Svanir",67281
 "Schwarzlöwen-Wiederverwertungskit",67283
 "Elektro-Pink-Farbe",67284
 "Elektro-Zitronen-Farbe",67285
@@ -43718,11 +43857,15 @@
 "Überlegene Rune des Zauberglanzes",67342
 "Überlegenes Sigill der Unfähigkeit",67343
 "Überlegene Rune der Ausflucht",67344
+"Belohnungstruhe für WvW-Erstplatzierte",67345
+"Belohnungstruhe für WvW-Zweitplatzierte",67346
+"Belohnungstruhe für WvW-Drittplatzierte",67347
 "Belagerungs-Unterbrecher",67348
 "Verpacktes Bonbon",67352
 "Glänzendes Bonbonpapier",67353
 "Geisterhafter Briefbote",67355
 "Fliegender Teppich",67356
+"Unterstützungspaket für Welt gegen Welt",67359
 "Halskette Oontzs des Kürbisses",67361
 "Endlose Flasche Fledermausflügel-Gebräu",67362
 "Spielzeugtruhe des Blutigen Prinzen",67363
@@ -43936,6 +44079,7 @@
 "Endloser Dürre-Verschlinger-Trank",67783
 "Endloser Staubmilben-Trank",67784
 "Rezeptbuch für Finsteren Schmuck",67786
+"Banditen-Wappen",67787
 "Banditenlager",67788
 "Zeichen Ogdens Dankbarkeit",67789
 "Geisterhafte Beutetasche",67790
@@ -44175,6 +44319,7 @@
 "Schrift der Erfahrung",68109
 "Trank der PvP-Belohnung",68110
 "Essenz des Goldes",68111
+"Truhe des Holzes",68112
 "Truhe des Helden",68115
 "Truhe des Gefallenen Helden",68117
 "Truhe des Abenteurers",68118
@@ -44194,28 +44339,40 @@
 "Truhe des Helden",68149
 "Truhe mit Waren aus der Flammenzitadelle",68151
 "Truhe mit Waren aus dem Schmelztiegel der Ewigkeit",68153
+"Truhe der Nebel",68155
 "Transzendente Truhe",68156
 "Transzendente Truhe des Wissens",68159
 "Truhe der Monströsen Waren",68160
 "Truhe des Athleten",68162
 "Truhe des Explorators",68164
+"Truhe des Mystikers",68201
 "Truhe des Helden",68207
+"Truhe des Abenteurers",68214
+"Forschungstruhe des Fraktal-Eingeweihten",68217
 "Transzendente Truhe",68224
 "Truhe der Monströsen Waren",68227
+"Truhe des Gefallenen Helden",68229
 "Truhe des Erzes",68230
 "Truhe des Helden",68232
 "Truhe des Gefallenen Helden",68233
+"Truhe der Pflanzen",68235
 "Transzendente Truhe des Wissens",68240
+"Transzendente Truhe",68242
+"Truhe der Pflanzen",68256
 "Truhe des Gefallenen Helden",68269
 "Truhe des Gefallenen Helden",68272
 "Transzendente Truhe",68279
 "Truhe des Mystikers",68281
 "Truhe des Erzes",68283
 "Transzendente Truhe",68284
+"Truhe des Holzes",68290
 "Transzendente Truhe des Wissens",68291
 "Truhe des Abenteurers",68293
+"Forschungstruhe des Fraktal-Eingeweihten",68294
 "Truhe des Helden",68295
+"Truhe des Handwerkers",68298
 "Truhe des Helden",68303
+"Truhe der Monströsen Waren",68308
 "Beutel mit Lorbeeren",68314
 "Truhe mit Schwarzlöwen-Waren",68315
 "Beutel mit Erfahrung",68316
@@ -44274,6 +44431,7 @@
 "Seite von \"Die vollständigen Wintertag-Rituale zu Ehren der kürzlich Besiegten\"",68372
 "Bitterkalte Orichalcum-Holzfälleraxt",68373
 "Bitterkalte Werkzeugkiste",68374
+"Aufgeräumte Bitterkalte Werkzeugkiste",68375
 "Bitterkalte Orichalcum-Spitzhacke",68376
 "Bitterkalte Orichalcum-Erntesichel",68377
 "Hübsche Stricksocke",68378
@@ -44282,16 +44440,22 @@
 "Riesige staubige Kiste mit Winterkleidung",68381
 "Staubige Kiste mit Winterkleidung",68382
 "Gefrorene Kiste mit Festtagskleidern",68383
+"Mysteriöses schmuddeliges Paket",68386
 "Brief des Waisenkinds Laine",68387
+"Mysteriöses schmuddeliges Paket",68388
 "Zerstörte Wintertag-Dekoration",68389
 "Glitzriger Müllhaufen",68390
+"Mysteriöses schmuddeliges Paket",68391
 "Großzügiges Geschenk des Waisenkinds",68392
+"Mysteriöses schmuddeliges Paket",68393
 "Lilafarbenes Kugel-Ornament",68394
 "Schaukelpferd-Ornament",68395
 "Goldenes Kugel-Ornament",68396
 "Kleines Puppen-Ornament",68397
 "Funkelndes Lametta-Ornament",68398
+"Mysteriöses schmuddeliges Paket",68399
 "Grünes Kugel-Ornament",68400
+"Mysteriöses schmuddeliges Paket",68401
 "Kelch mit Blutsteinchili",68402
 "Becher mit Blutsteinsuppe",68403
 "Schüssel mit Blutsteineis",68404
@@ -44307,9 +44471,13 @@
 "Flaschenförmiges Geschenk",68414
 "Überlegenes Kit des Kaltwetter-Bezwingers",68417
 "Tixx' Geschenk",68418
+"Kleine Auswahl des Kaltwetter-Bezwingers",68419
+"Große Auswahl des Kaltwetter-Bezwingers",68420
+"Überlegene Auswahl des Kaltwetter-Bezwingers",68421
 "Festlich verpackte Getränkekiste",68424
 "Buch mit Festlichen Getränkerezepten",68426
 "Großes Kit des Kaltwetter-Bezwingers",68427
+"Penns Ultimatives Wintertag-Geschenk",68429
 "Persönliches Wintertag-Geschenk",68431
 "Mini Festlicher Fürst Faren",68432
 "Beachtliches Sigill des Unfugs",68434
@@ -44420,8 +44588,10 @@
 "Rote Festlaterne",68638
 "Goldenes Widderfigürchen",68639
 "Dekorative goldene Trophäe",68640
+"Stapel mit 5 Göttlichen Glückskuverts",68641
 "Selbst gemachtes Glückskuvert",68642
 "Truhe des Drachenball-Champions mit 10 Göttlichen Glückskuverts",68643
+"Personalisiertes selbst gemachtes Glückskuvert",68644
 "Kleines Glückskuvert",68645
 "Göttliches Glückskuvert",68646
 "Göttliches Glückskuvert des Drachenball-Champions",68647
@@ -45085,6 +45255,7 @@
 "Wandersmännische Ruka-Inschrift",70632
 "Rezept: Minnesängerischer Perlen-Zermalmer",70633
 "Rezept: Maklain-Zauberstab",70634
+"Der Jotun-Stern",70635
 "Unsichtbare Schnitter-Pilzspore",70636
 "Rezept: Wandersmännische drakonische Stulpenhandschuhe",70637
 "Gold-Fraktal-Kriegshorn",70638
@@ -45887,6 +46058,7 @@
 "Rezept: Wachsamer drakonischer Schulterschutz",71690
 "Schrift über meisterhafte Geschwindigkeit",71691
 "Beutel mit rotem Pigment",71692
+"Seelenenergie vom Auferstandenen Ritter",71693
 "Klerikaler Güldener Streitkolben",71694
 "Rezept: Laranthir-Spalter",71695
 "Erzwahrsager-Talisman",71696
@@ -46011,6 +46183,7 @@
 "Spinatsamen",71863
 "Viperhafte Perlen-Donnerbüchse",71864
 "Rezept: Tizlak-Beinkleid",71865
+"Champion-Truhe der Nebel",71866
 "Gerüchte-Orden-Wartungsöl",71867
 "Geisterpiraten-Marke",71869
 "Angchu-Metall-Atmer",71870
@@ -46022,6 +46195,7 @@
 "Kerzenreihe",71878
 "Geöltes Orichalcum-Helmfutter",71879
 "Der Bifröst, Band 2",71881
+"Requirierung von Alten Standard-Fokussen",71882
 "Ausbalancierter Dreizackschaft",71883
 "Wandersmännische Ley-Stein-Stiefel",71884
 "Nebelrahmen dritter Ordnung",71885
@@ -46193,6 +46367,7 @@
 "Verderben Modniirs",72104
 "Gilden-Verstärkung: Sammeln",72105
 "Eingestimmte Windungen Mellaggans",72106
+"Veteranen-Truhe der Nebel",72107
 "Ruka-Revolver",72108
 "Bearbeitetes Zepter",72109
 "Luftschifferprobtes Schwert-Zahnrad",72110
@@ -46272,6 +46447,7 @@
 "Chak-Ei",72205
 "Anleitung: Nebelwächter-Schulterschutz",72208
 "Harter Holzstift",72209
+"Machete",72210
 "Rezept: Yassith-Klinge",72212
 "Ruka-Schulterschutz",72214
 "Runenstein-Reibebild von Heimdahls Widerstand",72215
@@ -46359,6 +46535,7 @@
 "Verärgerter Schleim",72322
 "Rezept: Ruka-Doublet",72323
 "Gilden-Verstärkung: Sammeln",72324
+"Caithe-Blüte",72325
 "Schießbude: Silber",72326
 "Enormer-Megalodon-Zahn",72328
 "Die Flammensucher-Prophezeiungen, Band 2",72329
@@ -46447,6 +46624,7 @@
 "Erlesenes schwarzes Diamant-Juwel",72435
 "Achatkugel",72436
 "Süßwasserperlen-Orichalcum-Ring",72437
+"Chak-Lager",72438
 "Rezept: Verata-Metall-Atmer",72439
 "Aufgeladener Streitkolbenkopf",72440
 "Gilden-Verstärkung: Kartenbonusrate",72441
@@ -47685,6 +47863,7 @@
 "Wandersmännische Ley-Stein-Handschuhe",74102
 "Wegweisender Drakonischer Helm",74103
 "Buchsbaumhecke \"Kugel\"",74104
+"Ausweider-Magie",74106
 "Essenz des Hains",74107
 "Rune der Dornen",74108
 "Rezept: Kommandierende Perlen-Rute",74109
@@ -48016,6 +48195,7 @@
 "Gepanzertes Großschwert",74558
 "Zentauren-Sonnenuhr",74559
 "Überlegene Langbogen-Schnitzwerkzeuge",74560
+"Beutekiste des Hylek",74561
 "Stumpenkerze",74563
 "Rezept: Kommandierende drakonische Stiefel",74564
 "Minnesängerischer Perlen-Zermalmer",74565
@@ -48034,6 +48214,7 @@
 "Rezept: Ruka-Beinschienen",74582
 "Rezept: Wegweisende prunkvolle Handschuhe",74584
 "Dunkles Zepter",74585
+"Caithe-Reumütigkeit",74586
 "Gitterlaube",74588
 "Wütendes Güldenes Zepter",74589
 "Truhe des Fisches",74591
@@ -48166,6 +48347,7 @@
 "Luftschifferprobtes Stab-Zahnrad",74758
 "Treibende Nachtdistel im Topf",74759
 "Gold-Fraktal-Speerschleuder",74760
+"Vergessene Behandlung",74761
 "Mini Tengu",74762
 "Bottich Holzleim",74763
 "Flachlandwurmfleisch",74764
@@ -48550,6 +48732,7 @@
 "Aufzeichnungen Ogdens",75279
 "Aufgeladener Kurzbogenstab",75280
 "Flasche nicht kategorisierte Energie",75281
+"Fleischreißer-Magie",75283
 "Aufgestiegenes Wiederverwertungswerkzeug",75284
 "Pahua-Antlitz",75285
 "Meuchelnder Güldener Langbogen",75286
@@ -48660,6 +48843,7 @@
 "Verzierter Pistolenrahmen",75429
 "Rezept: Kommandierende Tizlak-Inschrift",75430
 "Pakt-Überlegenheit",75433
+"Freund der Hunde",75434
 "Erlesenes Achat-Juwel",75435
 "Rezept: Wandersmännischer Perlen-Dreizack",75436
 "Marodierendes Drakonisches Wams",75437
@@ -48704,6 +48888,7 @@
 "Rezept: Wegweisender Perlen-Kurzstab",75496
 "Ley-Linien-Kriegshornkern",75497
 "Haufen Beryllstaub",75498
+"Unverwüstlicher Gerüchte-Gurt",75500
 "Rezept: Wachsame Laranthir-Insignie",75501
 "Essenz der Chemie",75504
 "Sigillenbeutel",75505
@@ -49212,6 +49397,7 @@
 "Hüter-Leder-Atmer",76184
 "Ossa-Epauletten",76186
 "Ausbalancierter Zepterstab",76187
+"Vom Raben gesegnet",76189
 "Traum von Kralkatorrik",76190
 "Rezept: Ossa-Kriegshammer",76191
 "Dunkler Streitkolben",76193
@@ -49914,6 +50100,7 @@
 "Rabenfeder",77154
 "Notizen zur Musiktheorie",77155
 "Perfektionierter Dolch",77156
+"Versunkener Piratenschatz",77157
 "Stachelschwanz-Stachel",77158
 "Truhe des Geistes",77159
 "Mini Grymm-Belohnungskiste",77160
@@ -50192,6 +50379,7 @@
 "Gabe der Gefechtsbeherrschung",77485
 "Zertifikat der Unterstützung",77486
 "Essenz der Herausforderung",77488
+"Gilden-Herausforderungs-Platintrophäe",77490
 "Skin für Unbarmherzige Axt",77491
 "Mystische Essenz der Herausforderung",77492
 "Der Nervenkitzel des Kampfes",77493
@@ -50376,10 +50564,13 @@
 "Flasche Blutsteinorange-Sommerbier",77719
 "Kloster Eldvins VIP-Paket",77720
 "Tequatl-Silbertrophäe",77721
+"Faultierions Pilz",77722
+"Fragment von Sabethas Flammenwerfer",77723
 "\"Weißer Mantel-Abscheulichkeit\"-Goldtrophäe",77724
 "Widderstatue",77725
 "Mond-Bogen",77726
 "Stück eines Fragments von Sabethas Flammenwerfer",77728
+"Gorsevals Tentakel",77729
 "Rotes Festzelt",77730
 "Tal-Wächter-Bronzetrophäe",77731
 "Tequatl-Bronzetrophäe",77732
@@ -50407,6 +50598,7 @@
 "Mordremoth-Bronzetrophäe",77757
 "Kristall des Zerschmetterers",77759
 "Braumeister-Rucksack-Kit",77760
+"Kristall der \"Weißer Mantel\"-Abscheulichkeit",77761
 "Glücksfeuerwerkskörper",77762
 "Rote Laterne",77763
 "\"Weißer Mantel-Abscheulichkeit\"-Silbertrophäe",77764
@@ -50421,6 +50613,7 @@
 "Chak-Potentaten-Auge",77773
 "Flasche Blasser-Baum-Pils",77775
 "Flasche Fassgereiftes ascalonisches Braunbier",77776
+"Tal-Wächter-Stücke",77777
 "Flasche Schwarzlöwen-Reserve",77781
 "Sabetha-Silbertrophäe",77782
 "Faultierion-Bronzetrophäe",77783
@@ -50460,6 +50653,7 @@
 "Verteidigende Faultierhaut-Handbandagen",77829
 "Bestürmende Faultierhaut-Stulpenhandschuhe",77830
 "Boshafter \"Weißer Mantel\"-Holzhammer",77831
+"Truhe mit Schweren Wämsern",77835
 "Kurierende Faultierhaut-Stulpenhandschuhe",77836
 "Boshafte Faultierhaut-Handbandagen",77837
 "Eingestimmter verteidigender energetisierter Reifen",77838
@@ -50489,18 +50683,23 @@
 "Verteidigendes \"Weißer Mantel\"-Amikt",77868
 "Kiste mit Schlachtzug-Vorräten",77869
 "Mini Faultierion",77870
+"Truhe mit Leichten Beinkleidern",77871
+"Truhe mit Leichten Wämsern",77872
 "Kurierende \"Weißer Mantel\"-Schiftung",77873
 "Bestürmende Faultierhaut-Handschuhe",77874
 "Verteidigende Faultierhaut-Handschuhe",77875
 "Boshaftes \"Weißer Mantel\"-Clairon",77876
+"Truhe mit Mittleren Helmen",77877
 "Verteidigendes gewebtes Band (Infundiert)",77878
 "Truhe mit Leichten Schultern",77879
 "Skin für Beherrscher-Kurzbogen",77880
 "Skin für Beherrscher-Hammer",77881
 "Bestürmende \"Weißer Mantel\"-Schultern",77882
+"Truhe mit Schweren Handschuhen",77883
 "Boshafter \"Weißer Mantel\"-Brenner",77885
 "Truhe mit Insignien",77886
 "Bestürmende \"Weißer Mantel\"-Pistole",77887
+"Truhe mit Mittleren Stiefeln",77888
 "Bestürmende \"Weißer Mantel\"-Schiftung",77889
 "Eingestimmtes boshaftes gewebtes Band (Infundiert)",77890
 "Bestürmender Matthias-Stab",77891
@@ -50511,6 +50710,7 @@
 "Skin für Beherrscher-Dolch",77897
 "Skin für Beherrscher-Großschwert",77898
 "Boshaftes gewebtes Band (Infundiert)",77899
+"Truhe mit Schweren Beinkleidern",77901
 "Kurierender \"Weißer Mantel\"-Kurzbogen",77903
 "Bestürmender \"Weißer Mantel\"-Brenner",77904
 "Bestürmendes \"Weißer Mantel\"-Amikt",77905

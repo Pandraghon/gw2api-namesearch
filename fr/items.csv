@@ -32369,6 +32369,7 @@
 "Sac de pièces",44597
 "Boîte mécanique élaborée",44598
 "Boîte mécanique ornée",44599
+"Boîte mécanique resplendissante",44600
 "Coup de grâce mécanique détraqué permanent",44601
 "Recycl-o-matic alimenté au cuivre",44602
 "Laissez-passer de la Terrasse royale (2 semaines)",44604
@@ -32376,6 +32377,7 @@
 "Masque du jubilé",44607
 "Masque de la reine",44608
 "Masque de la Couronne",44609
+"Masque de la reine",44622
 "Masque de la Couronne",44632
 "Flammes de Kryte",44637
 "Souvenir des montgolfières",44638
@@ -32403,13 +32405,17 @@
 "Recette : cachet de malice mineur",44663
 "Recette : cachet de malice supérieur",44664
 "Apparence d'éviscératrice de la souveraine",44667
+"Cinquedea de la souveraine",44668
 "Apparence de cinquedea de la souveraine",44670
+"Artefact de la souveraine",44671
 "Apparence d'artefact de la souveraine",44673
+"Croisé de la souveraine",44674
 "Apparence de croisé de la souveraine",44676
 "Apparence de marteau de guerre de la souveraine",44679
 "Apparence de grand arc de la souveraine",44682
 "Apparence de punisseuse de la souveraine",44685
 "Apparence d'arme à feu de la souveraine",44688
+"Arquebuse de la souveraine",44690
 "Apparence d'arquebuse de la souveraine",44691
 "Apparence de sceptre de la souveraine",44694
 "Apparence de Protecteur de la souveraine",44697
@@ -32436,15 +32442,20 @@
 "Mini-soigneur détraqué",44730
 "Couvre sac à dos de Moto en peluche",44733
 "Couvre sac à dos de Moto en peluche",44735
+"Masque de la nuit",44736
 "Apparence de masque de la nuit",44738
+"Masque de la nuit",44739
 "Apparence de heaume sac en papier (rougissant)",44745
 "Apparence de heaume en papier (heureux)",44759
 "Apparence de heaume en papier (triste)",44766
 "Apparence de heaume en papier (en colère)",44773
 "Tri-pack de miniatures costumées",44779
+"Chiroptophobie",44789
 "Apparence d'espadon de chiroptophobie",44791
 "Apparence d'arc long d'araneae",44797
+"Butée",44810
 "Apparence de bouclier de butée",44812
+"Bâton du Prince Sanglant",44816
 "Bâton du Prince Sanglant",44817
 "Apparence de bâton du Prince Sanglant",44818
 "Apparence de cimeterre loufoque",44821
@@ -32454,6 +32465,7 @@
 "Apparence de focus zodiacal",44836
 "Apparence d'espadon zodiacal",44839
 "Apparence de marteau zodiacal",44842
+"Arc long zodiacal",44843
 "Apparence d'arc long zodiacal",44845
 "Apparence de masse zodiacale",44848
 "Apparence de pistolet zodiacal",44851
@@ -32462,8 +32474,10 @@
 "Apparence de bouclier zodiacal",44860
 "Arc court zodiacal",44861
 "Apparence d'arc court zodiacal",44863
+"Bâton zodiacal",44864
 "Apparence de bâton zodiacal",44866
 "Apparence d'épée zodiacale",44869
+"Torche zodiacale",44870
 "Apparence de torche zodiacale",44872
 "Apparence de cor de guerre zodiacal",44875
 "Faux du diable à ressort",44876
@@ -32477,7 +32491,9 @@
 "Lot de zones de minerai de base",44884
 "Ensemble d'apparences d'objets de dos de héraut des Brumes",44886
 "Apparence d'objet de dos de héraut des Brumes",44888
+"Hache d'amoureux",44889
 "Apparence de hache d'amoureux",44891
+"Scramasaxe d'amoureux",44892
 "Apparence de scramasaxe d'amoureux",44894
 "Apparence de focus d'amoureux",44897
 "Apparence d'espadon d'amoureux",44900
@@ -32487,12 +32503,15 @@
 "Apparence de pistolet d'amoureux",44912
 "Apparence de fusil d'amoureux",44915
 "Apparence de sceptre d'amoureux",44918
+"Protecteur d'amoureux",44919
 "Apparence de Protecteur d'amoureux",44921
 "Apparence d'arc court d'amoureux",44924
 "Apparence de bâton d'amoureux",44927
 "Apparence d'épée d'amoureux",44930
 "Apparence de flamme d'amoureux",44933
+"Cor d'appel d'amoureux",44934
 "Apparence de cor d'appel d'amoureux",44936
+"Coup de grâce du trophée du deuxième permanent",44938
 "Pignon mécanique",44941
 "Cachet d'explosion mineur",44942
 "Cachet d'explosion majeur",44943
@@ -32564,6 +32583,11 @@
 "Cadeau de Scarlet",45029
 "Débris d'épaulières mécaniques détraquées",45030
 "Trésor secret de Scarlet",45031
+"Épaulières mécaniques détraquées",45032
+"Épaulières mécaniques détraquées",45033
+"Épaulières mécaniques détraquées",45034
+"Épaulières mécaniques détraquées",45035
+"Épaulières mécaniques détraquées",45037
 "Épaulières mécaniques détraquées",45038
 "Morceau de débris mécaniques détraqués",45039
 "Pile de débris mécaniques détraqués",45040
@@ -32579,6 +32603,8 @@
 "Augmentation d'EXPM",45055
 "Augmentation d'EXPM",45056
 "Augmentation d'EXPM",45057
+"Augmentation d'EXPM",45058
+"Augmentation d'EXPM",45059
 "Mini-augmentation d'EXPM",45060
 "Amulette en or et en bonbons",45061
 "Pendentif en argent et en bonbons",45062
@@ -33938,6 +33964,7 @@
 "Cristal de diffraction",46466
 "Sam",46467
 "Omnivision",46468
+"Sac à dos de Moto en peluche",46490
 "Couvre-sac à dos de Moto en peluche",46492
 "Couvre-sac à dos de Moto en peluche",46493
 "Mini-super banane",46494
@@ -34007,7 +34034,9 @@
 "Perruque de la princesse Miya",46644
 "Robe de la princesse Miya",46645
 "Diadème de la princesse Miya",46646
+"Couvre-sac à dos du roi crapaud",46647
 "Couvre-sac à dos du roi crapaud",46649
+"Couvre-sac à dos du sorcier de la tempête",46650
 "Couvre-sac à dos du sorcier de la tempête",46652
 "Mini-princesse Miya",46653
 "Mini-Moto",46654
@@ -35163,8 +35192,13 @@
 "Respirateur benthique militaire des Affligés",47875
 "Coup de grâce du mégalaser des Veilleurs à usage limité",47879
 "Coup de grâce du mégalaser des Veilleurs permanent",47880
+"Heaume de cerf lourd",47881
 "Apparence de heaume de cerf",47883
+"Capuchon de Grenth lourd",47888
 "Apparence de capuchon de Grenth",47890
+"Capuchon de Grenth léger",47891
+"Capuchon de Grenth léger",47892
+"Capuchon de Grenth intermédiaire",47893
 "Coup de grâce de boule à neige à usage limité",47895
 "Coup de grâce de boule à neige permanent",47896
 "Pioche de mineur mécanique",47897
@@ -35955,6 +35989,7 @@
 "Seau d'Halloween",48715
 "Clé d'éther terminée",48716
 "Morceau de clé d'éther",48717
+"Sac à dos de Slique",48719
 "Sac à dos de Slique",48721
 "Zigadène vénéneux de rêves",48723
 "Epine pleureuse de rêves",48724
@@ -35983,7 +36018,21 @@
 "Mini-aviateur d'Halloween",48755
 "Mini-Caithe",48756
 "Mini-dolyak",48761
+"Clé de coffre de récompense de la saison 1 McM",48762
 "Sac de participation à la saison 1 McM",48763
+"Coffre de succès de la saison 1 McM",48764
+"Coffre de récompense de la saison 1 McM (verrouillé)",48765
+"Coffre de récompense de la saison 1 McM (verrouillé)",48767
+"Coffre de récompense de la saison 1 McM (déverrouillé)",48768
+"Coffre de récompense de la saison 1 McM (verrouillé)",48769
+"Coffre de récompense de la saison 1 McM (verrouillé)",48771
+"Coffre de récompense de la saison 1 McM (verrouillé)",48773
+"Coffre de récompense de la saison 1 McM (verrouillé)",48775
+"Coffre de récompense de la saison 1 McM (verrouillé)",48777
+"Coffre de récompense de la saison 1 McM (déverrouillé)",48778
+"Coffre de récompense de la saison 1 McM (verrouillé)",48779
+"Coffre de récompense de la saison 1 McM (verrouillé)",48781
+"Sac de friandises confisquées",48795
 "Coffre du Roi Dément",48796
 "Récepteur golem de Tassi",48803
 "Don de bonbons",48804
@@ -36001,14 +36050,20 @@
 "Coffre",48832
 "Coffre splendide",48833
 "Éclat d'obélisque krait",48875
+"Grimoire de guérison : vaporisation antitoxine",48876
 "Mini-hybride toxique",48877
 "Mini-Nimross toxique",48879
 "Échantillon de spore écrasée",48882
 "Échantillon de spore toxique immaculée",48884
+"Masque à gaz",48887
+"Masque à gaz",48889
+"Masque à gaz",48891
 "Apparence de masque à gaz",48893
+"Apparence d'appareil de filtration d'air",48895
 "Appareil de filtration d'air d'antitoxine",48896
 "Appareil de filtration d'air d'antitoxine",48897
 "Appareil de filtration d'air d'antitoxine",48898
+"Spore toxique",48903
 "Apparence de spore toxique",48905
 "Parchemin de connaissance",48906
 "Rune d'antitoxine supérieure",48907
@@ -36044,18 +36099,23 @@
 "Garde-poignets de pourfendeur de guivres",48939
 "Poignes de pourfendeur de guivres",48941
 "Apparence de masque de vagabond",48944
+"Masque de vagabond",48946
+"Masque de vagabond",48950
 "Augmentation de récolte",48951
 "Coup de grâce de rejeton toxique permanent",48952
 "Coup de grâce de rejeton toxique à usage limité",48953
 "Kit de teintures toxiques",48954
 "Hache de bûcheron coupe-rêve",48955
+"Hache de rêve-chardon",48956
 "Apparence de hache de rêve-chardon",48958
 "Apparence de dague de rêve-chardon",48961
 "Apparence de focus de rêve-chardon",48964
+"Espadon de rêve-chardon",48965
 "Apparence d'espadon de rêve-chardon",48967
 "Apparence de marteau de rêve-chardon",48970
 "Apparence d'arc long de rêve-chardon",48973
 "Apparence de masse de rêve-chardon",48976
+"Pistolet de rêve-chardon",48977
 "Apparence de pistolet de rêve-chardon",48979
 "Apparence de fusil de rêve-chardon",48982
 "Apparence de sceptre de rêve-chardon",48985
@@ -36070,11 +36130,21 @@
 "Apparence de trident de rêve-chardon",49006
 "Apparence de fusil-harpon de rêve-chardon",49009
 "Apparence de lance de rêve-chardon",49012
+"Hache de Marjory",49013
 "Apparence de hache de Marjory",49015
+"Dague de Marjory",49016
 "Apparence de dague de Marjory",49018
+"Bâton de Kasmeer",49019
+"Bâton de Kasmeer",49020
 "Apparence de bâton de Kasmeer",49021
+"Espauliers toxiques",49022
 "Apparence de houppelande toxique",49024
+"Houppelande toxique",49025
+"Protège-épaules toxiques",49027
+"Gantelets toxiques",49029
 "Apparence de gants toxiques",49031
+"Gants toxiques",49032
+"Manchettes toxiques",49034
 "Sac de pièces",49037
 "Sacoche en coquille",49038
 "Sacoche de graines de variétés anciennes",49039
@@ -36084,6 +36154,14 @@
 "Clé tricolore",49132
 "Tonique krait toxique infini",49133
 "Recette : tonique krait toxique infini",49134
+"Morceau de fer de la Fusion",49135
+"Données étherlames",49136
+"Noyau mécanique",49137
+"Spore toxique séchée",49138
+"Bâton tenace",49139
+"Racines sèches",49140
+"Manche de torche improvisée",49141
+"Torche improvisée",49143
 "Tonique mystérieux inépuisable fermé",49145
 "Tonique mystérieux inépuisable fermé",49146
 "Tonique mystérieux inépuisable fermé",49147
@@ -36095,6 +36173,7 @@
 "Coup de grâce du chef ascalonien permanent",49164
 "Coup de grâce du dragon mystique permanent",49165
 "Coup de grâce du charognard skritt permanent",49169
+"Magot de matériaux élevés",49206
 "Coffre d'arme élevée",49207
 "Coffre d'armure élevée",49208
 "Recette : rune de résistance supérieure",49209
@@ -36137,6 +36216,7 @@
 "Apparence de hache tourmentée",49314
 "Apparence de dague tourmentée",49317
 "Apparence de focus tourmenté",49320
+"Espadon tourmenté",49321
 "Apparence d'espadon tourmenté",49323
 "Apparence de marteau tourmenté",49326
 "Apparence d'arc long tourmenté",49329
@@ -36271,6 +36351,8 @@
 "Portail de livraison personnel de Tarrktun",49501
 "Énorme boule d'ectoplasme",49503
 "Recette : insigne en tulle entrelacé colonisateur",49509
+"Injecteur d'antitoxine",49519
+"Injecteur d'antitoxine",49520
 "Apparence d'injecteur d'antitoxine",49521
 "Insigne en tulle entrelacé sanguinaire",49522
 "Cristal de vision mineur",49523
@@ -36282,6 +36364,18 @@
 "Teinture prospérité",49529
 "Teinture réminiscence",49530
 "Lot de trois outils de récolte",49531
+"Sac de paquetage militaire",49532
+"Malle mystère JcJ",49533
+"Boîte de pièces d'armure lourde de Koda",49549
+"Boîte de pièces d'armure légère de Koda",49551
+"Boîte de pièces d'armure lourde orrienne",49555
+"Boîte de pièces d'armure légère orrienne",49557
+"Boîte de pièces d'armure lourde humaine niveau 3",49564
+"Boîte de pièces d'armure légère humaine niveau 3",49566
+"Boîte de pièces d'armure légère asura niveau 1",49577
+"Boîte de pièces d'armure légère asura niveau 2",49580
+"Boîte de pièces d'armure intermédiaire asura niveau 2",49581
+"Boîte de pièces d'armure légère asura niveau 3",49583
 "Boîte de pièces d'armure lourde norn niveau 2",49588
 "Poings de guerre du Gardien",49611
 "Garde-épaules du gardien",49612
@@ -36309,9 +36403,11 @@
 "Magot du protecteur de la marionnette I",49657
 "Magot du protecteur de la marionnette V",49658
 "Clés de rechange de Scarlet",49662
+"Sac de morceaux de noyaux d'énergie",49663
 "Coffre doré de la guivre",49664
 "Coffre de bronze de la guivre",49666
 "Coffre d'argent de la guivre",49667
+"Coffre de guivre quotidien",49669
 "Tas d'armures régurgitées",49670
 "Recette : fusil-harpon du Gardien",49672
 "Recette : brasero du Gardien",49673
@@ -36449,6 +36545,7 @@
 "Mini-moa mécanique détraqué",49827
 "Amulette de triple curiosité",49828
 "Apparence de fusil annélide",49831
+"Visière de pourfendeur de guivres",49832
 "Masque de pourfendeur de guivres",49833
 "Visage de pourfendeur de guivres",49835
 "Alliance perdue de Connie",49836
@@ -36514,6 +36611,7 @@
 "Marteau de Koda",49925
 "Tourelle sentinelle",49926
 "Grenade d'attaque aérienne",49927
+"Pièces de golem brûlées",49929
 "Gants de boxe",49930
 "Balai volant",49931
 "Balai enchanté",49932
@@ -36528,6 +36626,8 @@
 "Mini-Mai Trin",49950
 "Coup de grâce du lama permanent",49952
 "Coup de grâce du Quaggan permanent",49954
+"Baril d'huile\n",49957
+"Bloc de glace",49958
 "Mini-coffre des Brumes",49959
 "Coffre des Brumes",49960
 "Potion d'altruisme",50014
@@ -37243,6 +37343,7 @@
 "Brandon du Titan abandonné",51822
 "Hurleur abandonné",51823
 "Aseptiseur abandonné",51824
+"Grand-sourire abandonné",51825
 "Éclatranche abandonné",51827
 "Étuvelle abandonnée",51828
 "Fureur libérée abandonnée",51829
@@ -41784,13 +41885,24 @@
 "Protection dorsale saccageuse de corail",63276
 "Protection dorsale berserker de rubis",63277
 "Protection dorsale de clerc de saphir",63278
+"Bâton ancestral assassin",63279
 "Arc court ancestral officinal",63280
 "Bâton ancestral clérical",63281
 "Espadon en mithril saccageuse",63282
 "Marteau en mithril chevaleresque",63283
 "Arc long ancestral berserker",63284
 "Fusil de berserker en mithril",63286
+"Fusil en mithril clérical",63287
+"Arc court ancestral berserker",63288
+"Espauliers de commando",63289
+"Espauliers de Précurseur",63290
+"Espauliers de fantassin",63291
+"Houppelande de commando",63292
 "Houppelande de Précurseur",63293
+"Houppelande de fantassin",63294
+"Garde-épaules de commando",63295
+"Garde-épaules de Précurseur",63296
+"Garde-épaules de fantassin",63297
 "Heaume de commando",63298
 "Heaume de Précurseur",63299
 "Heaume de fantassin",63300
@@ -41854,6 +41966,7 @@
 "Hache en acier sombre nécrophage",63359
 "Houppelande d'étudiant solide",63360
 "",63366
+"Parchemin de connaissance",63378
 "Sac de butin",63379
 "Bâton de vengeur",63383
 "Arc long de vengeur",63384
@@ -42196,8 +42309,11 @@
 "Dague néfaste",63833
 "Coffre de libérateur de l'Arche du Lion",63847
 "Apparence de voile de Scarlet",63853
+"Voile de Scarlet",63854
 "Arc-en-ciel de Scarlet",63856
 "Baiser de Scarlet",63857
+"Voile de Scarlet",63858
+"Voile de Scarlet",63861
 "Boîte mécanique ornée",63862
 "Tri-pack de miniatures (ensemble 3)",63870
 "Mini-Rytlock revenant",63871
@@ -42336,6 +42452,8 @@
 "Epée en fer aiguisée de venin",64125
 "Manteau en écailles usé robuste de vampirisme",64126
 "Anneau en fer",64127
+"Anneau en fer",64128
+"Amulette rustique",64129
 "Amulette puissante",64130
 "Amulette nécrophage",64131
 "Lance en fer robuste",64132
@@ -42483,8 +42601,16 @@
 "Cor de guerre du Héros",64301
 "Coffre de récompense de tournoi McM du printemps 2014 (déverrouillé)",64340
 "Coffre de récompense de succès McM",64348
+"Coffre de récompense de tournoi McM du printemps 2014 (déverrouillé)",64349
 "Coffre de récompense de tournoi McM du printemps 2014 (déverrouillé)",64351
+"Coffre de récompense de tournoi McM du printemps 2014 (déverrouillé)",64352
+"Coffre de récompense de tournoi McM du printemps 2014 (déverrouillé)",64353
 "Coffre de récompense de succès McM",64354
+"Coffre de récompense de tournoi McM du printemps 2014 (déverrouillé)",64355
+"Coffre de récompense de tournoi McM du printemps 2014 (déverrouillé)",64356
+"Coffre de récompense de tournoi McM du printemps 2014 (déverrouillé)",64357
+"Coffre de récompense de succès McM",64359
+"Coffre de récompense de succès McM",64360
 "Coffre de récompense de succès McM",64362
 "Coffre de récompense de succès McM",64363
 "Démarche estivale",64526
@@ -43004,12 +43130,15 @@
 "Encensoir infectieux",66205
 "Carapace chitineuse de karka",66206
 "Coffre du Boss en folie de bronze",66208
+"Cadeau de bienvenue au festival",66209
 "Coffre du Boss en folie d'or",66210
+"Butin du festival",66211
 "Sac d'équipement",66212
 "Ensemble de heaumes des cornes du Dragon",66213
 "Tonique de petit dolyak inépuisable",66214
 "Mini-panda",66216
 "Coffre du Boss en folie d'argent",66217
+"Surprise du Défi de la reine",66219
 "Faveur du festival",66220
 "Effervescence scintillante",66221
 "Faveur du bazar patinée",66222
@@ -43040,7 +43169,12 @@
 "Aqua-respirateur en métal",66344
 "Aqua-respirateur de cuir",66345
 "Aqua-respirateur en tissu",66346
+"Coffre de récompense de tournoi McM du printemps 2014 (déverrouillé)",66350
+"Coffre de récompense de tournoi McM du printemps 2014 (déverrouillé)",66351
 "Billet de retrait de tournoi McM",66352
+"Coffre de récompense de tournoi McM du printemps 2014 (déverrouillé)",66355
+"Coffre de récompense de tournoi McM du printemps 2014 (déverrouillé)",66356
+"Coffre de récompense de tournoi McM du printemps 2014 (déverrouillé)",66357
 "Garde-poignets de Ventari",66359
 "Garde-épaules de Ventari",66360
 "Jambières de Ventari",66361
@@ -43270,6 +43404,8 @@
 "Moustique fossilisé dans l'ambrite",66656
 "Mante religieuse fossilisée dans l'ambrite",66657
 "Tenue d'assassin des ombres",66658
+"Prix de qualification JcJ : première et deuxième place",66660
+"Prix de qualification JcJ : troisième et quatrième place",66661
 "Tournoi des légendes : de la 5e à la 8e place",66662
 "Prix de qualification JcJ : de la 5e à la 8e place",66666
 "Tournoi des légendes : de la 9e à la 16e place",66667
@@ -43429,6 +43565,7 @@
 "Déverrouillage d'histoire : \"Emprise maléfique\"",66871
 "Déverrouillage d'histoire : \"L'ombre du dragon : 1re partie\"",66872
 "Déverrouillage d'histoire : \"À l'orée de Maguuma\"",66873
+"Échantillons d'enveloppes mordrems",66885
 "Tige cultivée",66890
 "Cerf-volant de la Mine de prospérité fermé",66893
 "Cerf-volant d'éclat de cristal fermé",66895
@@ -43757,6 +43894,7 @@
 "Fragment de la Griffe de Jormag",67276
 "Boîte de déverrouillage de point de passage",67279
 "Téléportation vers un ami",67280
+"Mini-chef Utahein et mini-Svanir",67281
 "Nécessaire de recyclage du Lion noir",67283
 "Teinture rose électrique",67284
 "Teinture citron électrique",67285
@@ -43786,11 +43924,15 @@
 "Rune de rayonnement supérieure",67342
 "Cachet d'incapacité supérieur",67343
 "Rune de dérobade supérieure",67344
+"Coffre de récompense de la première place en McM",67345
+"Coffre de récompense de la deuxième place en McM",67346
+"Coffre de récompense de la troisième place en McM",67347
 "Neutraliseur d'équipement de siège",67348
 "Papillote",67352
 "Emballage de papillottes brillant",67353
 "Fantôme messager",67355
 "Tapis volant",67356
+"Pack de soutien Monde contre Monde",67359
 "Collier d'Oontz de la citrouille",67361
 "Bouteille de bière à la chauve-souris inépuisable",67362
 "Coffre à jouets du Prince Sanglant",67363
@@ -44004,6 +44146,7 @@
 "Tonique de dévoreur aride inépuisable",67783
 "Tonique d'acaride inépuisable",67784
 "Livre de recettes de bijoux sinistres",67786
+"Écu de bandit",67787
 "Cache de bandit",67788
 "Gratitude d'Ogden",67789
 "Sac de butin fantomatique",67790
@@ -44243,6 +44386,7 @@
 "Écrit d'expérience",68109
 "Potion de récompense JcJ",68110
 "Essence d'or",68111
+"Coffre de bois",68112
 "Coffre du Héros",68115
 "Coffre du Héros déchu",68117
 "Coffre de l'aventurier",68118
@@ -44262,28 +44406,40 @@
 "Coffre du Héros",68149
 "Coffre de biens de la Citadelle de la Flamme",68151
 "Coffre de biens du Creuset de l'éternité",68153
+"Coffre des Brumes",68155
 "Coffre transcendantal",68156
 "Coffre transcendantal de connaissance",68159
 "Coffre du Héros déchu",68160
 "Coffre de l'athlète",68162
 "Coffre de l'Explorateur",68164
+"Coffre du mystique",68201
 "Coffre du Héros",68207
+"Coffre de l'aventurier",68214
+"Coffre de recherche de l'initié des fractales",68217
 "Coffre transcendantal",68224
 "Coffre du Héros déchu",68227
+"Coffre du Héros déchu",68229
 "Coffre de minerai",68230
 "Coffre du Héros",68232
 "Coffre du Héros déchu",68233
+"Coffre de plantes",68235
 "Coffre transcendantal de connaissance",68240
+"Coffre transcendantal",68242
+"Coffre de plantes",68256
 "Coffre du Héros déchu",68269
 "Coffre du Héros déchu",68272
 "Coffre transcendantal",68279
 "Coffre du mystique",68281
 "Coffre de minerai",68283
 "Coffre transcendantal",68284
+"Coffre de bois",68290
 "Coffre transcendantal de connaissance",68291
 "Coffre de l'aventurier",68293
+"Coffre de recherche de l'initié des fractales",68294
 "Coffre du Héros",68295
+"Coffre de l'artisan",68298
 "Coffre du Héros",68303
+"Coffre du Héros déchu",68308
 "Sac de lauriers",68314
 "Coffre de marchandises du Lion noir",68315
 "Sac d'expérience",68316
@@ -44342,6 +44498,7 @@
 "Page du recueil des rituels d'Hivernel en hommage aux récents disparus",68372
 "Hache de bûcheron en orichalque gelée",68373
 "Boîte à outils gelés",68374
+"Boîte à outils gelés bien rangée",68375
 "Pioche de mineur en orichalque gelée",68376
 "Faux de moissonneur en orichalque gelée",68377
 "Jolie chaussette tricotée",68378
@@ -44350,16 +44507,22 @@
 "Énorme boîte poussiéreuse de vêtements d'hiver",68381
 "Boîte poussiéreuse de vêtements d'hiver",68382
 "Boîte gelée de vêtements festifs",68383
+"Mystérieux paquet sale",68386
 "Lettre de l'orphelin Laine",68387
+"Mystérieux paquet sale",68388
 "Décoration d'Hivernel abîmée",68389
 "Pile de détritus scintillants",68390
+"Mystérieux paquet sale",68391
 "Cadeau d'un orphelin généreux",68392
+"Mystérieux paquet sale",68393
 "Boule violette décorative",68394
 "Cheval à bascule décoratif",68395
 "Boule dorée décorative",68396
 "Petite poupée décorative",68397
 "Guirlande scintillante décorative",68398
+"Mystérieux paquet sale",68399
 "Boule verte décorative",68400
+"Mystérieux paquet sale",68401
 "Calice de chili à la pierre de sang",68402
 "Tasse de soupe à la pierre de sang",68403
 "Bol de glace à la pierre de sang",68404
@@ -44375,9 +44538,13 @@
 "Cadeau en forme de bouteille",68414
 "Kit supérieur de conquérant du grand froid",68417
 "Cadeau de Tixx",68418
+"Sélection mineure de conquérant du grand froid",68419
+"Sélection majeure de conquérant du grand froid",68420
+"Sélection supérieure de conquérant du grand froid",68421
 "Étui à bouteille festif",68424
 "Livre de recettes de boissons festives",68426
 "Kit majeur de conquérant du grand froid",68427
+"Présent ultime d'Hivernel de Penn",68429
 "Présent d'Hivernel personnalisé",68431
 "Mini-seigneur Faren festif",68432
 "Cachet d'espièglerie majeur",68434
@@ -44488,8 +44655,10 @@
 "Lanterne rouge du festival",68638
 "Figurine du Bélier dorée",68639
 "Trophée d'or ornemental",68640
+"Tas de 5 enveloppes de chance divines",68641
 "Enveloppe de chance faite à la main",68642
 "Coffre de 10 enveloppes de chance divines du champion du dragonball",68643
+"Enveloppe de chance faite à la main personnalisée",68644
 "Petite enveloppe de chance",68645
 "Enveloppe de chance divine",68646
 "Enveloppe de chance divine du champion du dragonball",68647
@@ -45956,6 +46125,7 @@
 "Recette : espauliers draconiques vigilants",71690
 "Écrit sur la Vitesse magistrale",71691
 "Sac de pigment rouge",71692
+"Énergie spirituelle de chevalier trépassé",71693
 "Masse aurique cléricale",71694
 "Recette : francisque de Laranthir",71695
 "Talisman de l'archidevin",71696
@@ -46080,6 +46250,7 @@
 "Graines d'épinards",71863
 "Tromblon de perles vipérin",71864
 "Recette : jambières de Tizlak",71865
+"Coffre de champion des Brumes",71866
 "Huile de maintenance de l'Ordre des Soupirs",71867
 "Gage du pirate fantomatique",71869
 "Respirateur en métal angchu",71870
@@ -46091,6 +46262,7 @@
 "Rangée de bougies",71878
 "Doublure de casque en orichalque huilé",71879
 "Le Bifrost vol. 2",71881
+"Réquisition de focus ancestral basique",71882
 "Hampe de trident équilibrée",71883
 "Bottes de pierre des lignes de force voyageuses",71884
 "Structure des Brumes de niveau 3",71885
@@ -46262,6 +46434,7 @@
 "Ruine de Modniir",72104
 "Augmentation de récolte de guilde",72105
 "Volute de Mellaggan en affinité",72106
+"Coffre de vétéran des Brumes",72107
 "Revolver de Ruka",72108
 "Sceptre automatisé",72109
 "Pièce d'engrenage d'épée pour aéronef",72110
@@ -46341,6 +46514,7 @@
 "Œuf de chak",72205
 "Guide : espauliers veillebrumes",72208
 "Stylet en bois dur",72209
+"Machette",72210
 "Recette : lame de Yassith",72212
 "Espauliers de Ruka",72214
 "Reproduction par frottement de la pierre de rune du Refuge d'Heimdahl",72215
@@ -46428,6 +46602,7 @@
 "Limon mécontent",72322
 "Recette : pourpoint de Ruka",72323
 "Augmentation de récolte de guilde",72324
+"Efflorescence de Caithe",72325
 "Stand de tir : argent",72326
 "Dent de mégalodon énorme",72328
 "Les Prophéties du Chercheur de la Flamme vol. 2",72329
@@ -46516,6 +46691,7 @@
 "Bijou exquis en diamant noir",72435
 "Orbe d'agathe",72436
 "Anneau en orichalque et en perles d'eau douce",72437
+"Cache de chak",72438
 "Recette : respirateur en métal de Verata",72439
 "Tête de masse chargée",72440
 "Accélération des bonus de carte",72441
@@ -47754,6 +47930,7 @@
 "Gants de pierre des lignes de force voyageurs",74102
 "Heaume draconique de pionnier",74103
 "Buisson taillé en forme de sphère",74104
+"Magie de déchiqueteur",74106
 "Essence du Bosquet",74107
 "Rune d'épines",74108
 "Recette : barre de perles commandante",74109
@@ -48085,6 +48262,7 @@
 "Espadon plaqué",74558
 "Cadran solaire centaure",74559
 "Outil de travail du bois pour arc long supérieur",74560
+"Boîte de butin hylek",74561
 "Bougie de pilier",74563
 "Recette : bottes draconiques commandantes",74564
 "Broyeur de perles ménestrel",74565
@@ -48103,6 +48281,7 @@
 "Recette : grèves de Ruka",74582
 "Recette : gants armoriés pionniers",74584
 "Sceptre funèbre",74585
+"Remords de Caithe",74586
 "Charmille de treillis",74588
 "Sceptre aurique saccageur",74589
 "Coffre de poisson",74591
@@ -48235,6 +48414,7 @@
 "Pièce d'engrenage de bâton pour aéronef",74758
 "Noctchardon germé en pot",74759
 "Lance-harpon fractal doré",74760
+"Traitement oublié",74761
 "Mini-Tengu",74762
 "Tube de colle à bois",74763
 "Viande de guivre des plaines",74764
@@ -48619,6 +48799,7 @@
 "Notes d'Ogden",75279
 "Hampe d'arc court chargé",75280
 "Bouteille d'énergie non classée",75281
+"Magie d'écorcheur",75283
 "Outil de recyclage élevé",75284
 "Visage de Pahua",75285
 "Arc long aurique assassin",75286
@@ -48729,6 +48910,7 @@
 "Monture de pistolet ornée",75429
 "Recette : inscription commandante de Tizlak",75430
 "Suprématie du Pacte",75433
+"Ami des molosses",75434
 "Bijou exquis en agate",75435
 "Recette : trident de perles voyageur",75436
 "Manteau draconique maraudeur",75437
@@ -48773,6 +48955,7 @@
 "Recette : assommoir de perles pionnier",75496
 "Noyau de cor de guerre des lignes de force",75497
 "Tas de poussière de béryl",75498
+"Ceinture résistante des Soupirs",75500
 "Recette : insigne vigilant de Laranthir",75501
 "Essence de chimie",75504
 "Sac de cachets",75505
@@ -49281,6 +49464,7 @@
 "Respirateur de cuir du Gardien",76184
 "Épaulettes d'Ossa",76186
 "Barre de sceptre équilibrée",76187
+"Béni par le Corbeau",76189
 "Rêve de Kralkatorrik",76190
 "Recette : marteau de guerre d'Ossa",76191
 "Masse funèbre",76193
@@ -49983,6 +50167,7 @@
 "Plume de corbeau",77154
 "Notes sur la théorie de la musique",77155
 "Dague perfectionnée",77156
+"Trésor de pirate englouti",77157
 "Épine de poisson cordulegastre",77158
 "Coffre d'esprit",77159
 "Mini boîte de récompenses de Grymm",77160
@@ -50261,6 +50446,7 @@
 "Don d'escarmouche",77485
 "Certificat de soutien",77486
 "Essence de défi",77488
+"Récompense de platine de la Ligue des guildes-challengers",77490
 "Apparence de hache impitoyable",77491
 "Essence mystique de défi",77492
 "Frisson du combat",77493
@@ -50445,10 +50631,13 @@
 "Bouteille de lager estivale à l'orange et à la pierre de sang",77719
 "Paquet VIP du Monastère Eldvin",77720
 "Trophée d'argent de Tequatl",77721
+"Champignon de Paressor",77722
+"Fragment du lance-flammes de Sabetha",77723
 "Trophée d'or d'abomination du Blanc-Manteau",77724
 "Statue du Bélier",77725
 "Arche lunaire",77726
 "Fragment du lance-flammes de Sabetha",77728
+"Tentacule de Gorseval",77729
 "Tente rouge de festival",77730
 "Trophée de bronze du Gardien de la Vallée",77731
 "Trophée de bronze de Tequatl",77732
@@ -50476,6 +50665,7 @@
 "Trophée de bronze de Mordremoth",77757
 "Cristal du Destructeur",77759
 "Kit de sac à dos de maître brasseur",77760
+"Cristal d'abomination du Blanc-Manteau",77761
 "Pétard porte-bonheur",77762
 "Lanterne rouge",77763
 "Trophée d'argent d'abomination du Blanc-Manteau",77764
@@ -50490,6 +50680,7 @@
 "Œil de régent chak",77773
 "Bouteille de pilsner de l'Arbre clair",77775
 "Bouteille de gueuze ascalonienne vieillie en fût",77776
+"Morceaux du Gardien de la Vallée",77777
 "Bouteille de réserve spéciale du Lion noir",77781
 "Trophée d'argent de Sabetha",77782
 "Trophée de bronze de Paressor",77783
@@ -50529,6 +50720,7 @@
 "Protège-mains en peau de paresseux défenseurs",77829
 "Gantelets en peau de paresseux assaillants",77830
 "Martelet du Blanc-Manteau malveillant",77831
+"Coffre de manteaux lourds",77835
 "Gantelets en peau de paresseux guérisseurs",77836
 "Protège-mains en peau de paresseux malveillants",77837
 "Anneau alimenté de défenseur en affinité",77838
@@ -50558,18 +50750,23 @@
 "Amict du Blanc-Manteau défenseur",77868
 "Boîte de ravitaillement de pillard",77869
 "Mini-Paressor",77870
+"Coffre de jambières légères",77871
+"Coffre de manteaux légers",77872
 "Spallières du Blanc-Manteau guérisseuses",77873
 "Gants en peau de paresseux assaillants",77874
 "Gants en peau de paresseux défenseurs",77875
 "Clairon du Blanc-Manteau malveillant",77876
+"Coffre de heaumes intermédiaires",77877
 "Bague tissée de défenseur (infusée)",77878
 "Coffre d'épaulières légères",77879
 "Apparence d'arc court du dominateur",77880
 "Apparence de marteau du dominateur",77881
 "Épaulières du Blanc-Manteau assaillantes",77882
+"Coffre de gants lourds",77883
 "Encensoir du Blanc-Manteau malveillant",77885
 "Coffre d'insignes",77886
 "Pistolet du Blanc-Manteau assaillant",77887
+"Coffre de bottes intermédiaires",77888
 "Spallières du Blanc-Manteau assaillantes",77889
 "Bague tissée malveillante en affinité (infusée)",77890
 "Bâton de Matthias assaillant",77891
@@ -50580,6 +50777,7 @@
 "Apparence de dague du dominateur",77897
 "Apparence d'espadon du dominateur",77898
 "Bague tissée malveillante (infusée)",77899
+"Coffre de jambières lourdes",77901
 "Arc court du Blanc-Manteau guérisseur",77903
 "Encensoir du Blanc-Manteau assaillant",77904
 "Amict du Blanc-Manteau assaillant",77905
@@ -50600,6 +50798,8 @@
 "Effigie de Paressor défenseuse",77922
 "Grand arc du Blanc-Manteau assaillant",77924
 "Anneau alimenté malveillant en affinité",77926
+"Coffre d'épaulières lourdes",77927
+"Coffre de heaumes légers",77928
 "Bague tissée de guérisseur (infusée)",77929
 "Arc court du Blanc-Manteau assaillant",77933
 "Anneau alimenté d'assaillant (infusé)",77935
