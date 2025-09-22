@@ -32,7 +32,7 @@ const run = async () => {
                                 const { id, name } = data[i];
                                 current[id] = name;
                             }
-                        });
+                        }).catch(console.error);
                 }
             }
             await fs.writeFile(
