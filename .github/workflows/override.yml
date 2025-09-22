@@ -1,4 +1,4 @@
-name: 'Update data'
+name: 'Override data'
 
 on:
   schedule:
