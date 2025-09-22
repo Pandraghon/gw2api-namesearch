@@ -26,7 +26,7 @@ const run = async () => {
                 toFetch = ids.slice(i * padding, (i + 1) * padding);
 
                 if (toFetch.length) {
-                    return fetch(`${apiUrl}${endpoint}?ids=${toFetch.join(',')}&lang=${lang}`)
+                    await fetch(`${apiUrl}${endpoint}?ids=${toFetch.join(',')}&lang=${lang}`)
                         .then(async res => {
                             const data = await res.json();
                             for (let i = 0, imax = data.length ; i < imax ; i++) {
