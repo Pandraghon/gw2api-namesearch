@@ -18,9 +18,8 @@ const run = async () => {
         // Update names
         return Promise.all(langs.map(async lang => {
             const current = {};
-            const currentIds = Object.keys(current);
             let toFetch = [];
-            const chunkCount = Math.ceil(ids / padding);
+            const chunkCount = Math.ceil(ids.length / padding);
 
             for (let i = 0 ; i < chunkCount ; i++) {
                 toFetch = ids.slice(i * padding, (i + 1) * padding);
