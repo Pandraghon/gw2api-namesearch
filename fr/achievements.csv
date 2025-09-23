@@ -68,10 +68,12 @@
 "Le réveil du Cauchemar",68
 "L'heure de la moisson",69
 "Droits de succession",70
+"Un passé rougi par le sang",71
 "Réunion de famille",72
 "Des choses qu'il vaut mieux oublier",73
 "Un de perdu, dix de retrouvés",74
 "Du hurlement au silence",75
+"La prise du château",76
 "Les muscles l'emportent sur les neurones",77
 "Extension d'activité",78
 "Certains doivent se battre pour la liberté de tous",79
@@ -163,6 +165,7 @@
 "Magnat du Manoir",185
 "Conquérant des catacombes",186
 "Maître d'Arah",187
+"Subjugateur des lamentations",188
 "Idole du crépuscule",189
 "Sauveur du Sanctuaire",190
 "Adversaire de la Citadelle de la Flamme",191
@@ -188,6 +191,7 @@
 "Atterrissage en catastrophe",220
 "Nettoyage de printemps",221
 "Lecture avide",222
+"La nouvelle garde-robe de l'Empereur",223
 "Victimes quotidiennes",224
 "Variété quotidienne des victimes",226
 "Récolteur du jour",231
@@ -207,6 +211,7 @@
 "Faucheur",253
 "Arpenteur des Brumes",254
 "Champion légendaire",255
+"Bagarreur champion",265
 "Mage",267
 "Génie",268
 "Parangon",269
@@ -271,6 +276,7 @@
 "Sculpture de citrouilles",364
 "Clocher du Roi Dément",365
 "Hexfonderie désaxée",366
+"Jardin caché",367
 "Gorge du dorloteur",368
 "Tribulations caverneuses",369
 "Derrière le masque",370
@@ -291,6 +297,7 @@
 "Stabilisateur de la fractale du champ de bataille urbain",390
 "Le sol c'est de la lave. Ne marchez pas dessus.",391
 "Traversée héroïque",392
+"Tombeau ouvert",393
 "Jeu de jambes",394
 "Courbette",395
 "Comme un cabri",396
@@ -364,6 +371,7 @@
 "Interrupteur de compétence",493
 "Lanceur d'altérations",495
 "Dissipateur d'altérations",496
+"Dépensier de karma",498
 "Forgeron mystique quotidien",500
 "Accumulateur de points de héros",501
 "Maître des niveaux",502
@@ -415,6 +423,7 @@
 "Défenseur de la veuve et de l'orphelin",570
 "Briseur d'alliance",571
 "Un feu de ralliement",572
+"Matchs de tournoi quotidiens gagnés",580
 "Cartes uniques quotidiennes jouées",581
 "Maître de l'arène",583
 "Vétéran de l'arène",584
@@ -509,6 +518,8 @@
 "La connaissance venue du ciel",700
 "Kookoochoo l'Incrédule",701
 "Le plus beau plongeon !",702
+"Course du Sanctuaire",703
+"Sprinteur du Sanctuaire",704
 "Sprinteur rapide",705
 "Favori de la foule",706
 "Ramasseur compulsif",707
@@ -537,6 +548,7 @@
 "J'aime Kiel",730
 "Kiel : sécurité nationale",731
 "Kiel : Explorateur de donjon",732
+"Kiel : Abîmeur d'abîme",733
 "Kiel : soutien direct",734
 "Kiel : soutien avancé",735
 "Kiel tous les jours",736
@@ -555,6 +567,7 @@
 "Survivant de la Survie",749
 "Survie à Sud-Soleil : maître tireur d'élite",750
 "Survie à Sud-Soleil : Marqueur d'élite",751
+"Familier de la Survie à Sud-Soleil",752
 "Familier de la bagarre de barils",753
 "Champion de lancer de crabe",754
 "Voleur de crabe",755
@@ -587,12 +600,14 @@
 "Défenseur des montgolfières",783
 "Concurrent du Défi de la reine",784
 "Porte-flambeau krytien",785
+"Dignitaire krytien",786
 "Agent de la Citadelle noire",787
 "Idéal de Rata Sum",788
 "Diplomate du Bosquet",789
 "Emissaire d'Hoelbrak",790
 "Ambassadeur de l'Arche du Lion",791
 "Aéronaute",792
+"Aéronaute",793
 "Concurrent du Défi de la reine",794
 "Premier sang",795
 "Obscurcissement de la lumière",796
@@ -612,6 +627,7 @@
 "Assassin végétarien",810
 "Champion du Défi de la reine",811
 "Finisseur mensuel de la catégorie du Monde vivant",812
+"Collection de miniatures — Ensemble II",814
 "Défenseur de la Couronne",815
 "Atterrissage en douceur",816
 "Rescapé de la planque",817
@@ -879,6 +895,7 @@
 "Purificateur de toxine de la tour",1106
 "Survivant de la tour des Cauchemars",1107
 "Bourreau des Étherlames de la tour",1108
+"Pourfendeur d'hybride de la tour",1109
 "Injecteur d'antitoxine de la tour",1110
 "Pourfendeur de l'Alliance de la Fusion de la tour",1111
 "Au cœur des Cauchemars",1112
@@ -886,6 +903,7 @@
 "Démonteur de mécaniques de la tour",1114
 "Purificateur de toxine de la tour",1115
 "Injecteur d'antitoxine de la tour",1116
+"Au cœur des Cauchemars",1117
 "Injecteur d'antitoxine de la tour",1118
 "Pourfendeur de l'Alliance toxique de la tour",1119
 "Purificateur de toxine de la tour",1120
@@ -998,6 +1016,7 @@
 "Pourfendeur d'hallucinations post-tour II",1231
 "Purificateur post-tour",1232
 "Client toxique post-tour II",1233
+"Jardinier toxique post-tour III",1234
 "Pourfendeur de boss toxique post-tour III",1235
 "Chercheur de terrain toxique post-tour III",1236
 "Restaurateur de Viathan post-tour III",1237
@@ -1023,6 +1042,7 @@
 "Vainqueur du pays des merveilles d'hiver",1262
 "Musique d'Hivernel",1263
 "Répandre la joie d'Hivernel",1264
+"Hourra, des cadeaux d'Hivernel",1265
 "Nouveaux amis d'Hivernel",1266
 "Musique d'Hivernel II",1267
 "Nouveaux amis d'Hivernel II",1268
@@ -1088,6 +1108,7 @@
 "Amateur de phytotoxine",1333
 "Pourfendeur de guivres",1334
 "Vomi de guivre",1335
+"Franchisseur de guivres",1336
 "Cleptomane de guivres",1337
 "Appât à guivre",1338
 "Démolisseur de guivres",1339
@@ -1103,6 +1124,7 @@
 "Percuteur de boss XXIII",1352
 "Percuteur de boss XXIV",1353
 "Percuteur de boss XXV",1354
+"Percuteur de boss XXVI",1355
 "Percuteur de boss XXVII",1356
 "Percuteur de boss XVII",1357
 "Percuteur de boss XXI",1358
@@ -1127,6 +1149,7 @@
 "Alerte intrusion",1377
 "Griffe dégelée",1378
 "Vérification des canons",1379
+"Trou-de-guivre Express",1380
 "Belle chevauchée",1381
 "Lames dans les Brumes",1382
 "Travail de groupe II",1384
@@ -1228,6 +1251,7 @@
 "Extinction des feux",1568
 "Boss en folie : corriger Kurai",1570
 "Boss en folie : pulvériser Pyroxis",1571
+"Boss en folie : châtier Shurakk",1572
 "Boss en folie : vaincre Wiggin",1573
 "Boss en folie : battre Boum-boum",1574
 "Boss en folie : étriller Etincellus",1575
@@ -1287,6 +1311,7 @@
 "Emprise maléfique",1659
 "Une victoire sans accessoires",1660
 "Une diligence extrême",1661
+"Le taureau par les cornes",1662
 "Papillons et viscères",1663
 "À l'abri de la pluie",1664
 "Celui qui tombe à pic",1665
@@ -1302,11 +1327,13 @@
 "Problèmes de mordrems",1675
 "Dolyaks sous pression",1676
 "Noble esquive",1677
+"Gare aux coups violents",1678
 "Ça réchauffe le cœur",1679
 "Sur le guet",1680
 "Anniversaire : 1 an",1681
 "Anniversaire : 2 ans",1682
 "Anniversaire : 3 ans",1683
+"Anniversaire : 4 ans",1684
 "Anniversaire : 5 ans",1685
 "Anniversaire : 6 ans",1686
 "Anniversaire : 7 ans",1687
@@ -1351,6 +1378,7 @@
 "Amateur de viande",1727
 "Amateur de vin",1728
 "Utilisateur d'utilitaires",1729
+"Collectionneur de babioles",1730
 "Accoutrement exotique",1731
 "Collection d'armes du chaos",1732
 "Collection d'armes chitineuses",1733
@@ -1450,6 +1478,7 @@
 "Non au piétinement",1830
 "Infiltration agressive",1831
 "Infiltration invisible",1832
+"Infiltration impitoyable",1833
 "Course rétrospective",1834
 "Chasse à l'or",1835
 "Assistance à ambassadeur",1836
@@ -1462,6 +1491,7 @@
 "Conquérant quotidien des forts McM",1845
 "Protecteur quotidien du McM",1846
 "Perturbateur quotidien de ravitaillement McM",1847
+"Pourfendeur quotidien de créature vétéran McM",1848
 "Conquérant quotidien de terres McM",1849
 "Conquérant quotidien des camps McM",1850
 "Classé quotidiennement au niveau mondial en McM",1851
@@ -1469,6 +1499,7 @@
 "Obtention quotidienne de récompenses JcJ",1856
 "Points de rang JcJ quotidiens",1857
 "Défenseur JcJ quotidien",1858
+"Voleur vainqueur quotidien",1859
 "Rôdeur vainqueur quotidien",1860
 "Joueurs tués quotidiennement en JcJ",1861
 "Nécromant vainqueur quotidien",1862
@@ -1551,6 +1582,7 @@
 "Expert quotidien en événements de la Côte de la marée sanglante",1948
 "Expert quotidien en événements de la Crique de Sud-Soleil",1949
 "Expert quotidien en événements du Mont Maelström",1950
+"Expert quotidien en événements de la Province de Metrica",1951
 "Expert quotidien en événements des Champs de ruine",1952
 "Expert quotidien en événements des Contreforts du voyageur",1953
 "Expert quotidien en événements des Chutes de la canopée",1954
@@ -1569,6 +1601,7 @@
 "Expert quotidien en événements du Plateau de Diessa",1967
 "Bûcheron quotidien des Cimefroides",1968
 "Mineur quotidien de la Jungle de Maguuma",1969
+"Bûcheron quotidien de la Jungle de Maguuma",1970
 "Mineur quotidien de Kryte",1971
 "Bûcheron quotidien de Kryte",1972
 "Cueilleur quotidien de la Jungle de Maguuma",1973
@@ -1589,6 +1622,7 @@
 "Fractales quotidiennes de niveau 31 à 40",1990
 "Fractales quotidiennes de niveau 21 à 30",1991
 "Victoire quotidienne au Gouffre gelé",2022
+"Victoire quotidienne contre le béhémoth des ombres",2025
 "Victoire quotidienne contre la Griffe de Jormag",2026
 "Collection d'armes d'Hivernel",2027
 "Collectionneur de toniques ludiques",2028
@@ -1604,6 +1638,7 @@
 "Défenseur des dolyaks",2039
 "Qui trouve garde",2040
 "Ingénieur qualité des jouets",2041
+"Jouer juste",2042
 "Survivant de la Joueffervescence",2043
 "Adepte fabricant de jouets",2044
 "Les cloches d'Hivernel",2045
@@ -1718,6 +1753,7 @@
 "Fin ignoble",2176
 "La Herse I : La masse expérimentale",2177
 "Sur leurs traces",2178
+"Revenant : Rédemption",2179
 "Rodgort I : La torche expérimentale",2180
 "Révéré",2181
 "Faucheur adepte",2182
@@ -1732,7 +1768,9 @@
 "Adepte quotidien de fractales",2191
 "Bouclier automatisé",2192
 "Kudzu I : L'arc long expérimental",2193
+"Chasseur de viveliane",2194
 "Fuite indemne",2195
+"Solidarité entre Sylvaris",2196
 "Vol mouvementé",2197
 "Pourfendeur du maître épéiste Diarmid",2198
 "Masques tombés : argent",2200
@@ -1794,6 +1832,7 @@
 "Campeur du Pacte",2257
 "Garde-jambes veillebrumes",2258
 "Pourfendeur du maître de la hache Hareth",2259
+"Brame III : Hurlement",2260
 "Défenseur de la Voie des Ogres",2261
 "Armes auriques",2262
 "Porteur de l'œuf",2263
@@ -1821,6 +1860,7 @@
 "Spéléologue spécialiste en champignons",2286
 "Professionnel de l'offensive",2287
 "Jamais plus II : Bâton de Bois-corbeau",2288
+"Sceptre automatisé",2290
 "La Herse II : La masse perfectionnée",2291
 "Équipement optimal",2292
 "Défenseur de la Voie des Nuhochs",2293
@@ -1868,6 +1908,7 @@
 "Jamais plus III : le Bâton corbeau",2336
 "Fractale quotidienne recommandée de niveau 48",2337
 "Connaissance de l'Orée d'émeraude : Grottes de fumerolles",2339
+"Fractale quotidienne recommandée de niveau 38",2341
 "La puissance des champignons",2342
 "Maître de la plongée : Orée d'émeraude",2343
 "Chasseur de têtes",2344
@@ -1928,12 +1969,14 @@
 "Sans attaches",2403
 "Dague automatisée",2404
 "Fractale quotidienne recommandée de niveau 4",2405
+"Masques tombés : or",2406
 "Armure à lames",2407
 "Leçons d'agonie",2408
 "Frénésie III : Rage",2409
 "Champion quotidien de fractales",2411
 "Cataphracte veillebrumes",2413
 "Approvisionneur de munitions",2414
+"Spécialiste des fractales",2415
 "Il pleut des bombes",2417
 "Le Vent du nord",2418
 "Migraine",2419
@@ -1945,6 +1988,7 @@
 "Voyageur des lignes de force",2425
 "Illustrateur",2426
 "Améliorations",2427
+"Le Rêveur III : L'Amant",2428
 "Pourfendeur de Diarmid",2429
 "Combat du Castagn-o-matic détraqué : argent",2430
 "Auxiliaire du régiment d'artillerie",2431
@@ -1954,6 +1998,7 @@
 "Des insectes dans les branches : argent",2435
 "Maître de la plongée : ruche de chaks",2436
 "Coffre de l'aéronef \"Orgueil d'Ours Blanc II\"",2437
+"Le Mastodonte I : Le marteau expérimental",2438
 "Étoile filante",2439
 "Établir une base avancée",2440
 "Météorologicus I : Le sceptre expérimental",2441
@@ -2041,6 +2086,7 @@
 "Bandes veillebrumes",2529
 "Le Bifrost I : Le bâton expérimental",2530
 "Racines de la terreur",2531
+"Récupérateur skritt",2532
 "Fractale quotidienne recommandée de niveau 31",2533
 "Le Prédateur I : Le fusil expérimental",2534
 "Kamohoali'i Kotaki III : Carcharias",2535
@@ -2119,6 +2165,7 @@
 "Connaissance du Bassin aurique : Les Chutes",2612
 "Ogre honoraire",2613
 "Pisteur de roi invisible",2614
+"Concasseur de Potoni",2615
 "La meilleure défense",2616
 "Coffre de l'aéronef \"Droit chemin\".",2617
 "Baboum",2618
@@ -2133,6 +2180,7 @@
 "Cité de l'espoir",2627
 "Sac à dos de magistrat",2628
 "Marteau automatisé",2629
+"Aurore III : Aube",2630
 "Coffre de l'aéronef \"Envol de Faren\"",2631
 "Ça, c'est un champignon",2632
 "Ruée du sanctuaire : argent",2633
@@ -2151,6 +2199,7 @@
 "Armure d'émissaire I : armure expérimentale",2646
 "Promenons-nous dans les bois",2647
 "Anomalie spectrale",2648
+"Privé de fantôme",2649
 "Collection d'armes à plasma",2650
 "Trouveur de trésor",2651
 "Dernier canon",2652
@@ -2210,6 +2259,7 @@
 "Nécromant de ligue – Champion",2708
 "Dominateur de ligue – Recrue",2709
 "Dominateur de ligue – Vétéran",2710
+"Pourfendeur de ligue – Champion",2711
 "Ailes de la gloire – Vétéran",2712
 "Guerrier de ligue – Élite",2713
 "Chemin vers l'Ascension IV : l'hymne à la gloire",2715
@@ -2256,6 +2306,7 @@
 "Gardien de ligue – Élite",2757
 "Pourfendeur de ligue – Recrue",2758
 "Participant de ligue quotidien – Recrue",2759
+"Légende primordiale",2760
 "Rôdeur de ligue – Recrue",2761
 "Dominateur de ligue – Élite",2762
 "Collection d'armes du gardien du temps",2763
@@ -2289,6 +2340,7 @@
 "Infirmier !",2797
 "Embuscade destructrice",2798
 "Rebelle de la guérison de cristal",2799
+"Cœur de dragon",2800
 "Erreur funeste",2801
 "Le Destructeur",2802
 "Zone d'interdiction de vol",2803
@@ -2355,6 +2407,7 @@
 "La Super Adventure",2875
 "Cours : Festival de la Super Adventure",2876
 "L'extraction de ressources minérales 1.1",2877
+"Doyen des étudiants",2878
 "L'extraction de ressources minérales 1.2",2879
 "Le roi crapaud",2880
 "L'extraction de ressources minérales 2.2",2881
@@ -2374,9 +2427,12 @@
 "Niveau 3 quotidien de la fractale du Réacteur de Thaumanova",2895
 "Niveau 1 quotidien de la fractale du champ de bataille urbain",2896
 "Niveau 3 quotidien de la fractale du champ de bataille urbain",2897
+"Niveau 2 quotidien de la fractale des ruines aquatiques",2898
 "Niveau 2 quotidien de la fractale du boss capitaine Mai Trin",2899
 "Niveau 1 quotidien de la fractale des ruines aquatiques",2900
 "Citadelle de la Flamme quotidien",2901
+"Niveau 2 quotidien de la fractale non classée",2902
+"Niveau 4 quotidien de la fractale de la fournaise de la Fusion",2903
 "Collection d'armes spectrales",2904
 "Aventure quotidienne : Course de drone",2905
 "Esprit du Tigre",2906
@@ -2408,6 +2464,7 @@
 "Niveau 4 quotidien de la fractale du boss capitaine Mai Trin",2932
 "Chuka et Champawat IV : Promenade isolée",2933
 "Niveau 3 quotidien de la fractale du boss de la Fusion",2934
+"Niveau 1 quotidien de la fractale du marais",2935
 "Aventure quotidienne : Lance-flammes anti-tentacules",2936
 "Bûcheron quotidien du Cœur de Maguuma",2937
 "Cité en ruine d'Arah quotidien",2938
@@ -2479,6 +2536,7 @@
 "Traverser le Château corrompu",3010
 "Manœuvre d'évasion",3011
 "Armure d'émissaire II : armure raffinée",3012
+"Un léger grain de folie",3013
 "Démoli",3014
 "Instruction politique",3015
 "Fléau du Blanc-Manteau",3016
@@ -2549,10 +2607,12 @@
 "Tueur quotidien de justicier fantomatique du Marais de la Pierre de Sang",3083
 "Descendre d'un cran",3084
 "Terre et mer",3085
+"Pourfendeur côtier",3086
 "Gardien disponible",3088
 "Repérages de pierre de sang",3089
 "Récolte de pierres de sang",3090
 "Collection d'armes de pierre de sang",3091
+"Détecteur de capteurs : Côte de la marée sanglante",3092
 "Détecteur de capteurs : Crique de Sud-Soleil",3093
 "Détecteur de capteurs : Passage de Lornar",3094
 "Perturbation dans les profondeurs",3095
@@ -2594,6 +2654,7 @@
 "Veilleur du Dragon",3136
 "L'ultime voyage de Cami",3137
 "Brèche ardente",3138
+"Dominer le dominateur",3139
 "Défense colossale",3140
 "Bombes interdites",3142
 "Amphithéâtre de gloire",3143
@@ -2604,6 +2665,7 @@
 "Le retour de la sentinelle de jade",3148
 "Montagnard de Gardebrume",3149
 "Bienfaiteur de Skrilla",3150
+"Visite rocheuse quotidienne de la Baie des braises",3151
 "Le fardeau du choix",3152
 "Casse-bonbon professionnel",3154
 "Sus à l'Eternel",3155
@@ -2617,6 +2679,7 @@
 "Frayeur d'Halloween",3167
 "Sculpture de citrouilles",3168
 "Une tradition royale",3169
+"Collection d'armes de gargouille",3170
 "Maîtrise de l'épisode \"Une fissure dans la glace\"",3171
 "Fractale quotidienne recommandée de niveau 60",3172
 "Maître de la plongée : Garder la tête froide",3173
@@ -2680,6 +2743,7 @@
 "Connaissance des Confins de Givramer : Vieillesse du griffon",3240
 "Du cœur, des tripes et un paquet de pulls",3242
 "Responsable en second de labyrinthe",3243
+"Défenseur des contributions",3244
 "Chaos des neiges",3245
 "Légende inflexible",3246
 "Légende immortelle",3247
@@ -2692,6 +2756,7 @@
 "De l'argent de saison",3254
 "Dieu du JcJ",3255
 "Lettres ouvertes",3256
+"Les cloches d'Hivernel",3257
 "Emballages éparpillés",3258
 "Défenseur des dolyaks",3259
 "Démolition de boules d'Hivernel",3260
@@ -2705,6 +2770,7 @@
 "Qui trouve garde",3268
 "Maîtrise du Pays des merveilles d'hiver",3269
 "Générosité dorée",3270
+"Jour de la Joueffervescence",3271
 "Légende implacable",3272
 "Illuminer le ciel",3273
 "Souffle de dragon",3274
@@ -2750,6 +2816,7 @@
 "Rejoindre la reine",3317
 "Champion du Temple",3318
 "Club de danse",3320
+"Ce n'est qu'un jeu",3321
 "Présenter ses respects",3322
 "Membre d'équipage honoraire",3323
 "Technicien du Marteau céleste",3324
@@ -2792,6 +2859,7 @@
 "Chasseur de monstres",3363
 "Enfin libre",3364
 "Contenir la marée",3365
+"Héros de Kyhlo",3366
 "Ami de la forêt",3367
 "Saboteur",3368
 "Esprit élevé",3370
@@ -2821,6 +2889,8 @@
 "Trésor du golemancien",3395
 "Protection des druides anciens",3396
 "Ascension du roi des dinosaures",3398
+"Faire chauffer le scanneur",3400
+"Arrivée et survie",3401
 "La pierre druidique",3402
 "Éclaboussures chaudes",3403
 "Connaissance du Mont Draconis : Gorge brûlante",3404
@@ -2939,6 +3009,7 @@
 "Maître de la Baie des braises",3529
 "Connaissance de la Montée de Flambecœur : Désolation de Cozen",3530
 "Connaissance du Mont Maelström : Bord volcanique",3531
+"Parer le choc",3533
 "Connaissance des Falaises de Hantedraguerre : Pic céleste de Dostoev",3534
 "Dynamisme",3535
 "Conteur : Lyssa",3536
@@ -3026,6 +3097,7 @@
 "Atteindre la surface",3627
 "Kumaa le Fougueux",3628
 "Débris oubliés",3629
+"Connaissance des Hautes-terres du désert : navires abandonnés",3630
 "Petite victoire (Épilogue)",3631
 "Histoire perdue des Rives de l'Elon",3632
 "Histoire perdue de la Désolation",3633
@@ -3062,6 +3134,7 @@
 "Maître renégat",3665
 "Maître des griffons de Vabbi : or",3666
 "Zomi le Compétent",3667
+"Toutes les essences",3668
 "Chasseur magique",3669
 "Une puanteur dans l'air",3670
 "Connaissance des Hautes-terres du désert : pied de la tour de guet",3671
@@ -3069,6 +3142,7 @@
 "L'ennemi de mon ennemi",3673
 "Adepte renégat",3674
 "Descendue en flammes",3675
+"Ravitaillement de la nécropole : argent",3676
 "Patrouilleur des ombres",3677
 "Circuit de primes des hautes-terres",3678
 "La mort, j'ai assez donné...",3679
@@ -3108,6 +3182,7 @@
 "Connaissance de l'Oasis de cristal : héritage de Brill",3714
 "Manque de respect envers les aînés",3715
 "Chasseur de safari d'Elona",3716
+"Connaissance de l'Oasis de cristal : sanctuaire de Nabkha",3717
 "Ravitaillement des réfugiés : argent",3718
 "Adepte Mirage",3719
 "Le trône des os",3720
@@ -3115,6 +3190,7 @@
 "Chasseur de primes quotidien des Rives de l'Elon",3722
 "Maître des griffons des Rives de l'Elon : or",3723
 "Roi de l'évasion",3724
+"Saut du savoir",3725
 "Boucliers activés",3726
 "Honneur aux défunts",3728
 "Expert des griffons de l'Oasis de cristal : or",3729
@@ -3149,6 +3225,7 @@
 "Récupération aux Sources âcres",3759
 "Cueilleur quotidien du désert",3760
 "Connaissance des Rives de l'Elon : Défaite d'Ossa",3761
+"Piqûre finale",3762
 "Connaissance de l'Oasis de cristal : Amnoon-la-Vieille",3763
 "Primes légendaires de l'Oasis de cristal",3764
 "Ravitaillement de Vehjin : argent",3765
@@ -3176,6 +3253,7 @@
 "Cavalier express : or",3789
 "Primes légendaires des Rives de l'Elon",3790
 "Maître des tâches quotidiennes de la Désolation",3791
+"Maître des tâches quotidiennes des Rives de l'Elon",3792
 "Expert en événements quotidiens de l'Oasis de cristal",3793
 "L'heure de la sieste",3794
 "Connaissance des Rives de l'Elon : Belvédère des héros",3795
@@ -3193,6 +3271,7 @@
 "Maître de Fléau",3807
 "Ouvrir la voie",3808
 "Chiens de guerre",3809
+"Connaissance des Hautes-terres du désert : Nid d'araignées monstrueux",3810
 "Élimination d'élite",3811
 "Circuit de primes de la Désolation",3812
 "Bouclier de Kormir",3813
@@ -3210,6 +3289,7 @@
 "Aventurier renommé : la Désolation",3825
 "Habitué des téléporteurs des Oubliés",3826
 "Joueur de flûte",3827
+"Primes de champion du Domaine de Vabbi",3828
 "Le duo du destin",3829
 "Toujours du temps pour Taimi",3830
 "Devinettes",3831
@@ -3233,6 +3313,7 @@
 "Primes de champion de l'Oasis de cristal",3850
 "Jilai la Radieuse",3851
 "Connaissance des Rives de l'Elon : Caveau du pavillon des morts",3852
+"Pas de quartier",3853
 "Spécialiste des explosifs",3854
 "Joueur légendaire de Tempête de sable",3855
 "Ciel ouvert : la Désolation",3856
@@ -3293,6 +3374,8 @@
 "Collection de mini-petits raptors",3914
 "Clocher du Roi Dément",3915
 "Maîtres du labyrinthe",3916
+"Sculpture à travers la Tyrie",3917
+"Quelque chose de bon à manger",3918
 "Service courtois",3919
 "Tenue de la Cour lunatique",3920
 "Champion du labyrinthe",3921
@@ -3324,6 +3407,7 @@
 "Héraut de nuit éternelle",3947
 "Ruines des bêtes de guerre",3948
 "Collection d'armes des sables mouvants",3949
+"Promesse d'une nouvelle aube",3950
 "Coup décisif",3951
 "Triomphe du croissant",3952
 "Une légende vivante",3953
@@ -3335,6 +3419,7 @@
 "Repose en paix",3959
 "Plongeons d'Istan",3960
 "Un tir presque à l'aveugle !",3961
+"L'œil de la Stigmatempête",3962
 "Expert quotidien en cœurs de renommée du Domaine d'Istan",3963
 "Purification astrale",3964
 "Question de tempo",3965
@@ -3384,6 +3469,7 @@
 "La passeuse",4010
 "Combat agressif",4012
 "Expert en esquive de portails",4013
+"Fini de rigoler",4014
 "Dualité des Brumes",4015
 "La mort est immortelle",4016
 "Chasseur quotidien de réserves cachées du Domaine d'Istan",4017
@@ -3427,6 +3513,7 @@
 "Course à pied gelée (annuel)",4055
 "Rival d'Ulla",4056
 "Donateur magnanime",4057
+"Les cloches d'Hivernel",4058
 "Saut au-dessus de la neige (annuel)",4059
 "Brise-portail",4060
 "Pacificateur de portail",4061
@@ -3453,6 +3540,7 @@
 "Ombre de dragon (annuel)",4082
 "Trouveur de pétards (annuel)",4083
 "Festival des feux d'artifice",4084
+"Célébration étincelante",4085
 "Compagnon céleste",4086
 "Incendiaire doré (annuel)",4087
 "Regard de dragon (annuel)",4088
@@ -3514,6 +3602,7 @@
 "Chasseur champion des Îles de Ventesable",4148
 "Pari des trois golems",4149
 "Connaissance des Îles de Ventesable : Enclave invariante",4150
+"Classique Monde 2 (annuel)",4151
 "Défi Monde 1 (annuel)",4152
 "Échauffement Monde 2 (annuel)",4153
 "Échauffement Monde 1 (annuel)",4154
@@ -3526,6 +3615,7 @@
 "Collection de mini-petits griffons",4161
 "Collection d'armes de l'Enqueste Marque II",4162
 "Trinité triomphante",4163
+"Effets secondaires éveillés",4164
 "Perte durant le transfert",4165
 "Invasion perdue",4166
 "Sondage sur les sujets d'importance",4167
@@ -3538,6 +3628,7 @@
 "Maître de la plongée : Passage de Lornar",4175
 "Maître de la plongée : Côte de la marée sanglante",4176
 "Maître de la plongée",4177
+"Maître de la plongée : Marais de fer",4178
 "Maître de la plongée : Chutes de la canopée",4179
 "Maître de la plongée : Hinterlands harathis",4180
 "Du sang dans l'eau quotidien",4181
@@ -3584,6 +3675,7 @@
 "Lancer de crabes",4222
 "Des sifflements dans la nuit",4223
 "Niveau 4 quotidien de la fractale de la Roche des abysses",4224
+"Dynamique efficace de [TSA 302] — Dégâts de zone niveau 3",4225
 "Dynamique efficace de [TSA 301] — Dégâts directs niveau 3",4226
 "Écrabouillage",4227
 "Connaissance du Domaine de Kourna : Sources de Dunlon",4228
@@ -3595,6 +3687,7 @@
 "Éveil brutal",4235
 "Saisie",4236
 "Dynamique avancée de [TSA 402] — Dégâts de zone niveau 4",4237
+"J'ai même pas peur",4238
 "Kourna quotidien : Interruption du Fléau",4239
 "Dynamique intermédiaire de [TSA 204] — Bulle bienfaitrice niveau 2",4240
 "Dynamique intermédiaire de [TSA 203] — Aura de guérison niveau 2",4241
@@ -3634,6 +3727,7 @@
 "Boss en folie : arrêter Hablion",4278
 "Obscurcissement de la lumière",4279
 "Récupérateur de lots",4280
+"Compétiteur du Défi de la reine",4281
 "Main spectrale du marché",4282
 "Chasseur de cerfs-volants",4283
 "Zéphyr des Quatre Vents",4284
@@ -3738,6 +3832,7 @@
 "Pas aujourd'hui",4384
 "Maître des griffons du Promontoire de Jahai : or",4385
 "Connaissance de Jahai : Rocher aux harpies",4386
+"Marathon de lecture",4387
 "Charges d'épées et de boucliers",4388
 "Ambition historique",4389
 "Course sans raison : or",4390
@@ -3745,6 +3840,7 @@
 "Patrimoine",4392
 "Piétineur de cosses",4393
 "Expert des griffons du Promontoire de Jahai : or",4394
+"Habitués de la visite",4395
 "Extinction du djinn de feu",4396
 "Baignade interdite",4397
 "Emblème",4398
@@ -3771,6 +3867,7 @@
 "Mon poisson rouge",4419
 "Requiem : expérience 3",4420
 "Débouteillé",4421
+"Chevauchée de tornade quotidienne du Promontoire de Jahai",4422
 "Une chute tonitruante",4423
 "Griffes sur le Mur",4424
 "Course sans raison : argent",4425
@@ -3850,6 +3947,7 @@
 "Provisions surprises",4499
 "Sur les traces des récits : Mort de mille entailles",4500
 "Accompagner le créateur",4501
+"Sur les traces des récits : Wossaul, le géant",4502
 "Bouffée de chaleur",4503
 "Sur les traces des récits : Flamme purificatrice",4504
 "Sur les traces des récits : Indemne",4505
@@ -3868,6 +3966,7 @@
 "Sur les traces des récits : Durio, le méprisant",4518
 "Sur les traces des récits : Frappe préventive",4519
 "Sur les traces des récits : Efficacité cruelle",4520
+"Sur les traces des récits : Baverne, le chasseur",4521
 "Rodéo sur hydre",4522
 "Sur les traces des récits : Carver, le trancheur",4523
 "Connaissance des Pics de Chef-Tonnerre : Passage de Martelfer",4524
@@ -3895,6 +3994,7 @@
 "Sur les traces des récits : Anatomie et physiologie",4547
 "Sur les traces des récits : Justice tranchante",4548
 "Sur les traces des récits : Œil de tempête",4549
+"Recharge : argent",4550
 "Niveau 1 quotidien de la fractale du Récif de la sirène",4551
 "Chasseur de trésors nains cachés quotidien des Pics de Chef-Tonnerre",4552
 "Pêche à l'étoile",4553
@@ -3963,13 +4063,16 @@
 "Épreuve du feu",4617
 "Le dragon de cristal",4618
 "Sur les traces des récits : Asaliea, le canalisateur",4619
+"Sur les traces des récits : Katarin, le briseur d'os",4620
 "Destruction de bric-à-brac",4621
 "Sur les traces des récits : Étoile filante",4622
 "Sur les traces des récits : Harkon Hakson, le Maelström",4623
 "Coutumes lunaires annuelles",4624
+"Coutumes du Nouvel an lunaire (annuel)",4625
 "Nouvelle année, nouveau Quaggan",4626
 "Collection d'armes de verre rebelle",4627
 "Casque de griffe razziafelis",4628
+"Armure de queue de razziafelis",4629
 "Squatteur de console",4630
 "Chaton assoupi",4631
 "C'est un grattoir, ça ?",4632
@@ -4004,6 +4107,7 @@
 "Réflexes de dracaille",4662
 "Des amis haut placés",4663
 "Connaissance de la Chute draconique : cime des Falaises calcinées",4664
+"Dracaille du courage",4665
 "Œufs de dracaille",4666
 "Fièvre de dracaille",4667
 "Vol de dracaille",4668
@@ -4028,6 +4132,7 @@
 "Chevaucheur de dracaille : Ruines d'Orr",4691
 "Dracaille perdu",4692
 "Élevage de dracailles",4693
+"Dracaille du feu",4694
 "Dracaille de la mort",4695
 "Cristallisateur quotidien de cocons de la Chute draconique",4696
 "Un peu de retenue",4697
@@ -4086,6 +4191,7 @@
 "Événement bonus : course aux méta-événements",4756
 "Visions de la Chute draconique",4757
 "Bienfaiteur mystique",4758
+"Chercheur de la forge mystique III",4759
 "Visions de Kourna",4760
 "Événement bonus : course aux méta-événements",4761
 "Vision I : Éveil",4762
@@ -4137,6 +4243,7 @@
 "Maîtres de l'arène (annuel)",4813
 "Maîtres de l'arène",4814
 "Prouesses de la Foire du Dragon (annuel)",4815
+"L'ambiance de la Foire du Dragon",4816
 "Bon pied bon œil",4817
 "Survivant de la ruée",4818
 "Aider un Quaggan",4819
@@ -4160,6 +4267,7 @@
 "Dompteur d'hologrammes (annuel)",4838
 "Joyeuse ingestion",4839
 "Plus rapide qu'un dragon",4840
+"Dévoreur de Zhaïtella (annuel)",4841
 "Massacreur de serviteurs",4842
 "Gladiateur de l'arène",4843
 "Destructeur de papier",4844
@@ -4185,6 +4293,7 @@
 "Boss en folie : battre Boum-boum (annuel)",4864
 "Coutumes des Quatre Vents (annuel)",4865
 "Oblitérateur d'Ogres (annuel)",4866
+"Mutilateur du Manteau (annuel)",4867
 "Extincteur d'effigie (annuel)",4868
 "Boss en folie : étriller Etincellus (annuel)",4869
 "Concasseur de Centaures (annuel)",4870
@@ -4210,6 +4319,7 @@
 "Événements bonus : course aux champions quotidienne en Orr",4891
 "Événements bonus : course aux champions quotidienne en Kryte",4892
 "Objectif communautaire \"Course aux champions\" : niveau 2",4893
+"Objectif communautaire \"Course aux champions\" : niveau 4",4894
 "Événements bonus : course aux champions quotidienne dans la Jungle de Maguuma",4895
 "Maître gourmet",4896
 "Collection d'armes de l'océan infini",4897
@@ -4231,6 +4341,7 @@
 "Sous-chef maître",4916
 "Justice expéditive",4917
 "Arcanes du Khan-Ur supplémentaires",4918
+"Brise-glace",4919
 "Mixologue novice",4920
 "Promoteur de concerts expert",4921
 "Champion unanime",4922
@@ -4254,6 +4365,7 @@
 "Maîtrise \"Liés par le sang\"",4940
 "Passation de flambeau",4941
 "Protecteur du bétail",4942
+"Chaperon",4944
 "Allumeur quotidien d'effigie de Grothmar",4945
 "Ramasseur de piments",4946
 "Périple de Grothmar : défi d'or",4947
@@ -4326,6 +4438,7 @@
 "Enquêteur en herbe",5016
 "Faveur du Corbeau",5017
 "Éclairage de l'héritage",5018
+"Grand chamane légendaire",5019
 "Famine",5020
 "Expert quotidien des idoles de Jormag",5021
 "Collecteur quotidien de glace éternelle de la Frontière de Bjora",5022
@@ -4356,6 +4469,7 @@
 "Achèvement quotidien des Tempêtes hivernales",5047
 "Ruptures amicales",5048
 "Expert quotidien des puzzles",5049
+"Ce qui reste",5050
 "Manifestation surnaturelle",5051
 "Les bases de la manipulation d'essence",5052
 "Silence",5053
@@ -4399,6 +4513,7 @@
 "Attention, chute d'arbre !",5091
 "Dompteur du feu",5092
 "Ours bûcherons",5093
+"Lumière vacillante",5094
 "Protecteur de la lumière",5095
 "Lumière dans les ténèbres",5096
 "Défunt infaillible",5097
@@ -4407,6 +4522,7 @@
 "Esquiveur des Kodans",5100
 "Mystère du labyrinthe",5101
 "Guider les Esprits égarés",5102
+"Révélation de l'Aigle",5103
 "Menace tenace",5104
 "Maîtrise des épreuves de Koda",5105
 "Moins une",5106
@@ -4468,6 +4584,7 @@
 "Vos débuts",5163
 "Maîtrise des didacticiels",5164
 "Collection pour débutants",5165
+"Compétiteur du 2c2",5166
 "Explorateur novice des Contreforts du voyageur",5167
 "Participant de ligue – Première saison 2c2",5168
 "Pourfendeur de ligue – Première saison 2c2",5169
@@ -4481,6 +4598,7 @@
 "Préparation de l'Œil",5177
 "Acier forgé",5178
 "Visions du passé : Cragstead",5179
+"Exploration des Galeries de Sombregivre",5181
 "Montée en grade",5182
 "Visions du passé : Reconquête de Cragstead",5183
 "Trophée stigmatisé",5184
@@ -4552,6 +4670,7 @@
 "Mission spéciale : ravitaillement du Fer",5255
 "Chasseur de l'Empire quotidien de la Côte de Bruinebois",5256
 "Saboteur quotidien de la Côte de Bruinebois",5257
+"Mission spéciale : renforcer le phare",5258
 "Pourfendeur de ligue – Première saison 3c3",5259
 "Mission spéciale : piller le port",5260
 "Mission spéciale : renforcer le belvédère",5261
@@ -4594,6 +4713,7 @@
 "Gloire à la Légion de Fer",5298
 "Attaque \"Guerre froide\" quotidienne",5299
 "Mission spéciale : étancher sa soif",5300
+"Mission spéciale : faire le ménage dans le village",5301
 "Conquérant communautaire",5302
 "Connaissance de la Côte de Bruinebois : Cœur de la cascade",5303
 "Mission spéciale : mise à feu",5304
@@ -4691,6 +4811,7 @@
 "Mission spéciale : décimez leurs rangs",5397
 "Mission spéciale : situations explosives",5399
 "Chasseur de corrompus quotidien de la Côte de Bruinebois",5400
+"Maîtrise de l'épisode \"L'emprise de Jormag\"",5401
 "Mission spéciale : tout faire sauter",5402
 "Sus à l'Empire",5403
 "Conquérant quotidien de la Côte de Bruinebois",5404
@@ -4718,6 +4839,7 @@
 "Mission spéciale : la puissance des roquettes curatives",5428
 "Agent de renseignement",5429
 "Pourfendeur de ligue – Vingt-troisième saison de conquête",5430
+"Participant de ligue – Vingt-troisième saison de conquête",5431
 "Récompenses bonus quotidiennes : Boss en folie",5432
 "Divinité du McM",5433
 "Conquérant de ligue – Vingt-troisième saison de conquête",5434
@@ -4746,6 +4868,7 @@
 "Spécialiste des fractales abyssales",5458
 "Objectif communautaire de course aux fractales : niveau 5",5459
 "Objectif communautaire de course aux fractales : niveau 4",5460
+"Objectif communautaire de course aux fractales : niveau 3",5462
 "Conquérant de ligue – Deuxième saison 3c3",5463
 "Objectif communautaire de course aux fractales : niveau 1",5464
 "Objectif communautaire de course aux fractales : niveau 2",5465
@@ -4823,6 +4946,7 @@
 "Feu de forêt",5544
 "Collectionneur d'armements d'Invoque-tempête volcaniques",5545
 "Marée gelée",5546
+"Participant de ligue – Troisième saison 2c2",5547
 "Conquérant de ligue – Troisième saison 2c2",5548
 "Collection d'armes de l'aurore scintillante",5549
 "Pourfendeur de ligue – Troisième saison 2c2",5550
@@ -4849,8 +4973,10 @@
 "Vagues meurtrières",5580
 "Endiguement de dragon d'urgence : Champs de ruine",5581
 "Ennemis des Exaltés quotidiens",5582
+"Dons aux Tengus quotidiens",5583
 "Ralliement des Tengus",5584
 "Spécialiste des infusions de glace draconique",5585
+"Ralliement des Exaltés",5586
 "Mission d'endiguement de dragon du Lac Doric quotidienne",5588
 "Meilleur endiguement de dragon : Champs de ruine",5589
 "Endiguement de dragon d'urgence : Lac Doric",5590
@@ -4893,6 +5019,7 @@
 "Endiguement de dragon d'urgence : Montée de Flambecœur",5640
 "Missions des Olmakhans quotidiennes",5641
 "Endiguement de dragon d'urgence : Côte de la marée sanglante",5642
+"Soutien des Olmakhans",5643
 "Meilleur endiguement de dragon : Forêt de Caledon",5644
 "Ralliement des Kodans",5645
 "Mission d'endiguement de dragon de la Montée de Flambecœur quotidienne",5646
@@ -4950,6 +5077,7 @@
 "Maîtrise de l'épisode \"Champions\"",5706
 "Dispersion de coalescences",5707
 "Reprise de la situation : Congères d'Antreneige",5708
+"Reprise de la situation : Province de Metrica",5709
 "Chaleur skritt",5710
 "Démolitions par tortue",5711
 "Pourfendeur de ligue – Quatrième saison 2c2",5712
@@ -4970,6 +5098,7 @@
 "Moissonneur : Contrées sauvages d'argent",5730
 "Mineur : Cimesèche",5731
 "Retour dans \"Actes d'une ombre\"",5732
+"Retour dans \"Histoire de politique\"",5733
 "Moissonneur : Baie des braises",5734
 "Retour dans \"L'incident de Concordia\"",5735
 "Retour dans \"Comme un froid\"",5736
@@ -5099,6 +5228,7 @@
 "Retour dans \"La charge\"",5868
 "Retour sur la Côte de Bruinebois 1",5869
 "Moissonneur : Pics de Chef-Tonnerre",5870
+"Chasseur de trésor : Galeries de Sombregivre",5871
 "(Bonus) Contre-attaque : Col des Cimefroides",5872
 "Vengeance de Sulypix",5873
 "Vengeance du Porteruine",5874
@@ -5106,6 +5236,7 @@
 "Retour dans \"Pourparlers difficiles\"",5876
 "Retour dans \"La fin\"",5877
 "Retour dans \"Retour sur le champ des cendres\"",5878
+"(Bonus) Contre-attaque : Murmure de Jormag",5879
 "Vengeance de l'archonte Iberu",5880
 "Retour dans \"Ce qui reste\"",5881
 "Retour dans \"Voix des profondeurs\"",5882
@@ -5168,6 +5299,7 @@
 "Retour dans \"Un Charr, un dragon, un champion\"",5940
 "Gestion forestière : Pics de Chef-Tonnerre",5941
 "(Bonus) Contre-attaque : Sanctuaire du Corbeau",5942
+"Favori de la course : Vallée de Grothmar",5943
 "Intervention secondaire : Forêt de Caledon",5944
 "Mineur : Domaine de Kourna",5945
 "Triomphateur du Défi du Khan-Ur",5946
@@ -5177,12 +5309,14 @@
 "Retour dans \"Le héros d'Istan\"",5950
 "Intervention secondaire : Congères d'Antreneige",5951
 "Intervention secondaire : Côte de la marée sanglante",5952
+"Retour dans \"Le sujet d'expérience\"",5953
 "Retour dans \"Course à l'armement\"",5954
 "Intervention locale : Pics de Chef-Tonnerre",5955
 "Intervention locale : Frontière de Bjora 1",5956
 "(Bonus) Contre-attaque : Ralliement à l'Œil",5957
 "Retour dans \"Rancune\"",5958
 "Héros célèbre : Pics de Chef-Tonnerre",5959
+"Hypothèse finale",5960
 "Coureur aux boss de monde",5961
 "Vengeance de l'effigie de flammes",5962
 "Vengeance de Vemyen",5963
@@ -5202,6 +5336,7 @@
 "Retour dans \"L'Œil de la Stigmatempête\"",5977
 "Chercheur accompli",5978
 "Chasseur de trésor : Pics de Chef-Tonnerre",5979
+"Intervention secondaire : Province de Metrica",5980
 "Retour dans \"Une nation brisée\"",5981
 "Intervention secondaire : Donjon de Chef-Tonnerre",5982
 "Retour dans \"Silence\"",5983
@@ -5225,6 +5360,7 @@
 "Retour dans \"Volte-face\"",6001
 "Retour dans \"Une arme peut en cacher une autre\"",6002
 "Vengeance de Kralkatorrik",6003
+"Mineur : Pics de Chef-Tonnerre",6004
 "Retour dans le Domaine de Kourna",6005
 "Chasseur de trésor : Côte de Bruinebois",6006
 "Retour dans \"Grotte du champion Lancier du soleil\"",6007
@@ -5324,6 +5460,7 @@
 "Connaissance des Terres sauvages d'Echovald : maison zu Heltzer",6102
 "Coups tirés",6103
 "Connaissance de la Province de Seitung : grotte des cristaux",6104
+"Connaissance de la Province de Seitung : Île aux Chats de Zen Daijun",6105
 "Pêcheur des îles du Désert",6106
 "Lecture du livre \"Le secret de la chambre\"",6107
 "Augure certifié par le Ministère",6108
@@ -5341,8 +5478,10 @@
 "Amuse-bouche",6120
 "Voltige exceptionnelle à Pierre Arborea",6121
 "Connaissance du Trépas du dragon : entrepôt",6122
+"Garde du corps",6123
 "Touriste assoiffé",6124
 "Démonstration laser",6125
+"Expansion",6126
 "Sauteur d'ondes de choc",6127
 "Connaissance de Néo-Kaineng : chantier de récupération",6128
 "Aplatisseur de fascistes",6130
@@ -5351,6 +5490,7 @@
 "Maîtrise de \"End of Dragons\" : acte 5",6133
 "Ce genre d'individus...",6134
 "Maître Spectre",6135
+"Chevauchée à dos de frappesol à la prison de Seitung",6136
 "Secouriste des tortues",6137
 "Course à dos de raptor : Terres sauvages d'Echovald",6138
 "On ne peut pas faire confiance à un pirate",6139
@@ -5414,6 +5554,7 @@
 "Pour l'Arche du Lion",6200
 "Carène de la carène",6201
 "Maîtrise de \"End of Dragons\" : acte 4",6202
+"Vers des hauteurs vertigineuses",6203
 "Le plaisir des retrouvailles",6204
 "Spectre adepte",6205
 "Pourfendeur quotidien du Vide des Terres sauvages d'Echovald",6206
@@ -5433,11 +5574,13 @@
 "Cœur au repos",6221
 "Expert en événements quotidien de Néo-Kaineng",6222
 "Pourfendeur quotidien d'esprits des Terres sauvages d'Echovald",6223
+"Pêcheur de classe internationale",6224
 "Agilité laser",6225
 "Connaissance des Terres sauvages d'Echovald : Bassin de Qinkaishi",6226
 "Pêcheur enthousiaste d'Orr",6227
 "Survivants",6228
 "Pour la Forêt !",6229
+"Visiteur de Cantha",6230
 "Chevauchée à dos de raptor dans le quartier Daigo",6231
 "Poisson ferré",6232
 "Justicier certifié par le Ministère",6233
@@ -5530,6 +5673,7 @@
 "Récupération hebdomadaire de trésor de jade de la Province de Seitung",6321
 "Question de rapidité",6322
 "La route panoramique",6323
+"Amateur quotidien de panoramas de \"End of Dragons\"",6324
 "Vengeance impie",6325
 "Le cycle recommence",6326
 "Priorité d'attaque de Cantha : belvédère de Kaineng",6327
@@ -5539,6 +5683,7 @@
 "Maîtrise de la Province de Seitung",6331
 "Maître Jurelame",6332
 "Évolution de personnage",6333
+"Connaissance des Terres sauvages d'Echovald : village de Mori",6334
 "Maître de l'invisible",6335
 "Pêcheur de la Province de Seitung",6336
 "Fardeau écrasant",6337
@@ -5549,6 +5694,7 @@
 "Pêcheur de Kaineng",6342
 "Furtivité surnaturelle",6343
 "Pêcheur de Maguuma",6344
+"Selon les règles",6345
 "La vieille ville de la pourriture",6347
 "Maître Méchamancien",6348
 "Révélation de ritualistes",6349
@@ -5660,6 +5806,7 @@
 "Albax le malchanceux",6455
 "Esprit indemne",6456
 "Priorité d'attaque de Cantha : décharge de Xunlai Jade",6457
+"Vainqueur de Valdhertz",6458
 "Maître Augure",6459
 "Les ennuis des profondeurs",6460
 "L'histoire de Néo-Kaineng",6461
@@ -5668,6 +5815,7 @@
 "Gagner cœurs et âmes",6465
 "Pêcheur enthousiaste des Terres sauvages d'Echovald",6466
 "Possession",6467
+"Méta-événement de la Province de Seitung",6468
 "Pourfendeur quotidien de Naga du Trépas du dragon",6469
 "Un sol de Vide",6470
 "Marin pêcheur",6471
@@ -5693,8 +5841,10 @@
 "Une intelligence presque impressionnante",6491
 "Pêcheur quotidien du Cœur de Maguuma",6492
 "La grande évasion",6493
+"Aventurier renommé : Province de Seitung",6494
 "Purificatrice",6495
 "Pacificateur de dragons",6496
+"Avec des fleurs",6497
 "Cavalcade à dos de frappesol : Terres sauvages d'Echovald",6498
 "Pêcheur quotidien d'Orr",6499
 "Le poids du monde",6500
@@ -5753,6 +5903,7 @@
 "Survivant de la cérémonie",6556
 "Patrouille sur la Côte de la marée sanglante",6557
 "La Facette de l'ombre et de la mort",6558
+"Le Refuge étherlame",6559
 "Étude d'investigation 2",6560
 "Récupération de ressources",6561
 "Facette des ombres d'Aurene",6562
@@ -5776,6 +5927,7 @@
 "Esquiver des attaques III",6580
 "Fabriquer des objets",6581
 "Employer des compétences utilitaires",6582
+"Vaincre des boss de monde II",6583
 "Guide d'aventures : volume cinq",6584
 "Extraire du minerai",6585
 "Épargné par le désespoir",6586
@@ -5790,6 +5942,7 @@
 "Utiliser la forge mystique",6596
 "Gagner des niveaux IV",6597
 "Participant de ligue – Trente-troisième saison de conquête",6599
+"Gagner des niveaux I",6600
 "Utiliser des points de passage",6601
 "Utiliser la banque",6602
 "Participant de ligue – Septième saison 2c2",6603
@@ -5808,6 +5961,7 @@
 "Vaincre les couvegivres",6616
 "Terminer des puzzles de saut",6617
 "Terminer des événements III",6618
+"Conquérant de ligue – Septième saison 2c2",6619
 "Admirer les panoramas",6620
 "Vaincre des boss de monde I",6621
 "Vaincre des ennemis I",6622
@@ -5841,6 +5995,7 @@
 "Vaincre l'Enqueste",6650
 "Vaincre des destructeurs",6651
 "Couper du bois",6653
+"Vaincre des vétérans dans les Ruines d'Orr",6654
 "Pourfendeur de ligue – Septième saison 2c2",6655
 "Terminer des événements V",6656
 "Appliquer des teintures",6657
@@ -5895,6 +6050,7 @@
 "Décennie de champions : le Destructeur",6714
 "Admirer les panoramas III",6715
 "Décennie d'aventure : Désert de cristal",6716
+"Vétéran de la bêta de restructuration des mondes McM",6718
 "Décennie de héros : Repli du dragon",6719
 "Décennie d'aventure : Ascalon",6720
 "Découvrir des points de passage III",6721
@@ -5999,6 +6155,7 @@
 "Conquérant de tours (hebdomadaire)",6828
 "Pourfendeur de ligue – Huitième saison 3c3",6829
 "Participant de ligue – Huitième saison 3c3",6830
+"Collection d'armes de la carpe koï miroitante",6831
 "Héros de la Guerre des Brumes (hebdomadaire)",6832
 "Stoppeur de dolyaks (hebdomadaire)",6833
 "Conquérant de camps (hebdomadaire)",6834
@@ -6109,7 +6266,9 @@
 "Indivisible",6940
 "Démolisseur de défiance",6941
 "Enquête sinistre",6942
+"Niveau 2 quotidien de la fractale du Ressac silencieux",6943
 "Champions de Cavalon",6944
+"Niveau 3 quotidien de la fractale du Ressac silencieux",6945
 "Chasseur de démons",6946
 "Équipée intrépide",6947
 "Pied marin de la Mer de Jade",6948
@@ -6190,6 +6349,7 @@
 "Incursions du Domaine d'Istan",7028
 "Mise à l'abri",7029
 "Collectionneur d'armes d'œil de tempête",7030
+"Nourrir nonchalamment le Naturel",7031
 "Un chapitre conclu",7032
 "Fantastiques renards volants",7034
 "Nourrir le Naturel",7035
@@ -6199,6 +6359,7 @@
 "Incursions de la Crique de Sud-Soleil",7040
 "Garde astrale honoraire",7041
 "Protecteur éternel des Marches célestes",7042
+"Incursions des Terres sauvages d'Echovald",7044
 "Connaissance d'Amnytas : vigie de la grotte",7045
 "Connaissance d'Amnytas : pilastre céleste",7046
 "Les égarées de Brumaille",7048
@@ -6248,6 +6409,7 @@
 "Arme légendaire : Le Bifrost",7101
 "Abatteur de tentacules",7102
 "Journal de Zojja : Lumière de Droknar",7103
+"Maîtrise de \"Secrets of the Obscure\" : acte 1",7104
 "Rejet d'ordures",7106
 "Épreuve de la Tour du sorcier : argent",7107
 "Incursions du Lac Doric",7108
@@ -6306,6 +6468,7 @@
 "Protecteur éternel de la zone d'habitation de Mechs de jade n° 3",7179
 "Dévoreur de péchés",7180
 "Incursions des Îles de Ventesable",7181
+"Connaissance d'Amnytas : perspective équilibrée",7182
 "Arme légendaire : Crépuscule",7183
 "Chasse aux brèches du Donjon de Chef-Tonnerre",7184
 "Lunettes de plongée : plongeon astral",7185
@@ -6340,6 +6503,7 @@
 "Étreinte astrale",7219
 "L'ignorance, une bénédiction",7220
 "L'Aiguillon du monde",7221
+"Objectif Obscur",7222
 "Zigouillage d'insectes",7224
 "Un nouvel ami",7225
 "Arme légendaire : Frénésie",7226
@@ -6370,6 +6534,7 @@
 "Compassion amicale",7277
 "Fouilleur de donjon : Creuset de l'éternité",7278
 "Fouilleur de donjon : La Cité en ruine d'Arah",7285
+"Événement de récupération de biens volés du Lion noir : semaine 3 – basique",7309
 "Manifestations en pagaille",7313
 "Furetage dans la tour",7317
 "Événement de récupération de biens volés au Lion noir",7323
@@ -6427,6 +6592,7 @@
 "Conquérant des tours de la course McM 2",7627
 "Incursions de la Baie des braises",7628
 "Chasse aux brèches des Confins de Givramer",7629
+"Traversée d'Amnytas : du Naturel à la Force",7630
 "Participant à la course JcJ",7631
 "Chasse aux brèches des Marais de fer",7632
 "Traversée d'Amnytas : de la tour de Lyhr à la tour d'Isgarren",7633
@@ -6474,6 +6640,7 @@
 "Collectionneur d'armes de l'abomination",7675
 "Armure tissée d'Oneiros",7676
 "Démarrage en trombe : don des Brumes",7677
+"Mission d'attaque légendaire de l'Observatoire cosmique",7678
 "Incursions à la Cimesèche",7679
 "Dans la même galère",7680
 "Chasse aux brèches de Néo-Kaineng",7681
@@ -6509,6 +6676,7 @@
 "Origine de héros : Forêt de Caledon",7715
 "Démarrage en trombe : rencontre de l'étranger des Brumes",7716
 "Origine de héros : Contreforts du voyageur",7717
+"Aucun coffre fermé",7718
 "Roupiller sur le tas",7719
 "Conquérant continu de convergences",7720
 "Nayos intérieur : Maîtrise I",7721
@@ -6544,6 +6712,7 @@
 "Participant de ligue – Dixième saison 3c3",7761
 "Récursion de fractale : Boss de la Fusion (hebdomadaire)",7763
 "Intervention locale : Plateau de Diessa (hebdomadaire)",7764
+"Revivre la saison 1",7765
 "Participant de ligue – Quarantième saison de conquête",7766
 "Pillage des pirates du ciel (hebdomadaire)",7767
 "Intervention locale : La bataille de l'Arche du Lion (hebdomadaire)",7768
@@ -6581,6 +6750,7 @@
 "Nayos intérieur : Maîtrise II",7800
 "Ébrécher les crocs qui grincent",7801
 "Ça, c'est de l'armure de qualité",7802
+"Démantèlement de tourelle",7803
 "Pêcheur enthousiaste de la Corne de Maguuma",7804
 "Salut aux troupes",7805
 "Une archive de guerre : le Naturel",7806
@@ -6593,6 +6763,7 @@
 "Artisan armurier : sceptre de revenant",7813
 "Collection d'armes d'essence nécrotique",7814
 "Le Défilé du déclin",7815
+"Une archive de guerre : Équilibre",7816
 "Connaissance de Nayos intérieur : point de vue de la branche",7817
 "Répit envieux",7818
 "Optimisme débridé",7819
@@ -6624,6 +6795,7 @@
 "Dracaille énergisé",7845
 "Plus jamais ça",7846
 "Divertissement familial de qualité",7847
+"Mineur astral",7848
 "Artisan armurier : hache de voleur",7849
 "La connaissance, c'est le pouvoir",7850
 "Artisan armurier : fusil d'envoûteur",7851
@@ -6679,6 +6851,7 @@
 "Intervention locale : Profondeurs verdoyantes",7901
 "Reconquête de la Course rétrospective (hebdomadaire)",7902
 "Intervention locale : Contrées sauvages d'argent (hebdomadaire)",7903
+"Cimesèche quotidienne",7904
 "La grandeur dans le sang",7905
 "Vengeur du royaume VI",7906
 "Chasseur fabuleux",7907
@@ -6798,6 +6971,7 @@
 "Vétéran de la Fissure du malheur",8028
 "Vétéran de Maguuma",8029
 "Vétéran du Cromlech de Denravi",8030
+"Libération d'essence kryptis : argent",8031
 "Vétéran du Plateau d'Eredon",8032
 "Vétéran de la Place de Vizunah",8033
 "Reconnaissance de Nayos : or",8034
@@ -6818,6 +6992,7 @@
 "Mode défi de convergence : Umbriel, Hallebarde de la maison Aurkus – or",8050
 "Fraternité solidaire",8051
 "Désarroi avec Conri",8053
+"À peine une égratignure",8054
 "Niveau 1 quotidien de la fractale de la Tour solitaire",8055
 "Vétéran de Dzagonur",8056
 "Mode défi de convergence : Aile d'effroi – argent",8057
@@ -6891,6 +7066,7 @@
 "Semaine du trésor englouti : Mont Maelström",8128
 "Semaine du trésor englouti : Récif de la sirène",8129
 "Reconquête du Labyrinthe piégé (hebdomadaire)",8130
+"Vengeance des Jumeaux destructeurs (hebdomadaire)",8131
 "Semaine du trésor englouti : Chutes de la canopée",8132
 "Vengeance d'Hablion (hebdomadaire)",8133
 "Vengeance du Gardien délié (hebdomadaire)",8134
@@ -6953,6 +7129,7 @@
 "Héros des bois",8193
 "Chasse dans les prairies",8194
 "L'étoile filante : porte-météore",8195
+"Éclaireur de fragment",8196
 "Saumon, à contre-courant !",8197
 "Nourrir la bête",8198
 "Justice immanente",8199
@@ -6991,6 +7168,7 @@
 "(Répétable) Côte des basses terres : cœur de renommée de l'avant-poste des trottetins",8233
 "Aventure de la Syntri de Janthir : cartographie fluviale",8234
 "Connaissance de la Côte des basses terres : Champs ruminants",8235
+"Aventure de la Syntri de Janthir : vue depuis le sommet",8236
 "Course de razziafelis de la Syntri de Janthir : argent",8237
 "Connaissance de la Côte des basses terres : Mémorial \"Bataille de la glace\"",8238
 "La journée promet d'être longue",8239
@@ -7076,6 +7254,7 @@
 "Travailler avec le sourire",8319
 "(Répétable) Syntri de Janthir : cœur de renommée des Plaines affligées",8320
 "Connaissance de la Côte des basses terres : Rêverie lupine",8321
+"Abeille butineuse",8322
 "Créatures de la côte",8323
 "L'alliance tyrienne",8324
 "Contrebandier de Janthir",8325
@@ -7090,6 +7269,7 @@
 "Lutte contre les incendies",8334
 "Maître glaneur : viande",8335
 "Confection de Quaggan : les petits",8336
+"Marée des Brumes renversée",8337
 "Remontée du saumon de l'Abri du camp de la lune : bronze",8338
 "Des étrangers dans ces terres",8339
 "Aventure de course de razziafelis : or",8340
@@ -7109,6 +7289,7 @@
 "Reconnaissance de la vallée : bronze",8354
 "Discussion près du feu",8355
 "Double choc",8356
+"Grand plongeon",8357
 "Petit poisson deviendra grand",8358
 "Connaissance de la Syntri de Janthir : Ascension sulfureuse",8359
 "Chasse dans la toundra",8360
@@ -7132,6 +7313,7 @@
 "Esprit aventureux : Domaine d'Istan (hebdomadaire)",8378
 "Esprit aventureux : Îles de Ventesable (hebdomadaire)",8379
 "Chute draconique quotidienne",8380
+"Intervention locale : Domaine de Kourna (hebdomadaire)",8381
 "La revanche des molosses",8382
 "Intervention locale : Pics de Chef-Tonnerre (hebdomadaire)",8383
 "Intervention locale : La Désolation",8384
@@ -7167,6 +7349,7 @@
 "Héros célèbre : Pics de Chef-Tonnerre (hebdomadaire)",8414
 "Retour dans la saison 4",8415
 "Renaissance d'ennemis : forgés",8416
+"Intervention locale : Oasis de cristal",8417
 "Héros célèbre : Domaine de Kourna (hebdomadaire)",8418
 "Désolation quotidienne",8419
 "Vengeance de la protectrice Amala (hebdomadaire)",8420
@@ -7179,6 +7362,7 @@
 "Bêta-testeur de l'Avancée",8427
 "Domaine de Vabbi quotidien",8428
 "La route de la victoire IX",8429
+"La route de la victoire II",8430
 "Pics de Chef-Tonnerre quotidiens",8431
 "La route de la victoire VIII",8432
 "Collection d'armes de bête mystique",8433
@@ -7208,6 +7392,7 @@
 "Caveau des Brumes : passe de visite",8460
 "Conquérant de colifichets de Titan : mont Balrior",8461
 "Mentor de raid : Ura",8462
+"(Répétable) Élimination de rejetons de Titan : mont Balrior",8463
 "Convergences en mode défi (hebdomadaires) : Nayos extérieur",8464
 "Chariot à flèches infini",8465
 "Collectionneur d'armes de pleine lune",8466
@@ -7232,6 +7417,8 @@
 "Le pic du Balrior",8490
 "Le cœur de la fête",8491
 "La reine du combat",8492
+"Trébuchet infini",8493
+"L'art de la danse",8494
 "Expertise de la catapulte",8495
 "Expertise du golem de siège",8496
 "Golem de siège infini",8497
@@ -7239,12 +7426,14 @@
 "Mentor de raid : Greer",8499
 "Expertise des balistes",8500
 "Collectionneur d'armes de vague verre-de-mer",8501
+"Invaincu : mont Balrior",8502
 "Klobjarne Geirr : achèvements de boss de monde ou de méta-événement",8505
 "Collectionneur d'armes de la lune sanglante",8507
 "Défenseur d'objectifs (hebdomadaire)",8508
 "Force gigantesque - Ura",8509
 "Expertise du bélier de feu",8511
 "Baliste infinie",8512
+"Participant de ligue – Quarante-quatrième saison de conquête",8513
 "Collection d'armes d'essence draconique",8514
 "Conquérant de ligue – Quarante-quatrième saison de conquête",8515
 "Pourfendeur de ligue – Quarante-quatrième saison de conquête",8516
@@ -7290,8 +7479,11 @@
 "Autrefois doré, désormais terni",8558
 "Pénitence pour le passé",8559
 "Artisan impeccable",8560
+"Guide égaré",8561
 "Recherche périlleuse : or",8562
+"Connaissance des Landes de Feu-de-Brume : Grand athénée",8563
 "Fouille des archives",8564
+"Il fait bon d'être chez soi : Amnytas",8565
 "Mille-âmes",8566
 "Le follet rétif : rencontre de follet",8567
 "Recherche périlleuse : bronze",8568
@@ -7314,6 +7506,7 @@
 "Scanner et apaiser",8585
 "Pourfendeur de ligue – Quarante-cinquième saison de conquête",8586
 "Conquérant légendaire d'Ura",8587
+"Connaissance des Landes de Feu-de-Brume : Belvédère du Lac doré",8588
 "Il fait bon d'être chez soi : Terres sauvages d'Echovald",8589
 "Connaissance des Landes de Feu-de-Brume : Sacrarium caché",8590
 "Pro de la récupération",8591
@@ -7355,6 +7548,7 @@
 "Il fait bon d'être chez soi : Domaine d'Istan",8627
 "Il fait bon d'être chez soi : Domaine de Vabbi",8628
 "Y'a plus Yagon",8629
+"Il fait bon d'être chez soi : Repli du dragon",8630
 "Cour du porte-fléau légendaire",8631
 "Un héritage maudit",8632
 "Il fait bon d'être chez soi : Désolation",8633
@@ -7368,6 +7562,7 @@
 "Il fait bon d'être chez soi : Kryte",8641
 "Il fait bon d'être chez soi : Lac Doric",8642
 "Il fait bon d'être chez soi : Vallée de Grothmar",8643
+"Le follet rétif : accueil du follet",8644
 "Carnaval choya (quotidien)",8645
 "Le podium de la postérité (quotidien)",8646
 "Prendre sa monnaie au chat",8647
@@ -7404,6 +7599,7 @@
 "Retour dans End of Dragons",8679
 "Intervention locale : Province de Seitung",8680
 "Revanche du béhémoth de jade",8681
+"Expert de la roulade : course côtière",8682
 "Vengeance du voyageur vorace",8684
 "Sprinteur de la roulade : le croc de Jormag (hebdomadaire)",8685
 "Sprinteur de la roulade : course côtière (hebdomadaire)",8686
@@ -7421,12 +7617,14 @@
 "Expert de la roulade : course côtière (hebdomadaire)",8698
 "Expert de la roulade : circuit lacustre (hebdomadaire)",8699
 "Esprit aventureux : drone de jade",8700
+"Sprinteur de la roulade : le saut de l'enfer (hebdomadaire)",8701
 "Expert de la roulade : le saut de l'enfer (hebdomadaire)",8702
 "Expert de la roulade : circuit de la vallée tropicale (hebdomadaire)",8703
 "Explorateur de Bava Nisos",8704
 "Esquive d'écho",8705
 "Affaire 382 : contrebande d'organes de Titan",8706
 "Froid agonisant",8707
+"Deux coups",8708
 "Entraînement de ritualiste – Partie 2",8709
 "Mode défi de la fractale du deuil du foyer",8710
 "Éclate-pas",8711
@@ -7435,6 +7633,7 @@
 "Sac à dos et deltaplane légendaires : Orrax",8714
 "Collectionneur d'armes de clarté légère",8715
 "Trouveur de faits",8716
+"Maîtrise de \"Janthir Wilds : Absolution\"",8717
 "Expert en démolition",8718
 "Champion d'Orr",8719
 "Bien fait pour vous",8720
@@ -7472,6 +7671,7 @@
 "Traversée du Titan",8752
 "Dur labeur du moment",8753
 "Connaissance de Bava Nisos : Puits bronchique nord",8754
+"Fermez derrière vous",8755
 "Maître de mémoire miroir",8756
 "Relations diplomatiques",8757
 "Une entreprise titanesque",8758

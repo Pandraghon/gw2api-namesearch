@@ -8202,24 +8202,29 @@
 "Hearty Scale Coat",10470
 "Ravaging Scale Coat",10471
 "Malign Chain Helm",10472
+"Healing Chain Helm",10473
 "Malign Chain Helm",10474
 "Ravaging Scale Helm",10475
 "Hearty Scale Helm",10476
 "Ravaging Scale Helm",10477
 "Valkyrie Tempered Scale Pauldrons",10478
+"Carrion Tempered Scale Pauldrons",10479
 "Knight's Tempered Scale Pauldrons",10480
 "Rampager's Tempered Scale Pauldrons",10481
+"Berserker's Tempered Scale Pauldrons",10482
 "Cleric's Tempered Scale Pauldrons",10483
 "Tempered Scale Pauldrons",10484
 "Berserker's Tempered Scale Pauldrons",10485
 "Cleric's Tempered Scale Pauldrons",10486
 "Valkyrie Tempered Scale Pauldrons",10487
+"Carrion Tempered Scale Pauldrons",10488
 "Knight's Tempered Scale Pauldrons",10489
 "Rampager's Tempered Scale Pauldrons",10490
 "Tempered Scale Pauldrons",10491
 "Carrion Barbaric Pauldrons",10492
 "Knight's Barbaric Pauldrons",10493
 "Valkyrie Barbaric Pauldrons",10494
+"Cleric's Barbaric Pauldrons",10495
 "Barbaric Pauldrons",10496
 "Berserker's Barbaric Pauldrons",10497
 "Cleric's Barbaric Pauldrons",10498
@@ -8241,12 +8246,16 @@
 "Carrion Tempered Scale Legs",10514
 "Knight's Tempered Scale Legs",10515
 "Rampager's Tempered Scale Legs",10516
+"Berserker's Tempered Scale Legs",10517
+"Cleric's Tempered Scale Legs",10518
 "Tempered Scale Legs",10519
 "Berserker's Tempered Scale Legs",10520
+"Cleric's Tempered Scale Legs",10521
 "Valkyrie Tempered Scale Legs",10522
 "Carrion Tempered Scale Legs",10523
 "Knight's Tempered Scale Legs",10524
 "Rampager's Tempered Scale Legs",10525
+"Tempered Scale Legs",10526
 "Carrion Barbaric Legplates",10527
 "Knight's Barbaric Legplates",10528
 "Valkyrie Barbaric Legplates",10529
@@ -8260,6 +8269,7 @@
 "Berserker's Barbaric Legplates",10537
 "Rampager's Barbaric Legplates",10538
 "Barbaric Legplates",10539
+"Rampager's Barbaric Legplates",10540
 "Carrion Draconic Legs",10541
 "Cleric's Draconic Legs",10542
 "Draconic Legs",10543
@@ -8292,6 +8302,7 @@
 "Knight's Barbaric Boots",10571
 "Berserker's Barbaric Boots",10572
 "Rampager's Barbaric Boots",10573
+"Barbaric Boots",10574
 "Rampager's Barbaric Boots",10575
 "Carrion Draconic Boots",10576
 "Cleric's Draconic Boots",10577
@@ -8310,17 +8321,22 @@
 "Cleric's Tempered Scale Gauntlets",10591
 "Valkyrie Tempered Scale Gauntlets",10592
 "Carrion Tempered Scale Gauntlets",10593
+"Knight's Tempered Scale Gauntlets",10594
 "Rampager's Tempered Scale Gauntlets",10595
 "Tempered Scale Gauntlets",10596
 "Carrion Barbaric Gloves",10597
 "Knight's Barbaric Gloves",10598
 "Valkyrie Barbaric Gloves",10599
+"Cleric's Barbaric Gloves",10600
 "Barbaric Gloves",10601
 "Berserker's Barbaric Gloves",10602
 "Cleric's Barbaric Gloves",10603
 "Valkyrie Barbaric Gloves",10604
 "Carrion Barbaric Gloves",10605
+"Knight's Barbaric Gloves",10606
 "Berserker's Barbaric Gloves",10607
+"Rampager's Barbaric Gloves",10608
+"Barbaric Gloves",10609
 "Rampager's Barbaric Gloves",10610
 "Carrion Draconic Gauntlets",10611
 "Cleric's Draconic Gauntlets",10612
@@ -8328,16 +8344,20 @@
 "Rampager's Draconic Gauntlets",10615
 "Knight's Draconic Gauntlets",10616
 "Valkyrie Draconic Gauntlets",10617
+"Valkyrie Tempered Scale Chestplate",10618
 "Carrion Tempered Scale Chestplate",10619
 "Knight's Tempered Scale Chestplate",10620
 "Rampager's Tempered Scale Chestplate",10621
 "Berserker's Tempered Scale Chestplate",10622
+"Cleric's Tempered Scale Chestplate",10623
 "Tempered Scale Chestplate",10624
 "Berserker's Tempered Scale Chestplate",10625
 "Cleric's Tempered Scale Chestplate",10626
+"Valkyrie Tempered Scale Chestplate",10627
 "Carrion Tempered Scale Chestplate",10628
 "Knight's Tempered Scale Chestplate",10629
 "Rampager's Tempered Scale Chestplate",10630
+"Tempered Scale Chestplate",10631
 "Carrion Draconic Coat",10632
 "Cleric's Draconic Coat",10633
 "Draconic Coat",10634
@@ -8362,6 +8382,7 @@
 "Valkyrie Tempered Scale Helm",10653
 "Carrion Tempered Scale Helm",10654
 "Knight's Tempered Scale Helm",10655
+"Rampager's Tempered Scale Helm",10656
 "Berserker's Tempered Scale Helm",10657
 "Cleric's Tempered Scale Helm",10658
 "Tempered Scale Helm",10659
