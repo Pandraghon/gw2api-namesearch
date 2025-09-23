@@ -1,26 +1,45 @@
 "Centaur Slayer",1
+"Harpy Slayer",4
+"Dagger Master",19
 "Imp Slayer",36
+"Wind Rider Slayer",51
+"Short-Bow Master",54
 "Focus Master",56
+"From Howl to Silence",75
 "Weaponsmith",92
 "Ascalon Explorer",101
 "Legend of the Mists",119
 "Salvage Master",127
+"Lifetime Survivor",139
+"Sanctuary Savior",190
 "Griffonrook Run",193
 "Daily Kills",224
+"Monthly Successful Events",234
 "Gladiator",247
+"Realm Defender",284
 "Yakslapper",288
 "Stay Out!",319
 "Shattered",340
 "That Had to Burn",342
+"Don't Touch the Shiny",347
+"Cliffside Fractal Stabilizer",386
 "PvP Daily Player Kills",403
+"Get on the Good List",428
 "Daily Puzzle Discoverer",451
+"Scholar",546
 "Bachelor of Secrets, World 1",553
+"Doctor of Secrets, World 1",555
 "A Rallying Flame",572
 "Crab Toss Champion",588
 "Southsun Lava Sample Collection",592
+"Ceremony and Acrimony (2013)",664
+"Faster Than Light",682
+"Aether Apprehender: Kryta",684
+"Cornered, Caught, Collared (2013)",688
 "Kite Bombing",716
 "Learn to Kite",718
 "I Like Kiel",730
+"Aspect Arena Regular",740
 "I Like Evon",742
 "Speedy Sprinter",762
 "Hot-Air Balloonist",792
@@ -30,21 +49,32 @@
 "Daily Invasion Responder",842
 "Daily Hostage Negotiator",844
 "Woodpecker",860
+"Boss Week: Here Be Dragons!",894
 "Watch Your Step!",907
 "What Does She Know?",919
+"True Friend to Turma",933
 "Deep Down or Airships Grounded",950
+"Orr or Orchard",954
 "Daily Aetherblade Ender",965
+"Garnet Leaper in the Mists",985
+"Emerald Leaper in the Mists",986
 "A Sweet Friend",1003
 "Candy Craver",1021
 "Trick-or-Treater V",1060
+"Toxic Field Researcher",1063
 "Toxic Spore Cleanser",1064
 "Toxic Gardener",1075
+"Toxic Siege Gardener",1095
 "The Nightmare Unveiled Mastery",1099
 "The Nightmares Within",1112
 "Tower Antitoxin Injector",1130
+"Fractal Fortnight: Trin's End",1156
+"Toxic Hallucination Slayer",1177
+"Toxic Krait Historian",1180
 "Toxic Spore Cleanser",1181
 "Shockwave Skipper",1192
 "Weapons Tester",1193
+"Aftermath Treasure Hunter",1199
 "Aftermath Viathan Cleaner",1200
 "Aftermath Toxic Gardener I",1217
 "Regifter",1242
@@ -61,8 +91,11 @@
 "WvW Spring Tournament 2014: 3rd Place",1559
 "WvW Spring Tournament 2014: 4th Place",1560
 "Pirate Purger",1577
+"Destroyer Destroyer",1581
 "Festival of the Four Winds",1592
 "Dive Master: Prospect Valley",1633
+"Hit and Run",1638
+"No Rock Unturned",1643
 "No Seraph Left Behind",1650
 "Fire for Effect",1657
 "Mischief Maker",1702
@@ -70,51 +103,83 @@
 "Fine Wining",1728
 "Tormented Weapon Collection",1735
 "Zodiac Weapon Collection",1747
+"Exotic Hunter",1748
+"Ambrite Weapon Collection",1749
 "Spirit Crafter",1752
 "Defender: Amber Sandfall",1812
 "Luminescent Gloves",1814
 "Invisible Infiltration",1832
+"Daily Ascalon Forager",1838
 "Daily Grounded Minidungeon",1880
+"Daily Griffonrook Run Jumping Puzzle",1905
 "Daily Tribulation Caverns Jumping Puzzle",1915
 "Daily Pig Iron Quarry Jumping Puzzle",1927
 "Daily Maguuma Wastes Vista Viewer",1937
 "Daily Sparkfly Fen Event Completer",1947
+"Daily Scale 1–10 Fractal",1987
 "Daily Claw of Jormag",2026
+"Toy Quality Control",2041
 "Nothing but Broken Toys",2047
 "Shadow Weapon Collection",2087
+"Daily Mesmer or Necromancer Winner",2091
 "Daily Elementalist or Mesmer Winner",2104
 "Daily Warrior or Mesmer Winner",2116
+"Dwayna's Weapon Collection",2130
 "Verdant Brink Insight: Creaking Cavern",2147
+"Tendril Torchers: Gold",2157
 "Auric Basin Insight: Southwatch Creep",2164
+"Auric Basin Insight: Masks of the Fallen",2168
+"The Ley-Line Run: Gold",2173
+"Revered",2181
+"Deathless Escape",2195
+"Fallen Masks: Silver",2200
+"Mushroom Conservationist",2205
 "Verdant Brink Explorer",2222
+"Core-Fractal Hero",2226
+"Master Mushroom Spelunker",2286
+"Tetrad Trouncer",2294
+"Prized Possessions",2320
+"Mushroom Musterer",2347
 "Bolt II: The Perfected Sword",2356
+"\"Cryptonym\" Strongbox",2365
 "The Flameseeker Prophecies II: The Perfected Shield",2390
 "Sign Cutting",2392
 "Machined Dagger",2404
 "Daily Recommended Fractal—Scale 4",2405
+"Wild Abandon",2432
 "Buried Insight",2443
+"Chak Killer—Master",2444
 "Daily Recommended Fractal—Scale 31",2533
+"Flying Circus: Gold",2540
 "Machined Focus",2545
 "\"Endurance\" Strongbox",2565
 "The Most Dangerous Game",2570
 "Treetop Retriever",2574
+"Daily Recommended Fractal—Scale 41",2598
 "Loot Finder",2651
 "RGB",2655
+"Quick March",2662
 "League Engineer—Champion",2681
 "League Top Stats—Recruit",2698
+"League Ranger—Veteran",2743
 "League Elementalist—Veteran",2744
 "League Revenant—Elite",2745
 "Silver for the Season",2779
+"No-Fly Zone",2803
 "Dragon's Gaze",2809
 "The Big Sleep",2826
+"Interior Design 103",2850
+"Interior Design 101",2883
 "Daily Tier 2 Urban Battleground",2907
 "Daily Tier 2 Aetherblade",2909
 "Daily Adventure: Salvage Pit",2919
 "Chuka and Champawat II: Ambush",2921
 "Daily Tier 3 Aetherblade",2928
+"Daily Crucible of Eternity",2953
 "Daily Tier 1 Solid Ocean",2954
 "Daily Tier 2 Molten Furnace",2955
 "Daily Adventure: A Fungus Among Us",2980
+"Pursuit of Knowledge",2993
 "Thwart the Inquest",3009
 "Informed Politics",3015
 "Siege the Stronghold",3024
@@ -131,21 +196,29 @@
 "A Sweet Friend",3166
 "Bitterfrost Frontier Insight: The Bitter Cold",3174
 "Elixir Recipe",3182
+"Daily Recommended Fractal—Scale 66",3184
+"Daily Recommended Fractal—Scale 54",3185
 "Delicious Desserts",3191
 "Daily Recommended Fractal—Scale 64",3215
 "Bitterfrost Frontier Insight: The Svanir Hive",3217
 "Daily Recommended Fractal—Scale 69",3219
+"Koda's Blessing",3239
 "Light Up the Sky",3273
+"Tree-Hugger Hugger",3282
+"Moonlighting",3286
 "Commanding Officer",3312
+"Siege Breaker",3325
 "Holding Back the Tide",3365
 "Spirit Watch Killer",3373
 "The Whispers Way",3374
 "Cut Off the Head",3386
 "Knight of the Thorn",3391
 "Born for Battle",3406
+"Daily Draconis Mons Wurm Boss or Power Suit Boss",3426
 "Lessons Learned",3429
 "White Hat",3439
 "Awakening the Druid Stone",3445
+"Llama Roundup",3453
 "Daily Siren's Landing: Shrine Surveyor",3466
 "Abaddon's Ascent",3473
 "Siren's Landing Insight: Lava Leap",3475
@@ -154,24 +227,32 @@
 "Aurora II: Empowering",3489
 "Lake Doric Master",3491
 "Live Wire",3505
+"\"Where's Balthazar?\"",3507
+"Lost Lore of the Domain of Vabbi",3555
 "Mummy Legion",3602
 "A Soaring Stench",3670
 "Adept Renegade",3674
 "Blood and Sand",3681
+"Master Firebrand",3684
 "Daily Desert Vista Viewer",3721
 "Race to the Finish: Desert Highlands",3741
 "Desert Highlands Champion Bounties",3743
 "Warpblade",3745
+"Fang of Mokèlé",3768
 "Breaking the Bank: Vault 1",3788
 "Master of Mummies",3797
 "Smashing!",3823
+"The Desolation Legendary Bounties",3837
 "Domain of Vabbi Insight: Zagonur Towers",3841
 "Jilai the Radiant",3851
 "Bleeding Heart",3860
 "Elon Riverlands Griffon Expert: Silver",3873
 "Courtly Service",3919
+"Serpent Slayer",3924
 "Festive Feud",3934
+"Shifting Sands Weapon Collection",3949
 "Timing Is Everything",3965
+"You Left This",3975
 "The First City",3996
 "Daily Domain of Istan Racer",4005
 "Silencer",4020
@@ -179,14 +260,20 @@
 "Champion's Dawn",4040
 "(Annual) Festival Automaton",4045
 "(Annual) Snow Drifter",4052
+"Zone Defense",4064
 "Golden Firestarter",4066
 "Friends in High Places",4076
 "Inquest-Specimen Liberator",4107
 "Drones Disabled",4109
+"Lasting Bonds: What Comes Next",4112
+"The Road to Rata Primus",4114
 "Race to the Finish: Olmakhan Docks",4121
 "(Annual) World 2 Challenge",4160
+"Inquest Mark II Weapon Collection",4162
 "Survey on Subjects of Importance",4167
 "Master Diver: Kessex Hills",4171
+"Pond Scum",4182
+"[FTT 404] Advanced Dynamics—Shield Bubble Level 4",4190
 "Roller Beetle Training: Silver",4192
 "For Petey's Sake",4193
 "Beetlemania",4202
@@ -195,15 +282,23 @@
 "[FTT 202] Intermediate Dynamics—Area Damage Level 2",4219
 "Domain of Kourna Griffon Master: Silver",4250
 "High Roller",4271
+"Boss Blitz: Halt Hablion",4278
 "Humble Victor",4290
 "Blitz Breaker",4319
+"Ogre Obliterator",4329
 "Blood Sport Enthusiast",4332
 "Day Trader",4333
 "Boss Blitz",4334
+"Mad Realm Weapon Collection",4338
+"I Brought a Friend",4343
+"Jahai Insight: Crescent's Prosperity",4380
 "Not Today",4384
 "Words of Mending",4408
 "Mad Drifter",4440
 "Mad King's Herald (Intern)",4441
+"Annual Rituals",4443
+"Rolling Racer: Tropic Valley Raceway",4463
+"Rolling Competitor: Tropic Valley Raceway",4466
 "Rolling Competitor: Jormag's Fang",4467
 "Rolling Competitor: Infernal Leap",4471
 "Dragonsblood",4513
@@ -211,59 +306,90 @@
 "Chasing Tales: Preemptive Strike",4519
 "Chasing Tales: A Light in the Dark",4531
 "Chasing Tales: Hobbler",4542
+"Thunderhead Peaks Insight: Shattered Bay",4543
+"Chasing Tales: Crush Them",4546
+"Dwarven Room Raider",4559
 "Chasing Tales: The Old Ways",4585
+"Chasing Tales: Gutshot",4587
 "Expert Archaeologist",4591
+"Warclaw Body Armor",4643
+"Always Land on Your Feet",4648
+"(Annual) Super Adventure Box Nostalgia",4651
 "Super Adventurer's Quest",4652
+"Skyscale of Spirit",4724
 "Glory of Dragons",4744
 "Visions of Dragonfall",4757
 "Vision I: Awakening",4762
 "Quell the Storm",4779
+"Terrain Tamed",4796
 "Storm Chaser",4801
 "Charged Winds",4808
 "Eye Survived",4817
 "(Annual) Going the Distance",4820
 "Hologram Herder",4834
 "Dragon Slapper",4835
+"Bonus Event: World Boss Rush",4853
 "(Annual) Boss Blitz: Beat Boom-Boom",4864
 "(Annual) Zephyrite Lost and Found",4879
+"Champion Rush Community Goal: Tier 5",4885
 "Bonus Event: Daily Champion Rush—Shiverpeaks",4888
 "Coming Home",4914
 "Crater Circuit: Silver Challenge",4915
+"Daily Grothmar Gauntlet Runner",4924
 "Stealing the Limelight",4927
+"Ballooning Targets",4939
 "Grothmar Grand Tour: Pole Position",4948
 "Secrets of the Khan-Ur",4951
 "Pest Control",4965
+"Ash Training Course: Gold",4966
 "Light it up!",4978
 "Stay Frosty",4979
 "Bodyguarded",4987
 "Professional Bouncer",4995
 "Royal Flame Weapons",5004
+"Stop Hitting Yourself",5036
+"Skyscale Toy Training",5066
+"Daily Bonus Rewards: Snowball Mayhem",5073
 "Ox's Revelation",5098
 "Voice in the Deep",5113
+"Legendary Whisper of Jormag",5118
+"Wolverine's Revelation",5139
+"Break Drakkar",5141
 "League Conqueror—2v2 Season One",5152
+"Vista Viewer",5173
+"Moving Up the Ranks",5182
+"Cinder Steeltemper's Footsteps",5185
 "Onsite Procurement",5191
+"Experimentation",5193
 "Emergency Maintenance",5200
+"Priority Strike: Voice of the Fallen and Claw of the Fallen",5207
 "Priority Strike: Whisper of Jormag",5210
 "Visions of the Past: Mysteries of the Eye",5226
+"Unintended Coursework",5241
 "Tengu Weapon Collector",5252
 "Special Mission: Clear the Lighthouse",5253
 "Special Mission: Thirsty Work",5300
 "Special Mission: Enjoy the Silence",5339
 "Special Mission: Declawed",5349
 "The Ghost",5386
+"Daily Drizzlewood Coast Corrupted Hunter",5400
 "Special Mission: Blast Them All",5402
 "Death to the Dominion",5403
 "Ears Wide Open",5424
 "Complement the Creator",5457
 "League Conqueror—Conquest Season Twenty-Four",5473
+"...With Feeling!",5476
 "Dragon Response Master",5484
 "Flame vs. Frost",5503
+"Daily Ebon Vanguard Enemies",5509
+"Ebon Vanguard Global Ranks",5521
 "Dragon Response Initiate",5528
 "Crystal Bloom Global Ranks",5529
 "Daily Ebon Vanguard Missions",5531
 "Daily Crystal Bloom Missions",5532
 "Deldrimor Supporter",5556
 "Daily: Tengu Special",5564
+"Dragon Ice Infuser",5585
 "Bright Inquisitor Weapon Collection",5606
 "Shiver Reward Track",5616
 "Daily Caledon Forest Dragon Response Mission",5630
@@ -271,6 +397,8 @@
 "League Participator—Conquest Season Twenty-Six",5655
 "Etherbound Weapon Collection",5671
 "Ooze Herding",5682
+"Ooze Transportation 101",5684
+"Special Ops Armor Collection",5686
 "Light Him Up",5695
 "Revisiting the Hidden Grove",5718
 "Return to A Shadow's Deeds",5732
@@ -278,14 +406,28 @@
 "Return to Dry Top 1",5773
 "Seasons of the Dragons",5790
 "Second Dive: Hot Splashes",5800
+"Return to A Meeting of Ministers",5816
+"Return to Research in Rata Novus",5834
+"Split Defense",5854
+"Wrath of the Twisted Marionette Participant",5855
+"Back to the Past",5883
 "Revenge of Kuda",5917
+"Woodland Management: Sandswept Isles",5938
+"Local Response: Bjora Marches 1",5956
 "Adventurous Spirit: Sandswept Isles",5969
+"Revenge of the Claw of Jormag",5970
+"Ore Miner: Drizzlewood Coast",5973
+"Crop Harvester: Forging Steel",5974
 "Return to Forging Steel",5985
 "Crop Harvester: Sandswept Isles",5992
 "Bounty Hunter: Domain of Istan",6000
+"Return to Thunderhead Peaks",6023
 "The Goldclaw Holiday Collection",6031
+"Court Duty: Gathering Evidence",6040
+"Turtle Unlock: Getting Stronger",6066
 "On the Case",6071
 "Slippery as a Fish",6078
+"Light These Streets",6083
 "Turtle Unlock: Suiting Up",6099
 "Ministry-Approved Harbinger",6108
 "Daily Echovald Wilds Jade Brotherhood Slayer",6155
@@ -293,32 +435,50 @@
 "Arborstone Hide-and-Seek Master",6161
 "Echovald Wilds Mastery",6162
 "Shiverpeaks Fisher",6179
+"Dead Play",6186
 "Cull the Corruption",6196
 "Misty Leap",6198
 "End of Dragons: Act 4 Mastery",6202
+"Echovald Wilds Insight: Qinkaishi Basin",6226
+"The Premium Tour",6254
 "Avid Krytan Fisher",6263
 "Prima Donna",6295
 "Daily End of Dragons Forager",6296
+"The Six",6302
 "Dragon's End Culture: The Luxon Armada",6303
 "Priority Cantha Strike: Harvest Temple",6307
 "Head's Up!",6312
 "Ravenous No Longer",6316
+"New Kaineng Insight: Lutgardis Market",6341
+"Echovald Wilds Insight: Altrumm Mines Catacomb",6351
+"Orrian Fisher",6363
 "The End of the Celestial Ministry",6381
 "Cleanup Duty",6398
+"Gravity",6413
 "Playing with the Infants",6423
 "New Kaineng City Mastery",6428
+"The History of New Kaineng",6461
 "Fishmongers Know Me",6478
 "Dog Nap",6522
+"Ready Ore Not",6528
 "The Path of Most Resistance",6534
+"A Quiet Celebration",6536
 "League Conqueror—Conquest Season Thirty-Two",6552
 "Weekly Jade Vault",6575
+"Defeating Enemy Factions",6607
 "Defeating the Icebrood",6616
+"The Facet of Plant and Mind",6633
 "Decade of Champions: The Shatterer",6714
 "Viewing Vistas III",6715
+"Viewing Vistas II",6731
 "Decade of Champions: Fire Elemental",6732
+"Decade of Champions: Frozen Maw",6736
 "Decade of Battle: Player vs. Player",6742
+"Kraitmare Averted, Again",6747
 "Toxic Krait Transcriber",6763
+"Aurene's Facet of Persuasion",6771
 "Trick-or-Treat across Tyria",6775
+"Dawn of the Next Journey",6793
 "Assault Breaker",6795
 "(Weekly) Camp Capturer",6834
 "(Weekly) Ruin Runner",6835
@@ -331,12 +491,20 @@
 "Bringing Balance",6972
 "Nurture Knowledge",6974
 "Never-Ending Nurture Knowledge",6983
+"Protector of Droknar's Light",7027
 "A Chapter Closed",7032
+"Astral Footprints",7051
+"Legendary Weapon: The Dreamer",7063
 "Skyscale Target Practice in Skywatch Archipelago: Gold",7065
+"Amnytas Incursions",7072
 "Legendary Weapon: Sunrise",7084
+"Skywatch Archipelago Insight: Skyscale Sanctuary",7093
+"Bloodtide Coast Incursions",7109
 "Echoes of the Obscure",7144
+"Skywatch Archipelago Explorer",7147
 "Hide-and-Seek in the Wizard's Tower: Master",7148
 "Skywatch Archipelago Insight: MinSec Server Room",7150
+"Legendary Weapon: The Minstrel",7174
 "Skywatch Archipelago Insight: Southern Clearing",7177
 "Thunderhead Keep Rift Hunting",7184
 "The Feeling Is Mutual",7204
@@ -344,24 +512,36 @@
 "Elon Riverlands Rift Hunting",7237
 "Sparkfly Fen Incursions",7247
 "Assist Lyhr",7249
+"Black Lion Stolen Goods Recovery Event",7323
+"Dungeon Delver: Twilight Arbor",7489
 "Bitterfrost Frontier Incursions",7618
 "League Participator—2v2 Season Ten",7645
+"League Participator—Conquest Season Thirty-Nine",7651
 "Dry Top Incursions",7679
+"Power Nap",7695
 "Behind Demon Lines",7705
 "(Weekly) Convergences",7706
 "Hero's Origin: Caledon Forest",7715
+"Rebuild and Destroy",7722
 "Returning to Scarlet's War",7754
 "Local Response: Battle for Lion's Arch (Weekly)",7768
 "Danced with the Stars",7794
+"Legendary Rune Collector",7796
 "Better Consumer Than Consumed",7797
 "Inner Nayos: Nyedra Surrounds Savior",7799
 "Avid Horn of Maguuma Fisher",7804
 "Envious Reprieve",7818
+"Inner Nayos: The Commons Savior",7834
+"Inner Nayos Insight: High-Elevation Skyscale Nest",7836
+"Foes Reborn: Chak",7859
 "Realm Avenger V",7870
+"Legendary Hunter",7877
 "True Dragon",7883
+"Local Response: Dragon's Stand",7896
 "Heights of Glory",7897
 "Realm Avenger IX",7912
 "Emotionless",7946
+"Riverside Veteran",7963
 "Ring of Fire Veteran",7975
 "Convergence Challenge Mode—Demon Knight: Gold",7983
 "Reuniting Lost Kryptis: Gold",7998
@@ -370,13 +550,23 @@
 "Wavering Ward",8089
 "Seafarer's Rest Veteran",8092
 "Reconquering the Searing Ascent (Weekly)",8110
+"Sunken Treasure Week: Mount Maelstrom",8128
+"Sunken Treasure Week: Timberline Falls",8132
+"Second Dive: Bloodstone Fen (Weekly)",8143
+"Scouting the Vale: Silver",8159
+"Lowland Shore Diving Goggles",8170
+"Janthir Syntri Insight: Greenwood's Corner",8186
 "Scouting for Scouts",8189
 "Very Enthusiastic about Wrestling",8192
 "Feeding Trolls",8206
+"Janthir Wilds: Act 1 Mastery",8208
 "Mulch Master",8318
+"Warclaw Run Adventure: Gold",8340
 "Scouting the Vale: Bronze",8354
+"Local Response: Jahai Bluffs (Weekly)",8377
 "Revenge of the Death-Branded Shatterer (Weekly)",8396
 "Road of Victory IV",8399
+"Renowned Hero: Jahai Bluffs (Weekly)",8403
 "Road of Victory VI",8409
 "Daily Domain of Kourna",8412
 "Return to Season 4",8415
@@ -384,17 +574,27 @@
 "The Queen of Battle",8492
 "Local Response: Drizzlewood Coast (Weekly)",8519
 "This is my story.",8546
+"Once Golden, Now Tarnished",8558
+"Mistburned Barrens Mastery",8582
+"Boom!",8595
 "Mistburned Barrens Insight: Alliance Staging Ground Overlook",8597
 "Lightbringer",8615
 "Home Sweet Homestead: Dragon's End",8636
+"Search-and-Rescue Challenge: Gold",8637
 "Rolling Racer: Lakeside Loop (Weekly)",8663
 "Reliving End of Dragons",8667
+"Daily Dragon's End",8670
 "Daily Echovald Wilds",8692
+"Local Response: Gyala Delve",8693
 "Agonizing Cold",8707
+"Efficient Defender",8728
+"Daily Tier 4 Kinfall",8739
 "Mini Collection—Janthir Wilds",8745
 "Master Mingler",8746
 "Kinfall Fractal",8762
+"Daily Tier 1 Kinfall",8784
 "Local Response: Inner Nayos",8788
 "Revenge of the Kryptis",8791
 "Sunjiang Slayer",8818
+"Incursive Investigation: Working Together",8830
 "Weekly Fractal Incursion",8834
