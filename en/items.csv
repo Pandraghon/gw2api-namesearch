@@ -13280,6 +13280,7 @@
 "Ravaging Bandit Demolisher",15729
 "Rejuvenating Bandit Demolisher",15730
 "Honed Bandit Demolisher",15731
+"Bandit Demolisher",15732
 "Strong Bandit Demolisher",15733
 "Vigorous Bandit Demolisher",15734
 "Hearty Bandit Demolisher",15735
@@ -68381,6 +68382,7 @@
 "Polychromatic Coat Box",102443
 "Tier 4",102444
 "",102446
+"((1113061))",102447
 "Magi's Ursan Ornamented Pistol",102449
 "Homestead Recipe Book: Tables",102450
 "Lowland Grunt",102451
@@ -69045,6 +69047,7 @@
 "Recollection of the Bearkin's Hunts",103775
 "Recipe: Karka Toughness Station",103776
 "Blood Moon Mace of Blood",103777
+"Legendary Weapon Starter Key—Set 9",103778
 "Sea-Glass Wave Sword",103780
 "Mini Beige Warclaw Cub",103782
 "Greer's Coffer",103783
@@ -69080,6 +69083,7 @@
 "Sea-Glass Wave Spear",103818
 "Sea-Glass Wave Hammer",103819
 "Legendary Gift Starter Kit",103820
+"Legendary Weapon Starter Key—Set 9",103821
 "Alabaster Spider's Focus Skin",103822
 "Rift Extraction",103823
 "Star Blessed Skiff Skin",103824
@@ -70045,6 +70049,7 @@
 "Leviathan Bone Torch",105038
 "Sun Aspect Crystal",105039
 "Chromatic Resin Sword Skin",105040
+"Berserker's Chromatic Resin Scepter",105041
 "Prospector's Mining Tool",105042
 "Cloud Cuirass",105043
 "Leviathan Bone Hammer",105044
@@ -70055,11 +70060,16 @@
 "Chromatic Resin Dagger Skin",105049
 "Chromatic Resin Staff Skin",105050
 "Cloud Cuirass",105051
+"Berserker's Chromatic Resin Greatsword",105053
 "Homestead Recipe Book: Four Winds, Volume 2",105054
 "Seashell Focus",105055
+"Berserker's Chromatic Resin Sword",105056
 "Regenerative Chamber Chair",105057
 "Leviathan Bone Shield",105058
+"Berserker's Chromatic Resin Short Bow",105059
 "Prospector's Harvesting Tool",105060
+"Berserker's Chromatic Resin Spear",105061
+"Berserker's Chromatic Resin Hammer",105062
 "Chromatic Resin Axe Skin",105063
 "Zephyrite Display Stand",105065
 "Leviathan Bone Warhorn",105066
@@ -70077,10 +70087,12 @@
 "Seashell Shield",105079
 "Cloud Cuirass",105080
 "Fairy Dust Logging Tool",105081
+"Berserker's Chromatic Resin Pistol",105082
 "Chromatic Resin Torch Skin",105083
 "Leviathan Bone Rifle",105084
 "Trader's Sandswept Chest",105086
 "Wind Aspect Crystal",105087
+"Berserker's Chromatic Resin Staff",105088
 "Siege Turtle Rental Post",105089
 "Leviathan Bone Mace",105090
 "Chromatic Resin Warhorn Skin",105091
@@ -70089,9 +70101,13 @@
 "Fox Fire Outfit",105094
 "Scavenged Frost Legion Infusion",105095
 "Fairy Dust Harvesting Tool",105096
+"Berserker's Chromatic Resin Torch",105097
 "Chromatic Resin Longbow Skin",105098
+"Berserker's Chromatic Resin Rifle",105099
+"Berserker's Chromatic Resin Dagger",105100
 "Recipe: Wind Aspect Crystal",105101
 "Recipe: Zephyrite Display Stand",105102
+"Berserker's Chromatic Resin Longbow",105103
 "Chromatic Resin Weapon Skin Choice Box",105104
 "Chromatic Resin Shield Skin",105105
 "Explosive Turbo Greaves Skin",105106
@@ -70101,8 +70117,11 @@
 "Mini Garenhoff Coon Cat",105110
 "Chromatic Resin Pistol Skin",105111
 "New Kaineng Weapon Choice Chest",105113
+"Berserker's Chromatic Resin Focus",105114
 "Chromatic Resin Greatsword Skin",105115
+"Berserker's Chromatic Resin Shield",105116
 "Fairy Dust Mining Tool",105117
+"Berserker's Chromatic Resin Axe",105118
 "Leviathan Bone Staff",105119
 "Leviathan Bone Short Bow",105120
 "Leviathan Bone Focus",105121
@@ -70116,11 +70135,13 @@
 "Prospector's Logging Tool",105130
 "Chromatic Resin Focus Skin",105131
 "Homestead Recipe Book: Four Winds, Volume 6",105132
+"Berserker's Chromatic Resin Warhorn",105133
 "Round Boatsman Hat Skin",105134
 "Leviathan Bone Greatsword",105135
 "Chromatic Resin Short Bow Skin",105137
 "Flat Boatsman Hat Skin",105138
 "Chromatic Resin Scepter Skin",105139
+"Berserker's Chromatic Resin Mace",105140
 "Title Scroll: Eternal Alchemist",105141
 "Crystal Rune Conjured Doorway Skin",105144
 "Slender Fairy Wings Backpack Skin",105146
@@ -70336,3 +70357,182 @@
 "Graveyard Charrgoyle Recipe",105408
 "Fuzzy Bee Skimmer Skin",105410
 "Unchained Spear",105411
+"Blazing Cape and Glider Combo",105412
+"Track 13: Winds of Change",105413
+"Track 6: Destiny's Gorge",105418
+"Wall Bracket Half (960)",105419
+"Mini Captain's Council Sayida",105422
+"Emergent Metamorphosis Backpiece",105426
+"Restless Captain Token: Leggings",105427
+"Testimony of Castoran Heroics",105428
+"Pearlshell Pistol Skin",105429
+"Track 18: Might of the Cosmos",105430
+"Scrap of Castora Mastery",105431
+"Track 8: Beginning of a Warrior's Journey",105434
+"Pearlshell Focus Skin",105437
+"Agaleus",105438
+"Small Seer Cache",105442
+"Seaside Scholar's Hat Skin",105443
+"Track 37: Legendary Ascent",105444
+"Track 7: View from the Canopy",105445
+"Vibrant Companions Mount Adoption Select License",105446
+"Track 23: Teku Nuhoch",105447
+"Ruby-Scaled Goatfish",105448
+"Track 24: Desert Skimming",105449
+"Track 55: Mother",105451
+"Track 27: Soojung Heights",105452
+"Track 22: Chak Tunnels",105453
+"Track 39: Into the Wilds",105454
+"Restless Captain Token: Coat",105455
+"Track 48: Remnants of the Betrayer",105456
+"Island Shrub (Bunch)",105459
+"Restless Captain's Heavy Mantle",105460
+"Soundtrack Single—Secrets of the Obscure",105461
+"Tropical Bush (Tall)",105462
+"Track 1: Path of Fire",105465
+"Floor (960 x 600)",105468
+"Track 41: Kestrel's Watch",105469
+"Pearlshell Rifle Skin",105472
+"Track 11: Along the Shing Jea Shoreline",105473
+"Rift Extraction",105474
+"Enchanted Weapon Treasure Box",105476
+"Castoran Saurian Treasure Box",105478
+"Water Dragon Impaler",105480
+"Full Wall Bracket Corner",105481
+"Curved Roof Dormer",105483
+"Skimmer-Net Scramble: Gold",105485
+"Alliance Field Operative's Medium Gloves",105486
+"Track 38: Fortune's Favor",105490
+"Track 18: Minions of Kralkatorrik",105492
+"Track 28: Ishan's Wish",105493
+"Aetheric Anchor",105497
+"Track 2: Mist Connections",105498
+"Visions of Eternity Launch Supply Drop Requisition",105499
+"Track 48: Remnants of the Betrayer",105501
+"Burlap Sack",105506
+"Mystic Bident",105509
+"Track 19: The Queen of Murk",105510
+"Bluefin Barratuna",105511
+"Shipwreck Strand Lockbox",105512
+"Track 20: Danger Lurks in the Jade",105513
+"Aquabreather Piece",105515
+"Canthan Lantern",105518
+"Fast Constructor's Sword",105519
+"Track 51: Where Calamity Began",105521
+"Seneschal's Chest",105525
+"Large Seer Cache",105528
+"Track 25: Battle in Draconis Mons",105529
+"Ship Windmill",105530
+"Track 26: Arid Dawn",105532
+"Fast Constructor's Weapon Chest",105534
+"Fast Constructor's Greatsword",105535
+"Alliance Field Operative's Medium Jacket",105537
+"Track 8: Faren's Flier",105539
+"Track 5: Claw and Spear",105540
+"Extremis Token: Shoulders",105541
+"Track 23: Ravaged Ascension",105542
+"Simple Brick Fireplace",105543
+"Track 24: Dragon's Stand",105544
+"Trimmed Wall (960 x 240)",105547
+"Changing Tent",105548
+"Alliance Field Operative's Helmet Box",105550
+"Restless Captain Token: Gloves",105552
+"Track 17: Solace and Respite",105554
+"Track 7: Strangely Familiar Place",105557
+"Alliance Field Operative's Medium Helmet",105558
+"Track 14: Canthan Justice",105559
+"Round String Lights",105562
+"Pearlshell Warhorn Skin",105564
+"Fanned Island Fern Patch",105566
+"Track 1: End of Dragons",105567
+"Blazing Glider",105569
+"Wooden Beam (16 x 240 x 30)",105575
+"Restless Captain Token: Helmet",105580
+"Boardwalk (480 x 960)",105581
+"Track 36: Once There Was Laughter",105582
+"Glowing Strelitzia Sprout",105584
+"Relic of the First Revenant",105585
+"Restless Captain Token: Shoulders",105588
+"Wall (240 x 240)",105589
+"Track 1: Janthir Wilds",105590
+"Doorway Wall",105592
+"Track 2: A New Journey",105596
+"Krait Spear",105597
+"Mini Tyrannus Maneater",105598
+"Glimmering Arches Grand Prix: Gold",105599
+"Restless Captain's Light Gloves",105603
+"Galleon Hull Entryway",105604
+"Medium Seer Cache",105605
+"Track 31: The Slums",105606
+"Tall Ship Stairs",105607
+"Extremis Heavy Hood",105608
+"Track 31: Sands of the Djinn",105610
+"Burlap Sack Pile",105612
+"Tropical Forest Gear Bag",105614
+"Track 30: Maws of the Ruptured Heart",105615
+"Expanded Power Source",105616
+"Castoran Gear Box",105620
+"Track 18: Tangled Depths",105621
+"Cabana Wall (960)",105624
+"Castoran Bicorn",105627
+"Track 28: Sulfurous Wastes",105628
+"Strelitzia Crystallinum Pistol",105629
+"Extremis Heavy Leggings",105630
+"Track 35: Unwelcome Visitors",105632
+"Column (30 x 480 x 30)",105633
+"Track 30: The View from Above",105634
+"Stairs (120 x 120)",105636
+"Extremis Heavy Mantle",105639
+"Fast Constructor's Staff",105640
+"Track 10: A Spirit's Final Wish",105641
+"Floor (960 x 840)",105642
+"Track 30: The View from Above",105643
+"Track 10: Sands of Chaos",105644
+"Old Magic: Gold",105646
+"Enchanted Jackal Skin",105647
+"Gift of Castoran Mastery",105649
+"Seer-Enchanted Sword",105650
+"Track 15: Hallowed Ground",105651
+"Relic of Castora",105652
+"Ancora Pax",105653
+"Seer-Enchanted Weapon Chest",105657
+"Track 16: To Fell a King",105660
+"Berserker's Bronze Javelin",105661
+"Extremis Light Coat",105665
+"Track 1: Janthir Wilds",105666
+"Castoran Gnarled Boar Treasure Box",105667
+"Track 58: A World Without You",105672
+"Extremis Medium Boots",105674
+"Aquabreather Piece",105676
+"Track 19: Mortals Are Little Flames",105677
+"Illustrious Opah",105678
+"Pearlshell Shield Skin",105680
+"Branchless Bush",105681
+"Flying Fireworks: Bronze",105685
+"Raw Enchanting Stone",105686
+"Galleon Door",105687
+"Track 7: Forged by Torment",105688
+"Wooden Beam (16 x 480 x 30)",105690
+"Sapphire-Scaled Moonfish",105695
+"Seer-Enchanted Scepter",105698
+"Hammerhart's \"Recovered\" Hoard",105700
+"Chromatic Double Harp",105701
+"Track 29: Bava Nisos",105704
+"Hardy Island Fern",105705
+"Restless Captain's Heavy Veil",105706
+"Common Aetherlocation Treasure",105710
+"Curved Roof Corner",105711
+"Spire of the Forgotten",105713
+"Strelitzia Crystallinum Dagger",105715
+"Boardwalk (240 x 960)",105716
+"Chromatic Bubbles",105717
+"Track 22: Heart of the Machine",105719
+"Track 29: A Future Carved in Jade",105721
+"Track 29: Deadly Encounter",105722
+"\"/ThumbsUp\" Emote Tome",105723
+"Illusive Jellycrab",105724
+"Notarized Scroll of Castoran Heroics",105725
+"Seaweed-Cutting Scythetail",105726
+"Track 31: Sands of the Djinn",105728
+"Secret Squid",105730
+"Track 25: Mouth of Mordremoth",105733

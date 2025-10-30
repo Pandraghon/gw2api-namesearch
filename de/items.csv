@@ -13280,6 +13280,7 @@
 "Verwüstender Banditen-Demolierer",15729
 "Verjüngender Banditen-Demolierer",15730
 "Veredelter Banditen-Demolierer",15731
+"Banditen-Demolierer",15732
 "Starker Banditen-Demolierer",15733
 "Energischer Banditen-Demolierer",15734
 "Wackerer Banditen-Demolierer",15735
@@ -68381,6 +68382,7 @@
 "Kiste mit polychromatischen Wämsern",102443
 "Rang 4",102444
 "",102446
+"((1113061))",102447
 "Magischer Verzierte Pistole der Bärin",102449
 "Heimstatt-Rezeptbuch: Tische",102450
 "Tiefland-Grunzer",102451
@@ -69045,6 +69047,7 @@
 "Rückblick auf Jagden der Bärlinge",103775
 "Rezept: Karka-Zähigkeits-Station",103776
 "Blutmond-Streitkolben des Blutes",103777
+"Legendäre Waffe: Starter-Schlüssel – Set 9",103778
 "Seeglas-Wellen-Schwert",103780
 "Mini Kriegsklauen-Junges (Beige)",103782
 "Greers Kiste",103783
@@ -69080,6 +69083,7 @@
 "Seeglas-Wellen-Speer",103818
 "Seeglas-Wellen-Hammer",103819
 "Starter-Kit für legendäres Geschenk",103820
+"Legendäre Waffe: Starter-Schlüssel – Set 9",103821
 "Skin für Alabasterspinnen-Fokus",103822
 "Riss-Extraktion",103823
 "Skin für Sternengesegneter Skiff",103824
@@ -70045,6 +70049,7 @@
 "Leviathanknochen-Fackel",105038
 "Sonnen-Aspektkristall",105039
 "Skin für Chromatisches Harz-Schwert",105040
+"Berserkerhaftes Chromatisches Harz-Zepter",105041
 "Prospektor-Bergbauwerkzeug",105042
 "Wolken-Harnisch",105043
 "Leviathanknochen-Hammer",105044
@@ -70055,11 +70060,16 @@
 "Skin für Chromatischer Harz-Dolch",105049
 "Skin für Chromatischer Harz-Stab",105050
 "Wolken-Harnisch",105051
+"Berserkerhaftes Chromatisches Harz-Großschwert",105053
 "Heimstatt-Rezeptbuch: Vier Winde, Band 2",105054
 "Muschelschalen-Fokus",105055
+"Berserkerhaftes Chromatisches Harz-Schwert",105056
 "Regenerativer Kammerstuhl",105057
 "Leviathanknochen-Schild",105058
+"Berserkerhafter Chromatischer Harz-Bogen",105059
 "Prospektor-Erntewerkzeug",105060
+"Berserkerhafter Chromatisches Harz-Speer",105061
+"Berserkerhafter Chromatischer Harz-Hammer",105062
 "Skin für Chromatische Harz-Axt",105063
 "Zephyriten-Präsentationsständer",105065
 "Leviathanknochen-Kriegshorn",105066
@@ -70077,10 +70087,12 @@
 "Muschelschalen-Schild",105079
 "Wolken-Harnisch",105080
 "Feenstaub-Holzfällerwerkzeug",105081
+"Berserkerhafte Chromatische Harz-Pistole",105082
 "Skin für Chromatische Harz-Fackel",105083
 "Leviathanknochen-Gewehr",105084
 "Sandgepeitschte Truhe des Händlers",105086
 "Wind-Aspektkristall",105087
+"Berserkerhafter Chromatischer Harz-Stab",105088
 "Belagerungsschildkröten-Vermietungsposten",105089
 "Leviathanknochen-Streitkolben",105090
 "Skin für Chromatisches Harz-Kriegshorn",105091
@@ -70089,9 +70101,13 @@
 "Fuchsfeuer-Kleidungsset",105094
 "Geplünderte Frost-Legion Infusion",105095
 "Feenstaub-Erntewerkzeug",105096
+"Berserkerhafte Chromatische Harz-Fackel",105097
 "Skin für Chromatischer Harz-Langbogen",105098
+"Berserkerhaftes Chromatisches Harz-Gewehr",105099
+"Berserkerhafter Chromatischer Harz-Dolch",105100
 "Rezept: Wind-Aspektkristall",105101
 "Rezept: Zephyriten-Präsentationsständer",105102
+"Berserkerhafter Chromatischer Harz-Langbogen",105103
 "\"Chromatische Harz\"-Waffenskin-Auswahlkiste",105104
 "Skin für Chromatischer Harz-Schild",105105
 "Skin für Explosive Turbo-Beinschienen",105106
@@ -70101,8 +70117,11 @@
 "Mini Garrenhoff-Coon-Katze",105110
 "Skin für Chromatische Harz-Pistole",105111
 "\"Neu-Kaineng\"-Waffen-Auswahltruhe",105113
+"Berserkerhafter Chromatischer Harz-Fokus",105114
 "Skin für Chromatisches Harz-Großschwert",105115
+"Berserkerhafter Chromatischer Harz-Schild",105116
 "Feenstaub-Bergbauwerkzeug",105117
+"Berserkerhafte Chromatische Harz-Axt",105118
 "Leviathanknochen-Stab",105119
 "Leviathanknochen-Kurzbogen",105120
 "Leviathanknochen-Fokus",105121
@@ -70116,11 +70135,13 @@
 "Prospektor-Holzfällerwerkzeug",105130
 "Skin für Chromatischer Harz-Fokus",105131
 "Heimstatt-Rezeptbuch: Vier Winde, Band 6",105132
+"Berserkerhaftes Chromatisches Harz-Kriegshorn",105133
 "Skin für Runder Schiffer-Hut",105134
 "Leviathanknochen-Großschwert",105135
 "Skin für Chromatischer Harz-Kurzbogen",105137
 "Skin für Flacher Schiffer-Hut",105138
 "Skin für Chromatisches Harz-Zepter",105139
+"Berserkerhafter Chromatischer Harz-Streitkolben",105140
 "Titelschriftrolle: Ewiger Alchemist",105141
 "Skin für herbeigerufenen Kristallrunen-Durchgang",105144
 "Skin für \"Schmale Feenflügel\"-Rucksack",105146
@@ -70336,3 +70357,182 @@
 "Rezept: Friedhofs-Charrgoyle",105408
 "Skin für \"Flauschige Biene\"-Schweberochen",105410
 "Entfesselter Speer",105411
+"Flammende Umhang- und Gleitschirm-Kombo",105412
+"Track 13: Wind des Wandels",105413
+"Track 6: Schicksalsschlucht",105418
+"Halbe Wandhalterung (960)",105419
+"Mini Kapitänsratsmitglied Sayida",105422
+"\"Emergente Metamorphose\"-Rückenteil",105426
+"Marke des Ruhelosen Kapitäns: Beinkleid",105427
+"Zeugnis castoranischer Heldentaten",105428
+"Skin für Perlmuschel-Pistole",105429
+"Track 18: Macht des Kosmos",105430
+"Stück der Beherrschung von Castora",105431
+"Track 8: Anfang der Reise eines Kriegers",105434
+"Skin für Perlmuschel-Fokus",105437
+"Agaleus",105438
+"Kleines Seher-Lager",105442
+"Skin für Hut des Gelehrten von der Küste",105443
+"Track 37: Legendärer Aufstieg",105444
+"Track 7: Blick aus den Baumkronen",105445
+"Lebhafte Gefährten: Reittier-Auswahllizenz",105446
+"Track 23: Teku Nuhoch",105447
+"Rubinschuppen-Meerbarbe",105448
+"Track 24: Wüsten-Schweben",105449
+"Track 55: Mutter",105451
+"Track 27: Soojung-Höhen",105452
+"Track 22: Chak-Tunnel",105453
+"Track 39: In die Wildnis",105454
+"Marke des Ruhelosen Kapitäns: Wams",105455
+"Track 48: Überreste des Verräters",105456
+"Inselstrauch (buschig)",105459
+"Schwerer Überwurf des Ruhelosen Kapitäns",105460
+"Soundtrack-Single – Secrets of the Obscure",105461
+"Tropischer Strauch (Groß)",105462
+"Track 1: Path of Fire",105465
+"Fußboden (960 x 600)",105468
+"Track 41: Wache des Falken",105469
+"Skin für Perlmuschel-Gewehr",105472
+"Track 11: Entlang der Küste von Shing Jea",105473
+"Riss-Extraktion",105474
+"\"Verzauberte Waffe\"-Schatzkästchen",105476
+"Castora-Saurier-Schatzkästchen",105478
+"Wasserdrachen-Pfähler",105480
+"Wandhalterung (Ecke)",105481
+"Gaube für geschwungenes Dach",105483
+"Schweberochen-Netzfledderei: Gold",105485
+"Mittlere Handschuhe des Allianz-Feldagenten",105486
+"Track 38: Gunst des Glücks",105490
+"Track 18: Diener von Kralkatorrik",105492
+"Track 28: Ishans Wunsch",105493
+"Ätherischer Anker",105497
+"Track 2: Verloren im Nebel",105498
+"\"Visions of Eternity\"-Start-Versorgungslieferungsbestellung",105499
+"Track 48: Überreste des Verräters",105501
+"Leinensack",105506
+"Mystischer Zweizack",105509
+"Track 19: Die Königin des Moores",105510
+"Blauflossen-Barratuna",105511
+"Schließkasten vom Strand der Wracks",105512
+"Track 20: In der Jade lauert Gefahr",105513
+"Aqua-Atmer-Teil",105515
+"Canthanische Laterne",105518
+"Schwert des Schnellen Erbauers",105519
+"Track 51: Wo das Verhängnis seinen Lauf nahm",105521
+"Truhe des Seneschalls",105525
+"Großes Seher-Lager",105528
+"Track 25: Schlacht von Draconis Mons",105529
+"Schiffsmühle",105530
+"Track 26: Morgengrauen der Dürre",105532
+"Truhe mit Waffen des Schnellen Erbauers",105534
+"Großschwert des Schnellen Erbauers",105535
+"Mittlere Jacke des Allianz-Feldagenten",105537
+"Track 8: Farens Luftschiff",105539
+"Track 5: Klaue und Speer",105540
+"Extremis-Marke: Schultern",105541
+"Track 23: Verwüsteter Aufstieg",105542
+"Einfache Backstein-Feuerstelle",105543
+"Track 24: Widerstand des Drachen",105544
+"Verzierte Wand (960 x 240)",105547
+"Umkleidezelt",105548
+"Kasten mit Sturmhelm des Allianz-Feldagenten",105550
+"Marke des Ruhelosen Kapitäns: Handschuhe",105552
+"Track 17: Trost und Erholung",105554
+"Track 7: Seltsam vertrauter Ort",105557
+"Mittlerer Sturmhelm des Allianz-Feldagenten",105558
+"Track 14: Canthanische Gerechtigkeit",105559
+"Runde Lichtschnur",105562
+"Skin für Perlmuschel-Kriegshorn",105564
+"\"Gefächerter Inselfarn\"-Beet",105566
+"Track 1: End of Dragons",105567
+"Flammender Gleitschirm",105569
+"Holzbalken (16 x 240 x 30)",105575
+"Marke des Ruhelosen Kapitäns: Sturmhelm",105580
+"Plankensteg (480 x 960)",105581
+"Track 36: Früher wurde gelacht",105582
+"Leuchtender Strelitzia-Spross",105584
+"Relikt des Ersten Wiedergängers",105585
+"Marke des Ruhelosen Kapitäns: Schultern",105588
+"Wand (240 x 240)",105589
+"Track 1: Janthir Wilds",105590
+"Wand mit Tür",105592
+"Track 2: Eine neue Reise",105596
+"Krait-Speer",105597
+"Mini Tyrannus-Menschenfresser",105598
+"Großer Preis von Schimmerbogen: Gold",105599
+"Leichte Handschuhe des Ruhelosen Kapitäns",105603
+"Galeonenrumpf-Eingang",105604
+"Mittleres Seher-Lager",105605
+"Track 31: Die Slums",105606
+"Große Schiffstreppe",105607
+"Schwere Extremis-Kapuze",105608
+"Track 31: Sande der Dschinn",105610
+"Haufen Leinensäcke",105612
+"Tropenwald-Ausrüstungsbeutel",105614
+"Track 30: Schlund des Zerrissenen Herzens",105615
+"Erweiterte Energiequelle",105616
+"Castoranische Ausrüstungskiste",105620
+"Track 18: Verschlungene Tiefen",105621
+"Standhütten-Wand mit Tür (960)",105624
+"Castoranisches Zweihorn",105627
+"Track 28: Schwefelige Einöde",105628
+"\"Strelitzia crystallinum\"-Pistole",105629
+"Schweres Extremis-Beinkleid",105630
+"Track 35: Unwillkommene Besucher",105632
+"Säule(30 x 480 x 30)",105633
+"Track 30: Blick von oben",105634
+"Treppe (120 x 120)",105636
+"Schwerer Extremis-Überwurf",105639
+"Stab des Schnellen Erbauers",105640
+"Track 10: Ein Geist und sein letzter Wunsch",105641
+"Fußboden (960 x 840)",105642
+"Track 30: Blick von oben",105643
+"Track 10: Sande des Chaos",105644
+"Alte Magie: Gold",105646
+"Skin für Verzauberter Schakal",105647
+"Gabe der Castora-Beherrschung",105649
+"Seherverzaubertes Schwert",105650
+"Track 15: Geheiligter Boden",105651
+"Relikt von Castora",105652
+"Ancora Pax",105653
+"Truhe mit Seherverzauberten Waffen",105657
+"Track 16: Einen König stürzen",105660
+"Berserkerhafter Bronze-Wurfspeer",105661
+"Leichtes Extremis-Wams",105665
+"Track 1: Janthir Wilds",105666
+"Castoranisches \"Knorriges Wildschwein\"-Schatzkästchen",105667
+"Track 58: Eine Welt ohne dich",105672
+"Mittlere Extremis-Stiefel",105674
+"Aqua-Atmer-Teil",105676
+"Track 19: Sterbliche sind kleine Flammen",105677
+"Glänzender Opah",105678
+"Skin für Perlmuschel-Schild",105680
+"Zweigloser Strauch",105681
+"Fliegendes Feuerwerk: Bronze",105685
+"Roher Verzauberungsstein",105686
+"Galeonentür",105687
+"Track 7: In Qual geschmiedet",105688
+"Holzbalken (16 x 480 x 30)",105690
+"Saphirschuppen-Mondfisch",105695
+"Seherverzaubertes Zepter",105698
+"Hammerharts \"wiederbeschaffter\" Hort",105700
+"Chromatische Doppelharfe",105701
+"Track 29: Bava Nisos",105704
+"Robuster Inselfarn",105705
+"Schwerer Schleier des Ruhelosen Kapitäns",105706
+"Gewöhnlicher Äthersuche-Schatz",105710
+"Geschwungene Dach-Ecke",105711
+"Turm der Vergessenen",105713
+"\"Strelitzia crystallinum\"-Dolch",105715
+"Plankensteg (240 x 960)",105716
+"Chromatische Blase",105717
+"Track 22: Herz der Maschine",105719
+"Track 29: Die Zukunft, aus Jade geschnitzt",105721
+"Track 29: Tödliche Begegnung",105722
+"\"/Daumenhoch\"-Emote-Foliant",105723
+"Unechte Geleekrabbe",105724
+"Beglaubigte Schriftrolle castoranischer Heldentaten",105725
+"Tangschneider-Sichelschwanz",105726
+"Track 31: Sande der Dschinn",105728
+"Geheimer Kalmar",105730
+"Track 25: Maul von Mordremoth",105733

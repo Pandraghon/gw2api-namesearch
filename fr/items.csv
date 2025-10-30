@@ -13280,6 +13280,7 @@
 "Démolisseur de bandit ravageur",15729
 "Démolisseur de bandit rajeunissant",15730
 "Démolisseur de bandit aiguisé",15731
+"Démolisseur de bandit",15732
 "Démolisseur de bandit solide",15733
 "Démolisseur de bandit vigoureux",15734
 "Démolisseur de bandit robuste",15735
@@ -68381,6 +68382,7 @@
 "Boîte de manteau polychrome",102443
 "Niveau 4",102444
 "",102446
+"((1113061))",102447
 "Pistolet ornementé ursin mage",102449
 "Livre de recettes pour pavillon : tables",102450
 "Gorette des basses terres",102451
@@ -69045,6 +69047,7 @@
 "Réminiscence des chasses des Kodans",103775
 "Recette : atelier de robustesse de karkas",103776
 "Masse de la lune sanglante de sang",103777
+"Clé de démarrage d'arme légendaire : ensemble n° 9",103778
 "Épée de vague verre-de-mer",103780
 "Mini jeune razziafelis beige",103782
 "Malle de Greer",103783
@@ -69080,6 +69083,7 @@
 "Lance de vague verre-de-mer",103818
 "Marteau de vague verre-de-mer",103819
 "Kit de démarrage de dons légendaires",103820
+"Clé de démarrage d'arme légendaire : ensemble n° 9",103821
 "Apparence de focus de l'araignée d'albâtre",103822
 "Extraction de brèche",103823
 "Apparence d'esquif béni de l'astre",103824
@@ -70045,6 +70049,7 @@
 "Torche en os de léviathan",105038
 "Cristal d'aspect du soleil",105039
 "Apparence d'épée en résine chromatique",105040
+"Sceptre en résine chromatique berserker",105041
 "Outil de minage de prospecteur",105042
 "Cuirasse des nuées",105043
 "Marteau en os de léviathan",105044
@@ -70055,11 +70060,16 @@
 "Apparence de dague en résine chromatique",105049
 "Apparence de bâton en résine chromatique",105050
 "Cuirasse des nuées",105051
+"Espadon en résine chromatique berserker",105053
 "Livre de recettes pour pavillon : Quatre Vents, volume 2",105054
 "Focus coquillage",105055
+"Épée en résine chromatique berserker",105056
 "Chaise de chambre régénératrice",105057
 "Bouclier en os de léviathan",105058
+"Arc court en résine chromatique berserker",105059
 "Outil de moissonnage de prospecteur",105060
+"Lance en résine chromatique berserker",105061
+"Marteau en résine chromatique berserker",105062
 "Apparence de hache en résine chromatique",105063
 "Support d'exposition zéphyrite",105065
 "Cor de guerre en os de léviathan",105066
@@ -70077,10 +70087,12 @@
 "Bouclier coquillage",105079
 "Cuirasse des nuées",105080
 "Outil de bûcheron de poudre de fée",105081
+"Pistolet en résine chromatique berserker",105082
 "Apparence de torche en résine chromatique",105083
 "Fusil en os de léviathan",105084
 "Coffre de Ventesable de marchand",105086
 "Cristal d'aspect du vent",105087
+"Bâton en résine chromatique berserker",105088
 "Poste de location de tortue de siège",105089
 "Masse en os de léviathan",105090
 "Apparence de cor de guerre en résine chromatique",105091
@@ -70089,9 +70101,13 @@
 "Tenue de feu du renard",105094
 "Infusion de la Légion du Givre récupérée",105095
 "Outil de moissonnage de poudre de fée",105096
+"Torche en résine chromatique berserker",105097
 "Apparence d'arc long en résine chromatique",105098
+"Fusil en résine chromatique berserker",105099
+"Dague en résine chromatique berserker",105100
 "Recette : cristal d'aspect du vent",105101
 "Recette : support d'exposition zéphyrite",105102
+"Arc long en résine chromatique berserker",105103
 "Boîte de choix d'apparence d'arme en résine chromatique",105104
 "Apparence de bouclier en résine chromatique",105105
 "Apparence de grèves à turbo explosif",105106
@@ -70101,8 +70117,11 @@
 "Mini-chat Garenhoff coon",105110
 "Apparence de pistolet en résine chromatique",105111
 "Coffre au choix d'armes de Néo-Kaineng",105113
+"Focus en résine chromatique berserker",105114
 "Apparence d'espadon en résine chromatique",105115
+"Bouclier en résine chromatique berserker",105116
 "Outil de minage de poudre de fée",105117
+"Hache en résine chromatique berserker",105118
 "Bâton en os de léviathan",105119
 "Arc court en os de léviathan",105120
 "Focus en os de léviathan",105121
@@ -70116,11 +70135,13 @@
 "Outil de bûcheron de prospecteur",105130
 "Apparence de focus en résine chromatique",105131
 "Livre de recettes pour pavillon : Quatre Vents, volume 6",105132
+"Cor de guerre en résine chromatique berserker",105133
 "Apparence de chapeau rond de batelier",105134
 "Espadon en os de léviathan",105135
 "Apparence d'arc court en résine chromatique",105137
 "Apparence de chapeau plat de batelier",105138
 "Apparence de sceptre en résine chromatique",105139
+"Masse en résine chromatique berserker",105140
 "Parchemin de titre : Alchimiste éternel",105141
 "Apparence de portail invoqué à rune cristalline",105144
 "Apparence de sac à dos à ailes de fée élancée",105146
@@ -70336,3 +70357,182 @@
 "Recette : charrgouille de cimetière",105408
 "Apparence de voldécume d'abeille duveteuse",105410
 "Lance déchaînée",105411
+"Combo de cape et deltaplane ardents",105412
+"Piste 13 : Winds of Change",105413
+"Piste 6 : Destiny's Gorge",105418
+"Moitié de support mural (960)",105419
+"Mini-Sayida du Conseil du capitaine",105422
+"Objet de dos de métamorphose émergente",105426
+"Coupon de capitaine fébrile : jambières",105427
+"Témoignage d'actes héroïques de Castora",105428
+"Apparence de pistolet de nacre",105429
+"Piste 18 : Might of the Cosmos",105430
+"Morceau de maîtrise de Castora",105431
+"Piste 8 : Beginning of a Warrior's Journey",105434
+"Apparence de focus de nacre",105437
+"Agaleus",105438
+"Petite cache des Aruspices",105442
+"Apparence de chapeau d'érudit du littoral",105443
+"Piste 37 : Legendary Ascent",105444
+"Piste 7 : View from the Canopy",105445
+"Sélection de licence d'adoption de monture de compagnons dynamiques",105446
+"Piste 23 : Teku Nuhoch",105447
+"Rouget à écailles de rubis",105448
+"Piste 24 : Desert Skimming",105449
+"Piste 55 : Mother",105451
+"Piste 27 : Soojung Heights",105452
+"Piste 22 : Chak Tunnels",105453
+"Piste 39 : Into the Wilds",105454
+"Coupon de capitaine fébrile : manteau",105455
+"Piste 48 : Remnants of the Betrayer",105456
+"Arbuste d'île (lot)",105459
+"Houppelande lourde de capitaine fébrile",105460
+"Titre de bande-son : Secrets of the Obscure",105461
+"Buisson tropical (grand)",105462
+"Piste 1 : Path of Fire",105465
+"Sol (960 x 600)",105468
+"Piste 41 : Kestrel's Watch",105469
+"Apparence de fusil de nacre",105472
+"Piste 11 : Along the Shing Jea Shoreline",105473
+"Extraction de brèche",105474
+"Boîte au trésor d'arme enchantée",105476
+"Boîte au trésor de saurien de Castora",105478
+"Empaleur du dragon des abîmes",105480
+"Coin de support mural intégral",105481
+"Lucarne de toit incurvé",105483
+"Ruée du filet à voldécume : or",105485
+"Gants intermédiaires d'agent de terrain de l'alliance",105486
+"Piste 38 : Fortune's Favor",105490
+"Piste 18 : Minions of Kralkatorrik",105492
+"Piste 28 : Ishan's Wish",105493
+"Ancre éthérée",105497
+"Piste 2 : Mist Connections",105498
+"Demande de livraison de ravitaillement pour la sortie de \"Visions of Eternity\"",105499
+"Piste 48 : Remnants of the Betrayer",105501
+"Sac en jute",105506
+"Bident mystique",105509
+"Piste 19 : The Queen of Murk",105510
+"Thoncuda rouge",105511
+"Boîtier de la Rive aux épaves",105512
+"Piste 20 : Danger Lurks in the Jade",105513
+"Morceau d'aqua-respirateur",105515
+"Lanterne canthienne",105518
+"Épée de constructeur véloce",105519
+"Piste 51 : Where Calamity Began",105521
+"Coffre du sénéchal",105525
+"Grande cache des Aruspices",105528
+"Piste 25 : Battle in Draconis Mons",105529
+"Girouette de navire",105530
+"Piste 26 : Arid Dawn",105532
+"Coffre d'arme de constructeur véloce",105534
+"Espadon de constructeur véloce",105535
+"Veste intermédiaire d'agent de terrain de l'alliance",105537
+"Piste 8 : Faren's Flier",105539
+"Piste 5 : Claw and Spear",105540
+"Coupon extremis : épaulières",105541
+"Piste 23 : Ravaged Ascension",105542
+"Cheminée en briques simples",105543
+"Piste 24 : Dragon's Stand",105544
+"Mur taillé (960 x 240)",105547
+"Tente vestiaire",105548
+"Boîte de casque d'agent de terrain de l'alliance",105550
+"Coupon de capitaine fébrile : gants",105552
+"Piste 17 : Solace and Respite",105554
+"Piste 7 : Strangely Familiar Place",105557
+"Casque intermédiaire d'agent de terrain de l'alliance",105558
+"Piste 14 : Canthan Justice",105559
+"Guirlande de lumières rondes",105562
+"Apparence de cor de guerre de nacre",105564
+"Lopin de fougères d'île en éventail",105566
+"Piste 1 : End of Dragons",105567
+"Deltaplane ardent",105569
+"Poutre en bois (16 x 240 x 30)",105575
+"Coupon de capitaine fébrile : casque",105580
+"Promenade (480 x 960)",105581
+"Piste 36 : Once There Was Laughter",105582
+"Bourgeon de Strelitzia chatoyant",105584
+"Relique du premier revenant",105585
+"Coupon de capitaine fébrile : épaulières",105588
+"Mur (240 x 240)",105589
+"Piste 1 : Janthir Wilds",105590
+"Mur de passage",105592
+"Piste 2 : A New Journey",105596
+"Lance krait",105597
+"Mini-Tyrannus Mangeur-d'hommes",105598
+"Grand prix des Arches scintillantes : or",105599
+"Gants légers de capitaine fébrile",105603
+"Entrée de coque de galion",105604
+"Cache moyenne des Aruspices",105605
+"Piste 31 : The Slums",105606
+"Grand escalier de navire",105607
+"Capuchon lourd extremis",105608
+"Piste 31 : Sands of the Djinn",105610
+"Tas de sacs en jute",105612
+"Sac d'équipement de forêt tropicale",105614
+"Piste 30 : Maws of the Ruptured Heart",105615
+"Source de puissance étendue",105616
+"Boîte d'équipement de Castora",105620
+"Piste 18 : Tangled Depths",105621
+"Mur de cabanon (960)",105624
+"Bicorne de Castora",105627
+"Piste 28 : Sulfurous Wastes",105628
+"Pistolet de Strelitzia Crystallinum",105629
+"Jambières lourdes extremis",105630
+"Piste 35 : Unwelcome Visitors",105632
+"Colonne (30 x 480 x 30)",105633
+"Piste 30 : The View from Above",105634
+"Escalier (120 x 120)",105636
+"Houppelande lourde extremis",105639
+"Bâton de constructeur véloce",105640
+"Piste 10 : A Spirit's Final Wish",105641
+"Sol (960 x 840)",105642
+"Piste 30 : The View from Above",105643
+"Piste 10 : Sands of Chaos",105644
+"Magie ancienne : or",105646
+"Apparence de chacal enchanté",105647
+"Don de maîtrise de Castora",105649
+"Épée enchantée des aruspices",105650
+"Piste 15 : Hallowed Ground",105651
+"Relique de Castora",105652
+"Ancora Pax",105653
+"Coffre d'arme enchantée des aruspices",105657
+"Piste 16 : To Fell a King",105660
+"Javelot en bronze berserker",105661
+"Manteau léger extremis",105665
+"Piste 1 : Janthir Wilds",105666
+"Boîte au trésor de sanglier cagneux de Castora",105667
+"Piste 58 : A World Without You",105672
+"Bottes intermédiaires extremis",105674
+"Morceau d'aqua-respirateur",105676
+"Piste 19 : Mortals Are Little Flames",105677
+"Poisson-lune illustre",105678
+"Apparence de bouclier de nacre",105680
+"Buisson sans branche",105681
+"Feux d'artifice volants : bronze",105685
+"Pierre d'enchantement brute",105686
+"Porte de galion",105687
+"Piste 7 : Forged by Torment",105688
+"Poutre en bois (16 x 480 x 30)",105690
+"Poisson-lune à écailles de saphir",105695
+"Sceptre enchanté des aruspices",105698
+"Magot \"récupéré\" auprès des Cerf-marteau",105700
+"Double harpe chromatique",105701
+"Piste 29 : Bava Nisos",105704
+"Fougère d'île coriace",105705
+"Voile lourd de capitaine fébrile",105706
+"Trésor étherlocalisé commun",105710
+"Coin de toit incurvé",105711
+"Aiguillon des Oubliés",105713
+"Dague de Strelitzia Crystallinum",105715
+"Promenade (240 x 960)",105716
+"Bulle chromatique",105717
+"Piste 22 : Heart of the Machine",105719
+"Piste 29 : A Future Carved in Jade",105721
+"Piste 29 : Deadly Encounter",105722
+"Grimoire d'emote \"/poucehaut\"",105723
+"Crabe-méduse illusoire",105724
+"Parchemin notarié de consignation d'actes héroïques de Castora",105725
+"Queue-fauchue coupeuse d'algues",105726
+"Piste 31 : Sands of the Djinn",105728
+"Calmar secret",105730
+"Piste 25 : Mouth of Mordremoth",105733
