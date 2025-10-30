@@ -7768,13 +7768,17 @@
 "Überfall-Ermittlung: Vorbereitung auf Bedrohung 1",8851
 "Schwarzlöwen-Mampfer-Sammler",8853
 "Erinnerungen an vergangene Zeiten",8854
+"Das bedeutet nichts Gutes",8855
 "Wellenhabicht-Retter",8856
 "Ansehen-Beherrschung \"Stützpunkt-Biwak\"",8857
 "Sammler von \"Strelitzia crystallinum\"-Waffen",8858
 "Übers Meer hinweg: Ascalon",8859
 "Schweberochen-Netzfledderei: Gold",8860
 "Die weniger bekannten Anführer vom Strand der Wracks",8861
+"Nicht mehr verschollen",8862
 "Allianz-Feldagent: Holistische Sichtweise",8863
+"Tägliches Sprungrätsel: Grotte der Kugel",8865
+"Inquestur-Training: Tempo-Läufer",8866
 "Kammerjäger",8867
 "Übers Meer hinweg",8868
 "Agaleus erlangen",8869
@@ -7790,6 +7794,7 @@
 "Frischgebackener Freibeuter",8882
 "Ley-Linien-Abenteuer \"Sternenlicht-Gehölz\": Silber",8884
 "\"Strand der Wracks\"-Explorator",8885
+"Kunst des Entkommens: Verteidigungssysteme",8886
 "Inquestur-Einsicht",8887
 "Übers Meer hinweg: Kryta",8888
 "Sternenlicht-Gehölz-Explorator",8889
@@ -7798,12 +7803,14 @@
 "Überfälle im Sternenlicht-Gehölz",8892
 "Hobbys der Rumpfgartener",8893
 "Tropischer Explorator",8895
+"Der Feind meines Feindes ist trotzdem mein Feind",8896
 "Jessica reinlegen",8898
 "Einsicht Strand der Wracks: Strandgutspitze",8899
 "Castora-Fischer",8900
 "Sternenlicht-Gehölz Einsicht: Bröckelnder Abgrund",8901
 "Tobender Router",8902
 "Bar-Rausschmeißer",8903
+"Großes Choya-Rennen: Bronze",8904
 "Couture des Ruhelosen Kapitäns",8905
 "Sand-Feger",8906
 "Zerschmetterte Geschichte",8907
@@ -7812,6 +7819,7 @@
 "Täglicher Vogelfreund",8911
 "Einsicht Strand der Wracks: Drallsenke 2",8912
 "Sternenlicht-Gehölz Einsicht: Ungezähmte Klippen",8913
+"Jimmy reinlegen",8914
 "Ansehen-Beherrschung \"Abtei-Expedition\"",8915
 "Ermittler aus alten Zeiten",8917
 "Geheimer Höhlenforscher",8918
@@ -7825,12 +7833,14 @@
 "In liebender Erinnerung",8926
 "Sternenlicht-Gehölz Einsicht: Himmelsschleier-Blätterdach",8927
 "Übers Meer hinweg: Castora",8928
+"Tägliches Sprungrätsel: Schwebender Hain",8930
 "Gruft-Hüter",8931
 "Sprungrätsel \"Grotte der Kugel\"",8932
 "An vorderster Front",8933
 "Wenn's zwickt",8934
 "Tretet sie in den Hintern",8935
 "Mit List und Tücke",8936
+"Sternenlicht-Tourist",8937
 "Jagdmeister von Castora",8938
 "Ruinen der Alten Welt",8940
 "Vorsichtig auftreten",8941
@@ -7953,6 +7963,7 @@
 "Und bleibt draußen!",9068
 "Fragwürdiger Tanz",9069
 "Keine Zeugen",9070
+"Den Hammerharts Saures gegeben",9071
 "Heger des Waldes",9072
 "Sternenlicht-Gehölz Einsicht: Kloster der Sterne",9073
 "Eierschützer",9074
@@ -7960,6 +7971,7 @@
 "Witz und Weisheit",9076
 "Projekt Leibwächter",9077
 "Wenn ich's recht bedenke ...",9078
+"Flinkes Schweben",9079
 "Zeba hat etwas Besseres verdient",9080
 "Helft dem durstigen alten Kapitän",9081
 "Oben wie unten",9082
