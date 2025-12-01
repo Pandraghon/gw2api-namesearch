@@ -42698,7 +42698,7 @@
 "Tenue de capitaine pirate",64754
 "Apparence de chapeau d'ours poilu",64755
 "Tenue de cuisinier",64756
-"Apparence du sorcier de la tempête",64757
+"Apparence de chapeau de sorcier",64757
 "Apparence de chapeau de chat poilu",64758
 "Apparence de chapeau de Hylek poilu",64759
 "Teinture persévérance émaillée",65164
@@ -45757,7 +45757,7 @@
 "Sabre de perles ménestrel",71259
 "Essence de rêves",71260
 "Insigne en tulle entrelacé commandant",71262
-"Potion d'affinité verdoyante majeure",71264
+"Potion d'affinité émeraude majeure",71264
 "Kamohoali'i Kotaki vol. 1",71266
 "Le Rêveur vol. 3",71268
 "Fiole de souffle de guérison",71269
@@ -46024,7 +46024,7 @@
 "Recette : grèves de Maklain",71623
 "Boucle d'oreille en orichalque et agate",71624
 "Quartz surchargé ardent",71626
-"Potion d'affinité verdoyante",71627
+"Potion d'affinité émeraude",71627
 "Bouclier plaqué",71628
 "Fusil funèbre",71629
 "Marteau de combat du porte-lumière berserker",71630
@@ -70116,7 +70116,7 @@
 "Pack d'outils de récolte de poudre de fée",105107
 "Recette : cristal d'aspect du soleil",105108
 "Livre de recettes pour pavillon : Quatre Vents, volume 3",105109
-"Mini-chat Garenhoff coon",105110
+"Mini-chat Garenhoff de forêt",105110
 "Apparence de pistolet en résine chromatique",105111
 "Coffre au choix d'armes de Néo-Kaineng",105113
 "Focus en résine chromatique berserker",105114
@@ -70236,7 +70236,7 @@
 "Aqua-respirateur de cuir commandant de divinité",105253
 "Apparence de raptor queue-large à barbe",105254
 "Plaques de jambes de phalange célestes de divinité",105255
-"Omnipotion infinie des Brumes",105256
+"Omnipotion infinie des Brumes du sorcier",105256
 "Masque d'illusionniste céleste de divinité",105257
 "Gants Palpe-Brumes céleste",105258
 "Houppelande d'illusionniste céleste de divinité",105259
@@ -70317,7 +70317,7 @@
 "Ruine de la forteresse funeste – Gauche",105351
 "Recette : sac de bonbons éclatés",105352
 "Recette : brouillard de cimetière",105353
-"Mini-élémentaire au cœur de bonbon",105354
+"Mini-Golem au cœur de bonbon",105354
 "Tente d'automne festif",105355
 "Apparence de masque de médecin vigilant",105356
 "Torche déchaînée",105357
@@ -70547,14 +70547,14 @@
 "Piste 29 : Bava Nisos",105704
 "Fougère d'île coriace",105705
 "Voile lourd de capitaine fébrile",105706
-"Piste 17 : Blood and Vengeance",105708
+"Piste 17 : Blood and Stone",105708
 "Trésor étherlocalisé commun",105710
 "Coin de toit incurvé",105711
 "Aiguillon des Oubliés",105713
 "Piste 20 : The Bloodied Lord",105714
 "Dague de Strelitzia Crystallinum",105715
 "Promenade (240 x 960)",105716
-"Bulle chromatique",105717
+"Bulles chromatiques",105717
 "Piste 4 : Whispers of the Misplaced",105718
 "Piste 22 : Heart of the Machine",105719
 "Piste 29 : A Future Carved in Jade",105721
@@ -70566,7 +70566,7 @@
 "Piste 31 : Sands of the Djinn",105728
 "Calmar secret",105730
 "Piste 25 : Mouth of Mordremoth",105733
-"Bulle chromatique",105736
+"Bulles chromatiques",105736
 "Piste 14 : Enter the Fire God",105737
 "Agaleus",105738
 "Pistolet enchanté des aruspices",105739
@@ -70685,14 +70685,14 @@
 "Mur (600 x 240)",105918
 "Sélachimorphe",105921
 "Piste 14 : On the Hunt",105922
-"Bulle chromatique",105924
+"Bulles chromatiques",105924
 "Lance d'Invoque-tempête chargé clérical",105925
 "Roi crabe de Castora : argent",105927
 "Piste 11 : Dunes of Despair",105929
 "Coin de poutre en bois (30 x 240 x 30)",105932
 "Plaque de mécène des arts magiques",105933
 "Piste 19 : Mortals Are Little Flames",105934
-"Objet de dos de chrysalide déactivée",105937
+"Objet de dos de chrysalide désactivée",105937
 "Fougère d'île (mélange)",105938
 "Bottes lourdes de capitaine fébrile",105939
 "Piste 30 : Maws of the Ruptured Heart",105941
@@ -70778,7 +70778,7 @@
 "Piste 35 : Halls of the Undead",106080
 "Piste 15 : Peitha's Flame",106082
 "Gants légers d'agent de terrain de l'alliance",106083
-"Hache enchantée des aruspicse",106084
+"Hache enchantée des aruspices",106084
 "Coffre d'armure de capitaine fébrile",106086
 "Milieu de coque de galion",106087
 "Piste 34 : Dirge of the Father King",106088
@@ -70801,7 +70801,7 @@
 "Piste 23 : Mount Balrior",106125
 "Apparence de harnois à plumes de l'Enqueste",106126
 "Piste 15 : Tarir, the Forgotten City",106127
-"Bulle chromatique",106128
+"Bulles chromatiques",106128
 "Piste 11 : Auric Wilds",106131
 "Piste 23 : Joon's Secret",106132
 "Casque lourd d'agent de terrain de l'alliance",106133
@@ -70833,7 +70833,7 @@
 "Piste 52 : Order and Balance",106169
 "Piste 7 : View from the Canopy",106170
 "Piste 6 : Roar of the Delta",106172
-"Bulle chromatique",106173
+"Bulles chromatiques",106173
 "Piste 24 : Ruins of Reflection",106175
 "Piste 20 : Danger Lurks in the Jade",106176
 "Piste 56 : I'm Home",106177
@@ -70895,7 +70895,7 @@
 "Don des marées",106275
 "Boîte de jambières d'agent de terrain de l'alliance",106276
 "Piste 12 : Daigo Ward",106277
-"Bulle chromatique",106278
+"Bulles chromatiques",106278
 "Piste 7 : Amnytas in Peril",106280
 "Piste 3 : Captain of the Aetherblades",106281
 "Piste 10 : Sunless Isle",106282
@@ -70928,7 +70928,7 @@
 "Piste 12 : Golden Heights",106327
 "Jambières lourdes de capitaine fébrile",106330
 "Piste 41 : Kestrel's Watch",106332
-"",106333
+"Source de puissance étendue",106333
 "Titre de bande-son : Path of Fire",106334
 "Boîte de bottes d'agent de terrain de l'alliance",106335
 "Mur d'entrée large (simple)",106336
@@ -70969,7 +70969,7 @@
 "Piste 24 : Manikaz, the Blood Phenom",106395
 "Piste 23 : A Promise",106396
 "Piste 6 : Stroll in the Night Market",106398
-"Bulle chromatique",106399
+"Bulles chromatiques",106399
 "Agaleus",106400
 "Piste 22 : Boiling Point",106403
 "Piste 25 : Yagon's Choir",106404
@@ -71018,7 +71018,7 @@
 "Don d'exploration de la Rive aux épaves",106467
 "Manteau lourd extremis",106468
 "Gants lourds extremis",106470
-"Bulle chromatique",106471
+"Bulles chromatiques",106471
 "Cor de guerre de constructeur véloce",106472
 "Apparence de masse de calligraphe",106474
 "Piste 7 : Strangely Familiar Place",106475
@@ -71037,7 +71037,7 @@
 "Piste 9 : This Mountain Before Us",106495
 "Mât de navire",106497
 "Ruée du filet à voldécume : bronze",106498
-"Piste 17 : Blood and Vengeance",106501
+"Piste 17 : Blood and Stone",106501
 "Aventure des lignes de force en voldécume : or",106502
 "Piste 40 : The End of War",106503
 "Apparence de masse de nacre",106504

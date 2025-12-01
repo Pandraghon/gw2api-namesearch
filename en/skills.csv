@@ -4275,7 +4275,6 @@
 "Fulgent Aura",75221
 "Foreshock",75231
 "Acid Spray",75236
-"Breaking Ground",75237
 "Stomp the Growth",75248
 "Discordant Thunder",75249
 "Rot Eruption",75251
@@ -4465,7 +4464,7 @@
 "Magnetic Bomb",76530
 "Guttering Light",76535
 "Forged Surfer Dash",76550
-"Reverberating Lute",76552
+"Lively Lute",76552
 "\"We Will Never Yield!\"",76562
 "Otter's Compassion",76563
 "Glaring Burst",76572
@@ -4475,23 +4474,21 @@
 "Conflagration",76585
 "Metal Legion Guitar",76591
 "Exalted Hammer",76601
-"Rupture Preservation",76602
+"Innervate Preservation",76602
 "Summon Spirits",76607
 "Legendary Entity Stance",76610
 "Tale of the Honorable Rogue",76611
 "Symbiotic Shielding",76613
 "Smash",76614
-"Exit Radiant Shroud",76616
+"Exit Radiant Forge",76616
 "Lightning Blitz",76618
 "Whirlwind",76619
 "Resolute Stance",76621
 "Forged Surfer Dash",76633
 "Rejuvenate",76634
-"Cosmic Wisdom: Mesmer",76641
 "Evolve",76642
 "Ignite",76643
-"Cosmic Wisdom: Dervish",76644
-"Rupture Preservation",76647
+"Innervate Preservation",76647
 "Evolve",76651
 "Hawkeye",76664
 "Holo-Dancer Decoy",76674
@@ -4507,7 +4504,7 @@
 "Fox's Fury",76711
 "Pelt",76722
 "Stone Summit Cannon",76725
-"Rupture Wanderlust",76732
+"Innervate Wanderlust",76732
 "Zephyrite Sun Crystal",76733
 "Mitotic State",76738
 "Nightmare Weapon",76739
@@ -4515,12 +4512,10 @@
 "Canach-Coin Toss",76744
 "Flustering Flute",76746
 "Weapon of Warding",76752
-"End Form",76753
 "\"We Shall Return!\"",76755
 "Mistral",76757
-"Rupture Wanderlust",76758
+"Innervate Wanderlust",76758
 "\"Never Surrender!\"",76769
-"Cosmic Wisdom: Dervish",76774
 "Chant of Recuperation",76782
 "Emergency Jade Shield",76784
 "Summon Cyclone Bow",76787
@@ -4570,19 +4565,19 @@
 "Water Attunement",76988
 "Flux State",76993
 "Twin Moon Sweep",77001
-"Rupture Anguish",77003
+"Innervate Anguish",77003
 "Fleeting Zephyr",77012
 "Gaseous State",77018
 "Weapon of Remedy",77022
 "Hare's Agility",77038
 "\"Find Their Weakness!\"",77040
 "Shielding Hands",77043
-"Rupture Anguish",77050
+"Innervate Anguish",77050
 "Glaring Burst",77058
 "Essence Blast",77061
 "Tale of the Tortured Mastermind",77066
 "Solid State",77069
-"Enter Radiant Shroud",77073
+"Enter Radiant Forge",77073
 "Conflagration",77074
 "Harmonious Harp",77077
 "Piercing Stance",77078
@@ -4617,23 +4612,19 @@
 "Ritualist's Shroud",77238
 "",77240
 "Hex-Eater Vortex",77243
-"Cosmic Wisdom: Mesmer",77246
 "Toad's Fortitude",77247
-"Cosmic Wisdom: Assassin",77251
 "Skritt Scuffle",77255
 "Resilient Weapon",77259
 "Piercing Gales",77264
 "Stab",77268
 "Pelt",77270
 "Soothing Breeze",77271
-"Blazing Restoration",77275
 "Mistburn Mortar",77277
 "Fox's Fury",77282
 "Mistburn Mortar",77288
 "Gladiator's Defense",77291
 "Valorous Stance",77300
-"Reverberating Lute",77306
-"Cosmic Wisdom: Assassin",77312
+"Lively Lute",77306
 "Bluster",77319
 "Toad's Fortitude",77320
 "Stalwart Stance",77321
@@ -4645,12 +4636,10 @@
 "Buoyant Deluge",77357
 "Inquest Portal Device: Backfired",77361
 "Lucent Thrust",77366
-"Channel Form of the Warrior",77368
 "Zap",77370
-"Cosmic Wisdom: Monk",77371
-"Hare's Agility",77387
+"Cosmic Wisdom",77371
+"Electric Enchantment",77387
 "Locked",77388
-"Channel Form of the Warrior",77389
 "Skritt Swipe",77397
 "Sketching",77748
 "Unrelenting Assault",77752

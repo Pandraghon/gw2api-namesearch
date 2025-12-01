@@ -4275,7 +4275,6 @@
 "Aura fulgurante",75221
 "Secousse précurseur",75231
 "Vaporisation acide",75236
-"Brise-sol",75237
 "Piétinement de croissance",75248
 "Discorde tonitruante",75249
 "Éruption de putrescence",75251
@@ -4465,7 +4464,7 @@
 "Bombe magnétique",76530
 "Lumière vacillante",76535
 "Ruée de surfeur forgé",76550
-"Luth de réverbération",76552
+"Luth entraînant",76552
 "\"Nous ne capitulerons jamais !\"",76562
 "Compassion de la loutre",76563
 "Explosion éblouissante",76572
@@ -4475,23 +4474,21 @@
 "Conflagration",76585
 "Guitare de Metal Legion",76591
 "Marteau exalté",76601
-"Rupture de préservation",76602
+"Préservation stimulée",76602
 "Invocation des esprits",76607
 "Posture de l'entité légendaire",76610
 "Conte de l'honorable fripouille",76611
 "Bouclier symbiotique",76613
 "Écrasement",76614
-"Annulation de Linceul rayonnant",76616
+"Annulation de forge rayonnante",76616
 "Choc éclair",76618
 "Tourbillon",76619
 "Posture déterminée",76621
 "Ruée de surfeur forgé",76633
 "Rajeunissement",76634
-"Sagesse cosmique : envoûteur",76641
 "Évolution",76642
 "Mise à feu",76643
-"Sagesse cosmique : derviche",76644
-"Rupture de préservation",76647
+"Préservation stimulée",76647
 "Évolution",76651
 "Œil-de-faucon",76664
 "Danseur holographique factice",76674
@@ -4507,7 +4504,7 @@
 "Furie du renard",76711
 "Bombardement",76722
 "Canon du Sommet de Pierre",76725
-"Rupture d'errance",76732
+"Errance stimulée",76732
 "Cristal de soleil zéphyrite",76733
 "État de mitose",76738
 "Arme du cauchemar",76739
@@ -4515,12 +4512,10 @@
 "Lancer de pièces de Canach",76744
 "Flûte troublante",76746
 "Arme de protection",76752
-"Interruption de forme",76753
 "\"Nous reviendrons !\"",76755
 "Mistral",76757
-"Rupture d'errance",76758
+"Errance stimulée",76758
 "\"Aucune reddition !\"",76769
-"Sagesse cosmique : derviche",76774
 "Chant de récupération",76782
 "Bouclier de jade d'urgence",76784
 "Invocation de l'arc cyclone",76787
@@ -4570,19 +4565,19 @@
 "Affinité avec l'eau",76988
 "État de flux",76993
 "Fauchage des deux lunes",77001
-"Rupture d'angoisse",77003
+"Angoisse stimulée",77003
 "Zéphyr fuyard",77012
 "État gazeux",77018
 "Arme du remède",77022
 "Agilité de la hase",77038
 "\"Trouvez leur faiblesse !\"",77040
 "Mains protectrices",77043
-"Rupture d'angoisse",77050
+"Angoisse stimulée",77050
 "Explosion éblouissante",77058
 "Explosion d'essence",77061
 "Conte de la génie torturée",77066
 "État solide",77069
-"Linceul rayonnant",77073
+"Activation de forge rayonnante",77073
 "Conflagration",77074
 "Harpe harmonieuse",77077
 "Posture perforante",77078
@@ -4617,23 +4612,19 @@
 "Linceul de ritualiste",77238
 "",77240
 "Vortex mangesort",77243
-"Sagesse cosmique : envoûteur",77246
 "Courage du crapaud",77247
-"Sagesse cosmique : assassin",77251
 "Rixe skritt",77255
 "Arme résistante",77259
 "Bourrasques perforantes",77264
 "Poignarder",77268
 "Bombardement",77270
 "Brise apaisante",77271
-"Restauration embrasée",77275
 "Mortier de Feu-de-Brume",77277
 "Furie du renard",77282
 "Mortier de Feu-de-Brume",77288
 "Défense du gladiateur",77291
 "Posture valeureuse",77300
-"Luth de réverbération",77306
-"Sagesse cosmique : assassin",77312
+"Luth entraînant",77306
 "Trombe",77319
 "Courage du crapaud",77320
 "Posture robuste",77321
@@ -4645,12 +4636,10 @@
 "Déluge flottant",77357
 "Appareil de portail de l'Enqueste : raté",77361
 "Assaut étincelant",77366
-"Canalisation de la forme du guerrier",77368
 "Atomisation",77370
-"Sagesse cosmique : moine",77371
-"Agilité de la hase",77387
+"Sagesse cosmique",77371
+"Enchantement électrique",77387
 "Verrouillé",77388
-"Canalisation de la forme du guerrier",77389
 "Escamotage skritt",77397
 "Faire une esquisse",77748
 "Assaut implacable",77752

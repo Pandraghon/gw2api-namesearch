@@ -1586,7 +1586,7 @@
 "Glyphe der Einheit",31888
 "Astrales Irrlicht",31889
 "Verjüngende Gezeiten",31894
-"\" Gemeinsame Heilung!\"",31914
+"\"Wir heilen gemeinsam!\"",31914
 "Saat des Lebens",32242
 "Verjüngende Gezeiten",32253
 "Mond-Einschlag",32364
@@ -4275,7 +4275,6 @@
 "Strahlende Aura",75221
 "Vorbeben",75231
 "Säurespray",75236
-"Umbruch",75237
 "Zerstampft das Wachstum",75248
 "Disharmonischer Donner",75249
 "Fäulnisausbruch",75251
@@ -4465,7 +4464,7 @@
 "Magnetische Bombe",76530
 "Flackerndes Licht",76535
 "\"Geschmiedeter Surfer\"-Preschen",76550
-"Widerhallende Laute",76552
+"Lebhafte Laute",76552
 "\"Wir weichen niemals zurück!\"",76562
 "Mitgefühl des Otters",76563
 "Gleißender Schub",76572
@@ -4475,23 +4474,21 @@
 "Feuersbrunst",76585
 "\"Metal Legion\"-Gitarre",76591
 "Erhabener Hammer",76601
-"Erhaltung zerreißen",76602
+"Erhaltung innervieren",76602
 "Geister herbeirufen",76607
 "Legendäre Wesenform",76610
 "Geschichte des Ehrbaren Halunken",76611
 "Symbiotische Abschirmung",76613
 "Zerschmettern",76614
-"Strahlenden Schleier verlassen",76616
+"Beendet Strahlende Schmiede",76616
 "Potzblitz",76618
 "Wirbelsturm",76619
 "Entschlossene Haltung",76621
 "\"Geschmiedeter Surfer\"-Preschen",76633
 "Verjüngen",76634
-"Kosmische Weisheit: Mesmer",76641
 "Weiterentwickeln",76642
 "Entzünden",76643
-"Kosmische Weisheit: Derwisch",76644
-"Erhaltung zerreißen",76647
+"Erhaltung innervieren",76647
 "Weiterentwickeln",76651
 "Falkenaugen",76664
 "Holo-Tänzer-Lockvogel",76674
@@ -4507,7 +4504,7 @@
 "Wut des Fuchses",76711
 "Bewerfen",76722
 "Steingipfel-Kanone",76725
-"Fernweh zerreißen",76732
+"Fernweh innervieren",76732
 "Zephyriten-Sonnenkristall",76733
 "Mitotischer Zustand",76738
 "Alptraumwaffe",76739
@@ -4515,12 +4512,10 @@
 "Canach-Münzwurf",76744
 "Betörende Flöte",76746
 "Waffe der Abwehr",76752
-"Form beenden",76753
 "\"Wir kommen wieder!\"",76755
 "Mistral",76757
-"Fernweh zerreißen",76758
+"Fernweh innervieren",76758
 "\"Ergebt Euch nicht!\"",76769
-"Kosmische Weisheit: Derwisch",76774
 "Gesang der Erholung",76782
 "Notfall-Jadeschild",76784
 "Zyklonbogen herbeirufen",76787
@@ -4538,7 +4533,7 @@
 "Elementar-Prozession",76841
 "Würger",76846
 "Geschichte der Seelenhüterin",76850
-"Seelenpein",76864
+"Qual",76864
 "Notfall-Jadeschild",76879
 "Gegengift-Trank: Nach hinten losgegangen",76881
 "Gegengift-Trank",76886
@@ -4570,19 +4565,19 @@
 "Wassereinstimmung",76988
 "Flux-Zustand",76993
 "Doppelter Mondschwung",77001
-"Qual zerreißen",77003
+"Qual innervieren",77003
 "Vergänglicher Zephyr",77012
 "Gasförmiger Zustand",77018
 "Waffe der Behebung",77022
 "Beweglichkeit des Hasen",77038
 "\"Findet ihren Schwachpunkt!\"",77040
 "Schützende Hände",77043
-"Qual zerreißen",77050
+"Qual innervieren",77050
 "Gleißender Schub",77058
 "Essenz-Entladung",77061
 "Geschichte des Gequälten Genies",77066
 "Fester Zustand",77069
-"Strahlenden Schleier betreten",77073
+"Strahlende Schmiede betreten",77073
 "Feuersbrunst",77074
 "Harmonische Harfe",77077
 "Durchbohrende Haltung",77078
@@ -4617,23 +4612,19 @@
 "Schleier des Ritualisten",77238
 "",77240
 "Verhexungsfresser-Strudel",77243
-"Kosmische Weisheit: Mesmer",77246
 "Tapferkeit der Kröte",77247
-"Kosmische Weisheit: Assassine",77251
 "Skritt-Rangelei",77255
 "Unverwüstliche Waffe",77259
 "Durchbohrende Stürme",77264
 "Stechen",77268
 "Bewerfen",77270
 "Lindernde Brise",77271
-"Flammende Wiederherstellung",77275
 "Nebelbrand-Mörser",77277
 "Wut des Fuchses",77282
 "Nebelbrand-Mörser",77288
 "Gladiatoren-Verteidigung",77291
 "Tapfere Haltung",77300
-"Widerhallende Laute",77306
-"Kosmische Weisheit: Assassine",77312
+"Lebhafte Laute",77306
 "Gebraus",77319
 "Tapferkeit der Kröte",77320
 "Standhafte Haltung",77321
@@ -4645,12 +4636,10 @@
 "Auftriebsflut",77357
 "Inquestur-Portalgerät: Nach hinten losgegangen",77361
 "Schillernder Stoß",77366
-"Kanalisiert die Form des Kriegers",77368
 "Schockangriff",77370
-"Kosmische Weisheit: Mönch",77371
-"Beweglichkeit des Hasen",77387
+"Kosmische Weisheit",77371
+"Elektrische Verzauberung",77387
 "Gesperrt",77388
-"Kanalisiert die Form des Kriegers",77389
 "Skritt-Klau",77397
 "Skizzieren",77748
 "Unablässiger Angriff",77752
