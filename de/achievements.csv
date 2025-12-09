@@ -7793,6 +7793,7 @@
 "\"Strand der Wracks\"-Beherrschung",8880
 "Skizzenkünstler",8881
 "Frischgebackener Freibeuter",8882
+"(Wiederholbar) Sternenlicht-Gehölz: Ansehen-Herz \"Stützpunkt-Biwak\"",8883
 "Ley-Linien-Abenteuer \"Sternenlicht-Gehölz\": Silber",8884
 "\"Strand der Wracks\"-Explorator",8885
 "Kunst des Entkommens: Verteidigungssysteme",8886
@@ -7803,6 +7804,7 @@
 "Außerplanmäßige Abreise",8891
 "Überfälle im Sternenlicht-Gehölz",8892
 "Hobbys der Rumpfgartener",8893
+"Tropische Folianten",8894
 "Tropischer Explorator",8895
 "Der Feind meines Feindes ist trotzdem mein Feind",8896
 "Jessica reinlegen",8898
@@ -7822,6 +7824,7 @@
 "Sternenlicht-Gehölz Einsicht: Ungezähmte Klippen",8913
 "Jimmy reinlegen",8914
 "Ansehen-Beherrschung \"Abtei-Expedition\"",8915
+"Zeit zum Arbeiten im Paradies",8916
 "Ermittler aus alten Zeiten",8917
 "Geheimer Höhlenforscher",8918
 "Gwyl-Ringe",8919
@@ -7834,6 +7837,7 @@
 "In liebender Erinnerung",8926
 "Sternenlicht-Gehölz Einsicht: Himmelsschleier-Blätterdach",8927
 "Übers Meer hinweg: Castora",8928
+"Bienenaugen-Ansicht vom Paradies",8929
 "Tägliches Sprungrätsel: Schwebender Hain",8930
 "Gruft-Hüter",8931
 "Sprungrätsel \"Grotte der Kugel\"",8932
@@ -7843,6 +7847,7 @@
 "Mit List und Tücke",8936
 "Sternenlicht-Tourist",8937
 "Jagdmeister von Castora",8938
+"(Wiederholbar) Sternenlicht-Gehölz: Ansehen-Herz \"Abtei-Expedition\"",8939
 "Ruinen der Alten Welt",8940
 "Vorsichtig auftreten",8941
 "Wieder eingeschlafen",8942
@@ -7850,6 +7855,7 @@
 "Perfekter Hacker",8944
 "Strandgutsammler",8945
 "Die Schwelle zur Göttlichkeit",8946
+"(Wiederholbar) Strand der Wracks: Ansehen-Herz von Rumpfgarten",8947
 "Ein neuer Start ins Leben",8948
 "Einen über den Durst",8949
 "Betrachtet die Becken",8950
@@ -7875,6 +7881,7 @@
 "Nautische Weissagung",8970
 "Auch Geister brauchen Freunde",8971
 "Einsicht Strand der Wracks: Durchbohrte Höhle",8972
+"Eifriger Castora-Fischer",8973
 "Feldagent der Tyrianischen Allianz",8974
 "Einsicht Strand der Wracks: Rumpfgarten",8975
 "Sprungrätsel \"Schwebender Hain\"",8976
@@ -7895,6 +7902,7 @@
 "Hat den Bogen raus",8991
 "Nicht mal ein Kratzer",8992
 "Sternenlicht-Gehölz Einsicht: Verschollene Basilika",8993
+"(Wiederholbar) Strand der Wracks: Ansehen-Herz von Brisenriff",8994
 "Ansehen-Beherrschung von Rumpfgarten",8995
 "Schätze des Letzten Gewölbes",8996
 "Einsicht Strand der Wracks: Höhensand",8997
@@ -7921,6 +7929,7 @@
 "Käpt'n Leo der Unerbittliche",9021
 "Emergente Metamorphose",9022
 "Grabläufer",9023
+"(Wiederholbar) Strand der Wracks: Ansehen-Herz von Schimmerbogen",9024
 "Sidonys Rache",9025
 "Salziger Souschef",9026
 "Großes Choya-Rennen: Silber",9027
@@ -7961,6 +7970,7 @@
 "Übers Meer hinweg: Cantha",9064
 "Ansehen-Beherrschung \"Ungezähmte Klippen\"",9065
 "Einsicht Strand der Wracks: Durchbohrte Höhle 2",9066
+"(Wiederholbar) Sternenlicht-Gehölz: Ansehen-Herz \"Ungezähmte Klippen\"",9067
 "Und bleibt draußen!",9068
 "Fragwürdiger Tanz",9069
 "Keine Zeugen",9070
@@ -7981,9 +7991,15 @@
 "Bares für Rares",9085
 "Allianz-Feldagent: Angepackt",9086
 "Evon Schlitzklinges \"Geburtstagsfeier\"",9087
+"Rückhol-Event für gestohlene Schwarzlöwen-Waren – Standard",9088
 "Raubzug von Evon Schlitzklinge: Besonderes Glänziges",9089
+"Raubzug von Evon Schlitzklinge: Das Glänzigste",9090
+"Trébuchet-Taktiker",9091
+"Rückhol-Event für gestohlene Schwarzlöwen-Waren – Vollständig",9092
 "Raubzug von Evon Schlitzklinge: Silber",9093
 "Raubzug von Evon Schlitzklinge: Nicht so unauffällig",9094
+"Waffensammlung des Kalligraphen",9095
 "(Täglich) \"Geburtstagsfeier\" von Evon Schlitzklinge: Tanz",9096
 "Raubzug von Evon Schlitzklinge: Bronze",9097
 "Evon Schlitzklinges \"Geburtstagsfeier\": Anmeldung",9098
+"Raubzug von Evon Schlitzklinge: Gold",9099
