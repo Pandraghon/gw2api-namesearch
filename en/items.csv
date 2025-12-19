@@ -24854,6 +24854,7 @@
 "Orrian Spear of Vision",33040
 "Orrian Bow of Vision",33044
 "Orrian Bow of Accuracy",33045
+"Orrian Mace of Accuracy",33049
 "Orrian Mace of Rage",33050
 "Orrian Pistol of Vision",33052
 "Orrian Pistol of Accuracy",33053
@@ -24866,6 +24867,7 @@
 "Orrian Short Bow of Accuracy",33069
 "Orrian Short Bow of Rage",33070
 "Orrian Speargun of Vision",33072
+"Orrian Speargun of Accuracy",33073
 "Orrian Speargun of Rage",33074
 "Orrian Staff of Accuracy",33077
 "Orrian Staff of Rage",33078
@@ -24874,6 +24876,8 @@
 "Orrian Torch of Vision",33084
 "Orrian Torch of Accuracy",33085
 "Orrian Torch of Rage",33086
+"Orrian Trident of Accuracy",33089
+"Orrian Warhorn of Accuracy",33093
 "Orrian Warhorn of Rage",33094
 "Orrian Axe",33096
 "Orrian Axe",33098
@@ -25037,6 +25041,7 @@
 "Ceremonial Dagger of Accuracy",33368
 "Ceremonial Scimitar of Rage",33377
 "Ceremonial Longbow of Rage",33389
+"Ceremonial Morning Star of Accuracy",33392
 "Ceremonial Pistol of Accuracy",33396
 "Ceremonial Pistol of Rage",33397
 "Ceremonial Rifle of Vision",33399
@@ -25048,7 +25053,9 @@
 "Ceremonial Stave of Rage",33421
 "Ceremonial Sabre of Accuracy",33424
 "Ceremonial Sabre of Rage",33425
+"Ceremonial Torch of Accuracy",33428
 "Ceremonial Torch of Rage",33429
+"Ceremonial Warhorn of Accuracy",33436
 "Resilient Krytan Axe",33438
 "Resilient Krytan Axe",33439
 "Resilient Krytan Axe",33440

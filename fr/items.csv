@@ -24854,6 +24854,7 @@
 "Lance orrienne de Vision",33040
 "Arc orrien de Vision",33044
 "Arc orrien d'exactitude",33045
+"Masse orrienne d'exactitude",33049
 "Masse orrienne de rage",33050
 "Pistolet orrien de Vision",33052
 "Pistolet orrien d'exactitude",33053
@@ -24866,6 +24867,7 @@
 "Arc court orrien d'exactitude",33069
 "Arc court orrien de rage",33070
 "Lance-harpon orrien de Vision",33072
+"Lance-harpon orrien d'exactitude",33073
 "Lance-harpon orrien de rage",33074
 "Bâton orrien d'exactitude",33077
 "Bâton orrien de rage",33078
@@ -24874,6 +24876,8 @@
 "Torche orrienne de Vision",33084
 "Torche orrienne d'exactitude",33085
 "Torche orrienne de rage",33086
+"Trident orrien d'exactitude",33089
+"Cor de guerre orrien d'exactitude",33093
 "Cor de guerre orrien de rage",33094
 "Hache orrienne",33096
 "Hache orrienne",33098
@@ -25037,6 +25041,7 @@
 "Dague de cérémonie d'exactitude",33368
 "Cimeterre de cérémonie de rage",33377
 "Arc long de cérémonie de rage",33389
+"Etoile du matin de cérémonie d'exactitude",33392
 "Pistolet de cérémonie d'exactitude",33396
 "Pistolet de cérémonie de rage",33397
 "Fusil de cérémonie de Vision",33399
@@ -25048,7 +25053,9 @@
 "Hampe de cérémonie de rage",33421
 "Sabre de cérémonie d'exactitude",33424
 "Sabre de cérémonie de rage",33425
+"Torche de cérémonie d'exactitude",33428
 "Torche de cérémonie de rage",33429
+"Cor de guerre de cérémonie d'exactitude",33436
 "Hache krytienne résistante",33438
 "Hache krytienne résistante",33439
 "Hache krytienne résistante",33440
