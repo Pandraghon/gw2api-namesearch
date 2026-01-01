@@ -13800,30 +13800,41 @@
 "Drachentiefen-Dreizack",17927
 "Drachentiefen-Kriegshorn",17928
 "Verfluchte Schaftstiefel",17929
+"Verfluchte Kleidung",17930
 "Verfluchter Armschutz",17931
+"Verfluchtes Antlitz",17932
 "Verfluchtes Beinkleid",17933
 "Verfluchte Schultern",17934
 "Verfluchte Schaftstiefel",17935
 "Verfluchte Kleidung",17936
 "Verfluchter Armschutz",17937
+"Verfluchtes Antlitz",17938
 "Verfluchtes Beinkleid",17939
 "Verfluchte Schultern",17940
+"Verfluchte Schaftstiefel",17941
 "Verfluchte Kleidung",17942
 "Verfluchter Armschutz",17943
 "Verfluchtes Antlitz",17944
 "Verfluchtes Beinkleid",17945
 "Verfluchte Schultern",17946
+"Lich-Wandler",17947
 "Lich-Tracht",17948
+"Lich-Hülle",17949
+"Lich-Blick",17950
 "Lich-Zeichen",17951
 "Lich-Überwurf",17952
 "Lich-Wandler",17953
 "Lich-Tracht",17954
 "Lich-Hülle",17955
 "Lich-Blick",17956
+"Lich-Zeichen",17957
+"Lich-Überwurf",17958
 "Lich-Wandler",17959
+"Lich-Tracht",17960
 "Lich-Hülle",17961
 "Lich-Blick",17962
 "Lich-Zeichen",17963
+"Lich-Überwurf",17964
 "Zupackende Toten-Beinschienen",17965
 "Zupackende Toten-Brustplatte",17966
 "Zupackende Toten-Stulpenhandschuhe",17967
@@ -13835,15 +13846,20 @@
 "Zupackende Toten-Stulpenhandschuhe",17973
 "Zupackendes Toten-Antlitz",17974
 "Zupackende Toten-Beinschützer",17975
+"Zupackender Toten-Schulterschutz",17976
 "Zupackende Toten-Beinschienen",17977
 "Zupackende Toten-Brustplatte",17978
+"Zupackende Toten-Stulpenhandschuhe",17979
 "Zupackendes Toten-Antlitz",17980
+"Zupackende Toten-Beinschützer",17981
+"Zupackender Toten-Schulterschutz",17982
 "Magische Freibeuter-Stiefel",18021
 "Magisches Freibeuter-Wams",18022
 "Magische Freibeuter-Handschuhe",18023
 "Magischer Freibeuter-Hut",18024
 "Magische Freibeuter-Hose",18025
 "Magische Freibeuter-Schultern",18026
+"Soldatische Freibeuter-Stiefel",18027
 "Soldatisches Freibeuter-Wams",18028
 "Soldatische Freibeuter-Handschuhe",18029
 "Soldatischer Freibeuter-Hut",18030
@@ -13855,6 +13871,7 @@
 "Magische Kabbalisten-Kapuze",18036
 "Magischer Kabbalisten-Beinschutz",18037
 "Magische Kabbalisten-Schultern",18038
+"Soldatische Kabbalisten-Stiefel",18039
 "Soldatisches Kabbalisten-Wams",18040
 "Soldatische Kabbalisten-Handschuhe",18041
 "Soldatische Kabbalisten-Kapuze",18042
@@ -13868,13 +13885,20 @@
 "Magischer Verstärkter Schuppen-Schulterschutz",18050
 "Soldatische Verstärkte Schuppen-Stiefel",18051
 "Soldatisches Verstärktes Schuppen-Wams",18052
+"Soldatische Verstärkte Schuppen-Stulpenhandschuhe",18053
 "Soldatischer Verstärkter Schuppen-Helm",18054
+"Soldatischer Verstärkter Schuppen-Beinschutz",18055
+"Soldatischer Verstärkter Schuppen-Schulterschutz",18056
 "Kodan-Axt",18057
 "Kodan-Langbogen",18058
 "Kodan-Kurzbogen",18059
 "Kodan-Dolch",18060
+"Kodan-Fokus",18061
+"Kodan-Großschwert",18062
 "Kodan-Hammer",18063
+"Kodan-Harpune",18064
 "Kodan-Streitkolben",18065
+"Kodan-Pistole",18066
 "Kodan-Gewehr",18067
 "Kodan-Zepter",18068
 "Kodan-Schild",18069
@@ -13883,7 +13907,10 @@
 "Kodan-Schwert",18072
 "Kodan-Fackel",18073
 "Kodan-Dreizack",18074
+"Kodan-Kriegshorn",18075
+"Kodan-Axt",18076
 "Kodan-Langbogen",18077
+"Kodan-Kurzbogen",18078
 "Kodan-Dolch",18079
 "Kodan-Fokus",18080
 "Kodan-Großschwert",18081
@@ -13894,8 +13921,11 @@
 "Kodan-Gewehr",18086
 "Kodan-Zepter",18087
 "Kodan-Schild",18088
+"Kodan-Speerschleuder",18089
 "Kodan-Stab",18090
 "Kodan-Schwert",18091
+"Kodan-Fackel",18092
+"Kodan-Dreizack",18093
 "Kodan-Kriegshorn",18094
 "Kodan-Axt",18095
 "Kodan-Langbogen",18096
@@ -13916,11 +13946,16 @@
 "Kodan-Fackel",18111
 "Kodan-Dreizack",18112
 "Kodan-Kriegshorn",18113
+"Koda-Spuren",18114
 "Koda-Herz",18115
 "Koda-Kraft",18116
 "Koda-Antlitz",18117
+"Koda-Schritte",18118
 "Koda-Pflicht",18119
+"Koda-Spuren",18120
+"Koda-Herz",18121
 "Koda-Kraft",18122
+"Koda-Antlitz",18123
 "Koda-Schritte",18124
 "Koda-Pflicht",18125
 "Koda-Spuren",18126
@@ -13928,6 +13963,7 @@
 "Koda-Kraft",18128
 "Koda-Antlitz",18129
 "Koda-Schritte",18130
+"Koda-Pflicht",18131
 "Koda-Pfad",18132
 "Koda-Seele",18133
 "Koda-Arme",18134
@@ -13940,20 +13976,27 @@
 "Koda-Geist",18141
 "Koda-Weg",18142
 "Koda-Überwurf",18143
+"Koda-Pfad",18144
 "Koda-Seele",18145
 "Koda-Arme",18146
+"Koda-Geist",18147
 "Koda-Weg",18148
 "Koda-Überwurf",18149
+"Koda-Pranken",18150
 "Koda-Muskeln",18151
 "Koda-Klauen",18152
 "Koda-Kopf",18153
 "Koda-Körper",18154
 "Koda-Last",18155
 "Koda-Pranken",18156
+"Koda-Muskeln",18157
+"Koda-Klauen",18158
 "Koda-Kopf",18159
 "Koda-Körper",18160
 "Koda-Last",18161
+"Koda-Pranken",18162
 "Koda-Muskeln",18163
+"Koda-Klauen",18164
 "Koda-Kopf",18165
 "Koda-Körper",18166
 "Koda-Last",18167
