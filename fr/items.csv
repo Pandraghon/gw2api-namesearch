@@ -70622,6 +70622,7 @@
 "Piste 21 : Thick Dark Water",105770
 "Mini-crabe danseur",105772
 "Piste 34 : Dirge of the Father King",105774
+"Mini-Kela",105776
 "Piste 7 : Elona Reach",105777
 "Apparence de torche de calligraphe",105778
 "Piste 5 : The Empire of Dragons",105779
@@ -71323,11 +71324,13 @@
 "Lanterne du Cheval chanceux",106903
 "Apparence de gants de l'Enqueste spinescente",106904
 "Recette : statue du Cheval",106905
+"Pignon de mur 360 x 200",106908
 "Coffre de combat de raid de l'Épopée du givre",106909
 "Apparence d'arc long de peintre brillant",106911
 "Apparence de lance de peintre brillant",106912
 "Relique des chaînes",106916
 "Relique de la bête nautique",106920
+"Élément de toit",106922
 "Piquet cœur-de-corail",106924
 "Apparence de dague à carapace toxique",106925
 "Recette : plate-forme largos",106926
@@ -71340,8 +71343,11 @@
 "Malle magnifiques de Mai Trin",106935
 "Malle magnifique d'Ura",106938
 "Statue du Blanc-Manteau",106939
+"Main droite d'élémentaire de terre",106943
 "Focus de feu d'artifice céleste",106945
 "Apparence de pistolet à carapace toxique",106948
+"Toit 720 x 200 x 240",106950
+"Coffre des chevaliers d'assaut",106951
 "Bouclier de feu d'artifice céleste",106953
 "Malle d'Ankka",106954
 "Arc court de feu d'artifice céleste",106955
@@ -71354,15 +71360,20 @@
 "Déverrouillage d'atelier de tailleur",106963
 "Ensemble de cape de feuillage tropical",106964
 "Chausses à sabot céleste",106966
+"Bannière de la cachette des Étherlames",106969
 "Déverrouillage d'atelier de travailleur du cuir",106972
+"Preuve d'achèvement de la Salle des chaînes",106973
 "Don des gemmes infusées",106975
 "Apparence de fusil de peintre brillant",106978
 "Preuve d'achèvement du Passage de la rédemption",106980
 "Recette : statue dorée du Cheval",106981
 "Élixir de maîtrise de \"Janthir Wilds\"",106982
+"Poupe de navire",106983
+"Don des Hyleks",106986
 "Lance de feu d'artifice",106987
 "Statue de Deimos",106990
 "Coffre de lanterne de marchand",106991
+"Malle de Kela",106994
 "Extension de modèle de style",106996
 "Pilier cœur-de-corail",106998
 "Malle magnifiques d'Ankka",106999
@@ -71382,12 +71393,17 @@
 "Cache de raid en session rapide hebdomadaire",107019
 "Déverrouillage d'atelier de bijoutier",107020
 "Lance de feu d'artifice céleste",107021
+"Été infini",107022
 "Apparence de bâton de peintre brillant",107024
 "Déverrouillage d'atelier de cuisine",107025
+"Malle du ministre Li",107026
 "Recette : tour aliénante",107027
+"Malle magnifiques du ministre Li",107028
 "Bûche de jungle",107029
 "Relique du brouillard",107030
 "Élixir de maîtrise de \"Secrets of the Obscure\"",107031
+"Preuve d'achèvement du mont Balrior",107032
+"Château de sable",107033
 "Apparence d'épée à carapace toxique",107036
 "Apparence de hache de peintre brillant",107038
 "Conteneur de relique : ensemble de Visions of Eternity n° 2",107039
@@ -71408,6 +71424,7 @@
 "Élixir de maîtrise de \"Visions of Eternity\"",107063
 "Figurine du Cheval dorée",107066
 "Malle de Mai Trin",107067
+"Proue de navire",107068
 "Cor de guerre de feu d'artifice céleste",107069
 "Pack de virevolte",107071
 "Épée de feu d'artifice céleste",107072
@@ -71416,8 +71433,10 @@
 "Apparence de bouclier à carapace toxique",107081
 "Recette : main gauche d'élémentaire de terre",107085
 "Espadon de feu d'artifice céleste",107086
+"Malle de Dagda",107087
 "Preuve d'achèvement de la Vallée des esprits",107089
 "Apparence d'arc court à carapace toxique",107091
+"Tablette de résurrection",107093
 "Apparence de masse de peintre brillant",107094
 "Grimoire d'emote \"/dansejoyeuse\"",107095
 "Déverrouillage de forge mystique",107096
@@ -71455,6 +71474,7 @@
 "Apparence de cor de guerre de peintre brillant",107154
 "Pistolet de feu d'artifice céleste",107156
 "Recette : statue de Deimos",107158
+"Espadon lame-sanglante de l'Enqueste",107160
 "Apparence de torche de peintre brillant",107163
 "Catalyseur d'éclat de magnétite",107164
 "Apparence de hache à carapace toxique",107165
@@ -71464,16 +71484,20 @@
 "Recette : vitrail",107173
 "Recette : main droite d'élémentaire de terre",107175
 "Échange d'éclats de magnétite portable d'expertise de raid",107176
+"Main gauche d'élémentaire de terre",107177
 "Canapé du désert",107179
 "Recette : canapé du désert",107181
+"Preuve d'achèvement du Gambit de forgeconte",107182
 "Mini-Calebasse-cheval",107187
 "Apparence de bâton à carapace toxique",107189
 "Recette : statue du Blanc-Manteau",107190
 "Relique de l'alliance",107192
+"Mini-minotaure de la Salle des chaînes",107193
 "Apparence d'espadon de peintre brillant",107198
 "Recette : bannière de la cachette des Étherlames",107199
 "Boîte de chausses à sabot",107200
 "Don de la plage",107201
+"Toit 720 x 200 x 480",107204
 "Déverrouillage d'atelier de forgeron d'armures",107206
 "Buisson de jungle",107207
 "Coffre de feu d'artifice céleste",107209
@@ -71485,6 +71509,7 @@
 "Déverrouillage d'atelier d'artificier",107219
 "Boîte de sélection à carapace toxique",107221
 "Lanterne du grand Cheval chanceux",107222
+"Pignon de mur 360 x 200 inversé",107223
 "Dague de feu d'artifice céleste",107226
 "Bâton de feu d'artifice céleste",107228
 "Recette : pylône de Qadim",107231
