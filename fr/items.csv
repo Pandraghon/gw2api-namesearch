@@ -69127,6 +69127,7 @@
 "Focus de vague verre-de-mer",103844
 "Mécanisme de bélier de feu",103845
 "Éclat de la Syntri de Janthir à prix réduit",103846
+"Clé de démarrage d'arme légendaire : ensemble n° 10",103847
 "Extraction de convergence magnifique",103848
 "Tas de pièces recyclées de chariots à flèches",103851
 "Recette : coupon de Decima",103852
@@ -69237,6 +69238,7 @@
 "Aucune récompense",103986
 "Lance de la lune sanglante de sang",103987
 "Bottes légères kodans sylvestres",103988
+"Clé de démarrage d'arme légendaire : ensemble n° 10",103989
 "Apparence de masse de l'araignée d'albâtre",103990
 "Éclat de la Côte des basses terres à prix réduit",103991
 "Plan de baliste infinie",103993
@@ -70329,6 +70331,7 @@
 "Titre : compétiteur de l'Avancée",105338
 "Mini-bébé tortue noir et cyan",105340
 "Gilet d'illusionniste céleste de divinité",105341
+"Sac à dos de Mordy en peluche",105343
 "Arc long déchaîné",105345
 "Focus déchaîné",105348
 "Boîte d'apparences d'épaulières de taureau mortelles",105349
@@ -70453,6 +70456,7 @@
 "Piste 51 : Where Calamity Began",105521
 "Piste 12 : The Lowland Kodan",105524
 "Coffre du sénéchal",105525
+"Bident tribal nécrophage de rage",105527
 "Grande cache des Aruspices",105528
 "Piste 25 : Battle in Draconis Mons",105529
 "Girouette de navire",105530
@@ -70480,6 +70484,7 @@
 "Piste 22 : Courage and Regret",105565
 "Lopin de fougères d'île en éventail",105566
 "Piste 1 : End of Dragons",105567
+"Pique de Protecteur berserker",105568
 "Deltaplane ardent",105569
 "Piste 27 : Left to Fester",105570
 "Piste 6 : The Beast Emerges",105571
@@ -70540,6 +70545,7 @@
 "Relique de Castora",105652
 "Ancora Pax",105653
 "Piste 18 : Elegy of the Elders",105654
+"Apparence de robe d'érudit du littoral",105656
 "Coffre d'arme enchantée des aruspices",105657
 "Piste 16 : To Fell a King",105660
 "Javelot en bronze berserker",105661
@@ -70549,6 +70555,7 @@
 "Piste 6 : Roar of the Delta",105671
 "Piste 58 : A World Without You",105672
 "Bottes intermédiaires extremis",105674
+"Javelot de Pacificateur berserker",105675
 "Morceau d'aqua-respirateur",105676
 "Piste 19 : Mortals Are Little Flames",105677
 "Poisson-lune illustre",105678
@@ -70613,6 +70620,7 @@
 "Piste 11 : Auric Wilds",105768
 "Infusion de vie marine éthérée",105769
 "Piste 21 : Thick Dark Water",105770
+"Mini-crabe danseur",105772
 "Piste 34 : Dirge of the Father King",105774
 "Piste 7 : Elona Reach",105777
 "Apparence de torche de calligraphe",105778
@@ -70675,6 +70683,7 @@
 "Piste 27 : March of the Awakened",105868
 "",105869
 "Dague enchantée des aruspices",105870
+"Apparence de bracelets d'érudit du littoral",105871
 "Piste 9 : This Mountain Before Us",105873
 "Jambières lourdes d'agent de terrain de l'alliance",105874
 "Don de perspicacité",105875
@@ -70713,6 +70722,7 @@
 "Coin de poutre en bois (30 x 240 x 30)",105932
 "Plaque de mécène des arts magiques",105933
 "Piste 19 : Mortals Are Little Flames",105934
+"Glaive orrien de rage",105936
 "Objet de dos de chrysalide désactivée",105937
 "Fougère d'île (mélange)",105938
 "Bottes lourdes de capitaine fébrile",105939
@@ -70940,12 +70950,14 @@
 "Piste 4 : Army of the War God",106307
 "Lance honorifique des Veilleurs",106310
 "Piste 13 : Highland Hares",106311
+"Hallebarde de perles berserker",106312
 "Empaleur héroïque de sang de dragon",106315
 "Piste 14 : Malaise",106316
 "Coque de galion (poupe)",106317
 "Apparence de heaume à plumes de l'Enqueste",106319
 "Note de Wiley",106323
 "Grand prix des Arches scintillantes : bronze",106325
+"Apparence d'écharpe d'érudit du littoral",106326
 "Piste 12 : Golden Heights",106327
 "Jambières lourdes de capitaine fébrile",106330
 "Piste 41 : Kestrel's Watch",106332
@@ -70961,6 +70973,7 @@
 "Cache bonus",106343
 "Grand prix des Arches scintillantes : argent",106346
 "Piste 29 : Bava Nisos",106348
+"Glaive verdoyant berserker",106349
 "Piste 12 : These Ancient Halls",106352
 "Relique du vaurien",106355
 "Tonique inépuisable de crabe tropical",106357
@@ -71196,6 +71209,7 @@
 "Boîte au trésor des flibustiers de Castora",106720
 "Piste 2 : Mist Connections",106724
 "Brasero suspendu",106725
+"\"Fourchette\" de pirate berserker",106726
 "Infusion de vie marine éthérée",106727
 "Trésor étherlocalisé rare",106729
 "Piste 51 : Where Calamity Began",106731
@@ -71305,3 +71319,174 @@
 "Apparence de voldécume de l'Enqueste",106895
 "Apparence de raptor de l'Enqueste",106896
 "Recette de peluche amicale de renard du Lion noir",106897
+"Apparence d'arc long à carapace toxique",106899
+"Lanterne du Cheval chanceux",106903
+"Apparence de gants de l'Enqueste spinescente",106904
+"Recette : statue du Cheval",106905
+"Coffre de combat de raid de l'Épopée du givre",106909
+"Apparence d'arc long de peintre brillant",106911
+"Apparence de lance de peintre brillant",106912
+"Relique des chaînes",106916
+"Relique de la bête nautique",106920
+"Piquet cœur-de-corail",106924
+"Apparence de dague à carapace toxique",106925
+"Recette : plate-forme largos",106926
+"Miniature de Matthias Gabrel",106927
+"Recette : clôture d'étable",106928
+"Recette : Mordy en peluche",106929
+"Fusil de feu d'artifice céleste",106930
+"Boîte du sorcier de matériaux d'artisanat",106933
+"Malle magnifique de Decima",106934
+"Malle magnifiques de Mai Trin",106935
+"Malle magnifique d'Ura",106938
+"Statue du Blanc-Manteau",106939
+"Focus de feu d'artifice céleste",106945
+"Apparence de pistolet à carapace toxique",106948
+"Bouclier de feu d'artifice céleste",106953
+"Malle d'Ankka",106954
+"Arc court de feu d'artifice céleste",106955
+"Malle du Vide",106956
+"Coffre de relique de base",106957
+"Licence de quête de Corail de Castora",106959
+"Arc long de feu d'artifice céleste",106960
+"Déverrouillage d'atelier de chasseur",106961
+"Chausses à sabot céleste",106962
+"Déverrouillage d'atelier de tailleur",106963
+"Ensemble de cape de feuillage tropical",106964
+"Chausses à sabot céleste",106966
+"Déverrouillage d'atelier de travailleur du cuir",106972
+"Don des gemmes infusées",106975
+"Apparence de fusil de peintre brillant",106978
+"Preuve d'achèvement du Passage de la rédemption",106980
+"Recette : statue dorée du Cheval",106981
+"Élixir de maîtrise de \"Janthir Wilds\"",106982
+"Lance de feu d'artifice",106987
+"Statue de Deimos",106990
+"Coffre de lanterne de marchand",106991
+"Extension de modèle de style",106996
+"Pilier cœur-de-corail",106998
+"Malle magnifiques d'Ankka",106999
+"Recette : enclos d'étable",107000
+"Conteneur d'écrit supérieur",107002
+"Chaise de virevolte",107003
+"Plante de jungle",107004
+"Apparence de masse à carapace toxique",107005
+"Apparence de focus à carapace toxique",107006
+"Éclat de Zintl",107007
+"Apparence de sceptre à carapace toxique",107011
+"Éclat de Zintl",107012
+"Apparence d'épée de peintre brillant",107013
+"Apparence de fusil à carapace toxique",107015
+"Recette : tablette de résurrection",107017
+"Deltaplane de virevolte",107018
+"Cache de raid en session rapide hebdomadaire",107019
+"Déverrouillage d'atelier de bijoutier",107020
+"Lance de feu d'artifice céleste",107021
+"Apparence de bâton de peintre brillant",107024
+"Déverrouillage d'atelier de cuisine",107025
+"Recette : tour aliénante",107027
+"Bûche de jungle",107029
+"Relique du brouillard",107030
+"Élixir de maîtrise de \"Secrets of the Obscure\"",107031
+"Apparence d'épée à carapace toxique",107036
+"Apparence de hache de peintre brillant",107038
+"Conteneur de relique : ensemble de Visions of Eternity n° 2",107039
+"Don des rais",107040
+"Recette : canapé du désert élégant",107042
+"Recette : gâteau de riz du Nouvel an",107043
+"Apprêt utilitaire infini",107044
+"Tourelle du Blanc-Manteau",107047
+"Statue dorée du Cheval",107049
+"Apparence de dague de peintre brillant",107050
+"Pilier du Gambit de forgeconte",107051
+"Apparence de grèves de l'Enqueste spinescente",107052
+"Recette : éclat de Decima",107053
+"Apparence d'arc court de peintre brillant",107057
+"Vitrail",107059
+"Relique du cœur corallien",107061
+"Torche de feu d'artifice céleste",107062
+"Élixir de maîtrise de \"Visions of Eternity\"",107063
+"Figurine du Cheval dorée",107066
+"Malle de Mai Trin",107067
+"Cor de guerre de feu d'artifice céleste",107069
+"Pack de virevolte",107071
+"Épée de feu d'artifice céleste",107072
+"Steaks de libellule",107076
+"Feu d'artifice à l'effigie du grand Cheval",107078
+"Apparence de bouclier à carapace toxique",107081
+"Recette : main gauche d'élémentaire de terre",107085
+"Espadon de feu d'artifice céleste",107086
+"Preuve d'achèvement de la Vallée des esprits",107089
+"Apparence d'arc court à carapace toxique",107091
+"Apparence de masse de peintre brillant",107094
+"Grimoire d'emote \"/dansejoyeuse\"",107095
+"Déverrouillage de forge mystique",107096
+"Sceptre de feu d'artifice céleste",107097
+"Pylône du gardien de la Vallée",107100
+"Gâteau de riz du Nouvel an",107101
+"Recette : pilier du Gambit de forgeconte",107105
+"Coffre de matériaux de la saison 4",107106
+"Apparence de sceptre de peintre brillant",107107
+"Apparence de marteau à carapace toxique",107110
+"Apparence de pistolet de peintre brillant",107112
+"Preuve d'achèvement du Bastion du pénitent",107113
+"Malle de Cérus",107114
+"Apparence d'espadon à carapace toxique",107117
+"Apparence de focus de peintre brillant",107121
+"Recette : porte de Samarog",107122
+"Apparence de cor de guerre à carapace toxique",107123
+"Relique du forestier",107124
+"Recette : pylône du gardien de la Vallée",107125
+"Hache de feu d'artifice céleste",107126
+"Masse de feu d'artifice céleste",107127
+"Coffre magnifique des chevaliers d'assaut",107132
+"Plate-forme largos",107133
+"Marteau de feu d'artifice céleste",107134
+"Don du Soleil",107136
+"Cache glorieuse de pillard",107137
+"Apprêt métabolique infini",107139
+"Apparence de heaume de l'Enqueste spinescente",107140
+"Apparence de torche à carapace toxique",107143
+"Enclos d'étable",107144
+"Recette : champignon bleu de Paressor",107150
+"Apparence de bouclier de peintre brillant",107151
+"Miniature du mangeur d'âmes",107152
+"Apparence de lance à carapace toxique",107153
+"Apparence de cor de guerre de peintre brillant",107154
+"Pistolet de feu d'artifice céleste",107156
+"Recette : statue de Deimos",107158
+"Apparence de torche de peintre brillant",107163
+"Catalyseur d'éclat de magnétite",107164
+"Apparence de hache à carapace toxique",107165
+"Recette : tourelle du Blanc-Manteau",107166
+"Malle magnifique de Greer",107171
+"Chausses à sabot céleste",107172
+"Recette : vitrail",107173
+"Recette : main droite d'élémentaire de terre",107175
+"Échange d'éclats de magnétite portable d'expertise de raid",107176
+"Canapé du désert",107179
+"Recette : canapé du désert",107181
+"Mini-Calebasse-cheval",107187
+"Apparence de bâton à carapace toxique",107189
+"Recette : statue du Blanc-Manteau",107190
+"Relique de l'alliance",107192
+"Apparence d'espadon de peintre brillant",107198
+"Recette : bannière de la cachette des Étherlames",107199
+"Boîte de chausses à sabot",107200
+"Don de la plage",107201
+"Déverrouillage d'atelier de forgeron d'armures",107206
+"Buisson de jungle",107207
+"Coffre de feu d'artifice céleste",107209
+"Apparence de marteau de peintre brillant",107212
+"Apparence de cape de feuillage tropical",107214
+"Déverrouillage d'atelier de forgeron d'armes",107215
+"Apparence d'épaulières de feuillage tropical",107216
+"Note de l'Enqueste récupérée",107218
+"Déverrouillage d'atelier d'artificier",107219
+"Boîte de sélection à carapace toxique",107221
+"Lanterne du grand Cheval chanceux",107222
+"Dague de feu d'artifice céleste",107226
+"Bâton de feu d'artifice céleste",107228
+"Recette : pylône de Qadim",107231
+"Recette : torche de Dhuum",107233
+"Mordy en peluche",107234

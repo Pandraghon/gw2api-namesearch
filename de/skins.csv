@@ -9870,6 +9870,7 @@
 "\"Wachsamer Arzt\"-Maske",13254
 "Plüsch-Zhaia-Rucksack",13255
 "Angeketteter Speer",13256
+"Plüsch-Mordy-Rucksack",13257
 "Entfesselter Langbogen",13258
 "Entfesselter Kurzbogen",13259
 "Hose des Verrückten Hofnarren",13260
@@ -9887,6 +9888,7 @@
 "Mittlere Extremis-Kapuze",13281
 "Hut des Gelehrten von der Küste",13283
 "Perlmuschel-Hammer",13284
+"Armbänder des Gelehrten von der Küste",13285
 "Großschwert des Schnellen Erbauers",13286
 "\"Emergente Metamorphose\"-Rückenteil",13287
 "Sonnenbrille des Gelehrten von der Küste",13289
@@ -9901,6 +9903,7 @@
 "\"Strelitzia crystallinum\"-Dolch",13303
 "Leichter Überwurf des Allianz-Feldagenten",13305
 "Ancora Bellum",13306
+"Roben des Gelehrten von der Küste",13307
 "Langbogen des Schnellen Erbauers",13312
 "Shorts des Gelehrten von der Küste",13314
 "Geladener Sturmrufer-Speer",13315
@@ -9924,18 +9927,21 @@
 "Selachimorpha",13349
 "Agaleus",13351
 "Zepter des Schnellen Erbauers",13353
+"Grasgrüne Glefe",13354
 "\"Strelitzia crystallinum\"-Fackel",13355
 "Perlmuschel-Langbogen",13356
 "Gefiedertes Inquestur-Beinkleid",13359
 "Historische Glefe der Abtei",13361
 "Mittlere Jacke des Allianz-Feldagenten",13362
 "Schild des Kalligraphen",13363
+"Perlen-Hellebarde",13364
 "Gefiederte Inquestur-Brustplatte",13365
 "\"Strelitzia crystallinum\"-Langbogen",13368
 "Schwere Jacke des Allianz-Feldagenten",13369
 "Mittleres Extremis-Beinkleid",13370
 "Agaleus",13371
 "Schwerer Sturmhelm des Allianz-Feldagenten",13372
+"Orrianische Glefe",13373
 "Agaleus",13374
 "Sandalen des Gelehrten von der Küste",13377
 "Mittlerer Extremis-Überwurf",13378
@@ -9958,6 +9964,7 @@
 "Geschmiedeter Speer",13401
 "Perlmuschel-Fackel",13402
 "Gefiederter Inquestur-Überwurf",13405
+"Oberwächter-Pike",13406
 "Flammender Umhang",13407
 "Schwere Handschuhe des Ruhelosen Kapitäns",13408
 "Leichte Stiefel des Allianz-Feldagenten",13409
@@ -9978,8 +9985,10 @@
 "Schweres Wams des Ruhelosen Kapitäns",13431
 "Selachimorpha",13432
 "Gefiederter Inquestur-Helm",13434
+"Tanktop des Gelehrten von der Küste",13436
 "Luxon-Jäger-Speer",13438
 "Sturmrufer-Speer",13441
+"Schärpe des Gelehrten von der Küste",13442
 "Mittleres Extremis-Wams",13443
 "Dolch des Schnellen Erbauers",13445
 "Turm der Vergessenen",13446
@@ -10003,6 +10012,7 @@
 "Gefiederte Inquestur-Brustplatte",13476
 "Leichtes Extremis-Beinkleid",13478
 "Perlmuschel-Zepter",13479
+"Tanktop des Gelehrten von der Küste",13480
 "Leichtes Wams des Ruhelosen Kapitäns",13481
 "Zepter des Kalligraphen",13482
 "\"Strelitzia crystallinum\"-Gewehr",13485
@@ -10024,14 +10034,17 @@
 "Perlmuschel-Stab",13516
 "Großschwert des Kalligraphen",13518
 "Leichtes Extremis-Wams",13520
+"Stammes-Zweizack",13526
 "Seherverzauberter Kurzbogen",13527
 "Axt des Kalligraphen",13529
+"Schärpe des Gelehrten von der Küste",13530
 "Shorts des Gelehrten von der Küste",13531
 "Gefiederter Inquestur-Helm",13532
 "Fackel des Schnellen Erbauers",13533
 "Fackel des Kalligraphen",13534
 "Perlmuschel-Axt",13535
 "Mittlere Handschuhe des Allianz-Feldagenten",13539
+"Roben des Gelehrten von der Küste",13540
 "Chromatische Doppelharfe",13546
 "Rucksack der Brillanz des Malers",13548
 "\"Strelitzia crystallinum\"-Großschwert",13549
@@ -10043,11 +10056,15 @@
 "Leichter Überwurf des Ruhelosen Kapitäns",13557
 "Schwere Handschuhe des Ruhelosen Kapitäns",13558
 "Seherverzaubertes Großschwert",13559
+"Roben des Gelehrten von der Küste",13561
+"Schärpe des Gelehrten von der Küste",13562
+"Armbänder des Gelehrten von der Küste",13564
 "Speer des Schnellen Erbauers",13565
 "Seherverzauberter Speer",13566
 "Schwere Extremis-Kapuze",13568
 "Dunkelstahl-Wurfspeer",13569
 "Gefiedertes Inquestur-Beinkleid",13570
+"Piraten-\"Gabel\"",13571
 "Schwert des Kalligraphen",13573
 "Bronze-Wurfspeer",13574
 "Gewehr des Kalligraphen",13575
@@ -10061,14 +10078,17 @@
 "Hammerharts Schwert",13597
 "Mittlerer Überwurf des Allianz-Feldagenten",13600
 "Schwere Extremis-Stiefel",13601
+"Tanktop des Gelehrten von der Küste",13602
 "Leichte Handschuhe des Ruhelosen Kapitäns",13603
 "Mittlere Stiefel des Ruhelosen Kapitäns",13605
 "Pistole des Schnellen Erbauers",13606
 "Agaleus",13608
 "Shorts des Gelehrten von der Küste",13610
+"Armbänder des Gelehrten von der Küste",13613
 "Leichte Jacke des Allianz-Feldagenten",13615
 "Selachimorpha",13617
 "Sandalen des Gelehrten von der Küste",13618
+"Friedensstifter-Wurfspeer",13619
 "Perlmuschel-Speer",13620
 "Hut des Gelehrten von der Küste",13621
 "Helden-Drachenblut-Pfähler",13622
@@ -10127,3 +10147,68 @@
 "Skin für Vermillion-Stab",13681
 "Klassische Leder-Stiefel",13682
 "Klassische Leder-Stiefel",13683
+"Feuerwerks-Kriegshorn des Himmlischen",13684
+"Toxinmuschel-Dolch",13685
+"Toxinmuschel-Langbogen",13687
+"Zepter der Brillanz des Malers",13688
+"Schwert der Brillanz des Malers",13690
+"Huf-Schuhe",13691
+"Toxinmuschel-Schwert",13696
+"Tropenlaub-Schultern",13697
+"Inquestur-Stachelhandschuhe",13702
+"Feuerwerks-Axt des Himmlischen",13704
+"Huf-Schuhe",13705
+"Toxinmuschel-Speer",13706
+"Stab der Brillanz des Malers",13707
+"Feuerwerks-Pistole des Himmlischen",13708
+"Feuerwerks-Großschwert des Himmlischen",13709
+"Inquestur-Stachelhandschuhe",13711
+"Schild der Brillanz des Malers",13712
+"Toxinmuschel-Pistole",13713
+"Inquestur-Stachelbeinschienen",13714
+"Kriegshorn der Brillanz des Malers",13717
+"Feuerwerks-Schwert des Himmlischen",13718
+"Toxinmuschel-Kurzbogen",13720
+"Huf-Schuhe",13724
+"Glückslaterne des Riesenpferdes",13725
+"Axt der Brillanz des Malers",13726
+"Toxinmuschel-Großschwert",13728
+"Glückslaterne des Pferdes",13729
+"Toxinmuschel-Hammer",13732
+"Pistole der Brillanz des Malers",13735
+"Tropenlaub-Schultern",13736
+"Toxinmuschel-Fackel",13737
+"Feuerwerks-Dolch des Himmlischen",13739
+"Tropenlaub-Schultern",13740
+"Großschwert der Brillanz des Malers",13741
+"Toxinmuschel-Schild",13742
+"Langbogen der Brillanz des Malers",13744
+"Feuerwerks-Gewehr des Himmlischen",13745
+"Feuerwerks-Langbogen des Himmlischen",13746
+"Toxinmuschel-Kriegshorn",13748
+"Feuerwerks-Stab des Himmlischen",13749
+"Toxinmuschel-Gewehr",13750
+"Toxinmuschel-Streitkolben",13751
+"Speer der Brillanz des Malers",13752
+"Dolch der Brillanz des Malers",13753
+"Toxinmuschel-Axt",13758
+"Inquestur-Stachelhandschuhe",13759
+"Inquestur-Stachelhelm",13760
+"Feuerwerks-Hammer des Himmlischen",13761
+"Hammer der Brillanz des Malers",13764
+"Feuerwerks-Speer",13766
+"Inquestur-Stachelhelm",13768
+"Fackel der Brillanz des Malers",13769
+"Feuerwerks-Speer des Himmlischen",13772
+"Feuerwerks-Schild des Himmlischen",13773
+"Inquestur-Stachelhelm",13775
+"Toxinmuschel-Stab",13776
+"Streitkolben der Brillanz des Malers",13777
+"Toxinmuschel-Zepter",13778
+"Inquestur-Stachelbeinschienen",13780
+"Fokus der Brillanz des Malers",13781
+"Inquestur-Stachelbeinschienen",13782
+"Gewehr der Brillanz des Malers",13784
+"Toxinmuschel-Fokus",13786
+"Kurzbogen der Brillanz des Malers",13787
+"Tropenlaub-Umhang",13788

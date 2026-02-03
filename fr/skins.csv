@@ -9870,6 +9870,7 @@
 "Masque de médecin vigilant",13254
 "Sac à dos de Zhaïa en peluche",13255
 "Lance enchaînée",13256
+"Sac à dos de Mordy en peluche",13257
 "Arc long déchaîné",13258
 "Arc court déchaîné",13259
 "Pantalon de bouffon lunatique",13260
@@ -9887,6 +9888,7 @@
 "Capuchon intermédiaire extremis",13281
 "Chapeau d'érudit du littoral",13283
 "Marteau de nacre",13284
+"Bracelets d'érudit du littoral",13285
 "Espadon de constructeur véloce",13286
 "Objet de dos de métamorphose émergente",13287
 "Lunettes de soleil d'érudit du littoral",13289
@@ -9901,6 +9903,7 @@
 "Dague de Strelitzia Crystallinum",13303
 "Houppelande légère d'agent de terrain de l'alliance",13305
 "Ancora Bellum",13306
+"Robe d'érudit du littoral",13307
 "Arc long de constructeur véloce",13312
 "Bermuda d'érudit du littoral",13314
 "Lance d'Invoque-tempête chargé",13315
@@ -9924,18 +9927,21 @@
 "Sélachimorphe",13349
 "Agaleus",13351
 "Sceptre de constructeur véloce",13353
+"Glaive verdoyant",13354
 "Torche de Strelitzia Crystallinum",13355
 "Arc long de nacre",13356
 "Jambières à plumes de l'Enqueste",13359
 "Glaive historique du Prieuré",13361
 "Veste intermédiaire d'agent de terrain de l'alliance",13362
 "Bouclier de calligraphe",13363
+"Hallebarde de perles",13364
 "Harnois à plumes de l'Enqueste",13365
 "Arc long de Strelitzia Crystallinum",13368
 "Veste lourde d'agent de terrain de l'alliance",13369
 "Jambières intermédiaires extremis",13370
 "Agaleus",13371
 "Casque lourd d'agent de terrain de l'alliance",13372
+"Glaive orrien",13373
 "Agaleus",13374
 "Sandales d'érudit du littoral",13377
 "Houppelande intermédiaire extremis",13378
@@ -9958,6 +9964,7 @@
 "Lance forgée",13401
 "Torche de nacre",13402
 "Houppelande à plumes de l'Enqueste",13405
+"Pique de Protecteur",13406
 "Cape ardente",13407
 "Bottes lourdes de capitaine fébrile",13408
 "Bottes légères d'agent de terrain de l'alliance",13409
@@ -9978,8 +9985,10 @@
 "Manteau lourd de capitaine fébrile",13431
 "Sélachimorphe",13432
 "Heaume à plumes de l'Enqueste",13434
+"Débardeur d'érudit du littoral",13436
 "Lance de chasseur luxon",13438
 "Lance d'Invoque-tempête",13441
+"Écharpe d'érudit du littoral",13442
 "Manteau intermédiaire extremis",13443
 "Dague de constructeur véloce",13445
 "Aiguillon des Oubliés",13446
@@ -10003,6 +10012,7 @@
 "Harnois à plumes de l'Enqueste",13476
 "Jambières légères extremis",13478
 "Sceptre de nacre",13479
+"Débardeur d'érudit du littoral",13480
 "Manteau léger de capitaine fébrile",13481
 "Sceptre de calligraphe",13482
 "Fusil de Strelitzia Crystallinum",13485
@@ -10024,14 +10034,17 @@
 "Bâton de nacre",13516
 "Espadon de calligraphe",13518
 "Manteau léger extremis",13520
+"Bident tribal",13526
 "Arc court enchanté des aruspices",13527
 "Hache de calligraphe",13529
+"Écharpe d'érudit du littoral",13530
 "Bermuda d'érudit du littoral",13531
 "Heaume à plumes de l'Enqueste",13532
 "Torche de constructeur véloce",13533
 "Torche de calligraphe",13534
 "Hache de nacre",13535
 "Gants intermédiaires d'agent de terrain de l'alliance",13539
+"Robe d'érudit du littoral",13540
 "Double harpe chromatique",13546
 "Sac à dos de peintre brillant",13548
 "Espadon de Strelitzia Crystallinum",13549
@@ -10043,11 +10056,15 @@
 "Houppelande légère de capitaine fébrile",13557
 "Gants lourds de capitaine fébrile",13558
 "Espadon enchanté des aruspices",13559
+"Robe d'érudit du littoral",13561
+"Écharpe d'érudit du littoral",13562
+"Bracelets d'érudit du littoral",13564
 "Lance de constructeur véloce",13565
 "Lance enchantée des aruspices",13566
 "Capuchon lourd extremis",13568
 "Javelot en acier sombre",13569
 "Jambières à plumes de l'Enqueste",13570
+"\"Fourchette\" de pirate",13571
 "Épée de calligraphe",13573
 "Javelot en bronze",13574
 "Fusil de calligraphe",13575
@@ -10061,14 +10078,17 @@
 "Épée de Cerf-marteau",13597
 "Houppelande intermédiaire d'agent de terrain de l'alliance",13600
 "Bottes lourdes extremis",13601
+"Débardeur d'érudit du littoral",13602
 "Gants légers de capitaine fébrile",13603
 "Bottes intermédiaires de capitaine fébrile",13605
 "Pistolet de constructeur véloce",13606
 "Agaleus",13608
 "Bermuda d'érudit du littoral",13610
+"Bracelets d'érudit du littoral",13613
 "Veste légère d'agent de terrain de l'alliance",13615
 "Sélachimorphe",13617
 "Sandales d'érudit du littoral",13618
+"Javelot de Pacificateur",13619
 "Lance de nacre",13620
 "Chapeau d'érudit du littoral",13621
 "Empaleur héroïque de sang de dragon",13622
@@ -10127,3 +10147,72 @@
 "Apparence de bâton vermillon",13681
 "Bottes de cuir classiques",13682
 "Bottes de cuir classiques",13683
+"Cor de guerre de feu d'artifice céleste",13684
+"Dague à carapace toxique",13685
+"Arc long à carapace toxique",13687
+"Sceptre de peintre brillant",13688
+"Épée de peintre brillant",13690
+"Chausses à sabot",13691
+"Épée à carapace toxique",13696
+"Épaulières de feuillage tropical",13697
+"Gants de l'Enqueste spinescente",13702
+"Hache de feu d'artifice céleste",13704
+"Chausses à sabot",13705
+"Lance à carapace toxique",13706
+"Bâton de peintre brillant",13707
+"Pistolet de feu d'artifice céleste",13708
+"Espadon de feu d'artifice céleste",13709
+"Gants de l'Enqueste spinescente",13711
+"Bouclier de peintre brillant",13712
+"Pistolet à carapace toxique",13713
+"Grèves de l'Enqueste spinescente",13714
+"Cor de guerre de peintre brillant",13717
+"Épée de feu d'artifice céleste",13718
+"Sceptre de feu d'artifice céleste",13719
+"Arc court à carapace toxique",13720
+"Chausses à sabot",13724
+"Lanterne du grand Cheval chanceux",13725
+"Hache de peintre brillant",13726
+"Espadon à carapace toxique",13728
+"Lanterne du Cheval chanceux",13729
+"Marteau à carapace toxique",13732
+"Focus de feu d'artifice céleste",13734
+"Pistolet de peintre brillant",13735
+"Épaulières de feuillage tropical",13736
+"Torche à carapace toxique",13737
+"Dague de feu d'artifice céleste",13739
+"Épaulières de feuillage tropical",13740
+"Espadon de peintre brillant",13741
+"Bouclier à carapace toxique",13742
+"Arc long de peintre brillant",13744
+"Fusil de feu d'artifice céleste",13745
+"Arc long de feu d'artifice céleste",13746
+"Torche de feu d'artifice céleste",13747
+"Cor de guerre à carapace toxique",13748
+"Bâton de feu d'artifice céleste",13749
+"Fusil à carapace toxique",13750
+"Masse à carapace toxique",13751
+"Lance de peintre brillant",13752
+"Dague de peintre brillant",13753
+"Hache à carapace toxique",13758
+"Gants de l'Enqueste spinescente",13759
+"Heaume de l'Enqueste spinescente",13760
+"Marteau de feu d'artifice céleste",13761
+"Marteau de peintre brillant",13764
+"Lance de feu d'artifice",13766
+"Heaume de l'Enqueste spinescente",13768
+"Torche de peintre brillant",13769
+"Lance de feu d'artifice céleste",13772
+"Bouclier de feu d'artifice céleste",13773
+"Heaume de l'Enqueste spinescente",13775
+"Bâton à carapace toxique",13776
+"Masse de peintre brillant",13777
+"Sceptre à carapace toxique",13778
+"Grèves de l'Enqueste spinescente",13780
+"Focus de peintre brillant",13781
+"Grèves de l'Enqueste spinescente",13782
+"Fusil de peintre brillant",13784
+"Masse de feu d'artifice céleste",13785
+"Focus à carapace toxique",13786
+"Arc court de peintre brillant",13787
+"Cape de feuillage tropical",13788

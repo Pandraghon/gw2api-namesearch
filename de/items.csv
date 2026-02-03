@@ -69127,6 +69127,7 @@
 "Seeglas-Wellen-Fokus",103844
 "Flammenbock-Mechanismus",103845
 "Herabgesetzte Scherbe von Janthir Syntri",103846
+"Legendäre Waffe: Starter-Schlüssel – Set 10",103847
 "Großartige Konvergenz-Extraktion",103848
 "Haufen von wiederverwerteten Pfeilwagen",103851
 "Rezept: Decimas Marke",103852
@@ -69237,6 +69238,7 @@
 "Keine Belohnung",103986
 "Blutmond-Speer des Blutes",103987
 "Leichte Waldkodan-Stiefel",103988
+"Legendäre Waffe: Starter-Schlüssel – Set 10",103989
 "Skin für Alabasterspinnen-Streitkolben",103990
 "Herabgesetzte Scherbe der Tiefland-Küste",103991
 "Blaupause für Unendliche Balliste",103993
@@ -70329,6 +70331,7 @@
 "Titel: Vorstoß-Wettkämpfer",105338
 "Schwarz-türkises Mini Schildkröten-Jungtier",105340
 "Himmlische Trickster-Weste der Göttlichkeit",105341
+"Plüsch-Mordy-Rucksack",105343
 "Entfesselter Langbogen",105345
 "Entfesselter Fokus",105348
 "Skins für tödliche Bullen-Schultern",105349
@@ -70453,6 +70456,7 @@
 "Track 51: Wo das Verhängnis seinen Lauf nahm",105521
 "Track 12: Die Tiefland-Kodan",105524
 "Truhe des Seneschalls",105525
+"Faulender Stammes-Zweizack der Rage",105527
 "Großes Seher-Lager",105528
 "Track 25: Schlacht von Draconis Mons",105529
 "Schiffsmühle",105530
@@ -70480,6 +70484,7 @@
 "Track 22: Mut und Bedauern",105565
 "\"Gefächerter Inselfarn\"-Beet",105566
 "Track 1: End of Dragons",105567
+"Berserkerhafter Oberwächter-Pike",105568
 "Flammender Gleitschirm",105569
 "Track 27: Gären und schwären",105570
 "Track 6: Die Bestie taucht auf",105571
@@ -70540,6 +70545,7 @@
 "Relikt von Castora",105652
 "Ancora Pax",105653
 "Track 18: Elegie der Ältesten",105654
+"Skin für Roben des Gelehrten von der Küste",105656
 "Truhe mit Seherverzauberten Waffen",105657
 "Track 16: Einen König stürzen",105660
 "Berserkerhafter Bronze-Wurfspeer",105661
@@ -70549,6 +70555,7 @@
 "Track 6: Donner des Deltas",105671
 "Track 58: Eine Welt ohne dich",105672
 "Mittlere Extremis-Stiefel",105674
+"Berserkerhafter Friedensstifter-Wurfspeer",105675
 "Aqua-Atmer-Teil",105676
 "Track 19: Sterbliche sind kleine Flammen",105677
 "Glänzender Opah",105678
@@ -70613,6 +70620,7 @@
 "Track 11: Güldene Wildnis",105768
 "\"Ätherische Meereswesen\"-Infusion",105769
 "Track 21: Dickes dunkles Wasser",105770
+"Mini Tanzender Krebs",105772
 "Track 34: Klagelied des Königsvaters",105774
 "Track 7: Elonaspitze",105777
 "Skin für Fackel des Kalligraphen",105778
@@ -70675,6 +70683,7 @@
 "Track 27: Marsch der Erweckten",105868
 "",105869
 "Seherverzauberter Dolch",105870
+"Skin für Armbänder des Gelehrten von der Küste",105871
 "Track 9: Dieser Berg vor uns",105873
 "Schweres Beinkleid des Allianz-Feldagenten",105874
 "Gabe der Einsicht",105875
@@ -70713,6 +70722,7 @@
 "Holzbalken-Ecke (30 x 240 x 30)",105932
 "\"Patron der magischen Künste\"-Gedenktafel",105933
 "Track 19: Sterbliche sind kleine Flammen",105934
+"Orrianische Glefe der Rage",105936
 "Deaktiviertes Chrysalis-Rückenteil",105937
 "Inselfarn (diverse)",105938
 "Schwere Handschuhe des Ruhelosen Kapitäns",105939
@@ -70940,12 +70950,14 @@
 "Track 4: Armee des Kriegsgottes",106307
 "Wachsamen-Ehren-Speer",106310
 "Track 13: Hochlandhasen",106311
+"Berserkerhafter Perlen-Hellebarde",106312
 "Helden-Drachenblut-Pfähler",106315
 "Track 14: Malaise",106316
 "Galeonenrumpf (Heck)",106317
 "Skin für Gefiederter Inquestur-Helm",106319
 "Wileys Notiz",106323
 "Großer Preis von Schimmerbogen: Bronze",106325
+"Skin für Schärpe des Gelehrten von der Küste",106326
 "Track 12: Goldene Höhen",106327
 "Schweres Beinkleid des Ruhelosen Kapitäns",106330
 "Track 41: Wache des Falken",106332
@@ -70961,6 +70973,7 @@
 "Bonus-Lager",106343
 "Großer Preis von Schimmerbogen: Silber",106346
 "Track 29: Bava Nisos",106348
+"Berserkerhafter Grasgrüne Glefe",106349
 "Track 12: Diese uralten Hallen",106352
 "Relikt des Gauners",106355
 "Endloser \"Tropischer Krebs\"-Trank",106357
@@ -71196,6 +71209,7 @@
 "Castoranisches Freibeuter-Schatzkästchen",106720
 "Track 2: Verloren im Nebel",106724
 "Hängende Flammenschale",106725
+"Berserkerhafter Piraten-\"Gabel\"",106726
 "\"Ätherische Meereswesen\"-Infusion",106727
 "Seltener Äthersuche-Schatz",106729
 "Track 51: Wo das Verhängnis seinen Lauf nahm",106731
@@ -71305,3 +71319,174 @@
 "Skin für Inquestur-Schweberochen",106895
 "Skin für Inquestur-Raptor",106896
 "Rezept für Schwarzlöwen-Fuchs-Plüschgefährte",106897
+"Skin für Toxinmuschel-Langbogen",106899
+"Glückslaterne des Pferdes",106903
+"Skin für Inquestur-Stachelhandschuhe",106904
+"Rezept: Pferdestatue",106905
+"\"Eisbrut-Saga\"-Schlachtzugbegegnungs-Kiste",106909
+"Skin für Langbogen der Brillanz des Malers",106911
+"Skin für Speer der Brillanz des Malers",106912
+"Relikt von Fußfesseln",106916
+"Relikt des Nautischen Untiers",106920
+"Korallenherz-Pfahl",106924
+"Skin für Toxinmuschel-Dolch",106925
+"Rezept: Largos-Plattform",106926
+"Mini Matthias Gabrel",106927
+"Rezept: Stallzaun",106928
+"Rezept: Mordy-Plüschtier",106929
+"Feuerwerks-Gewehr des Himmlischen",106930
+"Zauberer-Kasten der Handwerksmaterialien",106933
+"Decimas großartige Kiste",106934
+"Mai Trins großartige Kiste",106935
+"Uras großartige Kiste",106938
+"\"Weißer Mantel\"-Statue",106939
+"Feuerwerks-Fokus des Himmlischen",106945
+"Skin für Toxinmuschel-Pistole",106948
+"Feuerwerks-Schild des Himmlischen",106953
+"Ankkas Kiste",106954
+"Feuerwerks-Kurzbogen des Himmlischen",106955
+"Leere-Kiste",106956
+"Kernrelikt-Truhe",106957
+"Lizenz für die Aufgabe \"Castora-Korallen\"",106959
+"Feuerwerks-Langbogen des Himmlischen",106960
+"Waidmannstation freischalten",106961
+"Himmlischer Huf-Schuhe",106962
+"Schneiderstation freischalten",106963
+"Tropenlaub-Umhang-Set",106964
+"Himmlischer Huf-Schuhe",106966
+"Ledererstation freischalten",106972
+"Gabe der infundierten Edelsteine",106975
+"Skin für Gewehr der Brillanz des Malers",106978
+"Abschlussnachweis: Erlösungspass",106980
+"Rezept: Goldene Pferdestatue",106981
+"Elixier der \"Janthir Wilds\"-Beherrschung",106982
+"Feuerwerks-Speer",106987
+"Deimos-Statue",106990
+"Laternen-Truhe des Händlers",106991
+"Mode-Vorlagen-Erweiterung",106996
+"Korallenherz-Säule",106998
+"Ankkas großartige Kiste",106999
+"Rezept: Stallpferch",107000
+"Meisterhafter Schriftbehälter",107002
+"Tanzplattform-Stuhl",107003
+"Dschungel-Pflanze",107004
+"Skin für Toxinmuschel-Streitkolben",107005
+"Skin für Toxinmuschel-Fokus",107006
+"Scherbe des Zinti",107007
+"Skin für Toxinmuschel-Zepter",107011
+"Scherbe des Zinti",107012
+"Skin für Schwert der Brillanz des Malers",107013
+"Skin für Toxinmuschel-Gewehr",107015
+"Rezept: Wiederbelebungs-Tafel",107017
+"Tanzplattform-Gleitschirm",107018
+"Wöchentliches Schnellrunden-Schlachtzuglager",107019
+"Juwelierstation freischalten",107020
+"Feuerwerks-Speer des Himmlischen",107021
+"Skin für Stab der Brillanz des Malers",107024
+"Kochstation freischalten",107025
+"Rezept: Verrückt machender Turm",107027
+"Dschungel-Klotz",107029
+"Relikt des Nebels",107030
+"Elixier der \"Secrets of the Obscure\"-Beherrschung",107031
+"Skin für Toxinmuschel-Schwert",107036
+"Skin für Axt der Brillanz des Malers",107038
+"Behälter für \"Visions of Eternity\"-Relikt-Set 2",107039
+"Gabe der Strahlen",107040
+"Rezept: Ausgefallenes Wüsten-Sofa",107042
+"Rezept: Neujahrs-Reiskuchen",107043
+"Unendlicher Versorgungsstarter",107044
+"\"Weißer Mantel\"-Geschützturm",107047
+"Goldene Pferdestatue",107049
+"Skin für Dolch der Brillanz des Malers",107050
+"Mythenschreiber-Wagnis-Säule",107051
+"Skin für Inquestur-Stachelbeinschienen",107052
+"Rezept: Decima-Scherbe",107053
+"Skin für Kurzbogen der Brillanz des Malers",107057
+"Buntglas",107059
+"Relikt des Korallenherzens",107061
+"Feuerwerks-Fackel des Himmlischen",107062
+"Elixier der \"Visions of Eternity\"-Beherrschung",107063
+"Goldenes Pferdefigürchen",107066
+"Mai Trins Kiste",107067
+"Feuerwerks-Kriegshorn des Himmlischen",107069
+"Tanzplattform-Paket",107071
+"Feuerwerks-Schwert des Himmlischen",107072
+"Libellen-Steaks",107076
+"\"Antlitz des Riesenpferdes\"-Feuerwerk",107078
+"Skin für Toxinmuschel-Schild",107081
+"Rezept: Erd-Elementar, linke Hand",107085
+"Feuerwerks-Großschwert des Himmlischen",107086
+"Abschlussnachweis: Geistertal",107089
+"Skin für Toxinmuschel-Kurzbogen",107091
+"Skin für Streitkolben der Brillanz des Malers",107094
+"\"/FröhlicherTanz\"-Emote-Foliant",107095
+"Mystische Schmiede freischalten",107096
+"Feuerwerks-Zepter des Himmlischen",107097
+"Tal-Wächter-Pylon",107100
+"Neujahrs-Reiskuchen",107101
+"Rezept: Mythenschreiber-Wagnis-Säule",107105
+"Materialtruhe Staffel 4",107106
+"Skin für Zepter der Brillanz des Malers",107107
+"Skin für Toxinmuschel-Hammer",107110
+"Skin für Pistole der Brillanz des Malers",107112
+"Abschlussnachweis: Bastion der Bußfertigen",107113
+"Cerus' Kiste",107114
+"Skin für Toxinmuschel-Großschwert",107117
+"Skin für Fokus der Brillanz des Malers",107121
+"Rezept: Samarogs Tür",107122
+"Skin für Toxinmuschel-Kriegshorn",107123
+"Relikt des Waldbewohners",107124
+"Rezept: Tal-Wächter-Pylon",107125
+"Feuerwerks-Axt des Himmlischen",107126
+"Feuerwerks-Streitkolben des Himmlischen",107127
+"Wunderbare Kiste der Sturmritter",107132
+"Largos-Plattform",107133
+"Feuerwerks-Hammer des Himmlischen",107134
+"Gabe der Sonne",107136
+"Prächtiges Plünderer-Lager",107137
+"Unendlicher Stoffwechselstarter",107139
+"Skin für Inquestur-Stachelhelm",107140
+"Skin für Toxinmuschel-Fackel",107143
+"Stallpferch",107144
+"Rezept: Blauer Faultierion-Pilz",107150
+"Skin für Schild der Brillanz des Malers",107151
+"Mini Seelenverzehrer",107152
+"Skin für Toxinmuschel-Speer",107153
+"Skin für Kriegshorn der Brillanz des Malers",107154
+"Feuerwerks-Pistole des Himmlischen",107156
+"Rezept: Deimos-Statue",107158
+"Skin für Fackel der Brillanz des Malers",107163
+"Magnetitscherben-Katalysator",107164
+"Skin für Toxinmuschel-Axt",107165
+"Rezept: \"Weißer Mantel\"-Geschützturm",107166
+"Greers großartige Kiste",107171
+"Himmlischer Huf-Schuhe",107172
+"Rezept: Buntglas",107173
+"Rezept: Erd-Elementar, rechte Hand",107175
+"Mobile Magnetit-Scherben-Börse des Schlachtzug-Experten",107176
+"Wüsten-Sofa",107179
+"Rezept: Wüsten-Sofa",107181
+"Mini Pferde-Kürbiss",107187
+"Skin für Toxinmuschel-Stab",107189
+"Rezept: \"Weißer Mantel\"-Statue",107190
+"Relikt der Allianz",107192
+"Skin für Großschwert der Brillanz des Malers",107198
+"Rezept: Ätherklingen-Unterschlupf Banner",107199
+"Huf-Schuh-Kasten",107200
+"Gabe des Strandes",107201
+"Rüstungsschmiedstation freischalten",107206
+"Dschungel-Strauch",107207
+"Feuerwerks-Truhe des Himmlischen",107209
+"Skin für Hammer der Brillanz des Malers",107212
+"Skin für Tropenlaub-Umhang",107214
+"Waffenschmiedstation freischalten",107215
+"Skin für Tropenlaub-Schultern",107216
+"Geborgene Inquestur-Notiz",107218
+"Konstrukteursstation freischalten",107219
+"Toxinmuschel-Auswahlkiste",107221
+"Glückslaterne des Riesenpferdes",107222
+"Feuerwerks-Dolch des Himmlischen",107226
+"Feuerwerks-Stab des Himmlischen",107228
+"Rezept: Qadim-Pylon",107231
+"Rezept: Dhuums Fackel",107233
+"Mordy-Plüschtier",107234

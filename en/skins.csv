@@ -9870,6 +9870,7 @@
 "Vigilant Physician's Mask",13254
 "Plush Zhaia Backpack",13255
 "Chained Spear",13256
+"Plush Mordy Backpack",13257
 "Unchained Longbow",13258
 "Unchained Short Bow",13259
 "Lunatic Jester's Trousers",13260
@@ -9887,6 +9888,7 @@
 "Extremis Medium Hood",13281
 "Seaside Scholar's Hat",13283
 "Pearlshell Hammer",13284
+"Seaside Scholar's Bracelets",13285
 "Fast Constructor's Greatsword",13286
 "Emergent Metamorphosis Backpiece",13287
 "Seaside Scholar's Shades",13289
@@ -9901,6 +9903,7 @@
 "Strelitzia Crystallinum Dagger",13303
 "Alliance Field Operative's Light Mantle",13305
 "Ancora Bellum",13306
+"Seaside Scholar's Robes",13307
 "Fast Constructor's Longbow",13312
 "Seaside Scholar's Shorts",13314
 "Charged Stormcaller Spear",13315
@@ -9924,18 +9927,21 @@
 "Selachimorpha",13349
 "Agaleus",13351
 "Fast Constructor's Scepter",13353
+"Verdant Glaive",13354
 "Strelitzia Crystallinum Torch",13355
 "Pearlshell Longbow",13356
 "Feathered Inquest Leggings",13359
 "Priory's Historical Glaive",13361
 "Alliance Field Operative's Medium Jacket",13362
 "Calligrapher's Shield",13363
+"Pearl Halberd",13364
 "Feathered Inquest Breastplate",13365
 "Strelitzia Crystallinum Longbow",13368
 "Alliance Field Operative's Heavy Jacket",13369
 "Extremis Medium Leggings",13370
 "Agaleus",13371
 "Alliance Field Operative's Heavy Helmet",13372
+"Orrian Glaive",13373
 "Agaleus",13374
 "Seaside Scholar's Sandals",13377
 "Extremis Medium Mantle",13378
@@ -9958,6 +9964,7 @@
 "Forged Spear",13401
 "Pearlshell Torch",13402
 "Feathered Inquest Mantle",13405
+"Warden Pike",13406
 "Blazing Cape",13407
 "Restless Captain's Heavy Boots",13408
 "Alliance Field Operative's Light Boots",13409
@@ -9978,8 +9985,10 @@
 "Restless Captain's Heavy Coat",13431
 "Selachimorpha",13432
 "Feathered Inquest Helm",13434
+"Seaside Scholar's Tank Top",13436
 "Luxon Hunter's Spear",13438
 "Stormcaller Spear",13441
+"Seaside Scholar's Sash",13442
 "Extremis Medium Coat",13443
 "Fast Constructor's Dagger",13445
 "Spire of the Forgotten",13446
@@ -10003,6 +10012,7 @@
 "Feathered Inquest Breastplate",13476
 "Extremis Light Leggings",13478
 "Pearlshell Scepter",13479
+"Seaside Scholar's Tank Top",13480
 "Restless Captain's Light Coat",13481
 "Calligrapher's Scepter",13482
 "Strelitzia Crystallinum Rifle",13485
@@ -10024,14 +10034,17 @@
 "Pearlshell Staff",13516
 "Calligrapher's Greatsword",13518
 "Extremis Light Coat",13520
+"Tribal Bident",13526
 "Seer-Enchanted Short Bow",13527
 "Calligrapher's Axe",13529
+"Seaside Scholar's Sash",13530
 "Seaside Scholar's Shorts",13531
 "Feathered Inquest Helm",13532
 "Fast Constructor's Torch",13533
 "Calligrapher's Torch",13534
 "Pearlshell Axe",13535
 "Alliance Field Operative's Medium Gloves",13539
+"Seaside Scholar's Robes",13540
 "Chromatic Double Harp",13546
 "Painter's Brilliance Backpack",13548
 "Strelitzia Crystallinum Greatsword",13549
@@ -10043,11 +10056,15 @@
 "Restless Captain's Light Mantle",13557
 "Restless Captain's Heavy Gloves",13558
 "Seer-Enchanted Greatsword",13559
+"Seaside Scholar's Robes",13561
+"Seaside Scholar's Sash",13562
+"Seaside Scholar's Bracelets",13564
 "Fast Constructor's Spear",13565
 "Seer-Enchanted Spear",13566
 "Extremis Heavy Hood",13568
 "Darksteel Javelin",13569
 "Feathered Inquest Leggings",13570
+"Pirate \"Fork\"",13571
 "Calligrapher's Sword",13573
 "Bronze Javelin",13574
 "Calligrapher's Rifle",13575
@@ -10061,14 +10078,17 @@
 "Hammerheart's Sword",13597
 "Alliance Field Operative's Medium Mantle",13600
 "Extremis Heavy Boots",13601
+"Seaside Scholar's Tank Top",13602
 "Restless Captain's Light Gloves",13603
 "Restless Captain's Medium Boots",13605
 "Fast Constructor's Pistol",13606
 "Agaleus",13608
 "Seaside Scholar's Shorts",13610
+"Seaside Scholar's Bracelets",13613
 "Alliance Field Operative's Light Jacket",13615
 "Selachimorpha",13617
 "Seaside Scholar's Sandals",13618
+"Peacemaker's Javelin",13619
 "Pearlshell Spear",13620
 "Seaside Scholar's Hat",13621
 "Heroic Dragonsblood Impaler",13622
@@ -10127,3 +10147,72 @@
 "Vermilion Staff Skin",13681
 "Classic Leather Boots",13682
 "Classic Leather Boots",13683
+"Celestial's Firework Warhorn",13684
+"Toxinshell Dagger",13685
+"Toxinshell Longbow",13687
+"Painter's Brilliance Scepter",13688
+"Painter's Brilliance Sword",13690
+"Hoofed Shoes",13691
+"Toxinshell Sword",13696
+"Tropical Leaf Shoulders",13697
+"Spiked Inquest Gloves",13702
+"Celestial's Firework Axe",13704
+"Hoofed Shoes",13705
+"Toxinshell Spear",13706
+"Painter's Brilliance Staff",13707
+"Celestial's Firework Pistol",13708
+"Celestial's Firework Greatsword",13709
+"Spiked Inquest Gloves",13711
+"Painter's Brilliance Shield",13712
+"Toxinshell Pistol",13713
+"Spiked Inquest Greaves",13714
+"Painter's Brilliance Warhorn",13717
+"Celestial's Firework Sword",13718
+"Celestial's Firework Scepter",13719
+"Toxinshell Short Bow",13720
+"Hoofed Shoes",13724
+"Lucky Great Horse Lantern",13725
+"Painter's Brilliance Axe",13726
+"Toxinshell Greatsword",13728
+"Lucky Horse Lantern",13729
+"Toxinshell Hammer",13732
+"Celestial's Firework Focus",13734
+"Painter's Brilliance Pistol",13735
+"Tropical Leaf Shoulders",13736
+"Toxinshell Torch",13737
+"Celestial's Firework Dagger",13739
+"Tropical Leaf Shoulders",13740
+"Painter's Brilliance Greatsword",13741
+"Toxinshell Shield",13742
+"Painter's Brilliance Longbow",13744
+"Celestial's Firework Rifle",13745
+"Celestial's Firework Longbow",13746
+"Celestial's Firework Torch",13747
+"Toxinshell Warhorn",13748
+"Celestial's Firework Staff",13749
+"Toxinshell Rifle",13750
+"Toxinshell Mace",13751
+"Painter's Brilliance Spear",13752
+"Painter's Brilliance Dagger",13753
+"Toxinshell Axe",13758
+"Spiked Inquest Gloves",13759
+"Spiked Inquest Helm",13760
+"Celestial's Firework Hammer",13761
+"Painter's Brilliance Hammer",13764
+"Firework Spear",13766
+"Spiked Inquest Helm",13768
+"Painter's Brilliance Torch",13769
+"Celestial's Firework Spear",13772
+"Celestial's Firework Shield",13773
+"Spiked Inquest Helm",13775
+"Toxinshell Staff",13776
+"Painter's Brilliance Mace",13777
+"Toxinshell Scepter",13778
+"Spiked Inquest Greaves",13780
+"Painter's Brilliance Focus",13781
+"Spiked Inquest Greaves",13782
+"Painter's Brilliance Rifle",13784
+"Celestial's Firework Mace",13785
+"Toxinshell Focus",13786
+"Painter's Brilliance Short Bow",13787
+"Tropical Leaf Cape",13788
