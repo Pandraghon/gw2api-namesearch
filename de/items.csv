@@ -71562,6 +71562,8 @@
 "Rezept: Dhuums Fackel",107233
 "Mordy-Plüschtier",107234
 "Zeitmesser-Waffenkiste",107240
+"Hronk-Stiefelhose",107241
+"Wei Qi-Schulterschützer",107242
 "Nörgelmaul-Spalter",107243
 "Mathilde-Großbogen",107245
 "Zintl-Kriegsfäuste",107247
@@ -71573,6 +71575,7 @@
 "Occam-Artefakt",107271
 "Zojja-Claymore",107273
 "Yassith-Revolver",107276
+"Svaard-Maske",107278
 "Verata-Schnitter",107280
 "Zintl-Pfähler",107284
 "Linkeprank-Muskete",107286
@@ -71581,6 +71584,7 @@
 "Wupwup-Klinge",107293
 "Tagträumer-Waffenkiste",107294
 "Ruka-Beinschienen",107295
+"Svaard-Epauletten",107296
 "Balthasars Waffenkiste",107298
 "Soros-Zauberstab",107302
 "Zojja-Stiefelhose",107303
@@ -71589,6 +71593,7 @@
 "Zojja-Zauberstab",107311
 "Yassith-Klinge",107312
 "Wupwup-Handgelenkschutz",107314
+"Schmiedemeister-Beinkleid",107318
 "Ferratus-Handgelenkschutz",107320
 "Zojja-Zackenstab",107321
 "Soros-Spalter",107324
@@ -71604,6 +71609,7 @@
 "Kohlenschmied-Kurzbogen",107355
 "Soros-Großbogen",107356
 "Suun-Schulterschutz",107364
+"Hronk-Kriegsfäuste",107366
 "Angchu-Claymore",107368
 "Zojja-Epauletten",107373
 "Svaard-Schulterschutz",107375
@@ -71612,11 +71618,14 @@
 "Wüstenkönig-Waffenkiste",107382
 "Ventari-Flammenschale",107384
 "Zwillinge-Claymore",107387
+"Zintl-Flammenschale",107389
 "Mathilde-Kurzbogen",107390
 "Soros-Kurzbogen",107395
 "Skin für Caladbolg Thea",107399
+"Verata-Schuhwerk",107402
 "Hronk-Spalter",107406
 "Ruka-Schenkelstücke",107411
+"Angchu-Muskete",107412
 "Nörgelmaul-Schnitter",107422
 "Ferratus-Antlitz",107423
 "Zojja-Handgelenkschutz",107424
@@ -71625,6 +71634,7 @@
 "Plasma-Waffenkiste",107430
 "Tonn-Herold",107432
 "Svaard-Pfähler",107433
+"Zojja-Flammenschale",107435
 "Occam-Kleidung",107436
 "Galan-Waffenkiste",107442
 "Zintl-Dreizack",107443
@@ -71642,11 +71652,15 @@
 "Svaard-Brustplatte",107485
 "Wupwup-Brustplatte",107493
 "Tonn-Spalter",107494
+"Hronk-Antlitz",107495
 "Unendlicher Versorgungsstarter",107498
 "Linkeprank-Visier",107500
+"Svaard-Muskete",107501
+"Chorben-Dreizack",107503
 "Wupwup-Beinschienen",107504
 "Beigarth-Antlitz",107506
 "Svaard-Visier",107507
+"Suun-Kriegshammer",107511
 "Steppenläufer-Schenkelstücke",107537
 "Düsterflügel-Waffenkiste",107540
 "Maklain-Claymore",107541
@@ -71663,21 +71677,27 @@
 "Beigarth-Klinge",107577
 "Wei Qi-Doublet",107578
 "Svaard-Zauberstab",107581
+"Svaard-Greifer",107585
 "Yassith-Antlitz",107587
 "Morbach-Schulterschutz",107588
 "Occam-Flammenschale",107589
+"Tateos-Kleidung",107595
 "Kohlenschmied-Dreizack",107599
 "Mathilde-Pfähler",107603
 "Andenken-Waffenkiste",107605
+"Kelas großartige Kiste",107608
 "Zojja-Beinkleid",107614
+"Occam-Beinschienen",107616
 "Tateos-Brustplatte",107617
 "Occam-Dreizack",107622
 "Angchu-Kurzbogen",107623
 "Soros-Bastion",107628
 "Gobrech-Schenkelstücke",107630
+"Schwarzmähne-Muskete",107639
 "Svaard-Zackenstab",107640
 "Ferratus-Schuhwerk",107641
 "Ahamid-Schreiter",107643
+"Saphir-Brustplatte",107648
 "Maklain-Schuhwerk",107651
 "Angchu-Blatt-Streitkolben",107655
 "Angchu-Schuhwerk",107658
@@ -71699,10 +71719,12 @@
 "Soros-Claymore",107699
 "Chorben-Herold",107703
 "Chorben-Kriegshammer",107706
+"Zwillinge-Schulterschutz",107709
 "Unbarmherzige Waffenkiste",107711
 "Tonn-Kurzbogen",107714
 "Steinspalter-Schnitter",107717
 "Biolumineszierende Waffenkiste",107719
+"Linkeprank-Bastion",107721
 "Zintl-Kurzbogen",107723
 "Soros-Kriegshammer",107726
 "Ferratus-Epauletten",107731
@@ -71710,15 +71732,18 @@
 "Ruka-Brustplatte",107735
 "Drakonische Waffenkiste",107736
 "Morbach-Antlitz",107737
+"Zwillinge-Artefakt",107738
 "Yassith-Kleidung",107742
 "Kohlenschmied-Spalter",107745
 "Zintl-Brustplatte",107748
 "Wupwup-Kleidung",107752
 "Wupwup-Epauletten",107753
+"Svaard-Doublet",107756
 "Svaard-Schenkelstücke",107758
 "Skin für Caladbolg Solana",107762
 "Suun-Blatt-Streitkolben",107771
 "Svaard-Handgelenkschutz",107776
+"Zehtuka-Spalter",107779
 "Beigarth-Schnitter",107781
 "Nörgelmaul-Muskete",107784
 "Schwarzmähne-Pfähler",107788
@@ -71729,47 +71754,60 @@
 "Wupwup-Bastion",107799
 "Tizlak-Claymore",107801
 "Wupwup-Kriegshammer",107802
+"Hronk-Schnitter",107812
 "Zintl-Visier",107815
+"Ferratus-Maske",107816
 "Ewige geschmiedete Waffenkiste",107817
 "\"Trotziges Glas\"-Waffenkiste",107818
 "Hronk-Dreizack",107820
+"Zwillinge-Antlitz",107821
 "Zojja-Kriegshammer",107823
 "Zojja-Greifer",107824
 "Paktflotten-Waffenkiste",107825
+"Steinspalter-Muskete",107827
 "Zojja-Muskete",107829
 "Sklero-Waffenkiste",107834
 "Maklain-Zauberstab",107835
 "Zehtuka-Blatt-Streitkolben",107836
 "Suun-Schenkelstücke",107840
 "Blutstein-Waffenkiste",107847
+"Steinspalter-Artefakt",107848
 "Beigarth-Kriegshammer",107852
 "Morbach-Schulterschützer",107855
 "Zintl-Blatt-Streitkolben",107857
+"Nörgelmaul-Klinge",107860
 "Mathilde-Zackenstab",107862
 "Svaard-Kriegshammer",107863
+"Steppenläufer-Doublet",107864
 "Zintl-Kriegshammer",107868
 "Wupwup-Herold",107869
 "Yassith-Schreiter",107871
+"Theodosus-Schnitter",107872
 "Theodosus-Dreizack",107874
 "Occam-Harpunenschleuder",107878
 "Soros-Revolver",107881
 "Zintl-Antlitz",107883
 "Zojja-Schenkelstücke",107884
 "Caladbolg Thea",107886
+"Wupwup-Schnitter",107887
 "Gobrech-Schulterschutz",107888
 "Angchu-Zackenstab",107889
 "Kohlenschmied-Claymore",107892
 "Beigarth-Großbogen",107894
 "Kohlenschmied-Revolver",107898
 "Mathilde-Klinge",107901
+"Steinspalter-Bastion",107902
 "Ruka-Kriegsfäuste",107903
 "Wupwup-Maske",107905
 "Mathilde-Blatt-Streitkolben",107906
 "Nörgelmaul-Kurzbogen",107908
 "Zehtuka-Beinschienen",107909
+"Zehtuka-Doublet",107911
 "Mathilde-Bastion",107912
 "Hronk-Epauletten",107914
+"Angchu-Bastion",107916
 "Occam-Bastion",107917
+"Linkeprank-Kleidung",107918
 "Zehtuka-Kriegsfäuste",107921
 "Hronk-Kurzbogen",107922
 "Eisspalter-Waffenkiste",107923
@@ -71778,12 +71816,17 @@
 "Beigarth-Handgelenkschutz",107930
 "Wupwup-Schuhwerk",107932
 "Wei Qi-Kleidung",107937
+"Zwillinge-Spalter",107942
 "Saphir-Schenkelstücke",107944
 "Linkeprank-Artefakt",107945
 "Zehtuka-Zackenstab",107946
+"Tateos-Kriegsfäuste",107948
 "Zintl-Harpunenschleuder",107949
 "Svaard-Schnitter",107953
+"Stahlstern-Zackenstab",107956
+"Svaard-Beinkleid",107957
 "Chorben-Kurzbogen",107963
+"Svaard-Harpunenschleuder",107964
 "Unendlicher Stoffwechselstarter",107965
 "Zojja-Schnitter",107967
 "Nörgelmaul-Harpunenschleuder",107972
@@ -71803,16 +71846,22 @@
 "Maklain-Muskete",108015
 "Verschönerte Waffenkiste",108023
 "Yassith-Schenkelstücke",108024
+"Hronk-Schulterschutz",108025
 "Schwarzmähne-Spalter",108028
+"Steppenläufer-Schulterschützer",108030
 "Pyro-Waffenkiste",108031
 "Gobrech-Schulterschützer",108036
 "Linkeprank-Beinkleid",108042
 "Angchu-Beinschienen",108043
+"Zwillinge-Maske",108048
 "Ahamid-Brustplatte",108049
 "Schwarzmähne-Klinge",108050
 "Wupwup-Kurzbogen",108052
 "Sturmwind-Waffenkiste",108054
+"Verata-Doublet",108055
+"Wei Qi-Schenkelstücke",108056
 "Zintl-Zackenstab",108057
+"Zwillinge-Dreizack",108060
 "Nörgelmaul-Claymore",108061
 "Treibsand-Waffenkiste",108064
 "Tonn-Klinge",108069
@@ -71822,10 +71871,14 @@
 "Svaard-Kriegsfäuste",108078
 "Ahamid-Kriegsfäuste",108082
 "Saphir-Antlitz",108083
+"Nörgelmaul-Bastion",108084
+"Thackeray-Doublet",108086
+"Suun-Handgelenkschutz",108088
 "Skin für Caladbolg Astera",108092
 "\"Schatten des Verrückten Königs\"-Waffenkiste",108096
 "Zintl-Schulterschützer",108099
 "Zehtuka-Revolver",108103
+"Kohlenschmied-Kriegshammer",108104
 "Zojja-Visier",108106
 "Steinspalter-Spalter",108108
 "Zojja-Pfähler",108109
@@ -71841,7 +71894,10 @@
 "Traumdistel-Waffenkiste",108133
 "Beigarth-Zackenstab",108135
 "Gletscher-Waffenkiste",108139
+"Linkeprank-Spalter",108143
+"Ferratus-Beinkleid",108144
 "Gobrech-Brustplatte",108150
+"Svaard-Schreiter",108152
 "Steinspalter-Kriegshammer",108153
 "Skin für Preisgekröntes Miliz-Beinkleid",108154
 "Zintl-Revolver",108156
@@ -71852,12 +71908,16 @@
 "Drachenjade-Waffenkiste",108166
 "Soros-Blatt-Streitkolben",108169
 "Linkeprank-Zauberstab",108172
+"Zehtuka-Stiefelhose",108173
+"Schmiedemeister-Kleidung",108174
 "Linkeprank-Pfähler",108176
 "Yassith-Zackenstab",108177
 "Yassith-Schulterschützer",108178
+"Pahua-Kurzbogen",108181
 "Zintl-Herold",108183
 "Schmiedemeister-Kriegsfäuste",108184
 "Saphir-Maske",108185
+"Svaard-Schulterschützer",108187
 "Hronk-Muskete",108192
 "Gobrech-Kriegsfäuste",108195
 "Angchu-Kleidung",108196
@@ -71866,12 +71926,17 @@
 "Suun-Brustplatte",108208
 "Ahamid-Kleidung",108209
 "Yassith-Zauberstab",108210
+"Steppenläufer-Kriegsfäuste",108211
 "Angchu-Schnitter",108212
 "Yassith-Doublet",108217
 "Maklain-Schreiter",108220
+"Tixx-Kurzbogen",108224
+"Svaard-Schuhwerk",108227
 "Beigarth-Kleidung",108230
 "Hronk-Bastion",108232
+"Svaard-Stiefelhose",108233
 "Zintl-Bastion",108234
+"Svaard-Kleidung",108235
 "Soros-Pfähler",108237
 "Togo-Kurzbogen",108239
 "Togo-Spalter",108240
@@ -71892,15 +71957,19 @@
 "Morbach-Kriegsfäuste",108276
 "Nörgelmaul-Zackenstab",108277
 "Ruka-Visier",108282
+"Ossa-Zackenstab",108284
 "Zojja-Maske",108285
 "Soros-Klinge",108289
+"Svaard-Klinge",108290
 "Phönix-Waffenkiste",108296
+"Occam-Doublet",108298
 "Hronk-Harpunenschleuder",108299
 "Beigarth-Spalter",108303
 "Theodosus-Pfähler",108309
 "Steinspalter-Herold",108311
 "Zojja-Brustplatte",108312
 "Zwillinge-Schulterschützer",108313
+"Hronk-Schenkelstücke",108315
 "Zehtuka-Zauberstab",108321
 "Zwillinge-Kriegsfäuste",108323
 "Nörgelmaul-Blatt-Streitkolben",108324
@@ -71909,16 +71978,21 @@
 "Steppenläufer-Beinschienen",108329
 "Occam-Schnitter",108332
 "Maklain-Revolver",108335
+"Wupwup-Zackenstab",108337
 "Stahlstern-Stiefelhose",108340
 "Inquestur-Waffenkiste Typ II",108348
 "Morbach-Schenkelstücke",108350
 "Wupwup-Kriegsfäuste",108351
 "Linkeprank-Kriegsfäuste",108355
+"Wupwup-Beinkleid",108356
 "Ahamid-Schuhwerk",108361
 "Frostgeschmiedete Waffenkiste",108367
 "Zintl-Beinschienen",108368
+"Wupwup-Harpunenschleuder",108370
 "Angchu-Artefakt",108374
 "Yassith-Schnitter",108376
+"Zwillinge-Zauberstab",108377
+"Svaard-Antlitz",108379
 "Occam-Klinge",108384
 "Skin für Herbeigerufener Charr-Durchgang",108385
 "Erhebende Waffenkiste",108386
@@ -71927,23 +72001,32 @@
 "Soros-Zackenstab",108395
 "Morbach-Kleidung",108396
 "Alchemisten-Waffenkiste",108401
+"Occam-Spalter",108403
 "Steinspalter-Großbogen",108405
 "Svaard-Claymore",108410
 "Theodosus-Artefakt",108413
+"Mathilde-Zauberstab",108415
 "\"Schimmernde Aurora\"-Waffenkiste",108416
+"Hronk-Kriegshammer",108420
 "Wupwup-Muskete",108421
 "Zwillinge-Schreiter",108423
+"Suun-Maske",108426
 "Steinspalter-Klinge",108427
 "Yassith-Kurzbogen",108429
 "Togo-Blatt-Streitkolben",108433
 "Nörgelmaul-Pfähler",108434
 "Suun-Beinschienen",108437
 "Beigarth-Brustplatte",108439
+"Ruka-Spalter",108440
 "Mathilde-Flammenschale",108446
+"Hronk-Großbogen",108448
 "Svaard-Spalter",108449
+"Linkeprank-Kurzbogen",108450
 "Yassith-Maske",108452
 "Zojja-Klinge",108453
 "Hronk-Visier",108459
+"Zintl-Schulterschutz",108463
+"Zwillinge-Großbogen",108465
 "Yassith-Pfähler",108468
 "Zwillinge-Beinkleid",108471
 "Hronk-Revolver",108472
@@ -71953,6 +72036,7 @@
 "Equinox-Waffenkiste",108488
 "Theodosus-Zackenstab",108491
 "Yassith-Schuhwerk",108494
+"Ahamid-Doublet",108496
 "Yassith-Kriegsfäuste",108497
 "Morbach-Doublet",108499
 "Ley-Linien-Waffenkiste",108501
@@ -71971,9 +72055,11 @@
 "Zojja-Spalter",108541
 "Beigarth-Claymore",108542
 "Ahamid-Antlitz",108543
+"Zwillinge-Muskete",108544
 "Tonn-Pfähler",108546
 "Maklain-Schulterschützer",108549
 "Zojja-Schuhwerk",108550
+"Hronk-Beinkleid",108551
 "Schatten-Waffenkiste",108558
 "Zojja-Kleidung",108561
 "Zwillinge-Blatt-Streitkolben",108563
@@ -71988,6 +72074,8 @@
 "Suun-Kriegsfäuste",108585
 "Kavalier-Waffenkiste",108588
 "Beigarth-Dreizack",108589
+"Zwillinge-Schnitter",108590
+"Suun-Pfähler",108592
 "Mathilde-Spalter",108597
 "Beigarth-Pfähler",108598
 "Zintl-Doublet",108600
@@ -71996,6 +72084,7 @@
 "Wei Qi-Beinschienen",108612
 "Wupwup-Spalter",108614
 "Theodosus-Kurzbogen",108619
+"Zwillinge-Bastion",108622
 "Hronk-Blatt-Streitkolben",108627
 "Morbach-Handgelenkschutz",108628
 "Verata-Klinge",108631
@@ -72018,12 +72107,14 @@
 "Steppenläufer-Kleidung",108690
 "Zintl-Claymore",108694
 "Gobrech-Beinschienen",108696
+"Saphir-Visier",108699
 "Suun-Beinkleid",108700
 "Chorben-Harpunenschleuder",108701
 "Zojja-Bastion",108706
 "Zintl-Greifer",108707
 "Wupwup-Claymore",108708
 "Zojja-Beinschienen",108709
+"Hronk-Beinschienen",108710
 "Ferratus-Kriegsfäuste",108712
 "Yassith-Flammenschale",108713
 "Tonn-Schnitter",108715
@@ -72031,17 +72122,23 @@
 "Linkeprank-Brustplatte",108720
 "Schwarzmähne-Harpunenschleuder",108724
 "Theodosus-Großbogen",108725
+"Zojja-Großbogen",108728
+"Verata-Epauletten",108731
 "Zwillinge-Beinschienen",108732
+"Ferratus-Visier",108733
+"Chorben-Klinge",108738
 "Spektral-Waffenkiste",108744
 "Zehtuka-Bastion",108745
 "Maklain-Kleidung",108746
 "Theodosus-Herold",108747
+"Schmiedemeister-Schenkelstücke",108751
 "Hronk-Claymore",108756
 "Occam-Stiefelhose",108763
 "Wei Qi-Beinkleid",108765
 "Zintl-Muskete",108767
 "Tonn-Bastion",108768
 "Wupwup-Schenkelstücke",108769
+"Zwillinge-Doublet",108771
 "Ferratus-Beinschienen",108774
 "Hellglänzende Inquisitor-Waffenkiste",108777
 "Zojja-Blatt-Streitkolben",108778
@@ -72055,5 +72152,6 @@
 "Yassith-Visier",108796
 "Zwillinge-Greifer",108801
 "Zojja-Dreizack",108802
+"Suun-Schuhwerk",108805
 "Schwarzmähne-Schnitter",108808
 "Yassith-Großbogen",108809
