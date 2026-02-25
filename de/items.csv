@@ -71561,6 +71561,7 @@
 "Rezept: Qadim-Pylon",107231
 "Rezept: Dhuums Fackel",107233
 "Mordy-Plüschtier",107234
+"Maklain-Kriegsfäuste",107236
 "Schmiedemeister-Beinschienen",107237
 "Morbach-Visier",107238
 "Zeitmesser-Waffenkiste",107240
@@ -71585,6 +71586,7 @@
 "Occam-Artefakt",107271
 "Zojja-Claymore",107273
 "Theodosus-Spalter",107274
+"Beigarth-Revolver",107275
 "Yassith-Revolver",107276
 "Schmiedemeister-Maske",107277
 "Svaard-Maske",107278
@@ -71697,6 +71699,7 @@
 "Svaard-Brustplatte",107485
 "Ossa-Zauberstab",107486
 "Morbach-Stiefelhose",107490
+"Angchu-Visier",107491
 "Wupwup-Brustplatte",107493
 "Tonn-Spalter",107494
 "Hronk-Antlitz",107495
@@ -71716,6 +71719,7 @@
 "Ossa-Klinge",107519
 "Schwarzmähne-Bastion",107520
 "Verata-Artefakt",107522
+"Beigarth-Greifer",107526
 "Maklain-Artefakt",107527
 "Schmiedemeister-Handgelenkschutz",107530
 "Maklain-Handgelenkschutz",107531
@@ -71746,6 +71750,7 @@
 "Wei Qi-Doublet",107578
 "Angchu-Schreiter",107579
 "Svaard-Zauberstab",107581
+"Kohlenschmied-Zauberstab",107583
 "Svaard-Greifer",107585
 "Yassith-Antlitz",107587
 "Morbach-Schulterschutz",107588
@@ -71778,6 +71783,7 @@
 "Maklain-Schuhwerk",107651
 "Occam-Schenkelstücke",107652
 "Tateos-Beinkleid",107653
+"Gobrech-Stiefelhose",107654
 "Angchu-Blatt-Streitkolben",107655
 "Ventari-Greifer",107656
 "Angchu-Schuhwerk",107658
@@ -71826,6 +71832,7 @@
 "Gobrech-Epauletten",107725
 "Soros-Kriegshammer",107726
 "Chorben-Zackenstab",107728
+"Ahamid-Beinkleid",107729
 "Linkeprank-Schreiter",107730
 "Ferratus-Epauletten",107731
 "Wupwup-Flammenschale",107732
@@ -71837,16 +71844,19 @@
 "Angchu-Flammenschale",107740
 "Yassith-Kleidung",107742
 "Gobrech-Antlitz",107743
+"Wupwup-Schulterschutz",107744
 "Kohlenschmied-Spalter",107745
 "Chorben-Blatt-Streitkolben",107746
 "Zehtuka-Schuhwerk",107747
 "Zintl-Brustplatte",107748
 "Zwillinge-Schuhwerk",107750
+"Tonn-Dreizack",107751
 "Wupwup-Kleidung",107752
 "Wupwup-Epauletten",107753
 "Svaard-Doublet",107756
 "Schwarzmähne-Großbogen",107757
 "Svaard-Schenkelstücke",107758
+"Maklain-Schulterschutz",107759
 "Skin für Caladbolg Solana",107762
 "Ruka-Artefakt",107763
 "Maklain-Maske",107764
@@ -71928,6 +71938,7 @@
 "Angchu-Zackenstab",107889
 "Kohlenschmied-Claymore",107892
 "Beigarth-Großbogen",107894
+"Angchu-Handgelenkschutz",107896
 "Kohlenschmied-Revolver",107898
 "Mathilde-Klinge",107901
 "Steinspalter-Bastion",107902
@@ -72118,6 +72129,7 @@
 "Yassith-Zauberstab",108210
 "Steppenläufer-Kriegsfäuste",108211
 "Angchu-Schnitter",108212
+"Schwarzmähne-Revolver",108216
 "Yassith-Doublet",108217
 "Maklain-Schreiter",108220
 "Tixx-Herold",108221
@@ -72190,6 +72202,7 @@
 "Maklain-Flammenschale",108331
 "Occam-Schnitter",108332
 "Tixx-Maske",108333
+"Tateos-Maske",108334
 "Maklain-Revolver",108335
 "Tonn-Revolver",108336
 "Wupwup-Zackenstab",108337
@@ -72264,6 +72277,7 @@
 "Tixx-Epauletten",108461
 "Suun-Schulterschützer",108462
 "Zintl-Schulterschutz",108463
+"Stahlstern-Schnitter",108464
 "Zwillinge-Großbogen",108465
 "Steinspalter-Revolver",108467
 "Yassith-Pfähler",108468
@@ -72309,6 +72323,7 @@
 "Ahamid-Antlitz",108543
 "Zwillinge-Muskete",108544
 "Tonn-Pfähler",108546
+"Yassith-Harpunenschleuder",108547
 "Hüter-Flammenschale",108548
 "Maklain-Schulterschützer",108549
 "Zojja-Schuhwerk",108550
@@ -72371,11 +72386,13 @@
 "Zintl-Klinge",108642
 "Gobrech-Kleidung",108643
 "Liebestrunkene Waffenkiste",108644
+"Zehtuka-Klinge",108645
 "Äthergebundene Waffenkiste",108646
 "Morbach-Beinschienen",108651
 "Suun-Kurzbogen",108652
 "Zojja-Stoff-Atmer",108653
 "Ahamid-Visier",108654
+"Stahlstern-Herold",108656
 "Occam-Maske",108657
 "Zodiak-Waffenkiste",108660
 "Maklain-Epauletten",108663
@@ -72412,6 +72429,7 @@
 "Ossa-Brustplatte",108716
 "Suun-Schnitter",108718
 "Linkeprank-Brustplatte",108720
+"Gobrech-Schuhwerk",108721
 "Schwarzmähne-Harpunenschleuder",108724
 "Theodosus-Großbogen",108725
 "Schmiedemeister-Greifer",108727
@@ -72423,6 +72441,7 @@
 "Wupwup-Dreizack",108737
 "Chorben-Klinge",108738
 "Tateos-Schenkelstücke",108741
+"Wei Qi-Greifer",108742
 "Spektral-Waffenkiste",108744
 "Zehtuka-Bastion",108745
 "Maklain-Kleidung",108746
