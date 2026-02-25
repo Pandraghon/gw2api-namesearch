@@ -71573,6 +71573,8 @@
 "Theodosus-Blatt-Streitkolben",107255
 "Beigarth-Artefakt",107256
 "Gobrech-Visier",107260
+"Tonn-Blatt-Streitkolben",107261
+"Angchu-Revolver",107262
 "Tonn-Claymore",107263
 "Suun-Bastion",107264
 "Zehtuka-Schnitter",107266
@@ -71735,6 +71737,7 @@
 "Morbach-Schulterschutz",107588
 "Occam-Flammenschale",107589
 "Tateos-Kleidung",107595
+"Tateos-Schreiter",107598
 "Kohlenschmied-Dreizack",107599
 "Steinspalter-Zauberstab",107601
 "Mathilde-Pfähler",107603
@@ -71751,6 +71754,7 @@
 "Schwarzmähne-Muskete",107639
 "Svaard-Zackenstab",107640
 "Ferratus-Schuhwerk",107641
+"Hronk-Maske",107642
 "Ahamid-Schreiter",107643
 "Chorben-Muskete",107644
 "Saphir-Brustplatte",107648
@@ -71795,6 +71799,7 @@
 "Beigarth-Maske",107720
 "Linkeprank-Bastion",107721
 "Zintl-Kurzbogen",107723
+"Gobrech-Epauletten",107725
 "Soros-Kriegshammer",107726
 "Linkeprank-Schreiter",107730
 "Ferratus-Epauletten",107731
@@ -71803,6 +71808,7 @@
 "Drakonische Waffenkiste",107736
 "Morbach-Antlitz",107737
 "Zwillinge-Artefakt",107738
+"Angchu-Flammenschale",107740
 "Yassith-Kleidung",107742
 "Kohlenschmied-Spalter",107745
 "Zehtuka-Schuhwerk",107747
@@ -72063,6 +72069,7 @@
 "Angchu-Schnitter",108212
 "Yassith-Doublet",108217
 "Maklain-Schreiter",108220
+"Tixx-Herold",108221
 "Angchu-Schulterschutz",108222
 "Tixx-Kurzbogen",108224
 "Svaard-Schuhwerk",108227
@@ -72098,6 +72105,7 @@
 "Nörgelmaul-Zackenstab",108277
 "Schwarzmähne-Herold",108281
 "Ruka-Visier",108282
+"Maklain-Visier",108283
 "Ossa-Zackenstab",108284
 "Zojja-Maske",108285
 "Nörgelmaul-Zauberstab",108286
@@ -72124,9 +72132,11 @@
 "Linkeprank-Blatt-Streitkolben",108326
 "Nörgelmaul-Flammenschale",108328
 "Steppenläufer-Beinschienen",108329
+"Maklain-Flammenschale",108331
 "Occam-Schnitter",108332
 "Tixx-Maske",108333
 "Maklain-Revolver",108335
+"Tonn-Revolver",108336
 "Wupwup-Zackenstab",108337
 "Stahlstern-Stiefelhose",108340
 "Inquestur-Waffenkiste Typ II",108348
@@ -72166,6 +72176,7 @@
 "Theodosus-Artefakt",108413
 "Mathilde-Zauberstab",108415
 "\"Schimmernde Aurora\"-Waffenkiste",108416
+"Maklain-Schenkelstücke",108417
 "Linkeprank-Schulterschützer",108418
 "Hronk-Kriegshammer",108420
 "Wupwup-Muskete",108421
@@ -72212,6 +72223,7 @@
 "Hronk-Brustplatte",108503
 "Linkeprank-Revolver",108504
 "Ossa-Blatt-Streitkolben",108505
+"Maklain-Beinschienen",108506
 "Ergebene Waffenkiste",108507
 "Chorben-Spalter",108510
 "Hronk-Schulterschützer",108511
@@ -72284,6 +72296,7 @@
 "Abaddon-Waffenkiste",108635
 "Maguuma-Waffenkiste",108638
 "Zwillinge-Kurzbogen",108639
+"Soros-Schnitter",108640
 "Zintl-Klinge",108642
 "Gobrech-Kleidung",108643
 "Liebestrunkene Waffenkiste",108644

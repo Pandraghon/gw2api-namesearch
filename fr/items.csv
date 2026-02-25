@@ -71573,6 +71573,8 @@
 "Masse à ailettes de Theodosus",107255
 "Artefact de Beigarth",107256
 "Visière de Gobrech",107260
+"Masse à ailettes de Tonn",107261
+"Revolver angchu",107262
 "Claymore de Tonn",107263
 "Bastion de Suun",107264
 "Trancheuse de Zehtuka",107266
@@ -71735,6 +71737,7 @@
 "Espauliers de Morbach",107588
 "Brasero d'Occam",107589
 "Livrée de Tateos",107595
+"Croquenots de Tateos",107598
 "Trident de Forgenoire",107599
 "Baguette de Pierrefend",107601
 "Empaleur de Mathilde",107603
@@ -71751,6 +71754,7 @@
 "Mousquet de Toison d'ébène",107639
 "Aiguillon de Svaard",107640
 "Chaussures de Ferratus",107641
+"Masque de Hronk",107642
 "Croquenots d'Ahamid",107643
 "Mousquet de Chorben",107644
 "Harnois de Saphir",107648
@@ -71795,6 +71799,7 @@
 "Masque de Beigarth",107720
 "Bastion de Senestre",107721
 "Arc court de Zintl",107723
+"Épaulettes de Gobrech",107725
 "Marteau de guerre de Soros",107726
 "Croquenots de Senestre",107730
 "Épaulettes de Ferratus",107731
@@ -71803,6 +71808,7 @@
 "Boîte d'armes draconiques",107736
 "Visage de Morbach",107737
 "Artefact des jumelles",107738
+"Brasero angchu",107740
 "Livrée de Yassith",107742
 "Francisque de Forgenoire",107745
 "Chaussures de Zehtuka",107747
@@ -72063,6 +72069,7 @@
 "Trancheuse angchu",108212
 "Pourpoint de Yassith",108217
 "Croquenots de Maklain",108220
+"Héraut de Tixx",108221
 "Espauliers angchus",108222
 "Arc court de Tixx",108224
 "Chaussures de Svaard",108227
@@ -72098,6 +72105,7 @@
 "Aiguillon de Grisebabine",108277
 "Héraut de Toison d'ébène",108281
 "Visière de Ruka",108282
+"Visière de Maklain",108283
 "Aiguillon d'Ossa",108284
 "Masque de Zojja",108285
 "Baguette de Grisebabine",108286
@@ -72124,9 +72132,11 @@
 "Masse à ailettes de Senestre",108326
 "Brasero de Grisebabine",108328
 "Grèves courseplaines",108329
+"Brasero de Maklain",108331
 "Rasoir d'Occam",108332
 "Masque de Tixx",108333
 "Revolver de Maklain",108335
+"Revolver de Tonn",108336
 "Aiguillon de Wupwup",108337
 "Culotte d'Aciétoile",108340
 "Boîte d'armes de l'Enqueste Marque II",108348
@@ -72166,6 +72176,7 @@
 "Artefact de Theodosus",108413
 "Baguette de Mathilde",108415
 "Boîte d'armes de l'aurore scintillante",108416
+"Tassettes de Maklain",108417
 "Garde-épaules de Senestre",108418
 "Marteau de guerre de Hronk",108420
 "Mousquet de Wupwup",108421
@@ -72212,6 +72223,7 @@
 "Harnois de Hronk",108503
 "Revolver de Senestre",108504
 "Masse à ailettes d'Ossa",108505
+"Grèves de Maklain",108506
 "Boîte d'armes dévouées",108507
 "Francisque de Chorben",108510
 "Garde-épaules de Hronk",108511
@@ -72284,6 +72296,7 @@
 "Boîte d'armes d'Abaddon",108635
 "Boîte d'armes de Maguuma",108638
 "Arc court des jumelles",108639
+"Trancheuse de Soros",108640
 "Lame de Zintl",108642
 "Livrée de Gobrech",108643
 "Boîte d'armes d'amoureux",108644

@@ -71573,6 +71573,8 @@
 "Theodosus's Flanged Mace",107255
 "Beigarth's Artifact",107256
 "Gobrech's Visor",107260
+"Tonn's Flanged Mace",107261
+"Angchu Revolver",107262
 "Tonn's Claymore",107263
 "Suun's Bastion",107264
 "Zehtuka's Razor",107266
@@ -71735,6 +71737,7 @@
 "Morbach's Pauldrons",107588
 "Occam's Brazier",107589
 "Tateos's Guise",107595
+"Tateos's Striders",107598
 "Coalforge's Trident",107599
 "Stonecleaver's Wand",107601
 "Mathilde's Impaler",107603
@@ -71751,6 +71754,7 @@
 "Ebonmane's Musket",107639
 "Svaard's Spire",107640
 "Ferratus's Footwear",107641
+"Hronk's Masque",107642
 "Ahamid's Striders",107643
 "Chorben's Musket",107644
 "Saphir's Breastplate",107648
@@ -71795,6 +71799,7 @@
 "Beigarth's Masque",107720
 "Leftpaw's Bastion",107721
 "Zintl Short Bow",107723
+"Gobrech's Epaulets",107725
 "Soros's Warhammer",107726
 "Leftpaw's Striders",107730
 "Ferratus's Epaulets",107731
@@ -71803,6 +71808,7 @@
 "Draconic Weapon Box",107736
 "Morbach's Visage",107737
 "The Twins' Artifact",107738
+"Angchu Brazier",107740
 "Yassith's Guise",107742
 "Coalforge's Reaver",107745
 "Zehtuka's Footwear",107747
@@ -72063,6 +72069,7 @@
 "Angchu Razor",108212
 "Yassith's Doublet",108217
 "Maklain's Striders",108220
+"Tixx's Herald",108221
 "Angchu Pauldrons",108222
 "Tixx's Short Bow",108224
 "Svaard's Footwear",108227
@@ -72098,6 +72105,7 @@
 "Grizzlemouth's Spire",108277
 "Ebonmane's Herald",108281
 "Ruka's Visor",108282
+"Maklain's Visor",108283
 "Ossa's Spire",108284
 "Zojja's Masque",108285
 "Grizzlemouth's Wand",108286
@@ -72124,9 +72132,11 @@
 "Leftpaw's Flanged Mace",108326
 "Grizzlemouth's Brazier",108328
 "Veldrunner Greaves",108329
+"Maklain's Brazier",108331
 "Occam's Razor",108332
 "Tixx's Masque",108333
 "Maklain's Revolver",108335
+"Tonn's Revolver",108336
 "Wupwup Spire",108337
 "Steelstar's Breeches",108340
 "Inquest Mark II Weapon Box",108348
@@ -72166,6 +72176,7 @@
 "Theodosus's Artifact",108413
 "Mathilde's Wand",108415
 "Shimmering Aurora Weapon Box",108416
+"Maklain's Tassets",108417
 "Leftpaw's Shoulderguard",108418
 "Hronk's Warhammer",108420
 "Wupwup Musket",108421
@@ -72212,6 +72223,7 @@
 "Hronk's Breastplate",108503
 "Leftpaw's Revolver",108504
 "Ossa's Flanged Mace",108505
+"Maklain's Greaves",108506
 "Devoted Weapon Box",108507
 "Chorben's Reaver",108510
 "Hronk's Shoulderguard",108511
@@ -72284,6 +72296,7 @@
 "Abaddon Weapon Box",108635
 "Maguuma Weapon Box",108638
 "The Twins' Short Bow",108639
+"Soros's Razor",108640
 "Zintl Blade",108642
 "Gobrech's Guise",108643
 "Lovestruck Weapon Box",108644
