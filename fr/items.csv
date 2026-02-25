@@ -71561,6 +71561,7 @@
 "Recette : pylône de Qadim",107231
 "Recette : torche de Dhuum",107233
 "Mordy en peluche",107234
+"Visière de Morbach",107238
 "Boîte d'armes du gardien du temps",107240
 "Culotte de Hronk",107241
 "Garde-épaules de Wei Qi",107242
@@ -71569,6 +71570,7 @@
 "Poings de guerre de Zintl",107247
 "Boîte d'armes de l'océan infini",107249
 "Jambières de Saphir",107254
+"Masse à ailettes de Theodosus",107255
 "Visière de Gobrech",107260
 "Claymore de Tonn",107263
 "Trancheuse de Zehtuka",107266
@@ -71605,6 +71607,7 @@
 "Revolver des jumelles",107330
 "Jambières de Morbach",107331
 "Artefact d'Ossa",107332
+"Trident angchu",107333
 "Lame de Senestre",107335
 "Grand arc d'Occam",107337
 "Espauliers de Yassith",107340
@@ -71612,6 +71615,7 @@
 "Grand arc de Senestre",107344
 "Livrée des jumelles",107345
 "Poings de guerre de Zojja",107347
+"Garde-épaules de Zehtuka",107353
 "Arc court de Forgenoire",107355
 "Grand arc de Soros",107356
 "Pourpoint de Suun",107357
@@ -71620,12 +71624,14 @@
 "Poings de guerre de Hronk",107366
 "Arc court de Maklain",107367
 "Claymore angchu",107368
+"Masse à ailettes de Pahua",107372
 "Épaulettes de Zojja",107373
 "Espauliers de Svaard",107375
 "Culotte des jumelles",107376
 "Héraut de Maklain",107377
 "Harnois de Yassith",107379
 "Boîte d'armes du roi du désert",107382
+"Culotte de Tateos",107383
 "Brasero de Ventari",107384
 "Claymore des jumelles",107387
 "Brasero de Zintl",107389
@@ -71633,9 +71639,12 @@
 "Arc court de Soros",107395
 "Apparence de Caladbolg Thea",107399
 "Chaussures de Verata",107402
+"Poignes de Hronk",107404
 "Francisque de Hronk",107406
 "Tassettes de Ruka",107411
 "Mousquet angchu",107412
+"Croquenots du seigneur de la Forge",107417
+"Harnois de Ferratus",107419
 "Garde-poignets des jumelles",107420
 "Trancheuse de Grisebabine",107422
 "Vissage de Ferratus",107423
@@ -71663,7 +71672,9 @@
 "Croquenots de Zojja",107466
 "Espauliers de Ruka",107470
 "Boîte d'armes scintillantes",107471
+"Poings de guerre de Wei Qi",107474
 "Revolver de Theodosus",107476
+"Pourpoint de Saphir",107477
 "Trancheuse de Forgenoire",107483
 "Culotte de Saphir",107484
 "Harnois de Svaard",107485
@@ -71671,6 +71682,7 @@
 "Harnois de Wupwup",107493
 "Francisque de Tonn",107494
 "Visage de Hronk",107495
+"Baguette d'Occam",107497
 "Apprêt utilitaire infini",107498
 "Visière de Senestre",107500
 "Mousquet de Svaard",107501
@@ -71685,6 +71697,7 @@
 "Bastion de Toison d'ébène",107520
 "Artefact de Verata",107522
 "Garde-poignets du seigneur de la Forge",107530
+"Espauliers de Senestre",107534
 "Poignes de Pahua",107536
 "Tassettes courseplaines",107537
 "Boîte d'armes d'aile noire",107540
@@ -71700,6 +71713,7 @@
 "Harnois courseplaine",107564
 "Boîte d'armes orchestrales",107568
 "Croquenots de Ferratus",107569
+"Pourpoint angchu",107571
 "Lame de Beigarth",107577
 "Pourpoint de Wei Qi",107578
 "Croquenots angchus",107579
@@ -71714,6 +71728,7 @@
 "Empaleur de Mathilde",107603
 "Boîte d'armes souvenirs",107605
 "Malle magnifique de Kela",107608
+"Jambières d'Occam",107612
 "Jambières de Zojja",107614
 "Grèves d'Occam",107616
 "Harnois de Tateos",107617
@@ -71727,14 +71742,18 @@
 "Croquenots d'Ahamid",107643
 "Harnois de Saphir",107648
 "Chaussures de Maklain",107651
+"Tassettes d'Occam",107652
+"Jambières de Tateos",107653
 "Masse à ailettes angchu",107655
 "Chaussures angchus",107658
+"Mousquet de Soros",107663
 "Boîte d'armes de tueur de bêtes",107664
 "Chaussures de Morbach",107665
 "Grèves de Beigarth",107666
 "Pourpoint de Zojja",107667
 "Visière de Suun",107670
 "Visage de Maklain",107672
+"Poings de guerre de Beigarth",107678
 "Grand arc de Chorben",107680
 "Brasero des jumelles",107682
 "Grand arc de Zintl",107685
@@ -71745,11 +71764,13 @@
 "Empaleur de Zehtuka",107696
 "Culotte d'Ahamid",107697
 "Claymore de Soros",107699
+"Baguette de Wupwup",107700
 "Héraut de Hronk",107701
 "Visage angchu",107702
 "Héraut de Chorben",107703
 "Marteau de guerre de Chorben",107706
 "Claymore de Toison d'ébène",107707
+"Épaulettes de Pahua",107708
 "Espauliers des jumelles",107709
 "Boîte d'armes impitoyables",107711
 "Arc court de Tonn",107714
@@ -71758,6 +71779,7 @@
 "Bastion de Senestre",107721
 "Arc court de Zintl",107723
 "Marteau de guerre de Soros",107726
+"Croquenots de Senestre",107730
 "Épaulettes de Ferratus",107731
 "Brasero de Wupwup",107732
 "Harnois de Ruka",107735
@@ -71771,6 +71793,7 @@
 "Livrée de Wupwup",107752
 "Épaulettes de Wupwup",107753
 "Pourpoint de Svaard",107756
+"Grand arc de Toison d'ébène",107757
 "Tassettes de Svaard",107758
 "Apparence de Caladbolg Solana",107762
 "Masque de Maklain",107764
@@ -71782,6 +71805,7 @@
 "Mousquet de Grisebabine",107784
 "Empaleur de Toison d'ébène",107788
 "Poignes de Saphir",107789
+"Croquenots de Morbach",107791
 "Francisque angchu",107792
 "Artefact de Grisebabine",107796
 "Tassettes d'Ahamid",107798
@@ -71800,6 +71824,7 @@
 "Poignes de Zojja",107824
 "Boîte d'armes de la flotte du Pacte",107825
 "Mousquet de Pierrefend",107827
+"Poings de guerre de Pahua",107828
 "Mousquet de Zojja",107829
 "Boîte d'armes chitineuses",107834
 "Baguette de Maklain",107835
@@ -71807,6 +71832,7 @@
 "Claymore d'Occam",107837
 "Tassettes de Suun",107840
 "Livrée de Pahua",107842
+"Bastion de Svaard",107843
 "Bastion d'Ossa",107846
 "Boîte d'armes de pierre de sang",107847
 "Artefact de Pierrefend",107848
@@ -71868,6 +71894,7 @@
 "Aiguillon d'Aciétoile",107956
 "Jambières de Svaard",107957
 "Garde-poignets d'Ahamid",107958
+"Héraut de Beigarth",107959
 "Arc court de Chorben",107963
 "Fusil-harpon de Svaard",107964
 "Apprêt métabolique infini",107965
@@ -71889,14 +71916,17 @@
 "Empaleur des jumelles",108011
 "Boîte d'armes de gargouille",108014
 "Mousquet de Maklain",108015
+"Visière de Wupwup",108017
 "Boîte d'armes embellies",108023
 "Tassettes de Yassith",108024
 "Espauliers de Hronk",108025
 "Francisque de Toison d'ébène",108028
+"Lame de Nerashi",108029
 "Garde-épaules courseplaines",108030
 "Boîte d'armes de la Fusion",108031
 "Poignes angchus",108034
 "Garde-épaules de Gobrech",108036
+"Héraut de Forgenoire",108038
 "Baguette de Beigarth",108040
 "Jambières de Senestre",108042
 "Grèves angchus",108043
@@ -71925,6 +71955,7 @@
 "Claymore d'Ossa",108090
 "Apparence de Caladbolg Astera",108092
 "Boîte d'armes de l'Ombre du Roi Dément",108096
+"Tassettes des jumelles",108098
 "Garde-épaules de Zintl",108099
 "Revolver de Zehtuka",108103
 "Marteau de guerre de Forgenoire",108104
@@ -71940,11 +71971,14 @@
 "Trancheuse de Mathilde",108125
 "Boîte d'armes stigmatisées",108126
 "Poignes de Yassith",108128
+"Visage du seigneur de la Forge",108129
 "Boîte d'armes de rêve-chardon",108133
 "Aiguillon de Beigarth",108135
 "Boîte d'armes glaciales",108139
+"Espauliers de Beigarth",108140
 "Francisque de Senestre",108143
 "Jambières de Ferratus",108144
+"Masse à ailettes de Forgenoire",108149
 "Harnois de Gobrech",108150
 "Croquenots de Svaard",108152
 "Marteau de guerre de Pierrefend",108153
@@ -71981,6 +72015,7 @@
 "Trancheuse angchu",108212
 "Pourpoint de Yassith",108217
 "Croquenots de Maklain",108220
+"Espauliers angchus",108222
 "Arc court de Tixx",108224
 "Chaussures de Svaard",108227
 "Livrée de Beigarth",108230
@@ -72019,6 +72054,7 @@
 "Pourpoint d'Occam",108298
 "Fusil-harpon de Hronk",108299
 "Francisque de Beigarth",108303
+"Pourpoint de Pahua",108304
 "Empaleur de Theodosus",108309
 "Héraut de Pierrefend",108311
 "Harnois de Zojja",108312
@@ -72041,6 +72077,7 @@
 "Poings de guerre de Senestre",108355
 "Jambières de Wupwup",108356
 "Chaussures d'Ahamid",108361
+"Grèves de Pahua",108364
 "Boîte d'armes forgées dans le givre",108367
 "Grèves de Zintl",108368
 "Fusil-harpon de Wupwup",108370
@@ -72071,6 +72108,7 @@
 "Croquenots des jumelles",108423
 "Masque de Suun",108426
 "Lame de Pierrefend",108427
+"Chaussures de Saphir",108428
 "Arc court de Yassith",108429
 "Masse à ailettes de Togo",108433
 "Empaleur de Grisebabine",108434
@@ -72100,6 +72138,7 @@
 "Chaussures de Yassith",108494
 "Pourpoint d'Ahamid",108496
 "Poings de guerre de Yassith",108497
+"Visage d'Ossa",108498
 "Pourpoint de Morbach",108499
 "Boîte d'armes des lignes de force",108501
 "Harnois de Hronk",108503
@@ -72127,7 +72166,9 @@
 "Chaussures de Zojja",108550
 "Jambières de Hronk",108551
 "Visage de Suun",108556
+"Trancheuse de Zintl",108557
 "Boîte d'armes de l'ombre",108558
+"Masse à ailettes de Beigarth",108560
 "Livrée de Zojja",108561
 "Masse à ailettes des jumelles",108563
 "Héraut de Suun",108568
@@ -72139,20 +72180,24 @@
 "Visage de Senestre",108576
 "Boîte d'armes d'hiver",108580
 "Lame des jumelles",108583
+"Livrée de Zintl",108584
 "Poings de guerre de Suun",108585
 "Boîte d'armes de cavalier",108588
 "Trident de Beigarth",108589
 "Trancheuse des jumelles",108590
 "Empaleur de Suun",108592
+"Culotte courseplaine",108593
 "Francisque de Mathilde",108597
 "Empaleur de Beigarth",108598
 "Pourpoint de Zintl",108600
 "Culotte de Suun",108601
 "Artefact de Mathilde",108606
+"Tassettes de Beigarth",108608
 "Fusil-harpon de Tonn",108609
 "Garde-épaules d'Ahamid",108610
 "Grèves de Wei Qi",108612
 "Francisque de Wupwup",108614
+"Culotte de Pahua",108615
 "Arc court de Zojja",108617
 "Arc court de Theodosus",108619
 "Bastion des jumelles",108622
@@ -72170,15 +72215,18 @@
 "Boîte d'armes liées à l'éther",108646
 "Grèves de Morbach",108651
 "Arc court de Suun",108652
+"Respirateur en tissu de Zojja",108653
 "Boîte d'armes zodiacales",108660
 "Épaulettes de Maklain",108663
 "Culotte de Maklain",108664
 "Masse à ailettes de Svaard",108665
 "Boîte d'armes du scientifique",108668
+"Grèves de Senestre",108670
 "Harnois angchu",108672
 "Garde-épaules angchus",108674
 "Francisque de Yassith",108680
 "Lame de Hronk",108681
+"Épaulettes courseplaines",108685
 "Brasero de Soros",108686
 "Marteau de guerre des jumelles",108688
 "Épaulettes de Yassith",108689
@@ -72197,10 +72245,12 @@
 "Poings de guerre de Ferratus",108712
 "Brasero de Yassith",108713
 "Trancheuse de Tonn",108715
+"Harnois d'Ossa",108716
 "Trancheuse de Suun",108718
 "Harnois de Senestre",108720
 "Fusil-harpon de Toison d'ébène",108724
 "Grand arc de Theodosus",108725
+"Poignes du seigneur de la Forge",108727
 "Grand arc de Zojja",108728
 "Épaulettes de Verata",108731
 "Grèves des jumelles",108732
@@ -72219,6 +72269,7 @@
 "Bastion de Tonn",108768
 "Tassettes de Wupwup",108769
 "Pourpoint des jumelles",108771
+"Masque de Pahua",108772
 "Grèves de Ferratus",108774
 "Boîte d'armes de l'inquisiteur éclairé",108777
 "Masse à ailettes de Zojja",108778
