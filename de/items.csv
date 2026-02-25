@@ -71721,6 +71721,7 @@
 "Suun-Artefakt",107553
 "Zintl-Zauberstab",107555
 "Steppenläufer-Brustplatte",107564
+"Steinspalter-Claymore",107566
 "Orchester-Waffenkiste",107568
 "Ferratus-Schreiter",107569
 "Yassith-Kriegshammer",107570
@@ -71856,6 +71857,7 @@
 "Suun-Schenkelstücke",107840
 "Pahua-Kleidung",107842
 "Svaard-Bastion",107843
+"Zwillinge-Visier",107845
 "Ossa-Bastion",107846
 "Blutstein-Waffenkiste",107847
 "Steinspalter-Artefakt",107848
@@ -71868,6 +71870,7 @@
 "Svaard-Kriegshammer",107863
 "Steppenläufer-Doublet",107864
 "Svaard-Großbogen",107866
+"Saphir-Kriegsfäuste",107867
 "Zintl-Kriegshammer",107868
 "Wupwup-Herold",107869
 "Yassith-Schreiter",107871
@@ -71930,6 +71933,7 @@
 "Zojja-Schnitter",107967
 "Zintl-Handgelenkschutz",107970
 "Nörgelmaul-Harpunenschleuder",107972
+"Linkeprank-Handgelenkschutz",107974
 "\"Blut und Verrücktheit\"-Waffenkiste",107977
 "Togo-Beinschienen",107979
 "\"Sieben Schnitter\"-Waffenkiste",107980
@@ -71939,6 +71943,7 @@
 "Kohlenschmied-Artefakt",107988
 "Wupwup-Blatt-Streitkolben",107992
 "Beigarth-Bastion",107993
+"Beigarth-Beinkleid",107995
 "Nörgelmaul-Kriegshammer",107996
 "Nörgelmaul-Großbogen",107999
 "Maklain-Pfähler",108005
@@ -71948,6 +71953,7 @@
 "Gargoyle-Waffenkiste",108014
 "Maklain-Muskete",108015
 "Wupwup-Visier",108017
+"Hronk-Handgelenkschutz",108021
 "Verschönerte Waffenkiste",108023
 "Yassith-Schenkelstücke",108024
 "Hronk-Schulterschutz",108025
@@ -72285,6 +72291,7 @@
 "Morbach-Beinschienen",108651
 "Suun-Kurzbogen",108652
 "Zojja-Stoff-Atmer",108653
+"Ahamid-Visier",108654
 "Occam-Maske",108657
 "Zodiak-Waffenkiste",108660
 "Maklain-Epauletten",108663
