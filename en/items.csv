@@ -71571,13 +71571,16 @@
 "Endless Ocean Weapon Box",107249
 "Saphir's Leggings",107254
 "Theodosus's Flanged Mace",107255
+"Beigarth's Artifact",107256
 "Gobrech's Visor",107260
 "Tonn's Claymore",107263
+"Suun's Bastion",107264
 "Zehtuka's Razor",107266
 "Leftpaw's Brazier",107270
 "Occam's Artifact",107271
 "Zojja's Claymore",107273
 "Yassith's Revolver",107276
+"Forgemaster's Masque",107277
 "Svaard's Masque",107278
 "Verata's Razor",107280
 "Zintl Impaler",107284
@@ -71709,6 +71712,7 @@
 "Wupwup Impaler",107548
 "Hronk's Guise",107549
 "Coalforge's Impaler",107552
+"Suun's Artifact",107553
 "Zintl Wand",107555
 "Veldrunner Breastplate",107564
 "Orchestral Weapon Box",107568
@@ -71740,6 +71744,7 @@
 "Svaard's Spire",107640
 "Ferratus's Footwear",107641
 "Ahamid's Striders",107643
+"Chorben's Musket",107644
 "Saphir's Breastplate",107648
 "Maklain's Footwear",107651
 "Occam's Tassets",107652
@@ -71753,6 +71758,7 @@
 "Zojja's Doublet",107667
 "Suun's Visor",107670
 "Maklain's Visage",107672
+"Pahua's Revolver",107676
 "Beigarth's Warfists",107678
 "Chorben's Greatbow",107680
 "The Twins' Brazier",107682
@@ -71790,6 +71796,7 @@
 "Coalforge's Reaver",107745
 "Zehtuka's Footwear",107747
 "Zintl Breastplate",107748
+"The Twins' Footwear",107750
 "Wupwup Guise",107752
 "Wupwup Epaulets",107753
 "Svaard's Doublet",107756
@@ -71813,6 +71820,7 @@
 "Tizlak's Claymore",107801
 "Wupwup Warhammer",107802
 "Hronk's Brazier",107803
+"Chorben's Claymore",107806
 "Hronk's Razor",107812
 "Zintl Visor",107815
 "Ferratus's Masque",107816
@@ -71899,6 +71907,7 @@
 "Svaard's Harpoon Gun",107964
 "Infinite Metabolic Primer",107965
 "Zojja's Razor",107967
+"Zintl Wristguards",107970
 "Grizzlemouth's Harpoon Gun",107972
 "Blood and Madness Weapon Box",107977
 "Seven Reapers Weapon Box",107980
@@ -71927,6 +71936,7 @@
 "Angchu Grips",108034
 "Gobrech's Shoulderguard",108036
 "Coalforge's Herald",108038
+"Forgemaster's Epaulets",108039
 "Beigarth's Wand",108040
 "Leftpaw's Leggings",108042
 "Angchu Greaves",108043
@@ -71944,6 +71954,7 @@
 "Tonn's Blade",108069
 "Mathilde's Musket",108070
 "Crimson Lion Weapon Box",108071
+"Angchu Wand",108075
 "Zojja's Revolver",108077
 "Svaard's Warfists",108078
 "Ahamid's Warfists",108082
@@ -72048,11 +72059,13 @@
 "Ossa's Spire",108284
 "Zojja's Masque",108285
 "Grizzlemouth's Wand",108286
+"Pahua's Spire",108287
 "Soros's Blade",108289
 "Svaard's Blade",108290
 "Phoenix Weapon Box",108296
 "Occam's Doublet",108298
 "Hronk's Harpoon Gun",108299
+"Wei Qi's Wristguards",108300
 "Beigarth's Reaver",108303
 "Pahua's Doublet",108304
 "Theodosus's Impaler",108309
@@ -72078,6 +72091,7 @@
 "Wupwup Leggings",108356
 "Ahamid's Footwear",108361
 "Pahua's Greaves",108364
+"The Twins' Herald",108365
 "Frostforged Weapon Box",108367
 "Zintl Greaves",108368
 "Wupwup Harpoon Gun",108370
@@ -72131,6 +72145,7 @@
 "Hronk's Revolver",108472
 "Maklain's Leggings",108473
 "Ferratus's Breeches",108477
+"Saphir's Epaulets",108480
 "Suun's Guise",108482
 "Mathilde's Warhammer",108485
 "Equinox Weapon Box",108488
@@ -72165,6 +72180,7 @@
 "Maklain's Shoulderguard",108549
 "Zojja's Footwear",108550
 "Hronk's Leggings",108551
+"Verata's Breeches",108553
 "Suun's Visage",108556
 "Zintl Razor",108557
 "Shadow Weapon Box",108558
@@ -72277,6 +72293,7 @@
 "Maklain's Grips",108783
 "Hronk's Footwear",108784
 "Suun's Greatbow",108785
+"Zintl Striders",108787
 "Magical Weapon Box",108789
 "Theodosus's Bastion",108792
 "Occam's Spire",108795
