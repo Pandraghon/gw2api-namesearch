@@ -71675,6 +71675,7 @@
 "Svaard's Impaler",107433
 "Zojja's Brazier",107435
 "Occam's Guise",107436
+"Saphir's Guise",107440
 "Gallant Weapon Box",107442
 "Zintl Trident",107443
 "Ossa's Musket",107447
@@ -71707,6 +71708,7 @@
 "Infinite Utility Primer",107498
 "Leftpaw's Visor",107500
 "Svaard's Musket",107501
+"Zintl Leggings",107502
 "Chorben's Trident",107503
 "Wupwup Greaves",107504
 "Beigarth's Visage",107506
@@ -71742,6 +71744,7 @@
 "Ossa's Leather Breather",107560
 "Veldrunner Breastplate",107564
 "Stonecleaver's Claymore",107566
+"Suun's Grips",107567
 "Orchestral Weapon Box",107568
 "Ferratus's Striders",107569
 "Yassith's Warhammer",107570
@@ -71796,13 +71799,16 @@
 "Zehtuka's Pauldrons",107668
 "Suun's Visor",107670
 "Maklain's Visage",107672
+"Tixx's Musket",107675
 "Pahua's Revolver",107676
 "Beigarth's Warfists",107678
 "Tateos's Visage",107679
 "Chorben's Greatbow",107680
+"Veldrunner Masque",107681
 "The Twins' Brazier",107682
 "Maklain's Reaver",107684
 "Zintl Greatbow",107685
+"Angchu Tassets",107686
 "Caladbolg Urtica",107687
 "Venombite Weapon Box",107688
 "Angchu Impaler",107689
@@ -71849,6 +71855,7 @@
 "Chorben's Flanged Mace",107746
 "Zehtuka's Footwear",107747
 "Zintl Breastplate",107748
+"Tizlak's Reaver",107749
 "The Twins' Footwear",107750
 "Tonn's Trident",107751
 "Wupwup Guise",107752
@@ -72082,6 +72089,7 @@
 "Yassith's Grips",108128
 "Forgemaster's Visage",108129
 "Dreamthistle Weapon Box",108133
+"Leftpaw's Warhammer",108134
 "Beigarth's Spire",108135
 "Togo's Tassets",108137
 "Glacial Weapon Box",108139
@@ -72129,6 +72137,7 @@
 "Yassith's Wand",108210
 "Veldrunner Warfists",108211
 "Angchu Razor",108212
+"Forgemaster's Footwear",108214
 "Ebonmane's Revolver",108216
 "Yassith's Doublet",108217
 "Maklain's Striders",108220
@@ -72257,6 +72266,7 @@
 "Stonecleaver's Blade",108427
 "Saphir's Footwear",108428
 "Yassith's Short Bow",108429
+"Maklain's Razor",108431
 "Beigarth's Musket",108432
 "Togo's Flanged Mace",108433
 "Grizzlemouth's Impaler",108434
@@ -72359,6 +72369,7 @@
 "Zehtuka's Breastplate",108596
 "Mathilde's Reaver",108597
 "Beigarth's Impaler",108598
+"Ebonmane's Warhammer",108599
 "Zintl Doublet",108600
 "Suun's Breeches",108601
 "Maklain's Trident",108602
@@ -72428,6 +72439,7 @@
 "Tonn's Razor",108715
 "Ossa's Breastplate",108716
 "Suun's Razor",108718
+"Keeper's Wand",108719
 "Leftpaw's Breastplate",108720
 "Gobrech's Footwear",108721
 "Ebonmane's Harpoon Gun",108724

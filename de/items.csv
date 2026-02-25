@@ -71675,6 +71675,7 @@
 "Svaard-Pfähler",107433
 "Zojja-Flammenschale",107435
 "Occam-Kleidung",107436
+"Saphir-Kleidung",107440
 "Galan-Waffenkiste",107442
 "Zintl-Dreizack",107443
 "Ossa-Muskete",107447
@@ -71707,6 +71708,7 @@
 "Unendlicher Versorgungsstarter",107498
 "Linkeprank-Visier",107500
 "Svaard-Muskete",107501
+"Zintl-Beinkleid",107502
 "Chorben-Dreizack",107503
 "Wupwup-Beinschienen",107504
 "Beigarth-Antlitz",107506
@@ -71742,6 +71744,7 @@
 "Ossa-Leder-Atmer",107560
 "Steppenläufer-Brustplatte",107564
 "Steinspalter-Claymore",107566
+"Suun-Greifer",107567
 "Orchester-Waffenkiste",107568
 "Ferratus-Schreiter",107569
 "Yassith-Kriegshammer",107570
@@ -71796,13 +71799,16 @@
 "Zehtuka-Schulterschutz",107668
 "Suun-Visier",107670
 "Maklain-Antlitz",107672
+"Tixx-Muskete",107675
 "Pahua-Revolver",107676
 "Beigarth-Kriegsfäuste",107678
 "Tateos-Antlitz",107679
 "Chorben-Großbogen",107680
+"Steppenläufer-Maske",107681
 "Zwillinge-Flammenschale",107682
 "Maklain-Spalter",107684
 "Zintl-Großbogen",107685
+"Angchu-Schenkelstücke",107686
 "Caladbolg Urtica",107687
 "Giftbiss-Waffenkiste",107688
 "Angchu-Pfähler",107689
@@ -71849,6 +71855,7 @@
 "Chorben-Blatt-Streitkolben",107746
 "Zehtuka-Schuhwerk",107747
 "Zintl-Brustplatte",107748
+"Tizlak-Spalter",107749
 "Zwillinge-Schuhwerk",107750
 "Tonn-Dreizack",107751
 "Wupwup-Kleidung",107752
@@ -72082,6 +72089,7 @@
 "Yassith-Greifer",108128
 "Schmiedemeister-Antlitz",108129
 "Traumdistel-Waffenkiste",108133
+"Linkeprank-Kriegshammer",108134
 "Beigarth-Zackenstab",108135
 "Togo-Schenkelstücke",108137
 "Gletscher-Waffenkiste",108139
@@ -72129,6 +72137,7 @@
 "Yassith-Zauberstab",108210
 "Steppenläufer-Kriegsfäuste",108211
 "Angchu-Schnitter",108212
+"Schmiedemeister-Schuhwerk",108214
 "Schwarzmähne-Revolver",108216
 "Yassith-Doublet",108217
 "Maklain-Schreiter",108220
@@ -72257,6 +72266,7 @@
 "Steinspalter-Klinge",108427
 "Saphir-Schuhwerk",108428
 "Yassith-Kurzbogen",108429
+"Maklain-Schnitter",108431
 "Beigarth-Muskete",108432
 "Togo-Blatt-Streitkolben",108433
 "Nörgelmaul-Pfähler",108434
@@ -72359,6 +72369,7 @@
 "Zehtuka-Brustplatte",108596
 "Mathilde-Spalter",108597
 "Beigarth-Pfähler",108598
+"Schwarzmähne-Kriegshammer",108599
 "Zintl-Doublet",108600
 "Suun-Stiefelhose",108601
 "Maklain-Dreizack",108602
@@ -72428,6 +72439,7 @@
 "Tonn-Schnitter",108715
 "Ossa-Brustplatte",108716
 "Suun-Schnitter",108718
+"Hüter-Zauberstab",108719
 "Linkeprank-Brustplatte",108720
 "Gobrech-Schuhwerk",108721
 "Schwarzmähne-Harpunenschleuder",108724
