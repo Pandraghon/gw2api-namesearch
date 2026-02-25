@@ -71561,6 +71561,7 @@
 "Rezept: Qadim-Pylon",107231
 "Rezept: Dhuums Fackel",107233
 "Mordy-Plüschtier",107234
+"Schmiedemeister-Beinschienen",107237
 "Morbach-Visier",107238
 "Zeitmesser-Waffenkiste",107240
 "Hronk-Stiefelhose",107241
@@ -71572,6 +71573,8 @@
 "Saphir-Beinkleid",107254
 "Theodosus-Blatt-Streitkolben",107255
 "Beigarth-Artefakt",107256
+"Togo-Kleidung",107257
+"Gobrech-Doublet",107258
 "Gobrech-Visier",107260
 "Tonn-Blatt-Streitkolben",107261
 "Angchu-Revolver",107262
@@ -71655,6 +71658,7 @@
 "Hronk-Spalter",107406
 "Ruka-Schenkelstücke",107411
 "Angchu-Muskete",107412
+"Togo-Flammenschale",107416
 "Schmiedemeister-Schreiter",107417
 "Ferratus-Brustplatte",107419
 "Zwillinge-Handgelenkschutz",107420
@@ -71855,6 +71859,7 @@
 "Beigarth-Schnitter",107781
 "Schwarzmähne-Dreizack",107782
 "Nörgelmaul-Muskete",107784
+"Nerashi-Schnitter",107786
 "Schwarzmähne-Pfähler",107788
 "Saphir-Greifer",107789
 "Angchu-Großbogen",107790
@@ -71911,6 +71916,7 @@
 "Yassith-Schreiter",107871
 "Theodosus-Schnitter",107872
 "Theodosus-Dreizack",107874
+"Hronk-Zauberstab",107875
 "Zehtuka-Kriegshammer",107877
 "Occam-Harpunenschleuder",107878
 "Soros-Revolver",107881
@@ -72031,12 +72037,14 @@
 "Angchu-Zauberstab",108075
 "Zojja-Revolver",108077
 "Svaard-Kriegsfäuste",108078
+"Theodosus-Klinge",108081
 "Ahamid-Kriegsfäuste",108082
 "Saphir-Antlitz",108083
 "Nörgelmaul-Bastion",108084
 "Thackeray-Doublet",108086
 "Schmiedemeister-Doublet",108087
 "Suun-Handgelenkschutz",108088
+"Togo-Brustplatte",108089
 "Ossa-Claymore",108090
 "Zehtuka-Schreiter",108091
 "Skin für Caladbolg Astera",108092
@@ -72067,6 +72075,7 @@
 "Togo-Schenkelstücke",108137
 "Gletscher-Waffenkiste",108139
 "Beigarth-Schulterschutz",108140
+"Ruka-Klinge",108142
 "Linkeprank-Spalter",108143
 "Ferratus-Beinkleid",108144
 "Kohlenschmied-Blatt-Streitkolben",108149
@@ -72126,6 +72135,7 @@
 "Pahua-Schuhwerk",108238
 "Togo-Kurzbogen",108239
 "Togo-Spalter",108240
+"Angchu-Maske",108242
 "Soros-Dreizack",108243
 "Togo-Pfähler",108245
 "Wupwup-Schreiter",108246
@@ -72240,6 +72250,7 @@
 "Suun-Beinschienen",108437
 "Beigarth-Brustplatte",108439
 "Ruka-Spalter",108440
+"Yassith-Dreizack",108441
 "Zehtuka-Greifer",108445
 "Mathilde-Flammenschale",108446
 "Hronk-Großbogen",108448
@@ -72265,6 +72276,7 @@
 "Suun-Kleidung",108482
 "Mathilde-Kriegshammer",108485
 "Equinox-Waffenkiste",108488
+"Togo-Beinkleid",108489
 "Ossa-Pfähler",108490
 "Theodosus-Zackenstab",108491
 "Yassith-Schuhwerk",108494

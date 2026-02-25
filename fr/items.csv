@@ -71561,6 +71561,7 @@
 "Recette : pylône de Qadim",107231
 "Recette : torche de Dhuum",107233
 "Mordy en peluche",107234
+"Grèves du seigneur de la Forge",107237
 "Visière de Morbach",107238
 "Boîte d'armes du gardien du temps",107240
 "Culotte de Hronk",107241
@@ -71572,6 +71573,8 @@
 "Jambières de Saphir",107254
 "Masse à ailettes de Theodosus",107255
 "Artefact de Beigarth",107256
+"Livrée de Togo",107257
+"Pourpoint de Gobrech",107258
 "Visière de Gobrech",107260
 "Masse à ailettes de Tonn",107261
 "Revolver angchu",107262
@@ -71655,6 +71658,7 @@
 "Francisque de Hronk",107406
 "Tassettes de Ruka",107411
 "Mousquet angchu",107412
+"Brasero de Togo",107416
 "Croquenots du seigneur de la Forge",107417
 "Harnois de Ferratus",107419
 "Garde-poignets des jumelles",107420
@@ -71855,6 +71859,7 @@
 "Trancheuse de Beigarth",107781
 "Trident de Toison d'ébène",107782
 "Mousquet de Grisebabine",107784
+"Trancheuse de Nerashi",107786
 "Empaleur de Toison d'ébène",107788
 "Poignes de Saphir",107789
 "Grand arc angchu",107790
@@ -71911,6 +71916,7 @@
 "Croquenots de Yassith",107871
 "Trancheuse de Theodosus",107872
 "Trident de Theodosus",107874
+"Baguette de Hronk",107875
 "Marteau de guerre de Zehtuka",107877
 "Fusil-harpon d'Occam",107878
 "Revolver de Soros",107881
@@ -72031,12 +72037,14 @@
 "Baguette angchu",108075
 "Revolver de Zojja",108077
 "Poings de guerre de Svaard",108078
+"Lame de Theodosus",108081
 "Poings de guerre d'Ahamid",108082
 "Visage de Saphir",108083
 "Bastion de Grisebabine",108084
 "Pourpoint de Thackeray",108086
 "Pourpoint du seigneur de la Forge",108087
 "Garde-poignets de Suun",108088
+"Harnois de Togo",108089
 "Claymore d'Ossa",108090
 "Croquenots de Zehtuka",108091
 "Apparence de Caladbolg Astera",108092
@@ -72067,6 +72075,7 @@
 "Tassettes de Togo",108137
 "Boîte d'armes glaciales",108139
 "Espauliers de Beigarth",108140
+"Lame de Ruka",108142
 "Francisque de Senestre",108143
 "Jambières de Ferratus",108144
 "Masse à ailettes de Forgenoire",108149
@@ -72126,6 +72135,7 @@
 "Chaussures de Pahua",108238
 "Arc court de Togo",108239
 "Francisque de Togo",108240
+"Masque angchu",108242
 "Trident de Soros",108243
 "Empaleur de Togo",108245
 "Croquenots de Wupwup",108246
@@ -72240,6 +72250,7 @@
 "Grèves de Suun",108437
 "Harnois de Beigarth",108439
 "Francisque de Ruka",108440
+"Trident de Yassith",108441
 "Poignes de Zehtuka",108445
 "Brasero de Mathilde",108446
 "Grand arc de Hronk",108448
@@ -72265,6 +72276,7 @@
 "Livrée de Suun",108482
 "Marteau de guerre de Mathilde",108485
 "Boîte d'armes de l'équinoxe",108488
+"Jambières de Togo",108489
 "Empaleur d'Ossa",108490
 "Aiguillon de Theodosus",108491
 "Chaussures de Yassith",108494

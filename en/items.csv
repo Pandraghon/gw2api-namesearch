@@ -71561,6 +71561,7 @@
 "Recipe: Qadim Pylon",107231
 "Recipe: Dhuum's Torch",107233
 "Mordy Plush",107234
+"Forgemaster's Greaves",107237
 "Morbach's Visor",107238
 "Timekeeper Weapon Box",107240
 "Hronk's Breeches",107241
@@ -71572,6 +71573,8 @@
 "Saphir's Leggings",107254
 "Theodosus's Flanged Mace",107255
 "Beigarth's Artifact",107256
+"Togo's Guise",107257
+"Gobrech's Doublet",107258
 "Gobrech's Visor",107260
 "Tonn's Flanged Mace",107261
 "Angchu Revolver",107262
@@ -71655,6 +71658,7 @@
 "Hronk's Reaver",107406
 "Ruka's Tassets",107411
 "Angchu Musket",107412
+"Togo's Brazier",107416
 "Forgemaster's Striders",107417
 "Ferratus's Breastplate",107419
 "The Twins' Wristguards",107420
@@ -71855,6 +71859,7 @@
 "Beigarth's Razor",107781
 "Ebonmane's Trident",107782
 "Grizzlemouth's Musket",107784
+"Nerashi's Razor",107786
 "Ebonmane's Impaler",107788
 "Saphir's Grips",107789
 "Angchu Greatbow",107790
@@ -71911,6 +71916,7 @@
 "Yassith's Striders",107871
 "Theodosus's Razor",107872
 "Theodosus's Trident",107874
+"Hronk's Wand",107875
 "Zehtuka's Warhammer",107877
 "Occam's Harpoon Gun",107878
 "Soros's Revolver",107881
@@ -72031,12 +72037,14 @@
 "Angchu Wand",108075
 "Zojja's Revolver",108077
 "Svaard's Warfists",108078
+"Theodosus's Blade",108081
 "Ahamid's Warfists",108082
 "Saphir's Visage",108083
 "Grizzlemouth's Bastion",108084
 "Thackeray's Doublet",108086
 "Forgemaster's Doublet",108087
 "Suun's Wristguards",108088
+"Togo's Breastplate",108089
 "Ossa's Claymore",108090
 "Zehtuka's Striders",108091
 "Caladbolg Astera Skin",108092
@@ -72067,6 +72075,7 @@
 "Togo's Tassets",108137
 "Glacial Weapon Box",108139
 "Beigarth's Pauldrons",108140
+"Ruka's Blade",108142
 "Leftpaw's Reaver",108143
 "Ferratus's Leggings",108144
 "Coalforge's Flanged Mace",108149
@@ -72126,6 +72135,7 @@
 "Pahua's Footwear",108238
 "Togo's Short Bow",108239
 "Togo's Reaver",108240
+"Angchu Masque",108242
 "Soros's Trident",108243
 "Togo's Impaler",108245
 "Wupwup Striders",108246
@@ -72240,6 +72250,7 @@
 "Suun's Greaves",108437
 "Beigarth's Breastplate",108439
 "Ruka's Reaver",108440
+"Yassith's Trident",108441
 "Zehtuka's Grips",108445
 "Mathilde's Brazier",108446
 "Hronk's Greatbow",108448
@@ -72265,6 +72276,7 @@
 "Suun's Guise",108482
 "Mathilde's Warhammer",108485
 "Equinox Weapon Box",108488
+"Togo's Leggings",108489
 "Ossa's Impaler",108490
 "Theodosus's Spire",108491
 "Yassith's Footwear",108494
