@@ -51640,7 +51640,7 @@
 "Coffre-fort vermeil",79215
 "Zone de cristaux de pierre de sang",79217
 "Tenue d'exécuteur verdoyant",79220
-"Envol tactique",79221
+"Vol tactique",79221
 "Magie déliée",79222
 "Sacoche en fourrure élaborée",79224
 "Boîte de couronne en pierre de sang",79225
@@ -60724,11 +60724,11 @@
 "Marteau boréal restauré",92230
 "Flanchet d'ours",92234
 "Apparence de bouclier boréal ancien",92235
-"Mission d'attaque : petit coffre de vigilance perdu",92236
+"Combat de raid : petit coffre de vigilance perdu",92236
 "Lettre de manipulation d'essence",92237
 "Recette : cor de guerre boréal illuminé",92240
 "Conteneur d'apparences d'arme boréale ancienne",92241
-"Mission d'attaque : coffre moyen de vigilance perdu",92242
+"Combat de raid : coffre moyen de vigilance perdu",92242
 "Un fardeau",92243
 "Sceptre boréal restauré",92244
 "Flanchet de désosseur",92246
@@ -60740,7 +60740,7 @@
 "Recette : épée boréale illuminée",92254
 "Apparence de prix du désosseur",92255
 "Heaume léger d'Apaizdragon",92256
-"Mission d'attaque : petit coffre de résilience perdu",92257
+"Combat de raid : petit coffre de résilience perdu",92257
 "Apparence de fusil boréal ancien",92260
 "Bouclier boréal restauré",92261
 "Recette : marteau boréal restauré",92262
@@ -60781,13 +60781,13 @@
 "Fiole de teinture bleue raffinée du Lion noir",92312
 "Fiole de teinture bleue chef-d'œuvre du Lion noir",92313
 "Déverrouillage d'histoire : \"Murmure dans la nuit\"",92314
-"Mission d'attaque : petit coffre de bravoure perdu",92316
+"Combat de raid : petit coffre de bravoure perdu",92316
 "Lingot d'eitrite",92317
 "Mini-Almorra Garde-âme",92321
 "Apparence d'épée boréale ancienne",92322
 "Recette : sceptre boréal restauré",92324
 "Tonique de désosseur inépuisable",92327
-"Mission d'attaque : coffre moyen de bravoure perdu",92330
+"Combat de raid : coffre moyen de bravoure perdu",92330
 "Dague boréale restaurée",92331
 "Recette : lingot d'eitrite",92333
 "Coffre du héros du Corbeau",92338
@@ -60817,7 +60817,7 @@
 "Recette : dague boréale illuminée",92366
 "Focus boréal restauré",92367
 "Œil du Corbeau",92368
-"Mission d'attaque : coffre moyen de résilience perdu",92369
+"Combat de raid : coffre moyen de résilience perdu",92369
 "Apparence de hache boréale ancienne",92370
 "Recette : hache boréale illuminée",92371
 "Recette : arc court boréal restauré",92372
@@ -61062,7 +61062,7 @@
 "Ouvrage de portail de l'Épopée du givre",92694
 "Arc long boréal illuminé",92695
 "Brassards de cérémonie du Corbeau",92696
-"Mission d'attaque : grand coffre de bravoure perdu",92697
+"Combat de raid : grand coffre de bravoure perdu",92697
 "Mini-Esprit du Taureau corrompu",92699
 "Sandales de cérémonie du Corbeau",92701
 "Dague boréale illuminée",92702
@@ -61115,10 +61115,10 @@
 "Toge de cérémonie du Corbeau",92768
 "Coupon du sanctuaire de l'Aigle corrompu",92770
 "Masse boréale illuminée",92771
-"Mission d'attaque : grand coffre de vigilance perdu",92772
+"Combat de raid : grand coffre de vigilance perdu",92772
 "Conteneur de tonique de Cherchenuée inépuisable",92773
 "Capuchon de cérémonie du Corbeau",92774
-"Mission d'attaque : grand coffre de résilience perdu",92775
+"Combat de raid : grand coffre de résilience perdu",92775
 "Mini-murmure de Jormag",92777
 "Casque de golem de glace",92779
 "Capuchon de cérémonie du Corbeau",92780
@@ -65219,7 +65219,7 @@
 "Salve de magie instable",98045
 "Combo de sac à dos et deltaplane à ailes de technologie de jade",98047
 "",98048
-"Envol tactique",98049
+"Vol tactique",98049
 "Boucle propulsive du Percegarde",98050
 "",98052
 "Déverrouillage d'histoire : S1E1",98053

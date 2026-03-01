@@ -4624,7 +4624,7 @@
 "Prioritätsangriff: \"Stimme der Gefallenen und Klaue der Gefallenen\"",5207
 "Ryland Stahlfängers Fußstapfen",5208
 "Schatzsuche in Düsterfels",5209
-"Prioritätsangriff: \"Geflüster des Jormag\"",5210
+"Prioritäts-Schlachtzugbegegnung: Geflüster des Jormag",5210
 "Ausgestattet für den Norden",5211
 "Späher",5212
 "Wappen des Sieges",5213
@@ -6451,7 +6451,7 @@
 "Beschützer der Jade-Mech-Siedlungszone 03",7159
 "Legendäre Waffe: Knaller",7161
 "Mutter der Sterne",7162
-"Angriffsmission \"Kosmisches Observatorium\"",7163
+"Schlachtzugbegegnung \"Kosmisches Observatorium\"",7163
 "Keine Ruhe für die Kryptis",7164
 "Lacht, als würde Lyhr Euch zusehen",7165
 "Rissjagd an den Baumgrenzen-Fällen",7167
@@ -6641,7 +6641,7 @@
 "Sammler Abscheulicher Waffen",7675
 "Oneiros-gesponnene Rüstung",7676
 "Schnellstart: Geschenk aus den Nebeln",7677
-"Legendäre Angriffsmission \"Kosmisches Observatorium\"",7678
+"Legendäre Schlachtzugbegegnung \"Kosmisches Observatorium\"",7678
 "Überfälle an der Trockenkuppe",7679
 "Alle gemeinsam",7680
 "Rissjagd in der Stadt Neu-Kaineng",7681
@@ -8005,7 +8005,7 @@
 "Evon Schlitzklinges \"Geburtstagsfeier\": Anmeldung",9098
 "Raubzug von Evon Schlitzklinge: Gold",9099
 "Schlachtzug-Mentor: Zwillings-Largos",9100
-"Relics—Visions of Eternity Set 2",9101
+"Relikte – Visions of Eternity, Set 2",9101
 "\"Brillanz des Malers\"-Waffensammlung",9102
 "Schlachtzug-Kopfgeld: Samarog",9103
 "Schlachtzug-Mentor: Cairn",9104
@@ -8035,7 +8035,6 @@
 "Ungeschlagen: Mythenschreiber-Wagnis",9130
 "Schlachtzug-Kopfgeld: Geflüster des Jormag",9131
 "Castora-Korallen: Gewölbe-Auftrag",9132
-"Schlachtzug-Mentor: Seelenloser Schrecken",9133
 "Schlachtzug-Kopfgeld: Tempel von Febe",9134
 "Schlachtzug-Kopfgeld: Faultierion",9135
 "Schlachtzug-Mentor: Festenkonstrukt",9136
@@ -8107,11 +8106,9 @@
 "Einsatz vor Ort: Tiefland-Küste",9212
 "Janthir Wilds erneut durchleben",9213
 "Janthir-Heimkehr",9215
-"Tägliches Bava Nisos",9216
 "Tägliche Tiefland-Küste",9217
 "Lichtung des Wächters",9218
 "Rückkehr zu Janthir Wilds",9219
-"Rache der Titanen",9220
 "Formen des Dorns",9221
 "Tägliche Janthir-Risse",9222
 "Träumerei eines Dorns",9223
