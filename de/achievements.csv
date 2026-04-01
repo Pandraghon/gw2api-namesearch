@@ -4967,7 +4967,7 @@
 "Tägliche Drachenhilfe-Mission der Felder der Verwüstung",5571
 "Tägliche Drachenhilfe-Mission der Schneekuhlenhöhen",5574
 "Gedehnte Ziele",5575
-"Wöchentliche Cantha-Angriffsmissionen",5577
+"Wöchentliche Cantha-Schlachtzugbegegnungen",5577
 "Not-Dracheninterventionist: Schneekuhlenhöhen",5578
 "Not-Dracheninterventionist: Feste Donnerkopf",5579
 "Schlächterwellen",5580
@@ -5658,7 +5658,7 @@
 "Täglicher \"End of Dragons\"-Holzfäller",6304
 "Kriegsführung im Wald",6305
 "Die verwunschene Warte",6306
-"Prioritäts-Cantha-Angriffsmission: Erntetempel",6307
+"Prioritäts-Cantha-Schlachtzugbegegnung: Erntetempel",6307
 "Täglicher Zuchtmeister der Stadt Neu-Kaineng",6308
 "Bogenschießen vom Feinsten",6309
 "Vorbote von Zhaitan",6310
@@ -5677,7 +5677,7 @@
 "Täglicher \"End of Dragons\"-Panorama-Genießer",6324
 "Vereitelte Rache",6325
 "Der wiedergeborene Zyklus",6326
-"Prioritäts-Cantha-Angriffsmission: Kaineng-Aussichtspunkt",6327
+"Prioritäts-Cantha-Schlachtzugbegegnung: Kaineng-Aussichtspunkt",6327
 "Cantha durchwandern",6328
 "Das System ist aus",6329
 "Ascalonischer Fischer",6330
@@ -5702,7 +5702,7 @@
 "Unbesiegt",6350
 "Einsicht Echowald-Wildnis: Katakomben der Altrumm-Minen",6351
 "Fische sind Freunde",6352
-"Prioritäts-Cantha-Angriffsmission: Ätherklingen-Unterschlupf",6353
+"Prioritäts-Cantha-Schlachtzugbegegnung: Ätherklingen-Unterschlupf",6353
 "Ätherklingen-Unterschlupf",6354
 "Einspruch!",6355
 "Verlorene Überlieferung",6356
@@ -5806,7 +5806,7 @@
 "Rohrreiniger",6454
 "Albax der Pechvogel",6455
 "Unbefleckter Geist",6456
-"Prioritäts-Cantha-Angriffsmission: Xunlai-Jade-Schrottplatz",6457
+"Prioritäts-Cantha-Schlachtzugbegegnung: Xunlai-Jade-Schrottplatz",6457
 "Valdhertz-Sieger",6458
 "Meister-Vorbote",6459
 "Probleme aus der Tiefe",6460
@@ -5841,7 +5841,7 @@
 "Mech-Verhaltensanalyse",6490
 "Fast schlau",6491
 "Täglicher Fischer: Herz von Maguuma",6492
-"Die Große Flucht",6493
+"Gesprengte Ketten",6493
 "Berühmter Abenteurer: Provinz Seitung",6494
 "Läuterung",6495
 "Drachen-Befriedung",6496
@@ -6447,7 +6447,7 @@
 "Weniger obskure Geheimnisse",7151
 "Allgegenwärtige erzwungene Obskurität",7152
 "Prioritätsangriff Horn von Maguuma: Tempel von Febe",7154
-"Wöchentliche Angriffsmissionen in \"Secrets of the Obscure\"",7155
+"Wöchentliche Schlachtzugbegegnungen in \"Secrets of the Obscure\"",7155
 "Beschützer der Jade-Mech-Siedlungszone 03",7159
 "Legendäre Waffe: Knaller",7161
 "Mutter der Sterne",7162
@@ -8064,9 +8064,7 @@
 "Schlachtzug-Kopfgeld: Zwillings-Largos",9162
 "Schlachtzug-Kopfgeld: Festenkonstrukt",9163
 "Totalausfall: Schlüssel von Ahdashim",9164
-"Schlachtzug-Mentor: Sabir",9165
 "Schlachtzug-Mentor: Deimos",9166
-"Schlachtzug-Mentor: Dhuum",9167
 "Schlachtzug-Kopfgeld: Erntetempel",9168
 "Schlachtzug-Mentor: Gorseval",9169
 "Schlachtzug-Mentor: Beschworene Verschmelzung",9171
@@ -8125,5 +8123,4 @@
 "Legendäre Lichtung des Wächters",9227
 "Einsatz vor Ort: Nebelbrand-Ödland",9228
 "(Täglich) Vision der Unendlichkeit",9229
-"Weltenboss-Ansturm-Freiwilliger",9230
 "(Jährlich) Vision der Unendlichkeit",9231
