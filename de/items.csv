@@ -36579,7 +36579,7 @@
 "Wach-Geschützturm",49926
 "Luftschlag-Granate",49927
 "Angesengte Golem-Teile",49929
-"Boxhandschuhe",49930
+"Raufhandschuhe",49930
 "Hexenbesen",49931
 "Verzauberter Besen",49932
 "Rosenstrauß",49933
@@ -43684,19 +43684,19 @@
 "Skin für Sturmwind-Kriegshorn",67072
 "Skin für Chaos-Dreizack",67073
 "Skin für Chaos-Gewehr",67074
-"Dürre-Inquestur-Lager",67075
+"Dürre-Inquestur-Depot",67075
 "Veteran Dürre-Skritt-Lager",67077
 "Dürre-Verschlinger-Lager",67078
 "Rankenbewachsenes Veteran-Lager",67079
 "Staubmilben-Lager",67080
 "Veteran-Lager: Staubmilben",67081
-"Champion-Lager: Dürre-Inquestur",67082
+"Champion-Dürre-Inquestur-Depot",67082
 "Makelloses sandgeschnitztes Lager",67084
 "Dürre-Skritt-Lager",67085
 "Champion-Lager: Dürre-Verschlinger",67086
 "Champion-Lager: Staubmilben",67087
 "Rankenbewachsenes Champion-Lager",67089
-"Veteran-Lager: Dürre-Inquestur",67090
+"Dürre-Inquestur-Depot",67090
 "Dürre-Ranken-Lager",67091
 "Skin für strahlenden Brustschutz",67092
 "Skin für strahlenden Beinschutz",67093
@@ -44300,7 +44300,7 @@
 "Champion-Lager: Mordrem-Hülle",68024
 "Champion-Lager: Mordrem-Troll",68025
 "Veteran-Lager: Staubmilben",68026
-"Veteran-Lager: Dürre-Inquestur",68028
+"Veteran-Dürre-Inquestur-Depot",68028
 "Kiste mit Rüstung der Kriegsklaue",68029
 "Rankenbewachsenes Veteran-Lager",68030
 "Veteran-Lager: Dürre-Skritt",68031
@@ -69657,7 +69657,7 @@
 "Heimstatt-Dekoration: Café-Stuhl (3)",104506
 "Belohnungslager aus Regionen von Tyria",104507
 "Aufwertung: Trinkgeld (Minimum 30 %)",104508
-"\"April, April\"-Beutekiste",104509
+"April, April\"-Beutekiste",104509
 "Café-Aktivierungsmarke",104510
 "Aufwertung: Essen (Qualitätskonserve)",104511
 "Kurzick-Baumbarden-Großschwert",104512
@@ -71336,7 +71336,6 @@
 "Glückslaterne des Pferdes",106903
 "Skin für Inquestur-Stachelhandschuhe",106904
 "Rezept: Pferdestatue",106905
-"Dämonische Infusion",106906
 "Wandgiebel 360 x 200",106908
 "\"Eisbrut-Saga\"-Schlachtzugbegegnungs-Kiste",106909
 "Großartige Leere-Kiste",106910
@@ -71373,7 +71372,7 @@
 "Feuerwerks-Kurzbogen des Himmlischen",106955
 "Leere-Kiste",106956
 "Kernrelikt-Truhe",106957
-"Lizenz für die Aufgabe \"Castora-Korallen\"",106959
+"Lizenz für die Aufgabe \"Castora-Koralle\"",106959
 "Feuerwerks-Langbogen des Himmlischen",106960
 "Waidmannstation freischalten",106961
 "Himmlischer Huf-Schuhe",106962
@@ -73053,7 +73052,7 @@
 "Wahlentlastungs-Elixier",108813
 "Skin für Blumensträußchen-Schultern",108814
 "Himmlischer Maskierter Katzenhut",108815
-"\"April, April\"-Beutekiste",108816
+"April, April\"-Beutekiste",108816
 "Dynamik-Hoverboard-Gleitschirm",108817
 "Dynamik-Hoverboard-Rucksack",108818
 "Himmlischer Maskierter Katzenhut",108819

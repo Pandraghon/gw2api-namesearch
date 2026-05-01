@@ -7566,20 +7566,20 @@
 "Das eigensinnige Irrlicht: Das Irrlicht willkommen heißen",8644
 "(Täglich) Choya-Karneval",8645
 "(Täglich) Mode-Ikone der Zukunft",8646
-"Katzengold",8647
+"(Jährlich) Katzengold",8647
 "(Jährlich) Sitze der Macht",8648
-"Betriebsmanagement",8649
+"(Jährlich) Betriebsmanagement",8649
 "(Jährlich) Mit den Augen einer Katze",8650
 "(Täglich) Höhen des Ruhms",8651
 "(Jährlich) Höhen des Ruhms",8652
 "(Jährlich) Choya-Karneval",8653
 "Café-Dekor",8654
 "(Jährlich) Mode-Ikone der Zukunft",8655
-"Café-Koordination",8656
+"(Jährlich) Charmantes Café",8656
 "(Täglich) Charmantes Café",8657
 "(Jährlich) Hundstage",8658
 "(Jährlich) April, April!",8659
-"Kommandeurs Charmantes Café",8660
+"Kommandeur der Narren",8660
 "Super-Schleimbäcker",8661
 "Roll-Wettkämpfer: Geistfeuer-Rennen (Wöchentlich)",8662
 "Roll-Rennteilnehmer: Seeuferschleife (Wöchentlich)",8663
@@ -8013,7 +8013,7 @@
 "Schlachtzug-Kopfgeld: Xera",9107
 "Retter der Unterwelt",9108
 "Schlachtzug-Kopfgeld: Cairn",9109
-"Castora-Korallen: Inquestur-Untersuchung",9110
+"Castora-Koralle: Inquestur-Untersuchung",9110
 "Halle der Ketten (wöchentlich)",9111
 "Ausbrecherkönig",9112
 "Schlachtzug-Mentor: Qadim",9113
@@ -8034,7 +8034,7 @@
 "Freund der Dschinns",9129
 "Ungeschlagen: Mythenschreiber-Wagnis",9130
 "Schlachtzug-Kopfgeld: Geflüster des Jormag",9131
-"Castora-Korallen: Gewölbe-Auftrag",9132
+"Castora-Koralle: Gewölbe-Auftrag",9132
 "Schlachtzug-Kopfgeld: Tempel von Febe",9134
 "Schlachtzug-Kopfgeld: Faultierion",9135
 "Schlachtzug-Mentor: Festenkonstrukt",9136
@@ -8050,7 +8050,6 @@
 "Erlösungspass (wöchentlich)",9147
 "Ungeschlagen: Schlüssel von Ahdashim",9148
 "Wächter des Tals",9150
-"Schlachtzug-Mentor: Faultierion",9151
 "Mystischer Abenteurer",9152
 "Schlachtzug-Kopfgeld: Ätherklingen-Unterschlupf",9153
 "Totalausfall: Geistertal",9154
@@ -8066,14 +8065,13 @@
 "Totalausfall: Schlüssel von Ahdashim",9164
 "Schlachtzug-Mentor: Deimos",9166
 "Schlachtzug-Kopfgeld: Erntetempel",9168
-"Schlachtzug-Mentor: Gorseval",9169
 "Schlachtzug-Mentor: Beschworene Verschmelzung",9171
 "Ungeschlagen: Erlösungspass",9172
 "Schlachtzug-Mentor: Qadim der Unvergleichliche",9174
 "Schlachtzug-Kopfgeld: Stimme und Klaue der Gefallenen",9175
 "Schlachtzug-Kopfgeld: Deimos",9176
 "Schlachtzug-Schnellrunden-Stammgast",9177
-"Dhuums Schlachter",9178
+"Dhuums Schlachterf:\"Schlachterin\"]",9178
 "Schlachtzug-Kopfgeld: Kaineng-Aussichtspunkt",9179
 "Hilfe für Hylek: Krait ausmerzen",9180
 "Berg Balrior (wöchentlich)",9181
@@ -8090,7 +8088,7 @@
 "Schlachtzug-Kopfgeld: Mursaat-Aufseher",9192
 "Titanenbrecher",9193
 "Totalausfall: Erlösungspass",9194
-"Castora-Korallen: Das Wasser bewachen",9195
+"Castora-Koralle: Das Wasser bewachen",9195
 "Schlachtzug-Kopfgeld: Xunlai-Jade-Schrottplatz",9196
 "Schlachtzug-Kopfgeld: Knochenhäuter",9197
 "Ungeschlagen: Festung der Treuen",9198
@@ -8122,10 +8120,6 @@
 "Tägliches Nebelbrand-Ödland",9226
 "Legendäre Lichtung des Wächters",9227
 "Einsatz vor Ort: Nebelbrand-Ödland",9228
-"(Täglich) Vision der Unendlichkeit",9229
-"(Jährlich) Vision der Unendlichkeit",9231
 "Weitere Abenteuer, Unter 3",9232
 "Übermittler von Geheimnissen, Unter 3",9233
 "Geschäft ist unter Wasser",9235
-"Oberster Tester von Geheimnissen, Unter 3",9236
-"Dem Spiel voraus",9237
