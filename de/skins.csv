@@ -9939,6 +9939,7 @@
 "Schild des Kalligraphen",13363
 "Perlen-Hellebarde",13364
 "Gefiederte Inquestur-Brustplatte",13365
+"Königlich ascalonischer Speer",13367
 "\"Strelitzia crystallinum\"-Langbogen",13368
 "Schwere Jacke des Allianz-Feldagenten",13369
 "Mittleres Extremis-Beinkleid",13370
@@ -10001,6 +10002,7 @@
 "Deaktiviertes Chrysalis-Rückenteil",13452
 "Gewehr des Schnellen Erbauers",13453
 "Echo des Drachenblut-Speers",13454
+"Inquestur-Zweizack",13457
 "Speer des Kalligraphen",13458
 "Mittlere Stiefel des Allianz-Feldagenten",13459
 "\"Strelitzia crystallinum\"-Hammer",13460
@@ -10049,6 +10051,7 @@
 "Perlmuschel-Axt",13535
 "Mittlere Handschuhe des Allianz-Feldagenten",13539
 "Roben des Gelehrten von der Küste",13540
+"Feuriger Speer",13545
 "Chromatische Doppelharfe",13546
 "Rucksack der Brillanz des Malers",13548
 "\"Strelitzia crystallinum\"-Großschwert",13549
@@ -10165,29 +10168,36 @@
 "\"Blutende Schneide\"-Inquestur-Großschwert",13695
 "Toxinmuschel-Schwert",13696
 "Tropenlaub-Schultern",13697
+"Schwere Maske des castoranischen Forschers",13698
 "\"Blutende Schneide\"-Inquestur-Pistole",13699
 "Zweischneidiges Schwert",13700
 "\"Blutende Schneide\"-Inquestur-Fackel",13701
 "Inquestur-Stachelhandschuhe",13702
+"Leichte Maske des castoranischen Forschers",13703
 "Feuerwerks-Axt des Himmlischen",13704
 "Huf-Schuhe",13705
 "Toxinmuschel-Speer",13706
 "Stab der Brillanz des Malers",13707
 "Feuerwerks-Pistole des Himmlischen",13708
 "Feuerwerks-Großschwert des Himmlischen",13709
+"Mittlere Maske des castoranischen Forschers",13710
 "Inquestur-Stachelhandschuhe",13711
 "Schild der Brillanz des Malers",13712
 "Toxinmuschel-Pistole",13713
 "Inquestur-Stachelbeinschienen",13714
+"Schweres Atemgerät des castoranischen Explorators",13715
+"Mittleres Atemgerät des castoranischen Explorators",13716
 "Kriegshorn der Brillanz des Malers",13717
 "Feuerwerks-Schwert des Himmlischen",13718
 "Feuerwerks-Zepter des Himmlischen",13719
 "Toxinmuschel-Kurzbogen",13720
 "\"Blutende Schneide\"-Inquestur-Langbogen",13721
 "\"Blutende Schneide\"-Inquestur-Gewehr",13722
+"Leichte Maske des castoranischen Tauchers",13723
 "Huf-Schuhe",13724
 "Glückslaterne des Riesenpferdes",13725
 "Axt der Brillanz des Malers",13726
+"Mittlere Maske des castoranischen Tauchers",13727
 "Toxinmuschel-Großschwert",13728
 "Glückslaterne des Pferdes",13729
 "\"Blutende Schneide\"-Inquestur-Zepter",13730
@@ -10203,6 +10213,7 @@
 "Tropenlaub-Schultern",13740
 "Großschwert der Brillanz des Malers",13741
 "Toxinmuschel-Schild",13742
+"Schwere Maske des castoranischen Tauchers",13743
 "Langbogen der Brillanz des Malers",13744
 "Feuerwerks-Gewehr des Himmlischen",13745
 "Feuerwerks-Langbogen des Himmlischen",13746
@@ -10213,8 +10224,10 @@
 "Toxinmuschel-Streitkolben",13751
 "Speer der Brillanz des Malers",13752
 "Dolch der Brillanz des Malers",13753
+"Mittlerer Aqua-Atmer der Inquestur",13754
 "Hartlicht-Klauen",13755
 "\"Blutende Schneide\"-Inquestur-Streitkolben",13756
+"Leichter Aqua-Atmer der Inquestur",13757
 "Toxinmuschel-Axt",13758
 "Inquestur-Stachelhandschuhe",13759
 "Inquestur-Stachelhelm",13760
@@ -10224,6 +10237,7 @@
 "Hammer der Brillanz des Malers",13764
 "Zweischneidiges Großschwert",13765
 "Feuerwerks-Speer",13766
+"Leichtes Atemgerät des castoranischen Explorators",13767
 "Inquestur-Stachelhelm",13768
 "Fackel der Brillanz des Malers",13769
 "Feuerwerks-Kurzbogen des Himmlischen",13770
@@ -10235,6 +10249,7 @@
 "Toxinmuschel-Stab",13776
 "Streitkolben der Brillanz des Malers",13777
 "Toxinmuschel-Zepter",13778
+"Schwerer Aqua-Atmer der Inquestur",13779
 "Inquestur-Stachelbeinschienen",13780
 "Fokus der Brillanz des Malers",13781
 "Inquestur-Stachelbeinschienen",13782
@@ -10301,3 +10316,53 @@
 "\"Geschmiedetes Licht\"-Stab",13846
 "Dynamik-Extraktor-Bergbauwerkzeug",13847
 "\"Kariertes Hemd\" (geschlossen)",13848
+"Schwerer Schmiedewächter-Schulterschutz",13853
+"Synergetik-Fokus",13857
+"Leichter Schmiedewächter-Schulterschutz",13868
+"Wachenjäger-Schultern",13869
+"Wachenjäger-Handschuhe",13871
+"Schwert des Gwyl-Monarchen",13872
+"Kurzbogen des Gwyl-Monarchen",13873
+"Wachenjäger-Stiefel",13875
+"Mittlerer Schmiedewächter-Schulterschutz",13876
+"Synergetik-Großschwert",13880
+"Wachenjäger-Handschuhe",13881
+"Synergetik-Kurzbogen",13885
+"Leichte Schmiedewächter-Handschuhe",13886
+"Langbogen des Gwyl-Monarchen",13888
+"Stab des Gwyl-Monarchen",13892
+"Kriegshorn des Gwyl-Monarchen",13893
+"Fackel des Gwyl-Monarchen",13898
+"Synergetik-Fackel",13899
+"Synergetik-Schwert",13901
+"Synergetik-Streitkolben",13902
+"Synergetik-Speer",13904
+"Hammer des Gwyl-Monarchen",13905
+"Wachenjäger-Handschuhe",13915
+"Wachenjäger-Stiefel",13920
+"Großschwert des Gwyl-Monarchen",13922
+"Synergetik-Zepter",13924
+"Zepter des Gwyl-Monarchen",13925
+"Pistole des Gwyl-Monarchen",13927
+"Wachenjäger-Schultern",13931
+"Axt des Gwyl-Monarchen",13935
+"Dolch des Gwyl-Monarchen",13936
+"Schwere Schmiedewächter-Handschuhe",13939
+"Speer des Gwyl-Monarchen",13940
+"Wachenjäger-Schultern",13942
+"Synergetik-Langbogen",13944
+"Gewehr des Gwyl-Monarchen",13949
+"Schimmerharz-Axt",13959
+"Synergetik-Kriegshorn",13961
+"Synergetik-Dolch",13965
+"Synergetik-Gewehr",13969
+"Synergetik-Schild",13970
+"Wachenjäger-Stiefel",13972
+"Synergetik-Pistole",13973
+"Synergetik-Axt",13976
+"Fokus des Gwyl-Monarchen",13977
+"Schild des Gwyl-Monarchen",13987
+"Streitkolben des Gwyl-Monarchen",13993
+"Synergetik-Hammer",13994
+"Mittlere Schmiedewächter-Handschuhe",13996
+"Synergetik-Stab",13997

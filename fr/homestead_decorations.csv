@@ -993,6 +993,7 @@
 "Guirlande de lumières rondes",1015
 "Arbre d'île (courbe)",1016
 "Mur d'entrée (simple)",1018
+"Réplique de miroir castoran",1021
 "Arbre d'île (court)",1022
 "Grand escalier de navire",1023
 "Arbre d'île (grand)",1024
@@ -1062,18 +1063,23 @@
 "Peluche amicale de raptor",1093
 "Peluche amicale de lapin",1094
 "Mordy en peluche",1097
+"Pignon de mur 720 x 200",1099
 "Statue du Blanc-Manteau",1101
 "Main gauche d'élémentaire de terre",1102
 "Tourelle du Blanc-Manteau",1103
 "Plante de jungle",1104
 "Pignon de mur 360 x 200 inversé",1109
 "Château de sable",1111
+"Pignon de mur 360 x 100 inversé",1112
 "Toit 720 x 200 x 240",1113
+"Colonne de fer 30 x 240 x 30",1115
+"Colonne de fer 16 x 240 x 16",1116
 "Enclos d'étable",1117
 "Poupe de navire",1118
 "Champignon bleu de Paressor",1120
 "Élément de toit",1121
 "Statue de Deimos",1123
+"Fenêtre de mur 120 x 240",1124
 "Bûche de jungle",1126
 "Pylône du gardien de la Vallée",1127
 "Canapé du désert élégant",1130
@@ -1083,6 +1089,7 @@
 "Canapé du désert",1134
 "Toit 720 x 200 x 480",1135
 "Mimosa",1137
+"Pignon de mur 360 x 100",1138
 "Tablette de résurrection",1139
 "Pylône de Qadim",1140
 "Buisson de jungle",1141
@@ -1092,6 +1099,7 @@
 "Pilier du Gambit de forgeconte",1155
 "Tour aliénante",1156
 "Main droite d'élémentaire de terre",1157
+"Pignon de mur 720 x 100",1158
 "Clôture d'étable",1159
 "Plate-forme largos",1160
 "Statue dorée du Cheval",1166
@@ -1117,3 +1125,28 @@
 "Super mur du seigneur Victus",1190
 "Super brasero du seigneur Victus",1191
 "Super bannière du seigneur Victus",1192
+"Tableau aruspice",1193
+"Mur de fer 240 x 240",1194
+"Grande table aruspice",1195
+"Petite table aruspice",1196
+"Grand coffre aruspice",1197
+"Chaudron de stockage aruspice",1198
+"Portail de fer 240 x 240",1199
+"Portail aruspice",1200
+"Bûche de jungle courbée",1201
+"Fenêtre de fer",1202
+"Mur de fer 60 x 240",1203
+"Sol de fer 960 x 600",1204
+"Sol aruspice",1205
+"Escalier de fer 120 x 120",1206
+"Mur aruspice",1207
+"Mur de fer 960 x 240",1208
+"Escalier de fer 120 x 60",1209
+"Pilier aruspice",1210
+"Mur de fer 600 x 240",1211
+"Lampe aruspice",1212
+"Petit miroir aruspice",1213
+"Mur de fer 120 x 240",1214
+"Porte de fer",1215
+"Lit aruspice",1216
+"Sol de fer 960 x 840",1217

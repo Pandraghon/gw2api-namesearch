@@ -9939,6 +9939,7 @@
 "Calligrapher's Shield",13363
 "Pearl Halberd",13364
 "Feathered Inquest Breastplate",13365
+"Royal Ascalonian Spear",13367
 "Strelitzia Crystallinum Longbow",13368
 "Alliance Field Operative's Heavy Jacket",13369
 "Extremis Medium Leggings",13370
@@ -10001,6 +10002,7 @@
 "Deactivated Chrysalis Backpiece",13452
 "Fast Constructor's Rifle",13453
 "Dragonsblood Spear Echo",13454
+"Inquest Bident",13457
 "Calligrapher's Spear",13458
 "Alliance Field Operative's Medium Boots",13459
 "Strelitzia Crystallinum Hammer",13460
@@ -10049,6 +10051,7 @@
 "Pearlshell Axe",13535
 "Alliance Field Operative's Medium Gloves",13539
 "Seaside Scholar's Robes",13540
+"Molten Spear",13545
 "Chromatic Double Harp",13546
 "Painter's Brilliance Backpack",13548
 "Strelitzia Crystallinum Greatsword",13549
@@ -10165,29 +10168,36 @@
 "Bleeding Edge Inquest Greatsword",13695
 "Toxinshell Sword",13696
 "Tropical Leaf Shoulders",13697
+"Heavy Castoran Researcher's Mask",13698
 "Bleeding Edge Inquest Pistol",13699
 "Double-Edge Sword",13700
 "Bleeding Edge Inquest Torch",13701
 "Spiked Inquest Gloves",13702
+"Light Castoran Researcher's Mask",13703
 "Celestial's Firework Axe",13704
 "Hoofed Shoes",13705
 "Toxinshell Spear",13706
 "Painter's Brilliance Staff",13707
 "Celestial's Firework Pistol",13708
 "Celestial's Firework Greatsword",13709
+"Medium Castoran Researcher's Mask",13710
 "Spiked Inquest Gloves",13711
 "Painter's Brilliance Shield",13712
 "Toxinshell Pistol",13713
 "Spiked Inquest Greaves",13714
+"Heavy Castoran Explorer's Rebreather",13715
+"Medium Castoran Explorer's Rebreather",13716
 "Painter's Brilliance Warhorn",13717
 "Celestial's Firework Sword",13718
 "Celestial's Firework Scepter",13719
 "Toxinshell Short Bow",13720
 "Bleeding Edge Inquest Longbow",13721
 "Bleeding Edge Inquest Rifle",13722
+"Light Castoran Diver's Mask",13723
 "Hoofed Shoes",13724
 "Lucky Great Horse Lantern",13725
 "Painter's Brilliance Axe",13726
+"Medium Castoran Diver's Mask",13727
 "Toxinshell Greatsword",13728
 "Lucky Horse Lantern",13729
 "Bleeding Edge Inquest Scepter",13730
@@ -10203,6 +10213,7 @@
 "Tropical Leaf Shoulders",13740
 "Painter's Brilliance Greatsword",13741
 "Toxinshell Shield",13742
+"Heavy Castoran Diver's Mask",13743
 "Painter's Brilliance Longbow",13744
 "Celestial's Firework Rifle",13745
 "Celestial's Firework Longbow",13746
@@ -10213,8 +10224,10 @@
 "Toxinshell Mace",13751
 "Painter's Brilliance Spear",13752
 "Painter's Brilliance Dagger",13753
+"Medium Inquest Aquabreather",13754
 "Hardlight Claws",13755
 "Bleeding Edge Inquest Mace",13756
+"Light Inquest Aquabreather",13757
 "Toxinshell Axe",13758
 "Spiked Inquest Gloves",13759
 "Spiked Inquest Helm",13760
@@ -10224,6 +10237,7 @@
 "Painter's Brilliance Hammer",13764
 "Double-Edge Greatsword",13765
 "Firework Spear",13766
+"Light Castoran Explorer's Rebreather",13767
 "Spiked Inquest Helm",13768
 "Painter's Brilliance Torch",13769
 "Celestial's Firework Short Bow",13770
@@ -10235,6 +10249,7 @@
 "Toxinshell Staff",13776
 "Painter's Brilliance Mace",13777
 "Toxinshell Scepter",13778
+"Heavy Inquest Aquabreather",13779
 "Spiked Inquest Greaves",13780
 "Painter's Brilliance Focus",13781
 "Spiked Inquest Greaves",13782
@@ -10301,3 +10316,49 @@
 "Forged-Light Staff",13846
 "Dynamics Extractor Mining Tool",13847
 "Plaid Shirt (Closed)",13848
+"Synergetics Focus",13857
+"Ward Hunter's Shoulders",13869
+"Ward Hunter's Gloves",13871
+"Gwyl Monarch's Sword",13872
+"Gwyl Monarch's Short Bow",13873
+"Ward Hunter's Boots",13875
+"Synergetics Greatsword",13880
+"Ward Hunter's Gloves",13881
+"Synergetics Short Bow",13885
+"Forge Guard's Light Gloves",13886
+"Gwyl Monarch's Longbow",13888
+"Gwyl Monarch's Staff",13892
+"Gwyl Monarch's Warhorn",13893
+"Gwyl Monarch's Torch",13898
+"Synergetics Torch",13899
+"Synergetics Sword",13901
+"Synergetics Mace",13902
+"Synergetics Spear",13904
+"Gwyl Monarch's Hammer",13905
+"Ward Hunter's Gloves",13915
+"Ward Hunter's Boots",13920
+"Gwyl Monarch's Greatsword",13922
+"Synergetics Scepter",13924
+"Gwyl Monarch's Scepter",13925
+"Gwyl Monarch's Pistol",13927
+"Ward Hunter's Shoulders",13931
+"Gwyl Monarch's Axe",13935
+"Gwyl Monarch's Dagger",13936
+"Forge Guard's Heavy Gloves",13939
+"Gwyl Monarch's Spear",13940
+"Ward Hunter's Shoulders",13942
+"Synergetics Longbow",13944
+"Gwyl Monarch's Rifle",13949
+"Synergetics Warhorn",13961
+"Synergetics Dagger",13965
+"Synergetics Rifle",13969
+"Synergetics Shield",13970
+"Ward Hunter's Boots",13972
+"Synergetics Pistol",13973
+"Synergetics Axe",13976
+"Gwyl Monarch's Focus",13977
+"Gwyl Monarch's Shield",13987
+"Gwyl Monarch's Mace",13993
+"Synergetics Hammer",13994
+"Forge Guard's Medium Gloves",13996
+"Synergetics Staff",13997

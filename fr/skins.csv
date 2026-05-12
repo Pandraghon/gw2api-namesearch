@@ -9939,6 +9939,7 @@
 "Bouclier de calligraphe",13363
 "Hallebarde de perles",13364
 "Harnois à plumes de l'Enqueste",13365
+"Lance royale ascalonienne",13367
 "Arc long de Strelitzia Crystallinum",13368
 "Veste lourde d'agent de terrain de l'alliance",13369
 "Jambières intermédiaires extremis",13370
@@ -10001,6 +10002,7 @@
 "Objet de dos de chrysalide désactivée",13452
 "Fusil de constructeur véloce",13453
 "Écho de lance de sang de dragon",13454
+"Bident de l'Enqueste",13457
 "Lance de calligraphe",13458
 "Bottes intermédiaires d'agent de terrain de l'alliance",13459
 "Marteau de Strelitzia Crystallinum",13460
@@ -10049,6 +10051,7 @@
 "Hache de nacre",13535
 "Gants intermédiaires d'agent de terrain de l'alliance",13539
 "Robe d'érudit du littoral",13540
+"Lance de la Fusion",13545
 "Double harpe chromatique",13546
 "Sac à dos de peintre brillant",13548
 "Espadon de Strelitzia Crystallinum",13549
@@ -10165,29 +10168,36 @@
 "Espadon lame-sanglante de l'Enqueste",13695
 "Épée à carapace toxique",13696
 "Épaulières de feuillage tropical",13697
+"Masque de recherche de Castora lourd",13698
 "Pistolet lame-sanglante de l'Enqueste",13699
 "Épée à double tranchant",13700
 "Torche lame-sanglante de l'Enqueste",13701
 "Gants de l'Enqueste spinescente",13702
+"Masque de recherche de Castora léger",13703
 "Hache de feu d'artifice céleste",13704
 "Chausses à sabot",13705
 "Lance à carapace toxique",13706
 "Bâton de peintre brillant",13707
 "Pistolet de feu d'artifice céleste",13708
 "Espadon de feu d'artifice céleste",13709
+"Masque de recherche de Castora intermédiaire",13710
 "Gants de l'Enqueste spinescente",13711
 "Bouclier de peintre brillant",13712
 "Pistolet à carapace toxique",13713
 "Grèves de l'Enqueste spinescente",13714
+"Respirateur d'exploration de Castora lourd",13715
+"Respirateur d'exploration de Castora intermédiaire",13716
 "Cor de guerre de peintre brillant",13717
 "Épée de feu d'artifice céleste",13718
 "Sceptre de feu d'artifice céleste",13719
 "Arc court à carapace toxique",13720
 "Arc long lame-sanglante de l'Enqueste",13721
 "Fusil lame-sanglante de l'Enqueste",13722
+"Masque de plongée de Castora léger",13723
 "Chausses à sabot",13724
 "Lanterne du grand Cheval chanceux",13725
 "Hache de peintre brillant",13726
+"Masque de plongée de Castora intermédiaire",13727
 "Espadon à carapace toxique",13728
 "Lanterne du Cheval chanceux",13729
 "Sceptre lame-sanglante de l'Enqueste",13730
@@ -10203,6 +10213,7 @@
 "Épaulières de feuillage tropical",13740
 "Espadon de peintre brillant",13741
 "Bouclier à carapace toxique",13742
+"Masque de plongée de Castora lourd",13743
 "Arc long de peintre brillant",13744
 "Fusil de feu d'artifice céleste",13745
 "Arc long de feu d'artifice céleste",13746
@@ -10213,8 +10224,10 @@
 "Masse à carapace toxique",13751
 "Lance de peintre brillant",13752
 "Dague de peintre brillant",13753
+"Aqua-respirateur de l'Enqueste intermédiaire",13754
 "Griffes laser",13755
 "Masse lame-sanglante de l'Enqueste",13756
+"Aqua-respirateur de l'Enqueste léger",13757
 "Hache à carapace toxique",13758
 "Gants de l'Enqueste spinescente",13759
 "Heaume de l'Enqueste spinescente",13760
@@ -10224,6 +10237,7 @@
 "Marteau de peintre brillant",13764
 "Espadon à double tranchant",13765
 "Lance de feu d'artifice",13766
+"Respirateur d'exploration de Castora léger",13767
 "Heaume de l'Enqueste spinescente",13768
 "Torche de peintre brillant",13769
 "Arc court de feu d'artifice céleste",13770
@@ -10235,6 +10249,7 @@
 "Bâton à carapace toxique",13776
 "Masse de peintre brillant",13777
 "Sceptre à carapace toxique",13778
+"Aqua-respirateur de l'Enqueste lourd",13779
 "Grèves de l'Enqueste spinescente",13780
 "Focus de peintre brillant",13781
 "Grèves de l'Enqueste spinescente",13782
@@ -10301,3 +10316,53 @@
 "Bâton à forgéclat",13846
 "Outil de minage d'extraction de la Dynamique",13847
 "Chemise à carreaux (fermée)",13848
+"Espauliers lourds de garde de la Forge",13853
+"Focus de la Synergétique",13857
+"Espauliers légers de garde de la Forge",13868
+"Épaulières de chasse de la Garde",13869
+"Gants de chasse de la Garde",13871
+"Épée de monarque des gwyls",13872
+"Arc court de monarque des gwyls",13873
+"Bottes de chasse de la Garde",13875
+"Espauliers intermédiaires de garde de la Forge",13876
+"Espadon de la Synergétique",13880
+"Gants de chasse de la Garde",13881
+"Arc court de la Synergétique",13885
+"Gants légers de garde de la Forge",13886
+"Arc long de monarque des gwyls",13888
+"Bâton de monarque des gwyls",13892
+"Cor de guerre de monarque des gwyls",13893
+"Torche de monarque des gwyls",13898
+"Torche de la Synergétique",13899
+"Épée de la Synergétique",13901
+"Masse de la Synergétique",13902
+"Lance de la Synergétique",13904
+"Marteau de monarque des gwyls",13905
+"Gants de chasse de la Garde",13915
+"Bottes de chasse de la Garde",13920
+"Espadon de monarque des gwyls",13922
+"Sceptre de la Synergétique",13924
+"Sceptre de monarque des gwyls",13925
+"Pistolet de monarque des gwyls",13927
+"Épaulières de chasse de la Garde",13931
+"Hache de monarque des gwyls",13935
+"Dague de monarque des gwyls",13936
+"Gants lourds de garde de la Forge",13939
+"Lance de monarque des gwyls",13940
+"Épaulières de chasse de la Garde",13942
+"Arc long de la Synergétique",13944
+"Fusil de monarque des gwyls",13949
+"Hache en résine scintillante",13959
+"Cor de guerre de la Synergétique",13961
+"Dague de la Synergétique",13965
+"Fusil de la Synergétique",13969
+"Bouclier de la Synergétique",13970
+"Bottes de chasse de la Garde",13972
+"Pistolet de la Synergétique",13973
+"Hache de la Synergétique",13976
+"Focus de monarque des gwyls",13977
+"Bouclier de monarque des gwyls",13987
+"Masse de monarque des gwyls",13993
+"Marteau de la Synergétique",13994
+"Gants intermédiaires de garde de la Forge",13996
+"Bâton de la Synergétique",13997

@@ -993,6 +993,7 @@
 "Round String Lights",1015
 "Island Tree (Curved)",1016
 "Entryway Wall (Single)",1018
+"Replica Castoran Mirror",1021
 "Island Tree (Short)",1022
 "Tall Ship Stairs",1023
 "Island Tree (Tall)",1024
@@ -1062,18 +1063,23 @@
 "Plush Raptor Pal",1093
 "Plush Bunny Pal",1094
 "Mordy Plush",1097
+"Wall Gable 720 x 200",1099
 "White Mantle Statue",1101
 "Earth Elemental Left Hand",1102
 "White Mantle Turret",1103
 "Jungle Plant",1104
 "Wall Gable 360 x 200 Mirror",1109
 "Sandcastle",1111
+"Wall Gable 360 x 100 Mirror",1112
 "Roof 720 x 200 x 240",1113
+"Iron Column 30 x 240 x 30",1115
+"Iron Column 16 x 240 x 16",1116
 "Stable Pen",1117
 "Ship Stern",1118
 "Slothasor Blue Mushroom",1120
 "Roof Piece",1121
 "Deimos Statue",1123
+"Wall Window 120 x 240",1124
 "Jungle Log",1126
 "Vale Guardian Pylon",1127
 "Fancy Desert Sofa",1130
@@ -1083,6 +1089,7 @@
 "Desert Sofa",1134
 "Roof 720 x 200 x 480",1135
 "Mimosa Tree",1137
+"Wall Gable 360 x 100",1138
 "Resurrection Tablet",1139
 "Qadim Pylon",1140
 "Jungle Bush",1141
@@ -1092,6 +1099,7 @@
 "Mythwright Gambit Pillar",1155
 "Maddening Tower",1156
 "Earth Elemental Right Hand",1157
+"Wall Gable 720 x 100",1158
 "Stable Fence",1159
 "Largos Platform",1160
 "Golden Horse Statue",1166
@@ -1117,3 +1125,28 @@
 "Super Lord Vanquish Wall",1190
 "Super Lord Vanquish Brazier",1191
 "Super Lord Vanquish Banner",1192
+"Seer Painting",1193
+"Iron Wall 240 x 240",1194
+"Seer Table Large",1195
+"Seer Table Small",1196
+"Seer Chest Large",1197
+"Seer Storage Cauldron",1198
+"Iron Doorway 240 x 240",1199
+"Seer Doorway",1200
+"Jungle Log Arched",1201
+"Iron Window",1202
+"Iron Wall 60 x 240",1203
+"Iron Floor 960 x 600",1204
+"Seer Floor",1205
+"Iron Stairs 120 x 120",1206
+"Seer Wall",1207
+"Iron Wall 960 x 240",1208
+"Iron Stairs 120 x 60",1209
+"Seer Pillar",1210
+"Iron Wall 600 x 240",1211
+"Seer Lamp",1212
+"Seer Mirror Small",1213
+"Iron Wall 120 x 240",1214
+"Iron Door",1215
+"Seer Bed",1216
+"Iron Floor 960 x 840",1217

@@ -68369,6 +68369,7 @@
 "Aventure de la Syntri de Janthir : or",102357
 "Apparence de bottes de traque-putrescence",102358
 "Tonique de jeune razziafelis inépuisable",102362
+"Recette : entrée de téléporteur",102364
 "Recette : trophée d'argent de Desmina",102365
 "Recette : trophée d'or du Destructeur",102366
 "Objet de dos du saumon du savoir",102367
@@ -68532,6 +68533,7 @@
 "Livre de recettes pour pavillon : Monde contre Monde",102709
 "Coffre de biens pour démarrer son pavillon",102710
 "Boîte de heaume polychrome",102714
+"Recette : sortie de téléporteur",102717
 "Apparence de dague corrompue par le vide",102718
 "Écrit local de renommée",102719
 "Aventure de la Côte des basses terres : argent",102720
@@ -69197,6 +69199,7 @@
 "Relique de la ruche",103923
 "Relique de la réunification",103924
 "Malle de Decima",103926
+"Clé de démarrage d'arme légendaire : ensemble n° 1",103927
 "Claymore naturelle",103928
 "Recette : trophée de bronze de Greer",103929
 "Apparence d'arc court de l'araignée d'albâtre",103930
@@ -69260,6 +69263,7 @@
 "Croquenots naturels",104002
 "Mini-Kodan des sources chaudes (jaune)",104003
 "Clé de démarrage d'arme légendaire : ensemble n° 7",104004
+"Clé de démarrage d'arme légendaire : ensemble n° 1",104005
 "Pistolet de vague verre-de-mer",104006
 "Clé de démarrage d'arme légendaire : ensemble n° 7",104007
 "Atelier d'huile de maintenance magnanime",104008
@@ -70579,6 +70583,7 @@
 "Pierre d'enchantement brute",105686
 "Porte de galion",105687
 "Piste 7 : Forged by Torment",105688
+"Lance royale ascalonienne",105689
 "Poutre en bois (16 x 480 x 30)",105690
 "Poisson-lune à écailles de saphir",105695
 "Sceptre enchanté des aruspices",105698
@@ -70724,6 +70729,7 @@
 "Grimoire d'emote \"/choqué\"",105905
 "Piste 24 : For the Ward!",105906
 "Mérou à écailles d'émeraude",105908
+"Piste 1 : Overture",105910
 "Contrat d'expédition de \"Visions of Eternity\"",105913
 "Pack communautaire Extra Life",105916
 "Mur (600 x 240)",105918
@@ -70770,6 +70776,7 @@
 "Apparence d'épée de nacre",105986
 "Piste 17 : Veins of the Dragon",105987
 "Hache de constructeur véloce",105989
+"Bident de l'Enqueste",105990
 "Arc court de Strelitzia Crystallinum",105991
 "Infusion de vie marine éthérée",105993
 "Mur (60 x 240)",105994
@@ -70796,6 +70803,7 @@
 "Piste 6 : Destiny's Gorge",106028
 "Piste 6 : The Beast Emerges",106029
 "Piste 19 : Rata Novus",106030
+"Piste 1 : Overture",106035
 "Piste 10 : Sunless Isle",106036
 "Jambières intermédiaires de capitaine fébrile",106037
 "Piste 14 : Glint's Legacy",106038
@@ -70986,6 +70994,7 @@
 "Piste 50 : Harvest Ceremony",106340
 "Roi crabe de Castora : bronze",106341
 "Cache bonus",106343
+"Lance de la Fusion",106344
 "Grand prix des Arches scintillantes : argent",106346
 "Piste 29 : Bava Nisos",106348
 "Glaive verdoyant berserker",106349
@@ -71127,6 +71136,7 @@
 "Piste 22 : On the Banks of the Elon",106561
 "Piste 20 : The Quiet Before",106563
 "Piste 50 : Harvest Ceremony",106564
+"Piste 2 : The Seraph",106565
 "Piste 4 : Togo's Legacy",106569
 "Focus de constructeur véloce",106570
 "Piste 10 : Far from Home",106571
@@ -71166,6 +71176,7 @@
 "Mur à fenêtre (960 x 240)",106625
 "Couronne aruspice de service",106627
 "Apparence de cape ardente",106629
+"Titre de bande-son : Guild Wars 2",106630
 "Piste 4 : Whispers of the Misplaced",106631
 "Don des aînés",106632
 "Coupon extremis : casque",106633
@@ -71336,6 +71347,7 @@
 "Apparence de raptor de l'Enqueste",106896
 "Recette de peluche amicale de renard du Lion noir",106897
 "Apparence d'arc long à carapace toxique",106899
+"Boîte de masque de recherche de Castora",106900
 "Cor de guerre lame-sanglante de l'Enqueste",106902
 "Lanterne du Cheval chanceux",106903
 "Apparence de gants de l'Enqueste spinescente",106904
@@ -71346,6 +71358,7 @@
 "Apparence d'arc long de peintre brillant",106911
 "Apparence de lance de peintre brillant",106912
 "Relique des chaînes",106916
+"Masque de plongée de Castora léger",106917
 "Relique de la bête nautique",106920
 "Élément de toit",106922
 "Piquet cœur-de-corail",106924
@@ -71366,6 +71379,7 @@
 "Main droite d'élémentaire de terre",106943
 "Preuve de maîtrise de boss de raid",106944
 "Focus de feu d'artifice céleste",106945
+"Aqua-respirateur de l'Enqueste intermédiaire",106946
 "Grimoire d'emotes de poses adorables",106947
 "Apparence de pistolet à carapace toxique",106948
 "Toit 720 x 200 x 240",106950
@@ -71382,6 +71396,7 @@
 "Chausses à sabot céleste",106962
 "Déverrouillage d'atelier de tailleur",106963
 "Ensemble de cape de feuillage tropical",106964
+"Aqua-respirateur de l'Enqueste léger",106965
 "Chausses à sabot céleste",106966
 "Bannière de la cachette des Étherlames",106969
 "Rênes de Dhuumécaille",106970
@@ -71397,6 +71412,7 @@
 "Grimoire d'emote \"/posecoeur\"",106984
 "Don des Hyleks",106986
 "Lance de feu d'artifice",106987
+"Boîte d'aqua-respirateur de l'Enqueste",106988
 "Épée à double tranchant",106989
 "Statue de Deimos",106990
 "Coffre de lanterne de marchand",106991
@@ -71408,6 +71424,7 @@
 "Pilier cœur-de-corail",106998
 "Malle magnifiques d'Ankka",106999
 "Recette : enclos d'étable",107000
+"Boîte de respirateur d'exploration de Castora",107001
 "Conteneur d'écrit supérieur",107002
 "Chaise de virevolte",107003
 "Plante de jungle",107004
@@ -71418,6 +71435,7 @@
 "Éclat de Zintl",107012
 "Apparence d'épée de peintre brillant",107013
 "Apparence de fusil à carapace toxique",107015
+"Masque de recherche de Castora lourd",107016
 "Recette : tablette de résurrection",107017
 "Deltaplane de virevolte",107018
 "Cache de raid en session rapide hebdomadaire",107019
@@ -71454,6 +71472,7 @@
 "Recette : éclat de Decima",107053
 "Trône de sable tropical",107055
 "Apparence d'arc court de peintre brillant",107057
+"Respirateur d'exploration de Castora lourd",107058
 "Vitrail",107059
 "Hache lame-sanglante de l'Enqueste",107060
 "Relique du cœur corallien",107061
@@ -71470,11 +71489,13 @@
 "Steaks de libellule",107076
 "Feu d'artifice à l'effigie du grand Cheval",107078
 "Apparence de bouclier à carapace toxique",107081
+"Respirateur d'exploration de Castora intermédiaire",107082
 "Infusion démoniaque",107083
 "Recette : main gauche d'élémentaire de terre",107085
 "Espadon de feu d'artifice céleste",107086
 "Malle de Dagda",107087
 "Preuve d'achèvement de la Vallée des esprits",107089
+"Masque de recherche de Castora intermédiaire",107090
 "Apparence d'arc court à carapace toxique",107091
 "Grimoire d'emote \"/posepaix\"",107092
 "Tablette de résurrection",107093
@@ -71508,6 +71529,7 @@
 "Coffre magnifique des chevaliers d'assaut",107132
 "Plate-forme largos",107133
 "Marteau de feu d'artifice céleste",107134
+"Aqua-respirateur de l'Enqueste lourd",107135
 "Don du Soleil",107136
 "Cache glorieuse de pillard",107137
 "Sceptre lame-sanglante de l'Enqueste",107138
@@ -71529,6 +71551,7 @@
 "Recette : statue de Deimos",107158
 "Espadon lame-sanglante de l'Enqueste",107160
 "Mini-esprit détraqué",107161
+"Masque de plongée de Castora lourd",107162
 "Apparence de torche de peintre brillant",107163
 "Catalyseur d'éclat de magnétite",107164
 "Apparence de hache à carapace toxique",107165
@@ -71546,6 +71569,7 @@
 "Torche lame-sanglante de l'Enqueste",107180
 "Recette : canapé du désert",107181
 "Preuve d'achèvement du Gambit de forgeconte",107182
+"Masque de recherche de Castora léger",107184
 "Mini-Calebasse-cheval",107187
 "Apparence de bâton à carapace toxique",107189
 "Recette : statue du Blanc-Manteau",107190
@@ -71558,11 +71582,13 @@
 "Don de la plage",107201
 "Tonique de combat de Kenut",107202
 "Toit 720 x 200 x 480",107204
+"Masque de plongée de Castora intermédiaire",107205
 "Déverrouillage d'atelier de forgeron d'armures",107206
 "Buisson de jungle",107207
 "Coffre de feu d'artifice céleste",107209
 "Arc long lame-sanglante de l'Enqueste",107211
 "Apparence de marteau de peintre brillant",107212
+"Boîte de masque de plongée de Castora",107213
 "Apparence de cape de feuillage tropical",107214
 "Déverrouillage d'atelier de forgeron d'armes",107215
 "Apparence d'épaulières de feuillage tropical",107216
@@ -71578,6 +71604,7 @@
 "Dague de feu d'artifice céleste",107226
 "Bâton de feu d'artifice céleste",107228
 "Recette : pylône de Qadim",107231
+"Respirateur d'exploration de Castora léger",107232
 "Recette : torche de Dhuum",107233
 "Mordy en peluche",107234
 "Poings de guerre de Maklain",107236
@@ -73200,5 +73227,178 @@
 "Casier de super arme de nuée irisée",108959
 "Arc long rétro-forgé",108960
 "Piste 7 : Dark Woods 2",108961
+"Chaise de pique-nique sur couverture",108963
+"Apparence d'espadon de monarque des gwyls",108964
+"Piste 8 : Dragon Vigil",108966
+"Piste 43 : Into the Dragon",108969
+"Piste 6 : Forming a New Legion",108970
+"Piste 8 : Desmina's Reclamation",108978
+"Piste 23 : Watch Your Step",108979
+"Piste 25 : Lornar's Pass",108985
+"Piste 25 : TT6-B Devourer",108986
+"Piste 4 : The Inquest",108989
+"Apparence de sceptre de la Synergétique",108998
+"Apparence d'arc court de monarque des gwyls",109001
+"Piste 51 : Bandit's Expanse",109005
+"Piste 45 : The Ascension",109011
+"Piste 74 : March of the Legions",109013
+"Piste 11 : Storms of Winter I",109016
+"Piste 17 : Blish's Determination",109023
+"Piste 58 : The Vaults of the Priory",109026
+"Piste 5 : Out of the Dream",109027
+"Piste 2 : Taimi's Theme",109029
+"Apparence de masse de la Synergétique",109031
+"Piste 5 : Mountain March",109036
+"Piste 33 : Qadim",109037
+"Piste 56 : Promenade of the Gods",109045
+"Piste 37 : Explorers and Artifacts",109046
+"Piste 18 : Braham's Transformation",109048
+"Piste 16 : Ruins of an Empire",109052
+"Piste 11 : Episode 2 : A Bug in the System",109055
+"Apparence d'épée de monarque des gwyls",109056
+"Piste 72 : Malchor's Leap",109057
+"Piste 4 : Something Rotten in Grothmar",109061
+"Piste 3 : Bangar's Office",109062
+"Piste 36 : A Land Restored",109063
+"Piste 75 : Here Be Dragons",109065
+"Piste 40 : Sunrise of Astorea",109068
+"Piste 29 : Zafirah",109071
+"Coupon de garde de la Forge : gants",109077
+"Apparence de bouclier de la Synergétique",109080
+"Repas de requinet : argent",109082
+"Piste 6 : Attack on the Sunspears",109088
+"Piste 7 : Whispers in the Dark",109089
+"Piste 3 : Joko",109096
+"Piste 46 : Living World Season 4 Live Medley",109099
+"Piste 42 : Rytlock",109102
+"Piste 39 : Plains of Ashford",109105
+"Piste 16 : Alpine Marches",109113
+"Piste 45 : World of Ice",109118
+"Piste 66 : Whispers in the Dark",109120
+"Piste 34 : Fort Assault",109121
+"Piste 7 : Eir's Memorial",109122
+"Piste 70 : The Heart of Rata Sum",109123
+"Piste 15 : Shadow in the Ice",109124
+"Apparence de pistolet de monarque des gwyls",109127
+"Piste 30 : The Prophecy",109129
+"Mini-gardien de sort enchanté",109132
+"Piste 10 : Jormag Speaks",109133
+"Piste 17 : Spirits of the Wild",109134
+"Apparence de marteau de monarque des gwyls",109140
+"Piste 3: Caudecus",109142
+"Apparence de torche de monarque des gwyls",109144
+"Piste 29 : Soulkeeper",109146
+"Piste 67 : The Pact",109147
+"Piste 1 : Lion's Arch Lament (Live)",109152
+"Piste 77 : Trahearne's Reverie",109153
+"Piste 60 : The Charr Triumphant",109154
+"Piste 44 : Journey through Caledon",109158
+"Piste 47 : The War Eternal",109164
+"Apparence de frappesol enchanté",109165
+"Piste 26 : Steel Tactics",109168
+"Piste 25 : Aurene's Fate",109169
+"Apparence de hache de la Synergétique",109170
+"Piste 6 : Heritage of Humanity",109173
+"Piste 40 : The Crystal Dragon Pt. 3",109174
+"Piste 37 : Jormag Rising",109185
+"Piste 42 : Dragonflight",109191
+"Piste 9 : The Walls of Ebonhawke",109193
+"Extraction de brèche",109194
+"Titre de bande-son : Saison 4 du Monde vivant",109199
+"Ratissage de reliques sur voldécume : or",109201
+"Gage de renommée du Jardin de l'éternité",109202
+"Piste 6 : Taimi's Game Part 2",109206
+"Piste 12 : Solar Fury",109211
+"Licence d'adoption de monture des créatures tenaces",109214
+"Apparence de dague de la Synergétique",109215
+"Piste 14 : Boneskinner",109216
+"Piste 31 : The Largos Twins",109217
+"Piste 1 : Bloodstone Fen",109218
+"Piste 30 : Ruinbringer",109219
+"Piste 13 : The Gathering of the Pact",109221
+"Apparence d'arc court de la Synergétique",109223
+"Apparence de lance de la Synergétique",109224
+"Coupon de garde de la Forge : casque",109228
+"Piste 4 : Call of the Raven",109231
+"Piste 16 : The Newly Awakened",109232
+"Piste 43 : Champions : Truce",109234
+"Piste 19 : Logan's Journey",109236
+"Piste 62 : Raven Speaks",109240
+"Piste 15 : Crystal Oasis Redux",109241
+"Piste 12 : Camp Resolve",109244
+"Piste 20 : Forearmed Is Forewarned",109248
+"Piste 11 : Battle in Draconis Mons",109250
+"Piste 37 : Aurene, Dragon Full of Light",109252
+"Piste 43 : Hero's Canton",109254
+"Apparence de gants de chasse de la Garde",109256
+"Piste 17 : Ventari's Legacy",109257
+"Piste 14 : The Priory Archives",109258
+"Piste 22 : Farahr",109260
+"Piste 10 : The Hall of Judgment",109262
+"Relique de Galdra",109264
+"Relique des terres sacrées",109267
+"Apparence d'espadon de la Synergétique",109268
+"Piste 44 : Heart to Heart",109269
+"Piste 63 : Journey to the Mists",109270
+"Piste 32 : The Mystic Forge",109271
+"Piste 32 : Michotl Battle March",109275
+"Ratissage de reliques sur voldécume : argent",109278
+"Piste 32 : Alpine Cascades",109284
+"Piste 9 : The World Summit",109288
+"Piste 35 : Change versus Comfort",109291
+"Piste 36 : The Frost Legion",109292
+"Piste 15 : Episode 3 : Long Live the Lich",109293
+"Piste 18 : The Nightmare Court",109295
+"Piste 47 : The Saga of the Norn",109300
+"Piste 10 : Battle with the Tamini",109301
+"Piste 26 : Dawn in Shaemoor",109302
+"Piste 16 : High Roller",109304
+"Piste 68 : Adelbern's Ghost",109306
+"Piste 2 : The Fall of the Zephyrites",109311
+"Piste 18 : Tears of Stars",109313
+"Piste 13 : Mepi's Ranch",109320
+"Piste 34 : Qadim Escapes",109322
+"Apparence de masse de monarque des gwyls",109326
+"Piste 13 : Dark Forest",109327
+"Piste 54 : Caithe's Daggers",109329
+"Piste 11 : The Sea of Sorrows",109330
+"Piste 38 : Spirits of the Wild (Redux)",109331
+"Apparence de cor de guerre de la Synergétique",109333
+"Apparence de marteau de la Synergétique",109336
+"Piste 2 : Assault on Amnoon",109337
+"Piste 5 : Amala",109339
+"Piste 21 : Eye of the North",109342
+"Piste 44 : Primordus Rising",109343
+"Piste 3 : Bangar's Office",109344
+"Piste 46 : Champion of Primordus",109345
 "",109347
+"Piste 27 : Escape from the Shatterer",109349
+"Piste 14 : Legion of Flames",109350
+"Relique du directeur",109351
+"Repas de requinet : or",109352
+"Piste 28 : Straits of Devastation",109360
+"Apparence de focus de monarque des gwyls",109364
+"Coupon de garde de la Forge : épaulières",109366
+"Piste 77 : Trahearne's Reverie",109367
+"Piste 52 : Almora's Revelation",109372
+"Piste 12 : The Vigil Goes to War",109373
+"Apparence d'épaulières de chasse de la Garde",109376
+"Piste 35 : The Last of the Steel Band",109378
+"Apparence de sceptre de monarque des gwyls",109380
+"Piste 3 : Drytop",109381
+"Ratissage de reliques sur voldécume : bronze",109384
+"Piste 24 : Bangar's War Machine",109385
+"Piste 17 : Meeting the Asura",109386
 "Fiole de pierre de l'ombre liquide",109391
+"Piste 45 : Melandru's Calm",109393
+"Piste 41 : The Resurrection",109396
+"Piste 29 : Kormir's Whispers",109398
+"Piste 7 : Eir's Memorial",109402
+"Piste 57 : Hope Falls",109404
+"Piste 24 : Zhaitan",109408
+"Piste 38 : The Shiverpeaks",109409
+"Piste 61 : The Orders Unite",109413
+"Apparence de lance de monarque des gwyls",109414
+"Piste 40 : United Legions II",109415
+"Piste 45 : The Ascension",109416
+"Piste 21 : Joko's Victory",109417
