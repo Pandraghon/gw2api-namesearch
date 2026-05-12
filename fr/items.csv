@@ -71233,6 +71233,7 @@
 "Piste 20 : The Quiet Before",106718
 "Apparence d'arc court de nacre",106719
 "Boîte au trésor des flibustiers de Castora",106720
+"Aiguillon de Samarog",106721
 "Piste 2 : Mist Connections",106724
 "Brasero suspendu",106725
 "\"Fourchette\" de pirate berserker",106726
@@ -73233,6 +73234,7 @@
 "Piste 43 : Into the Dragon",108969
 "Piste 6 : Forming a New Legion",108970
 "Boîte d'armes de morph-o-matic",108971
+"Lit aruspice",108973
 "Piste 8 : Desmina's Reclamation",108978
 "Piste 23 : Watch Your Step",108979
 "Piste 25 : Lornar's Pass",108985
@@ -73246,6 +73248,7 @@
 "Piste 51 : Bandit's Expanse",109005
 "Mini-intendant augmenté de Galdra",109010
 "Piste 45 : The Ascension",109011
+"Discorde infinie",109012
 "Piste 74 : March of the Legions",109013
 "Piste 11 : Storms of Winter I",109016
 "Piste 17 : Blish's Determination",109023
@@ -73277,10 +73280,12 @@
 "Recette : masse en résine scintillante",109069
 "Piste 29 : Zafirah",109071
 "Coupon de garde de la Forge : gants",109077
+"Piste 53 : Battle of the Vanguard",109079
 "Apparence de bouclier de la Synergétique",109080
 "Repas de requinet : argent",109082
 "Piste 6 : Attack on the Sunspears",109088
 "Piste 7 : Whispers in the Dark",109089
+"Petit miroir aruspice",109090
 "Espauliers intermédiaires de garde de la Forge",109091
 "Piste 3 : Joko",109096
 "Gants intermédiaires de garde de la Forge",109098
@@ -73288,6 +73293,7 @@
 "Piste 30 : The Prophecy",109101
 "Piste 42 : Rytlock",109102
 "Piste 39 : Plains of Ashford",109105
+"Mini-petit requinet",109108
 "Recette : tableau aruspice",109109
 "Piste 18 : The Nightmare Court",109110
 "Piste 16 : Alpine Marches",109113
@@ -73360,10 +73366,12 @@
 "Piste 62 : Raven Speaks",109240
 "Piste 15 : Crystal Oasis Redux",109241
 "Piste 12 : Camp Resolve",109244
+"Mini-intendant apprenti de Galdra",109245
 "Apparence de monture raptor prestaile",109246
 "Cache d'intendant",109247
 "Piste 20 : Forearmed Is Forewarned",109248
 "Piste 11 : Battle in Draconis Mons",109250
+"Dague surprise de garde de la Forge",109251
 "Piste 37 : Aurene, Dragon Full of Light",109252
 "Piste 16 : High Roller",109253
 "Piste 43 : Hero's Canton",109254
@@ -73373,15 +73381,18 @@
 "Piste 22 : Farahr",109260
 "Piste 10 : The Hall of Judgment",109262
 "Relique de Galdra",109264
+"Piste 24 : Episode 4 Teaser Trailer",109265
 "Relique des terres sacrées",109267
 "Apparence d'espadon de la Synergétique",109268
 "Piste 44 : Heart to Heart",109269
 "Piste 63 : Journey to the Mists",109270
 "Piste 32 : The Mystic Forge",109271
+"Orbe de pierre de l'ombre",109274
 "Piste 32 : Michotl Battle March",109275
 "Piste 58 : The Vaults of the Priory",109276
 "Ratissage de reliques sur voldécume : argent",109278
 "Épée en résine scintillante berserker",109279
+"Piste 5 : Mountain March",109282
 "Recette : dague en résine scintillante",109283
 "Piste 32 : Alpine Cascades",109284
 "Piste 9 : The World Summit",109288
@@ -73399,6 +73410,7 @@
 "Piste 18 : Tears of Stars",109313
 "Piste 13 : Mepi's Ranch",109320
 "Piste 34 : Qadim Escapes",109322
+"Piste 42 : Dragonflight",109323
 "Piste 48 : Jormag's World",109325
 "Apparence de masse de monarque des gwyls",109326
 "Piste 13 : Dark Forest",109327
@@ -73410,22 +73422,27 @@
 "Apparence de marteau de la Synergétique",109336
 "Piste 2 : Assault on Amnoon",109337
 "Piste 5 : Amala",109339
+"Transcendance aruspice",109341
 "Piste 21 : Eye of the North",109342
 "Piste 44 : Primordus Rising",109343
 "Piste 3 : Bangar's Office",109344
 "Piste 46 : Champion of Primordus",109345
 "",109347
+"Piste 36 : The Prophecy Redux",109348
 "Piste 27 : Escape from the Shatterer",109349
 "Piste 14 : Legion of Flames",109350
 "Relique du directeur",109351
 "Repas de requinet : or",109352
 "Piste 28 : Straits of Devastation",109360
+"Don du razziafelis",109363
 "Apparence de focus de monarque des gwyls",109364
 "Recette : pistolet en résine scintillante",109365
 "Coupon de garde de la Forge : épaulières",109366
 "Piste 77 : Trahearne's Reverie",109367
+"Mini-intendant de Galdra",109370
 "Piste 52 : Almora's Revelation",109372
 "Piste 12 : The Vigil Goes to War",109373
+"Escalier de fer 120 x 60",109375
 "Apparence d'épaulières de chasse de la Garde",109376
 "Piste 35 : The Last of the Steel Band",109378
 "Apparence de sceptre de monarque des gwyls",109380
@@ -73463,8 +73480,10 @@
 "Piste 46 : The Stars Shine on Kryta",109436
 "Apparence de bouclier de monarque des gwyls",109439
 "Piste 18 : Blish's Sorrow",109441
+"Piste 46 : Living World Season 4 Live Medley",109447
 "Grimoire d'emote \"/siffler\"",109448
 "Piste 76 : Scales of Issormir",109450
+"Sol aruspice",109451
 "Piste 42 : Claw of Jormag",109452
 "Piste 5 : Taimi's Game Part 1",109453
 "100 000 pièces \"d'or\"",109454
@@ -73498,6 +73517,7 @@
 "Piste 1 : Icebrood Saga Announcement Trailer",109517
 "Apparence d'arc long de monarque des gwyls",109521
 "Relique du doyen",109522
+"Piste 10 : The Hall of Judgment",109523
 "Piste 41 : Champion of Jormag",109525
 "Piste 15 : Faren's Theme",109527
 "Piste 38 : The Shiverpeaks",109530
@@ -73506,6 +73526,7 @@
 "Piste 10 : Encounter with the White Mantle",109539
 "Sélection de licence d'adoption de monture des créatures tenaces",109541
 "Piste 48 : Jormag's World",109544
+"Marteau de morph-o-matic",109545
 "Piste 19 : The Golden Cave",109546
 "Piste 30 : Shadow of the Behemoth",109547
 "Mini-requinet adulte",109549
@@ -73513,6 +73534,7 @@
 "Mini-haut-intendant de Galdra",109553
 "Piste 69 : The Hammer Falls",109555
 "Recette : focus en résine scintillante",109560
+"Piste 23 : Watch Your Step",109561
 "Dague en résine scintillante berserker",109563
 "Piste 19 : The Golden Cave",109564
 "Apparence de torche de la Synergétique",109565
@@ -73535,11 +73557,14 @@
 "Piste 20 : Tyria Reborn",109611
 "Bottes lourdes de garde de la Forge",109612
 "Piste 27 : Ancient Mine Demolition Derby",109615
+"Don de l'arpenteur des Brumes",109618
 "Apparence de hache de monarque des gwyls",109619
+"Piste 33 : Qadim",109620
 "Repas de requinet : bronze",109622
 "Recette : marteau en résine scintillante",109625
 "Espauliers légers de garde de la Forge",109627
 "Piste 38 : The Crystal Dragon Pt. 1",109628
+"Piste 37 : Aurene, Dragon Full of Light",109629
 "Livre de recettes pour pavillon : catalogue aruspice, volume 1",109630
 "Arc long en résine scintillante berserker",109633
 "Piste 3 : Bear's Spirit",109634
@@ -73560,6 +73585,7 @@
 "Apparence de fusil de la Synergétique",109659
 "Piste 11 : The Silverwastes",109661
 "Relique de la surveillante cruelle",109664
+"Escalier de fer 120 x 120",109665
 "Pierre de rune aruspice",109666
 "Piste 49 : The Great Wall Has Fallen",109668
 "Apparence de bâton de la Synergétique",109673
@@ -73568,18 +73594,22 @@
 "Piste 6 : Taimi's Game Part 2",109677
 "Piste 12 : The Olmakhan",109681
 "Focus en résine scintillante berserker",109685
+"Don du guerrier des Brumes",109686
 "Recette : fusil en résine scintillante",109687
 "Piste 35 : Racing Beetles",109689
 "Piste 39 : United Legions I",109693
+"Piste 48 : All or Nothing Trailer",109694
 "Piste 44 : Heart to Heart",109696
 "Apparence de dague de monarque des gwyls",109697
 "Piste 28 : Steel Team Six",109698
 "Piste 22 : Visions of the Past : Steel and Fire",109701
+"Piste 4 : The Arid Sands",109704
 "Piste 8 : Eir's Solitude",109706
 "Relique de Garde",109709
 "Piste 9 : Aurene",109710
 "Piste 1 : Episode 1 : Daybreak",109711
 "Piste 2 : Grothmar Valley",109714
+"Armature de confinement de pierre de l'ombre",109715
 "Piste 5 : Taimi's Game Part 1",109718
 "Recette : lance en résine scintillante",109725
 "Gants légers de garde de la Forge",109726
@@ -73592,6 +73622,7 @@
 "Marteau en résine scintillante berserker",109741
 "Piste 34 : The Darkness Will Fall",109743
 "Piste 16 : Alpine Marches",109745
+"Sol de fer 960 x 840",109746
 "100 pièces \"d'or\"",109747
 "Piste 9 : River of Souls",109751
 "Piste 48 : All or Nothing Trailer",109756

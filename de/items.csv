@@ -71233,6 +71233,7 @@
 "Track 20: Ruhe vor dem Sturm",106718
 "Skin für Perlmuschel-Kurzbogen",106719
 "Castoranisches Freibeuter-Schatzkästchen",106720
+"Zackenstab des Samarog",106721
 "Track 2: Verloren im Nebel",106724
 "Hängende Flammenschale",106725
 "Berserkerhafter Piraten-\"Gabel\"",106726
@@ -73233,6 +73234,7 @@
 "Track 43: In den Drachen hinein",108969
 "Track 6: Gründung einer neuen Legion",108970
 "Morph-o-Matik-Waffenkiste",108971
+"Seher-Bett",108973
 "Track 8: Desminas Rückgewinnung",108978
 "Track 23: Passt auf, wo Ihr hintretet!",108979
 "Track 25: Lornars Pass",108985
@@ -73246,6 +73248,7 @@
 "Track 51: Banditen-Weite",109005
 "Mini verstärkter Verwalter von Galdra",109010
 "Track 45: Der Aufstieg",109011
+"Endloser Zwist",109012
 "Track 74: Marsch der Legionen",109013
 "Track 11: Stürme des Winters I",109016
 "Track 17: Entschlossenheit von Blish",109023
@@ -73277,10 +73280,12 @@
 "Rezept: Schimmerharz-Streitkolben",109069
 "Track 29: Zafirah",109071
 "Schmiedewächter-Marke: Handschuhe",109077
+"Track 53: Kampf der Vorhut",109079
 "Skin für Synergetik-Schild",109080
 "Miezhai-Fütterung: Silber",109082
 "Track 6: Angriff auf die Sonnenspeere",109088
 "Track 7: Geflüster im Dunkeln",109089
+"Seher-Spiegel, klein",109090
 "Mittlerer Schmiedewächter-Schulterschutz",109091
 "Track 3: Joko",109096
 "Mittlere Schmiedewächter-Handschuhe",109098
@@ -73288,6 +73293,7 @@
 "Track 30: Die Prophezeiung",109101
 "Track 42: Rytlock",109102
 "Track 39: Ebenen von Aschfurt",109105
+"Mini Miezhai-Welpe",109108
 "Rezept: Seher-Gemälde",109109
 "Track 18: Albtraumhof",109110
 "Track 16: Alpine Märsche",109113
@@ -73360,10 +73366,12 @@
 "Track 62: Der Rabe spricht",109240
 "Track 15: Kristalloase: Redux",109241
 "Track 12: Lager der Standhaftigkeit",109244
+"Mini Verwalter-Lehrling von Galdra",109245
 "Skin für Flinkschwingen-Raptor-Reittier",109246
 "Verwalter-Lager",109247
 "Track 20: Gefahr erkannt, Gefahr gebannt",109248
 "Track 11: Schlacht von Draconis Mons",109250
+"Schmiedewächter-Überraschungs-Dolch",109251
 "Track 37: Aurene, Drache voller Licht",109252
 "Track 16: Der Rolle gewachsen",109253
 "Track 43: Heldenbezirk",109254
@@ -73373,15 +73381,18 @@
 "Track 22: Farahr",109260
 "Track 10: Die Halle des jüngsten Gerichts",109262
 "Relikt von Galdra",109264
+"Track 24: Episode 4: Teaser-Trailer",109265
 "Relikt des Heiligen Bodens",109267
 "Skin für Synergetik-Großschwert",109268
 "Track 44: Herz an Herz",109269
 "Track 63: Reise in die Nebel",109270
 "Track 32: Die Mystische Schmiede",109271
+"Schattensteinkugel",109274
 "Track 32: Michotl-Kampfmarsch",109275
 "Track 58: Die Gewölbe der Abtei",109276
 "Schweberochen-Reliktstöbern: Silber",109278
 "Berserkerhafter Schimmerharz-Schwert",109279
+"Track 5: Bergmarsch",109282
 "Rezept: Schimmerharz-Dolch",109283
 "Track 32: Alpine Kaskaden",109284
 "Track 9: Die Zusammenkunft",109288
@@ -73399,6 +73410,7 @@
 "Track 18: Tränen der Sterne",109313
 "Track 13: Mepis Gehöft",109320
 "Track 34: Qadim entkommt",109322
+"Track 42: Drachenflug",109323
 "Track 48: Jormags Welt",109325
 "Skin für Streitkolben des Gwyl-Monarchen",109326
 "Track 13: Dunkler Wald",109327
@@ -73410,22 +73422,27 @@
 "Skin für Synergetik-Hammer",109336
 "Track 2: Angriff auf Amnoon",109337
 "Track 5: Amala",109339
+"Seher-Transzendenz",109341
 "Track 21: Auge des Nordens",109342
 "Track 44: Primordus erhebt sich",109343
 "Track 3: Bangars Schreibstube",109344
 "Track 46: Champion des Primordus",109345
 "",109347
+"Track 36: Die Prophezeiung: Redux",109348
 "Track 27: Flucht vor dem Zerschmetterer",109349
 "Track 14: Legion der Flammen",109350
 "Relikt des Direktors",109351
 "Miezhai-Fütterung: Gold",109352
 "Track 28: Meerenge der Verwüstung",109360
+"Gabe der Kriegsklaue",109363
 "Skin für Fokus des Gwyl-Monarchen",109364
 "Rezept: Schimmerharz-Pistole",109365
 "Schmiedewächter-Marke: Schultern",109366
 "Track 77: Trahearnes Träumerei",109367
+"Mini Verwalter von Galdra",109370
 "Track 52: Almoras Enthüllung",109372
 "Track 12: Die Wachsamen ziehen in den Krieg",109373
+"Eisentreppe 120 x 60",109375
 "Skin für Wachenjäger-Schultern",109376
 "Track 35: Der Letzte der Stahl-Band",109378
 "Skin für Zepter des Gwyl-Monarchen",109380
@@ -73463,8 +73480,10 @@
 "Track 46: Die Sterne scheinen auf Kryta",109436
 "Skin für Schild des Gwyl-Monarchen",109439
 "Track 18: Blishs Kummer",109441
+"Track 46: Staffel 4 der Lebendigen Welt: Live-Medley",109447
 "\"/Pfeifen\"-Emote-Foliant",109448
 "Track 76: Schuppen von Issormir",109450
+"Seher-Fußboden",109451
 "Track 42: Klaue von Jormag",109452
 "Track 5: Taimis Spiel, Teil 1",109453
 "100.000 \"Gold\"",109454
@@ -73498,6 +73517,7 @@
 "Track 1: \"Eisbrut-Saga\"-Ankündigungs-Trailer",109517
 "Skin für Langbogen des Gwyl-Monarchen",109521
 "Relikt des Altmeisters",109522
+"Track 10: Die Halle des jüngsten Gerichts",109523
 "Track 41: Champion von Jormag",109525
 "Track 15: Farens Thema",109527
 "Track 38: Die Zittergipfel",109530
@@ -73506,6 +73526,7 @@
 "Track 10: Begegnung mit dem Weißen Mantel",109539
 "Hartnäckige Kreaturen: Reittier-Auswahllizenz",109541
 "Track 48: Jormags Welt",109544
+"Morph-o-Matic-Hammer",109545
 "Track 19: Die goldene Höhle",109546
 "Track 30: Schatten des Behemoth",109547
 "Mini erwachsener Miezhai",109549
@@ -73513,6 +73534,7 @@
 "Mini Oberster Verwalter von Galdra",109553
 "Track 69: Der Hammer fällt",109555
 "Rezept: Schimmerharz-Fokus",109560
+"Track 23: Passt auf, wo Ihr hintretet!",109561
 "Berserkerhafter Schimmerharz-Dolch",109563
 "Track 19: Die goldene Höhle",109564
 "Skin für Synergetik-Fackel",109565
@@ -73535,11 +73557,14 @@
 "Track 20: Wiedergeborenes Tyria",109611
 "Schwere Schmiedewächter-Stiefel",109612
 "Track 27: Zerstörungs-Derby in der Alten Mine",109615
+"Gabe des Nebelwandlers",109618
 "Skin für Axt des Gwyl-Monarchen",109619
+"Track 33: Qadim",109620
 "Miezhai-Fütterung: Bronze",109622
 "Rezept: Schimmerharz-Hammer",109625
 "Leichter Schmiedewächter-Schulterschutz",109627
 "Track 38: Kristalldrache, Teil 1",109628
+"Track 37: Aurene, Drache voller Licht",109629
 "Heimstatt-Rezeptbuch: Seher-Katalog, Band 1",109630
 "Berserkerhafter Schimmerharz-Langbogen",109633
 "Track 3: Bärengeist",109634
@@ -73560,6 +73585,7 @@
 "Skin für Synergetik-Gewehr",109659
 "Track 11: Die Silberwüste",109661
 "Relikt der grausamen Aufseherin",109664
+"Eisentreppe 120 x 120",109665
 "Seher-Runenstein",109666
 "Track 49: Der Große Wall ist gefallen",109668
 "Skin für Synergetik-Stab",109673
@@ -73568,18 +73594,22 @@
 "Track 6: Taimis Spiel, Teil 2",109677
 "Track 12: Die Olmakhan",109681
 "Berserkerhafter Schimmerharz-Fokus",109685
+"Gabe des Nebelkriegers",109686
 "Rezept: Schimmerharz-Gewehr",109687
 "Track 35: Rennkäfer",109689
 "Track 39: Vereinte Legionen I",109693
+"Track 48: Trailer: Alles oder nichts",109694
 "Track 44: Herz an Herz",109696
 "Skin für Dolch des Gwyl-Monarchen",109697
 "Track 28: Stahl-Team Sechs",109698
 "Track 22: Visionen der Vergangenheit: Stahl und Feuer",109701
+"Track 4: Der Trockene Sand",109704
 "Track 8: Eirs Einsamkeit",109706
 "Relikt der Wache",109709
 "Track 9: Aurene",109710
 "Track 1: Episode 1: Tagesanbruch",109711
 "Track 2: Grothmar-Tal",109714
+"Schattenstein-Sicherheitsrahmen",109715
 "Track 5: Taimis Spiel, Teil 1",109718
 "Rezept: Schimmerharz-Speer",109725
 "Leichte Schmiedewächter-Handschuhe",109726
@@ -73592,6 +73622,7 @@
 "Berserkerhafter Schimmerharz-Hammer",109741
 "Track 34: Die Dunkelheit sinkt hernieder",109743
 "Track 16: Alpine Märsche",109745
+"Eisen-Fußboden 960 x 840",109746
 "100 \"Gold\"",109747
 "Track 9: Fluss der Seelen",109751
 "Track 48: Trailer: Alles oder nichts",109756
