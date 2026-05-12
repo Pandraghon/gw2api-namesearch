@@ -70661,6 +70661,7 @@
 "Track 3: Hauptmann der Ätherklingen",105803
 "Gabe des Volkes",105804
 "Einfache Tür",105805
+"Mini Abenteuerlustiger Castoranischer Choya",105806
 "\"Extra Life\"-Karmaverstärker",105807
 "Track 23: Berg Balrior",105809
 "Track 27: Mordremoth",105811
@@ -73237,6 +73238,8 @@
 "Seher-Bett",108973
 "Track 8: Desminas Rückgewinnung",108978
 "Track 23: Passt auf, wo Ihr hintretet!",108979
+"Track 15: Schatten im Eis",108980
+"Eisen-Fußboden 960 x 600",108982
 "Track 25: Lornars Pass",108985
 "Track 25: TP6-B-Verschlinger",108986
 "Berserkerhafter Schimmerharz-Streitkolben",108987
@@ -73246,6 +73249,7 @@
 "Skin für Synergetik-Zepter",108998
 "Skin für Kurzbogen des Gwyl-Monarchen",109001
 "Track 51: Banditen-Weite",109005
+"Track 37: Exploratoren und Artefakte",109006
 "Mini verstärkter Verwalter von Galdra",109010
 "Track 45: Der Aufstieg",109011
 "Endloser Zwist",109012
@@ -73283,6 +73287,8 @@
 "Track 53: Kampf der Vorhut",109079
 "Skin für Synergetik-Schild",109080
 "Miezhai-Fütterung: Silber",109082
+"Seher-Truhe, groß",109085
+"Track 67: Der Pakt",109086
 "Track 6: Angriff auf die Sonnenspeere",109088
 "Track 7: Geflüster im Dunkeln",109089
 "Seher-Spiegel, klein",109090
@@ -73299,6 +73305,7 @@
 "Track 16: Alpine Märsche",109113
 "Gabe der Ewigkeitsgarten-Erkundung",109114
 "Mini Allseher",109115
+"Eisen-Fenster",109117
 "Track 45: Welt des Eises",109118
 "Track 66: Geflüster im Dunkeln",109120
 "Track 34: Angriff aufs Fort",109121
@@ -73308,6 +73315,7 @@
 "Schmiedewächter-Marke: Beinkleid",109126
 "Skin für Pistole des Gwyl-Monarchen",109127
 "Track 30: Die Prophezeiung",109129
+"Seher-Lampe",109131
 "Mini Verwunschener Zauberwächter",109132
 "Track 10: Jormag spricht",109133
 "Track 17: Geister der Wildnis",109134
@@ -73323,8 +73331,10 @@
 "Track 1: Wehklage von Löwenstein (live)",109152
 "Track 77: Trahearnes Träumerei",109153
 "Track 60: Triumph der Charr",109154
+"Mittlerer Schmiedewächter-Sturmhelm",109155
 "Berserkerhafter Schimmerharz-Pistole",109156
 "Track 44: Reise durch Caledon",109158
+"Seher-Säule",109162
 "Berserkerhafter Schimmerharz-Zepter",109163
 "Track 47: Der ewige Krieg",109164
 "Skin für Verzauberter Springer",109165
@@ -73338,6 +73348,7 @@
 "Track 37: Jormags Erwachen",109185
 "Mittleres Schmiedewächter-Beinkleid",109186
 "Track 42: Drachenflug",109191
+"Eisen-Wand 120 x 240",109192
 "Track 9: Die Mauern von Ebonfalke",109193
 "Riss-Extraktion",109194
 "Rezept: Schimmerharz-Kurzbogen",109196
@@ -73358,6 +73369,7 @@
 "Skin für Synergetik-Kurzbogen",109223
 "Skin für Synergetik-Speer",109224
 "Schmiedewächter-Marke: Sturmhelm",109228
+"Eisen-Wand 240 x 240",109230
 "Track 4: Ruf des Raben",109231
 "Track 16: Die Neuerwachten",109232
 "Track 43: Champions: Waffenstillstand",109234
@@ -73395,6 +73407,7 @@
 "Track 5: Bergmarsch",109282
 "Rezept: Schimmerharz-Dolch",109283
 "Track 32: Alpine Kaskaden",109284
+"Schwerer Schmiedewächter-Sturmhelm",109286
 "Track 9: Die Zusammenkunft",109288
 "Track 35: Änderungen oder Bequemlichkeit",109291
 "Track 36: Die Frost-Legion",109292
@@ -73409,6 +73422,7 @@
 "Track 2: Der Niedergang der Zephyriten",109311
 "Track 18: Tränen der Sterne",109313
 "Track 13: Mepis Gehöft",109320
+"Leichter Schmiedewächter-Sturmhelm",109321
 "Track 34: Qadim entkommt",109322
 "Track 42: Drachenflug",109323
 "Track 48: Jormags Welt",109325
@@ -73421,6 +73435,7 @@
 "Skin für Synergetik-Kriegshorn",109333
 "Skin für Synergetik-Hammer",109336
 "Track 2: Angriff auf Amnoon",109337
+"Dschungel-Klotz in Bogenform",109338
 "Track 5: Amala",109339
 "Seher-Transzendenz",109341
 "Track 21: Auge des Nordens",109342
@@ -73433,6 +73448,7 @@
 "Track 14: Legion der Flammen",109350
 "Relikt des Direktors",109351
 "Miezhai-Fütterung: Gold",109352
+"Eisentür",109358
 "Track 28: Meerenge der Verwüstung",109360
 "Gabe der Kriegsklaue",109363
 "Skin für Fokus des Gwyl-Monarchen",109364
@@ -73478,10 +73494,12 @@
 "Berserkerhafter Schimmerharz-Stab",109434
 "Track 21: Tyria erwartet Euch",109435
 "Track 46: Die Sterne scheinen auf Kryta",109436
+"Seher-Durchgang",109437
 "Skin für Schild des Gwyl-Monarchen",109439
 "Track 18: Blishs Kummer",109441
 "Track 46: Staffel 4 der Lebendigen Welt: Live-Medley",109447
 "\"/Pfeifen\"-Emote-Foliant",109448
+"Track 63: Reise in die Nebel",109449
 "Track 76: Schuppen von Issormir",109450
 "Seher-Fußboden",109451
 "Track 42: Klaue von Jormag",109452
@@ -73548,6 +73566,7 @@
 "Track 4: Glutbucht",109588
 "Abgrundpirscher-Waffenkasten",109591
 "Track 65: Von Zeiten und Quaggan",109596
+"Seher-Wand",109597
 "1.000 \"Gold\"",109599
 "Track 7: Trockener Ausblick 2",109600
 "Leichte Schmiedewächter-Stiefel",109604
@@ -73575,6 +73594,7 @@
 "Track 11: Episode 2: Ein Fehler im System",109640
 "Track 73: Funkenschwärmersumpf",109641
 "Track 13: Konflikt auf den Sandgepeitschten Inseln",109642
+"Eisen-Durchgang 240 x 240",109644
 "Track 64: Freunde, die jetzt Feinde sind",109646
 "Auswahlkiste des Gwyl-Monarchen",109647
 "Track 14: Wiedersehen mit Taimi",109648
@@ -73587,6 +73607,7 @@
 "Relikt der grausamen Aufseherin",109664
 "Eisentreppe 120 x 120",109665
 "Seher-Runenstein",109666
+"Eisen-Wand 60 x 240",109667
 "Track 49: Der Große Wall ist gefallen",109668
 "Skin für Synergetik-Stab",109673
 "Track 13: Diaphaner Defragmentierungs-Randomisierer",109674
@@ -73597,6 +73618,7 @@
 "Gabe des Nebelkriegers",109686
 "Rezept: Schimmerharz-Gewehr",109687
 "Track 35: Rennkäfer",109689
+"Eisen-Wand 600 x 240",109691
 "Track 39: Vereinte Legionen I",109693
 "Track 48: Trailer: Alles oder nichts",109694
 "Track 44: Herz an Herz",109696
@@ -73611,8 +73633,10 @@
 "Track 2: Grothmar-Tal",109714
 "Schattenstein-Sicherheitsrahmen",109715
 "Track 5: Taimis Spiel, Teil 1",109718
+"Eisen-Wand 960 x 240",109721
 "Rezept: Schimmerharz-Speer",109725
 "Leichte Schmiedewächter-Handschuhe",109726
+"Seher-Tisch, klein",109728
 "Track 6: Trockener Ausblick 1",109729
 "Mini Cyborg-Stachelpanzer",109730
 "Track 23: Die Tengu-Wand",109731
@@ -73626,5 +73650,7 @@
 "100 \"Gold\"",109747
 "Track 9: Fluss der Seelen",109751
 "Track 48: Trailer: Alles oder nichts",109756
+"Seher-Speicherkessel",109758
+"Seher-Tisch, groß",109762
 "Track 36: Ein wiederhergestelltes Land",109765
 "Track 47: Der ewige Krieg",109766

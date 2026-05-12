@@ -70661,6 +70661,7 @@
 "Track 3: Captain of the Aetherblades",105803
 "Gift of the People",105804
 "Simple Door",105805
+"Mini Adventurous Castoran Choya",105806
 "Extra Life Karma Booster",105807
 "Track 23: Mount Balrior",105809
 "Track 27: Mordremoth",105811
@@ -73237,6 +73238,8 @@
 "Seer Bed",108973
 "Track 8: Desmina's Reclamation",108978
 "Track 23: Watch Your Step",108979
+"Track 15: Shadow in the Ice",108980
+"Iron Floor 960 x 600",108982
 "Track 25: Lornar's Pass",108985
 "Track 25: TT6-B Devourer",108986
 "Berserker's Glimmering Resin Mace",108987
@@ -73246,6 +73249,7 @@
 "Synergetics Scepter Skin",108998
 "Gwyl Monarch's Short Bow Skin",109001
 "Track 51: Bandit's Expanse",109005
+"Track 37: Explorers and Artifacts",109006
 "Mini Augmented Steward of Galdra",109010
 "Track 45: The Ascension",109011
 "Strife Unending",109012
@@ -73283,6 +73287,8 @@
 "Track 53: Battle of the Vanguard",109079
 "Synergetics Shield Skin",109080
 "Kitshark Feeding: Silver",109082
+"Seer Chest Large",109085
+"Track 67: The Pact",109086
 "Track 6: Attack on the Sunspears",109088
 "Track 7: Whispers in the Dark",109089
 "Seer Mirror Small",109090
@@ -73299,6 +73305,7 @@
 "Track 16: Alpine Marches",109113
 "Gift of Eternity's Garden Exploration",109114
 "Mini All Seer",109115
+"Iron Window",109117
 "Track 45: World of Ice",109118
 "Track 66: Whispers in the Dark",109120
 "Track 34: Fort Assault",109121
@@ -73308,6 +73315,7 @@
 "Forge Guard's Token: Leggings",109126
 "Gwyl Monarch's Pistol Skin",109127
 "Track 30: The Prophecy",109129
+"Seer Lamp",109131
 "Mini Enchanted Spell Guardian",109132
 "Track 10: Jormag Speaks",109133
 "Track 17: Spirits of the Wild",109134
@@ -73323,8 +73331,10 @@
 "Track 1: Lion's Arch Lament (Live)",109152
 "Track 77: Trahearne's Reverie",109153
 "Track 60: The Charr Triumphant",109154
+"Forge Guard's Medium Helmet",109155
 "Berserker's Glimmering Resin Pistol",109156
 "Track 44: Journey through Caledon",109158
+"Seer Pillar",109162
 "Berserker's Glimmering Resin Scepter",109163
 "Track 47: The War Eternal",109164
 "Enchanted Springer Skin",109165
@@ -73338,6 +73348,7 @@
 "Track 37: Jormag Rising",109185
 "Forge Guard's Medium Leggings",109186
 "Track 42: Dragonflight",109191
+"Iron Wall 120 x 240",109192
 "Track 9: The Walls of Ebonhawke",109193
 "Rift Extraction",109194
 "Recipe: Glimmering Resin Short Bow",109196
@@ -73358,6 +73369,7 @@
 "Synergetics Short Bow Skin",109223
 "Synergetics Spear Skin",109224
 "Forge Guard's Token: Helmet",109228
+"Iron Wall 240 x 240",109230
 "Track 4: Call of the Raven",109231
 "Track 16: The Newly Awakened",109232
 "Track 43: Champions: Truce",109234
@@ -73395,6 +73407,7 @@
 "Track 5: Mountain March",109282
 "Recipe: Glimmering Resin Dagger",109283
 "Track 32: Alpine Cascades",109284
+"Forge Guard's Heavy Helmet",109286
 "Track 9: The World Summit",109288
 "Track 35: Change versus Comfort",109291
 "Track 36: The Frost Legion",109292
@@ -73409,6 +73422,7 @@
 "Track 2: The Fall of the Zephyrites",109311
 "Track 18: Tears of Stars",109313
 "Track 13: Mepi's Ranch",109320
+"Forge Guard's Light Helmet",109321
 "Track 34: Qadim Escapes",109322
 "Track 42: Dragonflight",109323
 "Track 48: Jormag's World",109325
@@ -73421,6 +73435,7 @@
 "Synergetics Warhorn Skin",109333
 "Synergetics Hammer Skin",109336
 "Track 2: Assault on Amnoon",109337
+"Jungle Log Arched",109338
 "Track 5: Amala",109339
 "Seer Transcendence",109341
 "Track 21: Eye of the North",109342
@@ -73433,6 +73448,7 @@
 "Track 14: Legion of Flames",109350
 "Relic of the Director",109351
 "Kitshark Feeding: Gold",109352
+"Iron Door",109358
 "Track 28: Straits of Devastation",109360
 "Gift of the Warclaw",109363
 "Gwyl Monarch's Focus Skin",109364
@@ -73478,10 +73494,12 @@
 "Berserker's Glimmering Resin Staff",109434
 "Track 21: Tyria Awaits",109435
 "Track 46: The Stars Shine on Kryta",109436
+"Seer Doorway",109437
 "Gwyl Monarch's Shield Skin",109439
 "Track 18: Blish's Sorrow",109441
 "Track 46: Living World Season 4 Live Medley",109447
 "\"/Whistle\" Emote Tome",109448
+"Track 63: Journey to the Mists",109449
 "Track 76: Scales of Issormir",109450
 "Seer Floor",109451
 "Track 42: Claw of Jormag",109452
@@ -73548,6 +73566,7 @@
 "Track 4: Ember Bay",109588
 "Abyss Stalker Weapon Box",109591
 "Track 65: Of Tides and Quaggan",109596
+"Seer Wall",109597
 "1,000 \"Gold\"",109599
 "Track 7: Arid Vista 2",109600
 "Forge Guard's Light Boots",109604
@@ -73575,6 +73594,7 @@
 "Track 11: Episode 2: A Bug in the System",109640
 "Track 73: Sparkfly Fen",109641
 "Track 13: Clash on the Sandswept Isles",109642
+"Iron Doorway 240 x 240",109644
 "Track 64: Once Friends Now Enemies",109646
 "Gwyl Monarch's Selection Box",109647
 "Track 14: Taimi's Reunion",109648
@@ -73587,6 +73607,7 @@
 "Relic of the Cruel Overseer",109664
 "Iron Stairs 120 x 120",109665
 "Seer Runestone",109666
+"Iron Wall 60 x 240",109667
 "Track 49: The Great Wall Has Fallen",109668
 "Synergetics Staff Skin",109673
 "Track 13: Diaphonous Diffraction Randomizer",109674
@@ -73597,6 +73618,7 @@
 "Gift of the Mist Warrior",109686
 "Recipe: Glimmering Resin Rifle",109687
 "Track 35: Racing Beetles",109689
+"Iron Wall 600 x 240",109691
 "Track 39: United Legions I",109693
 "Track 48: All or Nothing Trailer",109694
 "Track 44: Heart to Heart",109696
@@ -73611,8 +73633,10 @@
 "Track 2: Grothmar Valley",109714
 "Shadowstone Containment Frame",109715
 "Track 5: Taimi's Game Part 1",109718
+"Iron Wall 960 x 240",109721
 "Recipe: Glimmering Resin Spear",109725
 "Forge Guard's Light Gloves",109726
+"Seer Table Small",109728
 "Track 6: Arid Vista 1",109729
 "Mini Cyborg Spineshell",109730
 "Track 23: The Tengu Wall",109731
@@ -73626,5 +73650,7 @@
 "100 \"Gold\"",109747
 "Track 9: River of Souls",109751
 "Track 48: All or Nothing Trailer",109756
+"Seer Storage Cauldron",109758
+"Seer Table Large",109762
 "Track 36: A Land Restored",109765
 "Track 47: The War Eternal",109766
