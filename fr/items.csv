@@ -32599,7 +32599,6 @@
 "Manteau rubané sanguinaire de force",45085
 "Manteau rubané sanguinaire de force",45086
 "Manteau rubané sanguinaire de Lyssa",45087
-"Gantelets rubanés sanguinaires de Balthazar",45088
 "Gantelets rubanés sanguinaires du Bosquet",45089
 "Gantelets rubanés sanguinaires des ouailles",45090
 "Heaume rubané sanguinaire du voyageur",45091
@@ -32610,43 +32609,31 @@
 "Cuissardes rubanées sanguinaires de Grenth",45096
 "Espauliers rubanés sanguinaires de Lyssa",45097
 "Espauliers rubanés sanguinaires de la Citadelle",45098
-"Espauliers rubanés sanguinaires du dolyak",45099
 "Chausses de conjurateur sanguinaires de Lyssa",45100
 "Chausses de conjurateur sanguinaires de la liche",45101
 "Chausses de conjurateur sanguinaires du Bosquet",45102
-"Pansière de conjurateur sanguinaire de rage",45103
-"Pansière de conjurateur sanguinaire de la Légion de la Flamme",45104
 "Pansière de conjurateur sanguinaire de Rata Sum",45105
 "Gants de conjurateur sanguinaires de Dwayna",45106
 "Gants de conjurateur sanguinaires de Grenth",45107
-"Gants de conjurateur sanguinaires du Bosquet",45108
-"Masque de conjurateur sanguinaire de Lyssa",45109
 "Masque de conjurateur sanguinaire des ouailles",45110
-"Masque de conjurateur sanguinaire de Rata Sum",45111
 "Pantalon de conjurateur sanguinaire de pitié",45112
-"Pantalon de conjurateur sanguinaire de pitié",45113
 "Pantalon de conjurateur sanguinaire de rage",45114
 "Houppelande de conjurateur sanguinaire des Affligés",45115
 "Houppelande de conjurateur sanguinaire d'infiltration",45116
-"Houppelande de conjurateur sanguinaire d'Hoelbrak",45117
 "Bottes de corsaire sanguinaires de la Légion de la Flamme",45118
 "Bottes de corsaire sanguinaires du Centaure",45119
-"Bottes de corsaire sanguinaires de Dwayna",45120
 "Manteau de voleur sanguinaire du voyageur",45121
 "Manteau de voleur sanguinaire de la liche",45122
 "Manteau de voleur sanguinaire de pitié",45123
 "Gants de voleur sanguinaires de l'aigle",45124
 "Gants de voleur sanguinaires de Balthazar",45125
-"Gants de voleur sanguinaires de rage",45126
 "Masque de maraudeur sanguinaire de divinité",45127
 "Masque de maraudeur sanguinaire de l'aigle",45128
 "Masque de maraudeur sanguinaire des Affligés",45129
 "Pantalon de voleur sanguinaire de profanation",45130
-"Pantalon de voleur sanguinaire de divinité",45131
 "Pantalon de voleur sanguinaire des Affligés",45132
 "Espauliers de voleur sanguinaires de pitié",45133
 "Espauliers de voleur sanguinaires d'infiltration",45134
-"Espauliers de voleur sanguinaires d'infiltration",45135
 "Grèves de Yakkington",45136
 "Corselet de Yakkington",45137
 "Gantelets de Yakkington",45138
@@ -70456,7 +70443,7 @@
 "Gants intermédiaires d'agent de terrain de l'alliance",105486
 "Piste 38 : Fortune's Favor",105490
 "Piste 18 : Minions of Kralkatorrik",105492
-"Piste 28 : Ishan's Wish",105493
+"Piste 28 : Ishan's Watch",105493
 "Hallebarde draguerre berserker",105494
 "Piste 17 : Eparch's Finest",105496
 "Ancre éthérée",105497
@@ -70520,7 +70507,7 @@
 "Piste 1 : Janthir Wilds",105590
 "Piste 13 : Otherworldly Threats",105591
 "Mur de passage",105592
-"Piste 2 : A New Journey",105596
+"Piste 2 : A New Journey",105596
 "Lance krait",105597
 "Mini-Tyrannus Mangeur-d'hommes",105598
 "Grand prix des Arches scintillantes : or",105599
@@ -70596,7 +70583,7 @@
 "Piste 29 : Bava Nisos",105704
 "Fougère d'île coriace",105705
 "Voile lourd de capitaine fébrile",105706
-"Piste 17 : Blood and Stone",105708
+"Piste 17 : Blood from Stone",105708
 "Trésor étherlocalisé commun",105710
 "Coin de toit incurvé",105711
 "Aiguillon des Oubliés",105713
@@ -70630,7 +70617,7 @@
 "Piste 4 : The Jungle Provides",105751
 "Piste 3 : The Pact Laid Waste",105752
 "Mur à fenêtre (600 x 240)",105753
-"Piste 2 : This Unknown Hemisphere",105755
+"Piste 2 : The Unknown Hemisphere",105755
 "Piste 16 : To Fell a King",105756
 "Piste 4 : Life-Fire",105757
 "Feux d'artifice volants : or",105758
@@ -70654,7 +70641,7 @@
 "Piste 8 : Forged in Fire",105786
 "Fusil de Strelitzia Crystallinum",105787
 "Bâton enchanté des aruspices",105791
-"Piste 21 : Scar",105793
+"Piste 21 : SCAR",105793
 "Armes du peuple",105794
 "Bottes légères d'agent de terrain de l'alliance",105795
 "Piste 17 : Leaving Tarir",105796
@@ -70757,7 +70744,7 @@
 "Marteau enchanté des aruspices",105944
 "Piste 17 : Veins of the Dragon",105945
 "Capuchon intermédiaire extremis",105948
-"Piste 1 : Heart of Thorns",105952
+"Piste 1 : Heart of Thorns Theme",105952
 "",105954
 "Apparence de bâton de nacre",105955
 "Poutre en bois (16 x 480 x 16)",105956
@@ -70767,7 +70754,7 @@
 "Bouclier de Strelitzia Crystallinum",105960
 "Bricoles de Flapjack",105961
 "Piste 23 : Joon's Secret",105962
-"Piste 1 : Heart of Thorns",105963
+"Piste 1 : Heart of Thorns Theme",105963
 "",105965
 "Apparence de dague de nacre",105966
 "Houppelande légère de capitaine fébrile",105967
@@ -70980,7 +70967,7 @@
 "Piste 25 : Kaineng Riverways",106305
 "Piste 4 : Army of the War God",106307
 "Lance honorifique des Veilleurs",106310
-"Piste 13 : Highland Hares",106311
+"Piste 13 : Highlands Hares",106311
 "Hallebarde de perles berserker",106312
 "Empaleur héroïque de sang de dragon",106315
 "Piste 14 : Malaise",106316
@@ -71015,7 +71002,7 @@
 "Espadon enchanté des aruspices",106363
 "Relique du biomancien",106364
 "Piste 27 : Left to Fester",106365
-"Piste 2 : This Unknown Hemisphere",106366
+"Piste 2 : The Unknown Hemisphere",106366
 "Toit incurvé (600)",106367
 "Masse enchantée des aruspices",106368
 "Apparence de sceptre de calligraphe",106369
@@ -71027,7 +71014,7 @@
 "Morceau d'aqua-respirateur",106382
 "Sève chromatique",106385
 "Piste 37 : House Zu Heltzer",106387
-"Piste 21 : Scar",106388
+"Piste 21 : SCAR",106388
 "Piste 9 : Curious Allies",106389
 "Piste 6 : Stroll in the Night Market",106390
 "Arc court de constructeur véloce",106391
@@ -71053,7 +71040,7 @@
 "Piste 1 : Secrets of the Obscure",106422
 "Mini-Gwyldell",106423
 "Piste 20 : The Bloodied Lord",106425
-"Piste 13 : Highland Hares",106426
+"Piste 13 : Highlands Hares",106426
 "Piste 12 : Sands of Time",106427
 "Choix d'arme de calligraphe",106428
 "Piste 58 : A World Without You",106429
@@ -71103,7 +71090,7 @@
 "Piste 9 : This Mountain Before Us",106495
 "Mât de navire",106497
 "Ruée du filet à voldécume : bronze",106498
-"Piste 17 : Blood and Stone",106501
+"Piste 17 : Blood from Stone",106501
 "Aventure des lignes de force en voldécume : or",106502
 "Piste 40 : The End of War",106503
 "Apparence de masse de nacre",106504
@@ -71124,7 +71111,7 @@
 "Sac d'équipement de plage tropicale",106525
 "Bouteille en verre canthien",106526
 "Infusion de vie marine éthérée",106527
-"Piste 28 : Ishan's Wish",106529
+"Piste 28 : Ishan's Watch",106529
 "Pistolet de constructeur véloce",106531
 "Coffre d'escarmouche",106532
 "Piste 8 : Forged in Fire",106534
@@ -71172,7 +71159,7 @@
 "Javelot en mithril berserker",106607
 "Mini-Blish ange gardien",106608
 "Juke-box",106609
-"Piste 2 : A New Journey",106610
+"Piste 2 : A New Journey",106610
 "Masse de Strelitzia Crystallinum",106611
 "Grimoire d'emote \"/danseducrabe\"",106613
 "Support mural intégral (480)",106614
@@ -73150,7 +73137,7 @@
 "Dague à forgéclat",108852
 "Parchemin de titre de tournoi : À l'avant-garde",108853
 "Recette : polygone à affûter supérieur",108854
-"Track 31: Deep Depths",108855
+"Piste 31 : Deep Depths",108855
 "Arc court à forgéclat",108856
 "Apparence de dague à tranchant accéléré",108857
 "Hache à forgéclat",108858
@@ -73171,10 +73158,10 @@
 "Apparence de chemise à carreaux (fermée)",108876
 "Piste 15 : River Rapids Preview",108877
 "Piste 22 : Pain Cliffs",108878
-"Piste 11 : Kingdom of Fungus v2",108879
+"Piste 11 : Kingdom of Fungus version 2",108879
 "Pack à tranchant accéléré",108880
 "Outil de minage d'extraction de la Dynamique",108881
-"Piste 19 : Commercial Music 8-Bit Version",108882
+"Piste 19 : Commercial Music (8-Bit Version)",108882
 "Piste 10 : Kingdom of Fungus",108883
 "Piste 24 : Storm Top",108884
 "Piste 12 : King Toad Boss",108885
@@ -73184,7 +73171,7 @@
 "Masse à forgéclat",108889
 "Épée à forgéclat",108890
 "Piste 15 : River Rapids Preview",108891
-"Piste 11 : Kingdom of Fungus v2",108892
+"Piste 11 : Kingdom of Fungus version 2",108892
 "Fusil à forgéclat",108893
 "Apparence de chemise à carreaux (ouverte)",108894
 "Piste 29 : Bake the Cake, Chef!",108895
@@ -73197,7 +73184,7 @@
 "Recette : super statue du seigneur Victus du Lion noir",108903
 "Piste 8 : Warp Worm",108904
 "Piste 3 : Rescue the Princess",108905
-"Track 31: Deep Depths",108906
+"Piste 31 : Deep Depths",108906
 "Tabouret de batterie du Lion noir",108908
 "Piste 17 : Rytlock's Critter Rampage",108909
 "Mini-super limon rouge",108910
@@ -73240,7 +73227,7 @@
 "Veste surpuissante valkyrien",108948
 "Piste 6 : Dark Woods 1",108949
 "Piste 6 : Dark Woods 1",108951
-"Piste 19 : Commercial Music 8-Bit Version",108952
+"Piste 19 : Commercial Music (8-Bit Version)",108952
 "Piste 18 : Commercial Music",108953
 "Marteau à forgéclat",108955
 "Piste 27 : Underground",108956
