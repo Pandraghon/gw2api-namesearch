@@ -6567,17 +6567,17 @@
 "Rissjagd in der Provinz Seitung",7601
 "Überfälle in Grasgrüne Schwelle",7602
 "WvW-Ansturm-Karawanen-Zerstörer",7603
-"WvW-Ansturm-Festen-Eroberer 2",7604
-"WvW-Ansturm-Lager-Eroberer 2",7605
+"WvW-Ansturm-Festen-Eroberer",7604
+"WvW-Ansturm-Lager-Eroberer",7605
 "Täglicher PvP-Ansturm-Sieger",7606
 "Überfälle in der Eisenmark",7607
 "\"Welt gegen Welt\"-Ansturm-Champion",7608
 "Täglicher PvP-Wettkämpfer",7609
-"WvW-Ansturm-Wachenschinder 2",7610
+"WvW-Ansturm-Wachenschinder",7610
 "Absoluter Fokus",7611
 "WvW-Ansturm-Wachenschinder",7612
 "PvP-Ansturm-Sieger",7613
-"WvW-Ansturm-Landbeansprucher 2",7614
+"WvW-Ansturm-Landbeansprucher",7614
 "Rissjagd in der Glutbucht",7615
 "WvW-Ansturm-Lager-Eroberer",7616
 "WvW-Ansturm-Festen-Eroberer",7617
@@ -6586,11 +6586,11 @@
 "Eisklamm-Sund: Überfälle",7620
 "Anmeldung zum WvW-Ansturm",7621
 "Tour durch Amnytas: Gleichgewicht bis Bastionsweiher",7622
-"WvW-Ansturm-Karawanen-Zerstörer 2",7623
+"WvW-Ansturm-Karawanen-Zerstörer",7623
 "Größer als in der Erinnerung ...",7624
 "PvP-Ansturm-Champion",7625
 "PvP-Ansturm-Wettkämpfer",7626
-"WvW-Ansturm-Turm-Eroberer 2",7627
+"WvW-Ansturm-Turm-Eroberer",7627
 "Glutbucht-Überfälle",7628
 "Rissjagd im Bitterfrost-Grenzland",7629
 "Tour durch Amnytas: Natürlich bis Stärke",7630
@@ -6599,7 +6599,7 @@
 "Tour durch Amnytas: Lyhrs Turm bis Isgarrens Turm",7633
 "Provinz Seitung: Überfälle",7634
 "Rissjagd in der Grasgrünen Schwelle",7635
-"WvW-Ansturm \"Spieler gegen Spieler\" 2",7636
+"WvW-Ansturm \"Spieler gegen Spieler\"",7636
 "Rissjagd im Eisklamm-Sund",7637
 "Täglicher PvP-Ansturm-Kämpfer",7638
 "WvW-Ansturm-Schloss-Eroberer",7639
@@ -7958,7 +7958,7 @@
 "Einsicht Strand der Wracks: Drallsenke",9050
 "Das frischeste Wasser vom Strand der Wracks",9051
 "Paxx' Lieblingsgast",9052
-"Übers Meer hinweg: Zittergipfelgebirge",9053
+"Übers Meer hinweg: Zittergipfel-Gebirge",9053
 "Euch mit Samantha unterhalten",9054
 "Tägliche Mäandernde Magie",9055
 "Etwas Glänziges",9056
@@ -8125,7 +8125,6 @@
 "Übermittler von Geheimnissen, Unter 3",9233
 "Geschäft ist unter Wasser",9235
 "Vorwärtsdenker",9239
-"Lieder von Tyria: Metal Legion",9240
 "Lieder von Tyria: Path of Fire",9241
 "Ansehen-Beherrschung von Pilgersruh",9243
 "Nebelforschung: Endloser Zwist",9244
@@ -8146,7 +8145,6 @@
 "Ewigkeitsgarten-Einsicht: Der Tempel der Verleugnung",9260
 "Irgendwelche letzten Gedanken",9261
 "Ewigkeitsgarten-Rissjagd",9262
-"(Wiederholbar) Ewigkeitsgarten: Ansehen-Herz \"Inselchen des Konstrukteurs\"",9263
 "Die schwere Entscheidung",9264
 "Ewigkeitsgarten-Beherrschung",9265
 "Relikte – Visions of Eternity, Set 3",9266
@@ -8201,7 +8199,6 @@
 "Zum Greifen nahe",9317
 "Die Erhebung",9318
 "Sorgfältiger Handwerker",9319
-"(Wiederholbar) Ewigkeitsgarten: Ansehen-Herz Pilgersruh",9320
 "Gelehrter des Gartens",9321
 "Beschützer der Mottenmarsch",9322
 "Lieder von Tyria: Staffel 3 der Lebendigen Welt",9323
@@ -8227,4 +8224,3 @@
 "Sammler von Schimmerharz-Waffen",9344
 "Erste Schritte im Sommer",9345
 "Maximale Sommer-Stufe",9346
-"Sommer-\"Guild Wars\"",9347

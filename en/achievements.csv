@@ -6567,17 +6567,17 @@
 "Seitung Province Rift Hunting",7601
 "Verdant Brink Incursions",7602
 "WvW Rush Caravan Disruptor",7603
-"WvW Rush Keep Capturer 2",7604
-"WvW Rush Camp Capturer 2",7605
+"WvW Rush Keep Capturer",7604
+"WvW Rush Camp Capturer",7605
 "Daily PvP Rush Victor",7606
 "Iron Marches Incursions",7607
 "World vs. World Rush Champion",7608
 "Daily PvP Rush Contender",7609
-"WvW Rush Guard Killer 2",7610
+"WvW Rush Guard Killer",7610
 "Absolute Focus",7611
 "WvW Rush Guard Killer",7612
 "PvP Rush Victor",7613
-"WvW Rush Land Claimer 2",7614
+"WvW Rush Land Claimer",7614
 "Ember Bay Rift Hunting",7615
 "WvW Rush Camp Capturer",7616
 "WvW Rush Keep Capturer",7617
@@ -6586,11 +6586,11 @@
 "Frostgorge Sound Incursions",7620
 "WvW Rush Sign-Up",7621
 "Cruising Amnytas: Balance to Bastionmere",7622
-"WvW Rush Caravan Disruptor 2",7623
+"WvW Rush Caravan Disruptor",7623
 "Bigger than You Remember...",7624
 "PvP Rush Champion",7625
 "PvP Rush Contender",7626
-"WvW Rush Tower Capturer 2",7627
+"WvW Rush Tower Capturer",7627
 "Ember Bay Incursions",7628
 "Bitterfrost Frontier Rift Hunting",7629
 "Cruising Amnytas: Natural to Strength",7630
@@ -6599,7 +6599,7 @@
 "Cruising Amnytas: Lyhr's Tower to Isgarren's Tower",7633
 "Seitung Province Incursions",7634
 "Verdant Brink Rift Hunting",7635
-"WvW Rush Player vs. Player 2",7636
+"WvW Rush Player vs. Player",7636
 "Frostgorge Sound Rift Hunting",7637
 "Daily PvP Rush Fighter",7638
 "WvW Rush Castle Capturer",7639
@@ -8125,7 +8125,6 @@
 "Submitter of Secrets, Under 3",9233
 "Business Is Underwater",9235
 "Forward Thinker",9239
-"Songs of Tyria: Metal Legion",9240
 "Songs of Tyria: Path of Fire",9241
 "Pilgrim's Rest Renown Mastery",9243
 "Mists Research: Strife Unending",9244
@@ -8146,7 +8145,6 @@
 "Eternity's Garden Insight: The Temple of Abnegation",9260
 "Any Last Thoughts",9261
 "Eternity's Garden Rift Hunting",9262
-"(Repeatable) Eternity's Garden: Artificer's Islet Renown Heart",9263
 "The Hard Choice",9264
 "Eternity's Garden Mastery",9265
 "Relics—Visions of Eternity Set 3",9266
@@ -8201,7 +8199,6 @@
 "Within Your Grasp",9317
 "The Uplift",9318
 "Meticulous Craftsperson",9319
-"(Repeatable) Eternity's Garden: Pilgrim's Rest Renown Heart",9320
 "Scholar of the Garden",9321
 "Protector of the Mothmarsh",9322
 "Songs of Tyria: Living World Season 3",9323
@@ -8227,4 +8224,3 @@
 "Glimmering Resin Weapon Collector",9344
 "Summer First Steps",9345
 "Summer Max Level",9346
-"Summer Guild Wars",9347

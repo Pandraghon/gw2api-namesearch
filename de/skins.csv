@@ -5111,13 +5111,13 @@
 "Sternen-Krummschwert",7843
 "Schwerer Korsaren-Turban",7844
 "Die Stimme in der Leere",7845
-"Handschuhe Dhuums",7848
+"Dhuums Handschuhe",7848
 "Ars Goetia",7850
 "Astrale Kanone",7851
 "Sternen-Schnitter",7852
 "Sternen-Henkersbeil",7853
-"Stulpenhandschuhe Dhuums",7854
-"Stiefel Dhuums",7855
+"Dhuums Stulpenhandschuhe",7854
+"Dhuums Stiefel",7855
 "Astraler Kurzbogen",7856
 "Zeichen des Namenlosen",7857
 "Astrales Krummschwert",7859
@@ -5128,11 +5128,11 @@
 "Sternen-Zackenstab",7865
 "Sternen-Knobkierrie",7866
 "Berührung des Dhuum",7867
-"Beinschienen Dhuums",7868
-"Schulterschutz Dhuums",7871
-"Scheitelkappe Dhuums",7872
+"Dhuums Beinschienen",7868
+"Dhuums Schulterschutz",7871
+"Dhuums Scheitelkappe",7872
 "Mittlerer Korsaren-Turban",7873
-"Handschützer Dhuums",7874
+"Dhuums Handschützer",7874
 "Astraler Apparat",7875
 "Sternen-Orrery",7876
 "Astraler Rächer",7877
@@ -5140,26 +5140,26 @@
 "Astraler Vorbote",7880
 "Vergessenheit",7881
 "Astraler Revolver",7883
-"Pantoffeln Dhuums",7887
+"Dhuums Pantoffeln",7887
 "Dunkelspeer",7888
-"Tschako Dhuums",7889
+"Dhuums Tschako",7889
 "Sternen-Scheibe",7890
 "Astraler Langbogen",7891
 "Barud-Donnerbüchse",7892
 "Astrales Orrery",7893
 "Vorschlaghammer der Roten Hexe",7894
-"Schulterschützer Dhuums",7895
+"Dhuums Schulterschützer",7895
 "Sternen-Rächer",7896
 "Sternen-Kanone",7899
 "Astraler Zackenstab",7901
 "Astraler Schnitter",7903
-"Helm Dhuums",7905
+"Dhuums Helm",7905
 "Sternen-Vorbote",7906
 "Fesseln von Ipos",7907
 "Sternen-Kurzbogen",7908
 "Fleisch- und Sehnen-Beil",7909
 "Endgültiger Tod",7910
-"Überwurf Dhuums",7911
+"Dhuums Überwurf",7911
 "Sternen-Leuchtfeuer",7912
 "Sonnensense",7913
 "Sternen-Revolver",7915
@@ -5517,7 +5517,7 @@
 "Tlehco",8341
 "Elegie-Handschutz",8342
 "Requiem-Handschutz",8343
-"Qadim-Kriegshammer",8344
+"Qadims Kriegshammer",8344
 "Elegie-Gambeson",8346
 "Gebrandmarktes Auge des Argon",8347
 "Requiem-Diadem",8348
@@ -5551,7 +5551,7 @@
 "Elegie-Stiefelhose",8402
 "Elegie-Antlitz",8405
 "Stab des Unvermeidlichen",8406
-"Qadim-Flammenrülpser",8409
+"Qadims Flammenrülpser",8409
 "Requiem-Stiefel",8410
 "\"Beschworene Verschmelzung\"-Schild",8412
 "Leichtes Korsaren-Beinkleid",8413
@@ -10055,7 +10055,7 @@
 "Perlmuschel-Axt",13535
 "Mittlere Handschuhe des Allianz-Feldagenten",13539
 "Roben des Gelehrten von der Küste",13540
-"Feuriger Speer",13545
+"Geschmolzener Speer",13545
 "Chromatische Doppelharfe",13546
 "Rucksack der Brillanz des Malers",13548
 "\"Strelitzia crystallinum\"-Großschwert",13549

@@ -6567,17 +6567,17 @@
 "Chasse aux brèches de la Province de Seitung",7601
 "Incursions de l'Orée d'émeraude",7602
 "Perturbateur de ravitaillement de la course McM",7603
-"Conquérant des forts de la course McM 2",7604
-"Conquérant des camps de la course McM 2",7605
+"Conquérant des forts de la course McM",7604
+"Conquérant des camps de la course McM",7605
 "Gagnant de la course JcJ quotidienne",7606
 "Incursions des Marais de fer",7607
 "Champion de la course Monde contre Monde",7608
 "Concurrent de la course JcJ quotidienne",7609
-"Tueur de gardes de la course McM 2",7610
+"Tueur de gardes de la course McM",7610
 "Concentration absolue",7611
 "Tueur de gardes de la course McM",7612
 "Gagnant de la course JcJ",7613
-"Conquérant de terres de la course McM 2",7614
+"Conquérant de terres de la course McM",7614
 "Chasse aux brèches de la Baie des braises",7615
 "Conquérant des camps de la course McM",7616
 "Conquérant des forts de la course McM",7617
@@ -6586,11 +6586,11 @@
 "Incursions du Détroit des gorges glacées",7620
 "Inscription à la course McM",7621
 "Traversée d'Amnytas : de l'Équilibre au Lac des Bastions",7622
-"Perturbateur de ravitaillement de la course McM 2",7623
+"Perturbateur de ravitaillement de la course McM",7623
 "Plus grande que dans vos souvenirs...",7624
 "Champion de la course JcJ",7625
 "Concurrent de la course JcJ",7626
-"Conquérant des tours de la course McM 2",7627
+"Conquérant des tours de la course McM",7627
 "Incursions de la Baie des braises",7628
 "Chasse aux brèches des Confins de Givramer",7629
 "Traversée d'Amnytas : du Naturel à la Force",7630
@@ -6599,7 +6599,7 @@
 "Traversée d'Amnytas : de la tour de Lyhr à la tour d'Isgarren",7633
 "Incursions de la Province de Seitung",7634
 "Chasse aux brèches de l'Orée d'émeraude",7635
-"Joueur contre Joueur de la course McM 2",7636
+"Joueur contre Joueur de la course McM",7636
 "Chasse aux brèches du Détroit des gorges glacées",7637
 "Combattant de la course JcJ quotidienne",7638
 "Conquérant de château de la course McM",7639
@@ -8125,7 +8125,6 @@
 "Archiviste des secrets, monde en dessous 3",9233
 "Les affaires ont coulé",9235
 "À l'avant-garde",9239
-"Morceaux de la Tyrie : Metal Legion",9240
 "Morceaux de la Tyrie : Path of Fire",9241
 "Maîtrise de renom du Repos du pèlerin",9243
 "Recherche des Brumes : Discorde infinie",9244
@@ -8146,7 +8145,6 @@
 "Connaissance du Jardin de l'éternité : Temple de l'abnégation",9260
 "Un dernier mot",9261
 "Chasse aux brèches du Jardin de l'éternité",9262
-"(Répétable) J. de l'éternité : renommée de l'Îlot des artificiers",9263
 "Un choix ardu",9264
 "Maîtrise du Jardin de l'éternité",9265
 "Reliques : ensemble de Visions of Eternity n° 3",9266
@@ -8201,7 +8199,6 @@
 "À portée de main",9317
 "L'encouragement",9318
 "Artisanat méticuleux",9319
-"(Répétable) Jardin de l'éternité : renommée du Repos du pèlerin",9320
 "Érudit du Jardin",9321
 "Protecteur du Marais aux phalènes",9322
 "Morceaux de la Tyrie : Saison 3 du Monde vivant",9323
@@ -8227,4 +8224,3 @@
 "Collectionneur d'armes en résine scintillante",9344
 "Premiers pas de l'été",9345
 "Niveau maximum de l'été",9346
-"Guild Wars d'été",9347

@@ -438,7 +438,7 @@
 "Rayon de jugement",9112
 "Vertu de justice",9115
 "Vertu de courage",9118
-"Vertu de résolution",9120
+"Vertu de détermination",9120
 "Éclair du courroux",9122
 "Bannissement",9124
 "Marteau de sagesse",9125
@@ -457,7 +457,7 @@
 "\"Tenez vos positions !\"",9152
 "\"Tenez bon !\"",9153
 "Regain de concentration",9154
-"Signe de résolution",9158
+"Signe de détermination",9158
 "Balayage au marteau",9159
 "Coup de marteau",9160
 "Symbole de protection",9161
@@ -489,7 +489,7 @@
 "Intervention miséricordieuse",9246
 "Intervention du juge",9247
 "Contemplation de la pureté",9248
-"Vertu de résolution",9250
+"Vertu de détermination",9250
 "Mur de renvoi",9251
 "Sol consacré",9253
 "Étreinte du dévot",9260
@@ -525,7 +525,7 @@
 "Champ neutre",10203
 "Mantra de distraction",10204
 "Verrouillage de puissance",10206
-"Mantra de résolution",10207
+"Mantra de détermination",10207
 "Purge puissante",10209
 "Mantra de douleur",10211
 "Dissipation de puissance",10212
@@ -1404,7 +1404,7 @@
 "\"Œil de la tempête !\"",30047
 "Coup destructeur",30074
 "Uppercut",30077
-"Ailes de résolution",30083
+"Ailes de détermination",30083
 "Tourbillon électrique",30088
 "Gyrocoptère renforcé",30101
 "\"Je vous glacerai le sang !\"",30105
@@ -1417,7 +1417,7 @@
 "Berserker",30185
 "Reconnaissance du sang",30189
 "Crochet",30210
-"Ailes de résolution",30225
+"Ailes de détermination",30225
 "Tir infaillible",30229
 "Surcharge de caisse de provisions",30230
 "Glyphe des marées",30238
@@ -1429,7 +1429,7 @@
 "Gueule du dragon",30273
 "Moisson vitale",30278
 "Champ chimique",30279
-"Ailes de résolution",30286
+"Ailes de détermination",30286
 "Puits d'éternité",30305
 "Obus endothermique",30307
 "Tempête de poussière",30336
@@ -1478,7 +1478,7 @@
 "Impact pulmonaire",30770
 "\"Revenez d'entre les Brumes !\"",30772
 "Frappe poussiéreuse",30775
-"Ailes de résolution",30783
+"Ailes de détermination",30783
 "Linceul de faucheur",30792
 "Globe de foudre",30795
 "Crépuscule dissipé",30799
@@ -2031,7 +2031,7 @@
 "Lancer de mur",40533
 "Entaille concentrée",40560
 "Cri primaire",40588
-"Génuflexion",40600
+"S'agenouiller",40600
 "Ebranleur de sol",40601
 "Symbole de vengeance",40624
 "Morsure",40625
@@ -2091,7 +2091,7 @@
 "Mantra de réconfort",41714
 "Cri strident",41721
 "Frappe tournoyante",41746
-"Grimoire de résolution",41780
+"Grimoire de détermination",41780
 "Entaille du serpent",41800
 "Lamebrûlante",41820
 "Tir par sept",41829
@@ -2263,7 +2263,7 @@
 "Plongeon",44991
 "Bond polarisateur",44998
 "Coup de pied de géant",45010
-"Grimoire de résolution",45023
+"Grimoire de détermination",45023
 "Embuscade illusoire",45046
 "Tranchage essentiel",45047
 "Ruée de flammes",45082
@@ -3825,8 +3825,8 @@
 "Couverture du tireur embusqué",68600
 "Grimoire du courage",68646
 "Grimoire de justice",68647
-"Grimoire de résolution",68648
-"Grimoire de résolution",68649
+"Grimoire de détermination",68648
+"Grimoire de détermination",68649
 "Grimoire du courage",68650
 "Regain de concentration",68666
 "\"Subissez mon courroux !\"",68670
