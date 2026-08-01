@@ -924,7 +924,6 @@
 "Préparation de Mille aiguilles",13026
 "Disparition dans l'ombre",13027
 "Chausse-trappes",13028
-"Crosse de pistolet",13031
 "Bombe fumigène",13033
 "Roulade d'initiative",13035
 "Venin d'araignée",13037
@@ -990,7 +989,6 @@
 "Expulsion de flammes",13334
 "Élixir B mineur",13465
 "Protection d'allié",13516
-"Bombe fumigène",13551
 "Décharge statique",13552
 "Symbole de la résolution inférieur",13677
 "Symbole de protection inférieur",13684
@@ -1017,7 +1015,6 @@
 "Rupture d'artère",14364
 "Taillade",14365
 "Bond sauvage",14366
-"Rafale",14367
 "Frénésie",14368
 "Couper",14369
 "Double coupe",14370
@@ -1069,9 +1066,6 @@
 "Brise-crâne",14425
 "Brise-crâne",14426
 "Brise-crâne",14427
-"Rafale",14428
-"Rafale",14429
-"Rafale",14430
 "Tir double",14431
 "Tir féroce",14432
 "Poignarder",14437
@@ -1106,7 +1100,6 @@
 "Coup de pied",14488
 "Ruement",14489
 "Saut sismique",14490
-"Botte fatale",14497
 "Empalement",14498
 "Arrachage",14501
 "Coup de pied",14502
@@ -1543,7 +1536,7 @@
 "Aura magique",31557
 "Saccage effroyable",31565
 "Nuage de fumée",31568
-"Glyphe d'unité",31582
+"Glyphe d'éclosion",31582
 "Glyphe d'alignement",31607
 "Saccage effroyable",31622
 "Prison effrayante",31623
@@ -1559,7 +1552,7 @@
 "Pluie de balles",31721
 "Projection énergétique",31723
 "Déplacement forcé",31727
-"Glyphe d'unité",31740
+"Glyphe d'éclosion",31740
 "Glyphe d'égalité",31746
 "Saccage effroyable",31747
 "Distribution de magie",31750
@@ -1583,7 +1576,7 @@
 "Pylône instable",31884
 "Aura magique",31885
 "Pulsation magique",31886
-"Glyphe d'unité",31888
+"Glyphe d'éclosion",31888
 "Follet astral",31889
 "Marées rajeunissantes",31894
 "\"Guérison partagée !\"",31914
@@ -2125,7 +2118,6 @@
 "Explosion de cendres",42379
 "Signe de pierre mineur",42470
 "Taillade vive : tempête",42475
-"Rafale",42494
 "Onde de choc holographique",42521
 "Entaille percutante",42575
 "Embardée",42577
@@ -2239,7 +2231,7 @@
 "Frappe lumineuse",44588
 "Tir du Guetteur",44591
 "Lame sanglante",44602
-"Effilochement",44612
+"Posture fervente",44612
 "Cri harmonieux",44617
 "Répit spirituel",44626
 "Victoire sur mesure",44637
@@ -2271,7 +2263,7 @@
 "Restauration malveillante",45088
 "Jet de bourbe",45094
 "Posture du griffon",45142
-"Lametempête",45160
+"Lame-mutisme",45160
 "Invocation de la foudre",45216
 "Désactivation de Forge à Photons",45219
 "Assaut mirage",45230
@@ -3401,7 +3393,6 @@
 "Flammes subjuguantes",62552
 "Pluie d'épées",62553
 "Courage dévastateur",62555
-"Ruine proche",62558
 "Appel des lames",62560
 "Paume du paradis",62561
 "Puisage vital",62563
@@ -3432,7 +3423,6 @@
 "Élixir de promesse",62667
 "Justice précipitée",62668
 "Repos",62669
-"Hâte meurtrière",62671
 "Coupure dévorante",62672
 "Lame de retour",62675
 "Punition rapide",62676

@@ -924,7 +924,6 @@
 "Prepare Thousand Needles",13026
 "Hide in Shadows",13027
 "Caltrops",13028
-"Pistol Whip",13031
 "Smoke Bomb",13033
 "Roll for Initiative",13035
 "Spider Venom",13037
@@ -990,7 +989,6 @@
 "Flame Expulsion",13334
 "Lesser Elixir B",13465
 "Ally Ward",13516
-"Smoke Bomb",13551
 "Static Discharge",13552
 "Lesser Symbol of Resolution",13677
 "Lesser Symbol of Protection",13684
@@ -1017,7 +1015,6 @@
 "Sever Artery",14364
 "Gash",14365
 "Savage Leap",14366
-"Flurry",14367
 "Frenzy",14368
 "Chop",14369
 "Double Chop",14370
@@ -1069,9 +1066,6 @@
 "Skull Crack",14425
 "Skull Crack",14426
 "Skull Crack",14427
-"Flurry",14428
-"Flurry",14429
-"Flurry",14430
 "Dual Shot",14431
 "Fierce Shot",14432
 "Stab",14437
@@ -1106,7 +1100,6 @@
 "Kick",14488
 "Dash",14489
 "Seismic Leap",14490
-"Final Thrust",14497
 "Impale",14498
 "Rip",14501
 "Kick",14502
@@ -1543,7 +1536,7 @@
 "Magic Aura",31557
 "Ghastly Rampage",31565
 "Smoke Cloud",31568
-"Glyph of Unity",31582
+"Glyph of Burgeoning",31582
 "Glyph of Alignment",31607
 "Ghastly Rampage",31622
 "Ghastly Prison",31623
@@ -1559,7 +1552,7 @@
 "Hail of Bullets",31721
 "Essence Sap",31723
 "Forceful Displacement",31727
-"Glyph of Unity",31740
+"Glyph of Burgeoning",31740
 "Glyph of Equality",31746
 "Ghastly Rampage",31747
 "Distributed Magic",31750
@@ -1583,7 +1576,7 @@
 "Unstable Pylon",31884
 "Magic Aura",31885
 "Magic Pulse",31886
-"Glyph of Unity",31888
+"Glyph of Burgeoning",31888
 "Astral Wisp",31889
 "Rejuvenating Tides",31894
 "\"We Heal As One!\"",31914
@@ -2125,7 +2118,6 @@
 "Ashen Blast",42379
 "Lesser Signet of Stone",42470
 "Bright Slash—Storm",42475
-"Flurry",42494
 "Holographic Shockwave",42521
 "Battering Slash",42575
 "Lunge",42577
@@ -2239,7 +2231,7 @@
 "Light Strike",44588
 "Spotter's Shot",44591
 "Bleeding Edge",44602
-"Unravel",44612
+"Fervent Stance",44612
 "Harmonic Cry",44617
 "Spiritual Reprieve",44626
 "Tailored Victory",44637
@@ -2271,7 +2263,7 @@
 "Malicious Restoration",45088
 "Throw Gunk",45094
 "Griffon Stance",45142
-"Bladestorm",45160
+"Hushblade",45160
 "Call Lightning",45216
 "Deactivate Photon Forge",45219
 "Mirage Thrust",45230
@@ -3401,7 +3393,6 @@
 "Willbender Flames",62552
 "Rain of Swords",62553
 "Crashing Courage",62555
-"Approaching Doom",62558
 "Bladecall",62560
 "Heaven's Palm",62561
 "Vital Draw",62563
@@ -3432,7 +3423,6 @@
 "Elixir of Promise",62667
 "Rushing Justice",62668
 "Repose",62669
-"Deathly Haste",62671
 "Devouring Cut",62672
 "Returning Edge",62675
 "Quick Retribution",62676

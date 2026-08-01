@@ -924,7 +924,6 @@
 "\"Tausend Nadeln\" vorbereiten",13026
 "Schattenversteck",13027
 "Krähenfüße",13028
-"Pistolenschlag",13031
 "Rauchbombe",13033
 "Rolle für Initiative",13035
 "Spinnengift",13037
@@ -990,7 +989,6 @@
 "Flammen-Verbannung",13334
 "Geringeres Elixier B",13465
 "Verbündeten-Schutz",13516
-"Rauchbombe",13551
 "Statische Entladung",13552
 "Geringeres Symbol der Entschlossenheit",13677
 "Geringeres Symbol des Schutzes",13684
@@ -1017,7 +1015,6 @@
 "Arterienabtrennung",14364
 "Schnittwunde",14365
 "Wilder Satz",14366
-"Schauer",14367
 "Raserei",14368
 "Hacken",14369
 "Doppelhacker",14370
@@ -1069,9 +1066,6 @@
 "Schädel spalten",14425
 "Schädel spalten",14426
 "Schädel spalten",14427
-"Schauer",14428
-"Schauer",14429
-"Schauer",14430
 "Doppelschuss",14431
 "Erbitterter Schuss",14432
 "Stechen",14437
@@ -1106,7 +1100,6 @@
 "Treten",14488
 "Preschen",14489
 "Seismischer Sprung",14490
-"Endgültiger Stoß",14497
 "Aufspießen",14498
 "Zerstückeln",14501
 "Treten",14502
@@ -1543,7 +1536,7 @@
 "Magische Aura",31557
 "Schreckliches Toben",31565
 "Rauchwolke",31568
-"Glyphe der Einheit",31582
+"Glyphe des Sprießens",31582
 "Glyphe der Ausrichtung",31607
 "Schreckliches Toben",31622
 "Gefängnis des Grauens",31623
@@ -1559,7 +1552,7 @@
 "Kugelhagel",31721
 "Essenz-Zehrung",31723
 "Zwangsversetzung",31727
-"Glyphe der Einheit",31740
+"Glyphe des Sprießens",31740
 "Glyphe der Gleichheit",31746
 "Schreckliches Toben",31747
 "Verteilte Magie",31750
@@ -1583,7 +1576,7 @@
 "Instabiler Pylon",31884
 "Magische Aura",31885
 "Magischer Impuls",31886
-"Glyphe der Einheit",31888
+"Glyphe des Sprießens",31888
 "Astrales Irrlicht",31889
 "Verjüngende Gezeiten",31894
 "\"Wir heilen gemeinsam!\"",31914
@@ -2125,7 +2118,6 @@
 "Aschen-Entladung",42379
 "Geringeres Siegel des Steins",42470
 "Greller Hieb – Sturm",42475
-"Schauer",42494
 "Holografische Schockwelle",42521
 "Zertrümmernder Hieb",42575
 "Ausfall",42577
@@ -2239,7 +2231,7 @@
 "Licht-Schlag",44588
 "Aufklärerschuss",44591
 "Blutende Schneide",44602
-"Auflösen",44612
+"Innige Haltung",44612
 "Harmonischer Ruf",44617
 "Spirituelle Atempause",44626
 "Maßgeschneiderter Sieg",44637
@@ -2271,7 +2263,7 @@
 "Boshafte Wiederherstellung",45088
 "Schmiere werfen",45094
 "Greifenhaltung",45142
-"Klingensturm",45160
+"Klinge des Schweigens",45160
 "Blitz rufen",45216
 "Photonenschmiede deaktivieren",45219
 "Illusionsstoß",45230
@@ -3401,7 +3393,6 @@
 "Willensverdreher-Flammen",62552
 "Schwerterregen",62553
 "Krachender Mut",62555
-"Nahende Verdammnis",62558
 "Klingenruf",62560
 "Hand des Himmels",62561
 "Vitale Anziehung",62563
@@ -3432,7 +3423,6 @@
 "Elixier des Versprechens",62667
 "Hastige Gerechtigkeit",62668
 "Erholung",62669
-"Tödliche Beschleunigung",62671
 "Verschlingender Schnitt",62672
 "Zurückkehrende Klinge",62675
 "Rasche Vergeltung",62676
