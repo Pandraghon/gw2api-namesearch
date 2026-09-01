@@ -50332,7 +50332,7 @@
 "Seelenspiegel",77379
 "Boshafter Talisman von Irwyn",77380
 "Truhe der Schilde",77381
-"Verteidigende Sabethas Brustplatte",77382
+"Sabethas verteidigende Brustplatte",77382
 "Facettenreiche boshafte Schenkelstücke",77383
 "Geisterfäden",77384
 "Mini Kernan",77385
@@ -51398,7 +51398,7 @@
 "Mini Xera",78815
 "Skin für Freibeuter-Kurzbogen",78816
 "Verteidigender Belagerer-Ring",78817
-"Boshaftes Rückenteil Xeras",78818
+"Xeras boshaftes Rückenteil",78818
 "Bestürmende Festenkonstrukt-Maske",78819
 "Bestürmender Festenkonstrukt-Helm",78820
 "Henker-Geldbörse",78821
@@ -51571,7 +51571,7 @@
 "Kurierender Belagerer-Ring (Infundiert)",79036
 "Stammes-Wandler",79037
 "Xeras Bestürmendes Rückenteil (Infundiert)",79038
-"Boshaftes Rückenteil Xeras (Infundiert)",79039
+"Xeras boshaftes Rückenteil (Infundiert)",79039
 "Eingestimmter kurierender Belagerer-Ring",79040
 "Stammes-Armschmuck",79041
 "Endloser Ley-Linien-Anomalie-Trank",79042
@@ -52350,7 +52350,7 @@
 "Thackeray-Stiefel",80300
 "Rezept: Fregatte",80301
 "Seraphischer Blutstein-Denker-Stab",80304
-"Verteidigende Gehorsamen-Stulpenhandschuhe",80306
+"Verteidigende Stulpenhandschuhe des Gehorsamen",80306
 "Skin für Hingebungsvolles Gewehr",80307
 "Rezept: Seraphische prunkvolle Schultern",80309
 "Kurierende Dämonen-Virga",80310
@@ -52362,7 +52362,7 @@
 "Thackeray-Henkersbeil",80318
 "Geheimnisvolles Tuch",80319
 "Quaggan-Nahrung",80320
-"Verteidigende Gehorsamen-Handschoner",80321
+"Verteidigende Handschoner des Gehorsamen",80321
 "Ohrring des Justiziars",80322
 "Beetletun-Statuen-Fragmente",80323
 "Lebender Flusskrebs",80324
@@ -52372,7 +52372,7 @@
 "Boshafter Dämonen-Holzhammer",80331
 "Jadescherbe",80332
 "Kurierender Trophäenbogen des Wachhabenden",80333
-"Bestürmende Gehorsamen-Stulpenhandschuhe",80335
+"Bestürmende Stulpenhandschuhe des Gehorsamen",80335
 "Boshafte Dämonen-Virga",80337
 "Rezept: Seraphische erhabene Stiefel",80338
 "Rezept: Seraphische prunkvolle Handschuhe",80339
@@ -52432,7 +52432,7 @@
 "Seraphischer Perlen-Zermalmer",80421
 "Klafter gestohlenes Holz",80422
 "Rezept: Thackeray-Zackenstab",80423
-"Mini Auge Janthirs",80424
+"Mini Auge von Janthir",80424
 "Seraphischer Perlen-Nadler",80426
 "Veredelte Gesandten-Schenkelstücke",80427
 "Rezept: Thackeray-Armschutz",80428
@@ -52581,7 +52581,7 @@
 "Veredelte Gesandten-Maske",80634
 "Rezept: Veredelter Gesandten-Armschutz",80636
 "Thackeray-Beinkleid",80637
-"Kurierende Gehorsamen-Stulpenhandschuhe",80639
+"Kurierende Stulpenhandschuhe des Gehorsamen",80639
 "Rezept: Schoner",80640
 "Rezept: Thackeray-Harpunenschleuder",80642
 "Bündel Jadescherben",80646
@@ -52600,8 +52600,8 @@
 "Thackeray-Hosen",80664
 "Skin für Hingebungsvollen Stab",80665
 "Rezept: Veredelter Gesandten-Schulterschutz",80667
-"Bestürmende Gehorsamen-Handschoner",80668
-"Kurierende Gehorsamen-Handschoner",80669
+"Bestürmende Handschoner des Gehorsamen",80668
+"Kurierende Handschoner des Gehorsamen",80669
 "Thackeray-Spieß",80670
 "Seraphisches Drakonisches Wams",80671
 "Mobile Magnetit-Scherben-Börse",80672
@@ -56096,7 +56096,7 @@
 "Marke Desminas",85993
 "Handvoll Fraktal-Relikte",85994
 "Festliche Konfetti-Infusion",85996
-"Statue Jokos des Mächtigen",85997
+"Statue von Joko dem Mächtigen",85997
 "Mini Dhuum",85998
 "Kurierende Klinge",86000
 "Rezept: Astraler Kurzbogen",86001
@@ -59923,7 +59923,7 @@
 "Bestürmendes Gewehr Adinas",91229
 "Bestürmender Großbogen des Unvergleichlichen",91230
 "Glänziges Gewehr",91231
-"Mini von Qadim dem Unvergleichlichen",91232
+"Mini Qadim der Unvergleichliche",91232
 "Kiste Deimos'",91233
 "Koaleszenz",91234
 "Glänziger Kurzbogen",91235
@@ -69283,7 +69283,7 @@
 "Blutmond-Schwert des Blutes",104010
 "Skin für \"Naga-Geist\"-Rucksack",104011
 "Belagerungs-Golem-Mechanismus",104012
-"Greer's Pestilenzgriff (infundiert)",104013
+"Greer's Pestilenzgriff (Infundiert)",104013
 "Blutmond-Langbogen des Blutes",104014
 "Seeglas-Wellen-Fackel",104015
 "Versumpfte Tiefland-Küsten-Ausrüstungskiste",104017
@@ -70095,35 +70095,35 @@
 "Leviathanknochen-Zepter",105037
 "Leviathanknochen-Fackel",105038
 "Sonnen-Aspektkristall",105039
-"Skin für Chromatisches Harz-Schwert",105040
-"Berserkerhaftes Chromatisches Harz-Zepter",105041
+"Skin für \"Chromatisches Harz\"-Schwert",105040
+"Berserkerhaftes \"Chromatisches Harz\"-Zepter",105041
 "Prospektor-Bergbauwerkzeug",105042
 "Wolken-Harnisch",105043
 "Leviathanknochen-Hammer",105044
 "Heimstatt-Rezeptbuch: Vier Winde, Band 4",105045
-"Skin für Chromatischer Harz-Speer",105046
-"Skin für Chromatischer Harz-Streitkolben",105047
+"Skin für \"Chromatisches Harz\"-Speer",105046
+"Skin für \"Chromatisches Harz\"-Streitkolben",105047
 "Heimstatt-Rezeptbuch: Vier Winde, Band 5",105048
-"Skin für Chromatischer Harz-Dolch",105049
-"Skin für Chromatischer Harz-Stab",105050
+"Skin für \"Chromatisches Harz\"-Dolch",105049
+"Skin für \"Chromatisches Harz\"-Stab",105050
 "Wolken-Harnisch",105051
-"Berserkerhaftes Chromatisches Harz-Großschwert",105053
+"Berserkerhaftes \"Chromatisches Harz\"-Großschwert",105053
 "Heimstatt-Rezeptbuch: Vier Winde, Band 2",105054
 "Muschelschalen-Fokus",105055
-"Berserkerhaftes Chromatisches Harz-Schwert",105056
+"Berserkerhaftes \"Chromatisches Harz\"-Schwert",105056
 "Regenerativer Kammerstuhl",105057
 "Leviathanknochen-Schild",105058
-"Berserkerhafter Chromatischer Harz-Bogen",105059
+"Berserkerhafter \"Chromatisches Harz\"-Bogen",105059
 "Prospektor-Erntewerkzeug",105060
-"Berserkerhafter Chromatisches Harz-Speer",105061
-"Berserkerhafter Chromatischer Harz-Hammer",105062
-"Skin für Chromatische Harz-Axt",105063
+"Berserkerhafter \"Chromatisches Harz\"-Speer",105061
+"Berserkerhafter \"Chromatisches Harz\"-Hammer",105062
+"Skin für \"Chromatisches Harz\"-Axt",105063
 "Zephyriten-Präsentationsständer",105065
 "Leviathanknochen-Kriegshorn",105066
 "Leviathanknochen-Dolch",105067
 "Basar-Handel-Waffentruhe",105068
 "Leviathanknochen-Schwert",105069
-"Skin für Chromatisches Harz-Gewehr",105070
+"Skin für \"Chromatisches Harz\"-Gewehr",105070
 "Fuchsfeuer-Waffen-Auswahl",105071
 "Leviathanknochen-Truhe",105072
 "Blitz-Aspektkristall",105073
@@ -70134,45 +70134,45 @@
 "Muschelschalen-Schild",105079
 "Wolken-Harnisch",105080
 "Feenstaub-Holzfällerwerkzeug",105081
-"Berserkerhafte Chromatische Harz-Pistole",105082
-"Skin für Chromatische Harz-Fackel",105083
+"Berserkerhafte \"Chromatisches Harz\"-Pistole",105082
+"Skin für \"Chromatisches Harz\"-Fackel",105083
 "Leviathanknochen-Gewehr",105084
 "Sandgepeitschte Truhe des Händlers",105086
 "Wind-Aspektkristall",105087
-"Berserkerhafter Chromatischer Harz-Stab",105088
+"Berserkerhafter \"Chromatisches Harz\"-Stab",105088
 "Belagerungsschildkröten-Vermietungsposten",105089
 "Leviathanknochen-Streitkolben",105090
-"Skin für Chromatisches Harz-Kriegshorn",105091
+"Skin für \"Chromatisches Harz\"-Kriegshorn",105091
 "Rezept: Blitz-Aspektkristall",105092
 "Leviathanknochen-Langbogen",105093
 "Fuchsfeuer-Kleidungsset",105094
 "Geplünderte Frost-Legion Infusion",105095
 "Feenstaub-Erntewerkzeug",105096
-"Berserkerhafte Chromatische Harz-Fackel",105097
-"Skin für Chromatischer Harz-Langbogen",105098
-"Berserkerhaftes Chromatisches Harz-Gewehr",105099
-"Berserkerhafter Chromatischer Harz-Dolch",105100
+"Berserkerhafte \"Chromatisches Harz\"-Fackel",105097
+"Skin für \"Chromatisches Harz\"-Langbogen",105098
+"Berserkerhaftes \"Chromatisches Harz\"-Gewehr",105099
+"Berserkerhafter \"Chromatisches Harz\"-Dolch",105100
 "Rezept: Wind-Aspektkristall",105101
 "Rezept: Zephyriten-Präsentationsständer",105102
-"Berserkerhafter Chromatischer Harz-Langbogen",105103
+"Berserkerhafter \"Chromatisches Harz\"-Langbogen",105103
 "\"Chromatische Harz\"-Waffenskin-Auswahlkiste",105104
-"Skin für Chromatischer Harz-Schild",105105
+"Skin für \"Chromatisches Harz\"-Schild",105105
 "Skin für Explosive Turbo-Beinschienen",105106
 "Feenstaub-Sammelwerkzeuge-Paket",105107
 "Rezept: Sonnen-Aspektkristall",105108
 "Heimstatt-Rezeptbuch: Vier Winde, Band 3",105109
 "Mini Garrenhoff-Waldkatze",105110
-"Skin für Chromatische Harz-Pistole",105111
+"Skin für \"Chromatisches Harz\"-Pistole",105111
 "\"Neu-Kaineng\"-Waffen-Auswahltruhe",105113
-"Berserkerhafter Chromatischer Harz-Fokus",105114
-"Skin für Chromatisches Harz-Großschwert",105115
-"Berserkerhafter Chromatischer Harz-Schild",105116
+"Berserkerhafter \"Chromatisches Harz\"-Fokus",105114
+"Skin für \"Chromatisches Harz\"-Großschwert",105115
+"Berserkerhafter \"Chromatisches Harz\"-Schild",105116
 "Feenstaub-Bergbauwerkzeug",105117
-"Berserkerhafte Chromatische Harz-Axt",105118
+"Berserkerhafte \"Chromatisches Harz\"-Axt",105118
 "Leviathanknochen-Stab",105119
 "Leviathanknochen-Kurzbogen",105120
 "Leviathanknochen-Fokus",105121
-"Skin für Chromatischer Harz-Hammer",105122
+"Skin für \"Chromatisches Harz\"-Hammer",105122
 "Heimstatt-Rezeptbuch: Vier Winde, Band 8",105123
 "Heimstatt-Rezeptbuch: Vier Winde, Band 7",105124
 "Rezept: Belagerungsschildkröten-Vermietungsposten",105125
@@ -70181,15 +70181,15 @@
 "Skin für Supernova-Speer",105128
 "Leviathanknochen-Pistole",105129
 "Prospektor-Holzfällerwerkzeug",105130
-"Skin für Chromatischer Harz-Fokus",105131
+"Skin für \"Chromatisches Harz\"-Fokus",105131
 "Heimstatt-Rezeptbuch: Vier Winde, Band 6",105132
-"Berserkerhaftes Chromatisches Harz-Kriegshorn",105133
+"Berserkerhaftes \"Chromatisches Harz\"-Kriegshorn",105133
 "Skin für Runder Schiffer-Hut",105134
 "Leviathanknochen-Großschwert",105135
-"Skin für Chromatischer Harz-Kurzbogen",105137
+"Skin für \"Chromatisches Harz\"-Kurzbogen",105137
 "Skin für Flacher Schiffer-Hut",105138
-"Skin für Chromatisches Harz-Zepter",105139
-"Berserkerhafter Chromatischer Harz-Streitkolben",105140
+"Skin für \"Chromatisches Harz\"-Zepter",105139
+"Berserkerhafter \"Chromatisches Harz\"-Streitkolben",105140
 "Titelschriftrolle: Ewiger Alchemist",105141
 "Skin für herbeigerufenen Kristallrunen-Durchgang",105144
 "Skin für \"Schmale Feenflügel\"-Rucksack",105146
@@ -71264,7 +71264,7 @@
 "Hängende Flammenschale",106725
 "Berserkerhafter Piraten-\"Gabel\"",106726
 "\"Ätherische Meereswesen\"-Infusion",106727
-"Berserkerhafter Perlenspeer",106728
+"Berserkerhafter Perlenbesetzter Speer",106728
 "Seltener Äthersuche-Schatz",106729
 "Track 51: Wo das Verhängnis seinen Lauf nahm",106731
 "\"Chromatisches Harz\"-Kiste",106732
