@@ -70754,6 +70754,7 @@
 "Piste 3 : Harr Mire",105899
 "Piste 43 : Stone and Bark",105901
 "Mur de cabanon (120)",105902
+"Fougère d'île (large)",105903
 "Promenade (240 x 1920)",105904
 "Grimoire d'emote \"/choqué\"",105905
 "Piste 24 : For the Ward!",105906
@@ -73448,6 +73449,7 @@
 "Piste 16 : Alpine Marches",109113
 "Don d'exploration du Jardin de l'éternité",109114
 "Mini-avatar du Grand Aruspice",109115
+"Apparence de chapeau d'occultiste arcanique",109116
 "Fenêtre de fer",109117
 "Piste 45 : World of Ice",109118
 "Piste 10 : Encounter with the White Mantle",109119
@@ -74106,6 +74108,7 @@
 "Extraction de brèche surchargée raffinée",109949
 "Apparence de cor de guerre de chevalier des gwyls",109950
 "Tente de Norn (large)",109951
+"Nid d'oiseaux",109952
 "Tonique de combat de visionnaire élevé inépuisable",109954
 "Bottes intermédiaires de la Garde ténébreuse",109955
 "Point de maîtrise",109956
@@ -74124,6 +74127,7 @@
 "Casque intermédiaire de la Garde ténébreuse",109984
 "Sac d'équipement des profondeurs tropicales",109985
 "Jambières intermédiaires de la Garde ténébreuse",109987
+"Bricoles de Flapjack",109989
 "",109990
 "Arc court de la Garde lumineuse",109992
 "Sac d'équipement des profondeurs tropicales",109996
@@ -74160,6 +74164,7 @@
 "Espadon de la Garde lumineuse",110069
 "Détective par étherlocalisation : argent",110070
 "Gants lourds de la Garde ténébreuse",110075
+"Recette : bannière de l'Œil des arcanes",110076
 "Grimoire d'emote \"/sepencher\"",110078
 "Colonne de fer 16 x 240 x 30",110082
 "Cristal de données de recherche avancée",110084
@@ -74193,11 +74198,13 @@
 "Relique du visionnaire",110152
 "Coupon de la Garde ténébreuse : gants",110153
 "Données de recherche sur la pierre de l'ombre",110156
+"Justification du Tyran",110157
 "Apparence de focus de chevalier des gwyls",110161
 "Bannière de la Garde ténébreuse",110162
 "Masse de la Garde lumineuse",110168
 "Grimoire d'emote \"/applaudir\"",110169
 "Arc long de la Garde lumineuse",110171
+"Branche d'arbre de jungle",110174
 "Extraction de brèche surchargée prodigieuse",110175
 "Recette : épée de la Garde lumineuse",110178
 "Lueur volatile d'ascension",110179
@@ -74210,6 +74217,7 @@
 "Bottes légères de la Garde ténébreuse",110200
 "Espauliers légers de la Garde ténébreuse",110203
 "Crevasses aux sources des lignes de force : coffre au choix du Héros",110205
+"Espadon Torrs Calare",110206
 "Apparence de bâton de chevalier des gwyls",110208
 "Boîte de sélection de chevalier des gwyls",110210
 "Mini-projet 5388",110211
