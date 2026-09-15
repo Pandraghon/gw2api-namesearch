@@ -70861,6 +70861,7 @@
 "Track 15: Peitha's Flame",106082
 "Alliance Field Operative's Light Gloves",106083
 "Seer-Enchanted Axe",106084
+"Seer Acting Manual Page",106085
 "Restless Captain's Armor Chest",106086
 "Galleon Hull (Middle)",106087
 "Track 34: Dirge of the Father King",106088
@@ -71442,6 +71443,7 @@
 "Proof of the Key of Ahdashim Completion",106974
 "Gift of Infused Gems",106975
 "Painter's Brilliance Rifle Skin",106978
+"Ship Rib",106979
 "Proof of Salvation Pass Completion",106980
 "Recipe: Golden Horse Statue",106981
 "Elixir of Janthir Wilds Mastery",106982
@@ -71493,6 +71495,7 @@
 "Largos Combat Tonic Container",107034
 "Mini Eye of Judgment",107035
 "Toxinshell Sword Skin",107036
+"Windowed Wall 120 x 240",107037
 "Painter's Brilliance Axe Skin",107038
 "Visions of Eternity Relic Set 2 Container",107039
 "Gift of Rays",107040
@@ -71532,6 +71535,7 @@
 "Recipe: Earth Elemental Left Hand",107085
 "Celestial's Firework Greatsword",107086
 "Dagda's Coffer",107087
+"Ship Bowsprit",107088
 "Proof of Spirit Vale Completion",107089
 "Medium Castoran Researcher's Mask",107090
 "Toxinshell Short Bow Skin",107091
@@ -71564,6 +71568,7 @@
 "Recipe: Vale Guardian Pylon",107125
 "Celestial's Firework Axe",107126
 "Celestial's Firework Mace",107127
+"Extended Stairs (Clockwise Corner)",107131
 "Assault Knights' Magnificent Coffer",107132
 "Largos Platform",107133
 "Celestial's Firework Hammer",107134
@@ -74089,60 +74094,98 @@
 "Recipe: Shining Ward Short Bow",109924
 "Gwyl Knight's Rifle Skin",109925
 "Gwyl Knight's Greatsword Skin",109926
+"Kuda's Cache",109927
+"Explorer's Kukri",109929
 "Gwyl Knight's Axe Skin",109930
+"Shining Ward Pistol",109933
 "Relic of the Lantern",109936
 "Gwyl Knight's Dagger Skin",109939
 "Relic of the Last Tyrant",109942
+"Shining Ward Dagger",109943
 "Tenebral Ward Token: Leggings",109944
 "Fine Overcharged Rift Extraction",109949
 "Gwyl Knight's Warhorn Skin",109950
+"Norn Tent (Wide)",109951
+"Endless Ascended Visionary Combat Tonic",109954
 "Tenebral Ward Medium Boots",109955
+"Mastery Point",109956
 "Gwyl Knight's Shield Skin",109957
+"Shining Ward Sword",109959
+"Recipe: Shining Ward Hammer",109960
 "Forgotten Convergence Reward Box",109961
+"Shining Ward Rifle",109966
 "Gwyl Knight's Spear Skin",109968
 "Recipe: Shining Ward Focus",109973
 "Tenebral Ward Token: Shoulders",109976
+"Withered Ivy",109978
+"Tenebral Ward Light Helmet",109979
 "Relic of the Eternal Alchemy",109980
+"Shining Ward Hammer",109982
+"Tenebral Ward Medium Helmet",109984
 "Tropical Depths Gear Bag",109985
 "Tenebral Ward Medium Leggings",109987
 "",109990
+"Shining Ward Short Bow",109992
 "Tropical Depths Gear Bag",109996
 "Relic of the Tyrian Hero",109998
 "Gwyl Knight's Hammer Skin",110003
 "Recipe: Shining Ward Longbow",110004
 "Additional Requisition Team Contract",110005
 "Relic of the Curator",110009
+"Recipe: Shining Ward Shield",110010
 "Tenebral Ward Medium Pauldrons",110011
+"Recipe: Shining Ward Spear",110012
 "Gwyl Knight's Mace Skin",110023
 "",110024
 "Recipe: Shining Ward Staff",110026
 "Aetherlocation Detective: Gold",110027
+"Tenebral Ward Heavy Helmet",110028
 "Bessie's Toy",110030
 "Gwyl Knight's Longbow Skin",110032
 "Serpent Simulator: Bronze",110036
 "Recipe: Shining Ward Axe",110040
+"Mini Kuda",110041
 "Medium Seer Cache",110045
+"Rare Overcharged Rift Extraction",110046
+"Shining Ward Spear",110047
+"Recipe: Shining Ward Rifle",110048
 "Tenebral Ward Token: Helmet",110052
+"Recipe: Shining Ward Scepter",110053
 "Tenebral Ward Heavy Leggings",110059
+"Shining Ward Shield",110062
+"Shining Ward Scepter",110063
+"Tenebral Ward Light Leggings",110064
 "Gwyl Knight's Scepter Skin",110065
 "Rift Extraction",110067
+"Shining Ward Greatsword",110069
 "Aetherlocation Detective: Silver",110070
 "Tenebral Ward Heavy Gloves",110075
+"\"/Lean\" Emote Tome",110078
+"Iron Column 16 x 240 x 30",110082
+"Advanced Research Data Crystal",110084
 "Endless Inquest Director Combat Tonic",110085
+"Recipe: Shining Ward Torch",110089
 "Recipe: Shining Ward Greatsword",110091
 "Tenebral Ward Medium Gloves",110095
 "Gwyl Knight's Sword Skin",110096
 "Mini Wavehawk Skimmer",110099
 "Tenebral Ward Token: Boots",110101
+"Backbone Breaker Spear",110107
+"Mini Gnarled Boar",110109
 "\"/FireDance\" Emote Tome",110110
 "Gwyl Knight's Pistol Skin",110111
+"Shining Ward Warhorn",110112
 "Tenebral Ward Heavy Pauldrons",110116
+"Mini Water Elemental",110117
 "Code of Creation Supply Drop Requisition",110119
 "Bird Pond Chair",110120
+"Gift of Leyspring Hollows Exploration",110122
 "Inquest Rifleblade Greatsword",110126
 "Gwyl Knight's Short Bow Skin",110128
 "Serpent Simulator: Silver",110130
+"Gift of Shining Arms",110133
 "Gwyl Knight's Torch Skin",110134
+"Convergence: Nexus of Eternity Commander's Choice Chest",110137
 "Serpent Simulator: Gold",110138
 "Fledgling Constellation",110142
 "Recipe: Shining Ward Dagger",110145
@@ -74151,13 +74194,35 @@
 "Tenebral Ward Token: Gloves",110153
 "Shadowstone Research Data",110156
 "Gwyl Knight's Focus Skin",110161
+"Banner of the Tenebral Ward",110162
+"Shining Ward Mace",110168
+"\"/Clap\" Emote Tome",110169
+"Shining Ward Longbow",110171
+"Masterwork Overcharged Rift Extraction",110175
+"Recipe: Shining Ward Sword",110178
+"Volatile Glimmer of Ascension",110179
+"Shining Ward Staff",110183
+"Recipe: Shining Ward Mace",110185
+"Recipe: Shining Ward Warhorn",110186
+"Jungle Tree Branch (Broken)",110190
 "Shining Ward Weapon Shard",110192
+"Recipe: Shining Ward Pistol",110195
+"Tenebral Ward Light Boots",110200
 "Tenebral Ward Light Pauldrons",110203
+"Leyspring Hollows: Hero's Choice Chest",110205
 "Gwyl Knight's Staff Skin",110208
 "Gwyl Knight's Selection Box",110210
+"Mini Project 5388",110211
 "Overcharged Rift Extraction Scrap",110214
+"Mini Subject Gamma",110218
+"Shining Ward Focus",110219
+"Castoran Gear Box",110220
 "Leyspring Hollows Renown Token",110223
+"Mini Twisted Creation",110224
+"Shining Ward Torch",110225
 "Homestead Recipe Book: Seer Catalogue Volume 2",110227
 "Code of Creation Launch Supply Drop: Week One",110228
 "Vloxx's Coffer",110231
+"Shining Ward Axe",110233
 "Tenebral Ward Heavy Boots",110234
+"Mini PTM",110237

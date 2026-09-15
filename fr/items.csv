@@ -70861,6 +70861,7 @@
 "Piste 15 : Peitha's Flame",106082
 "Gants légers d'agent de terrain de l'alliance",106083
 "Hache enchantée des aruspices",106084
+"Page de manuel de jeu d'acteur pour Aruspices",106085
 "Coffre d'armure de capitaine fébrile",106086
 "Milieu de coque de galion",106087
 "Piste 34 : Dirge of the Father King",106088
@@ -71442,6 +71443,7 @@
 "Preuve d'achèvement de la clé d'Ahdashim",106974
 "Don des gemmes infusées",106975
 "Apparence de fusil de peintre brillant",106978
+"Couple de navire",106979
 "Preuve d'achèvement du Passage de la rédemption",106980
 "Recette : statue dorée du Cheval",106981
 "Élixir de maîtrise de \"Janthir Wilds\"",106982
@@ -71493,6 +71495,7 @@
 "Conteneur de tonique de combat de Largos",107034
 "Miniature d'Œil du jugement",107035
 "Apparence d'épée à carapace toxique",107036
+"Mur à fenêtre (120 x 240)",107037
 "Apparence de hache de peintre brillant",107038
 "Conteneur de relique : ensemble de Visions of Eternity n° 2",107039
 "Don des rais",107040
@@ -71532,6 +71535,7 @@
 "Recette : main gauche d'élémentaire de terre",107085
 "Espadon de feu d'artifice céleste",107086
 "Malle de Dagda",107087
+"Beaupré de navire",107088
 "Preuve d'achèvement de la Vallée des esprits",107089
 "Masque de recherche de Castora intermédiaire",107090
 "Apparence d'arc court à carapace toxique",107091
@@ -71564,6 +71568,7 @@
 "Recette : pylône du gardien de la Vallée",107125
 "Hache de feu d'artifice céleste",107126
 "Masse de feu d'artifice céleste",107127
+"Escalier prolongé (coin dans le sens horaire)",107131
 "Coffre magnifique des chevaliers d'assaut",107132
 "Plate-forme largos",107133
 "Marteau de feu d'artifice céleste",107134
@@ -74089,60 +74094,98 @@
 "Recette : arc court de la Garde lumineuse",109924
 "Apparence de fusil de chevalier des gwyls",109925
 "Apparence d'espadon de chevalier des gwyls",109926
+"Cache de Kuda",109927
+"Kukri de l'explorateur",109929
 "Apparence de hache de chevalier des gwyls",109930
+"Pistolet de la Garde lumineuse",109933
 "Relique de la lanterne",109936
 "Apparence de dague de chevalier des gwyls",109939
 "Relique de l'ultime tyran",109942
+"Dague de la Garde lumineuse",109943
 "Coupon de la Garde ténébreuse : jambières",109944
 "Extraction de brèche surchargée raffinée",109949
 "Apparence de cor de guerre de chevalier des gwyls",109950
+"Tente de Norn (large)",109951
+"Tonique de combat de visionnaire élevé inépuisable",109954
 "Bottes intermédiaires de la Garde ténébreuse",109955
+"Point de maîtrise",109956
 "Apparence de bouclier de chevalier des gwyls",109957
+"Épée de la Garde lumineuse",109959
+"Recette : marteau de la Garde lumineuse",109960
 "Caisse oubliée de récompenses de convergence",109961
+"Fusil de la Garde lumineuse",109966
 "Apparence de lance de chevalier des gwyls",109968
 "Recette : focus de la Garde lumineuse",109973
 "Coupon de la Garde ténébreuse : épaulières",109976
+"Lierre flétri",109978
+"Casque léger de la Garde ténébreuse",109979
 "Relique de l'Alchimie éternelle",109980
+"Marteau de la Garde lumineuse",109982
+"Casque intermédiaire de la Garde ténébreuse",109984
 "Sac d'équipement des profondeurs tropicales",109985
 "Jambières intermédiaires de la Garde ténébreuse",109987
 "",109990
+"Arc court de la Garde lumineuse",109992
 "Sac d'équipement des profondeurs tropicales",109996
 "Relique du héros de la Tyrie",109998
 "Apparence de marteau de chevalier des gwyls",110003
 "Recette : arc long de la Garde lumineuse",110004
 "Contrat d'équipe de réquisition supplémentaire",110005
 "Relique du conservateur",110009
+"Recette : bouclier de la Garde lumineuse",110010
 "Espauliers intermédiaires de la Garde ténébreuse",110011
+"Recette : lance de la Garde lumineuse",110012
 "Apparence de masse de chevalier des gwyls",110023
 "",110024
 "Recette : bâton de la Garde lumineuse",110026
 "Détective par étherlocalisation : or",110027
+"Casque lourd de la Garde ténébreuse",110028
 "Jouet de Bessie",110030
 "Apparence d'arc long de chevalier des gwyls",110032
 "Simulateur de serpent : bronze",110036
 "Recette : hache de la Garde lumineuse",110040
+"Mini-Kuda",110041
 "Cache moyenne des Aruspices",110045
+"Extraction de brèche surchargée rare",110046
+"Lance de la Garde lumineuse",110047
+"Recette : fusil de la Garde lumineuse",110048
 "Coupon de la Garde ténébreuse : casque",110052
+"Recette : sceptre de la Garde lumineuse",110053
 "Jambières lourdes de la Garde ténébreuse",110059
+"Bouclier de la Garde lumineuse",110062
+"Sceptre de la Garde lumineuse",110063
+"Jambières légères de la Garde ténébreuse",110064
 "Apparence de sceptre de chevalier des gwyls",110065
 "Extraction de brèche",110067
+"Espadon de la Garde lumineuse",110069
 "Détective par étherlocalisation : argent",110070
 "Gants lourds de la Garde ténébreuse",110075
+"Grimoire d'emote \"/sepencher\"",110078
+"Colonne de fer 16 x 240 x 30",110082
+"Cristal de données de recherche avancée",110084
 "Tonique de combat de responsable de l'Enqueste inépuisable",110085
+"Recette : torche de la Garde lumineuse",110089
 "Recette : espadon de la Garde lumineuse",110091
 "Gants intermédiaires de la Garde ténébreuse",110095
 "Apparence d'épée de chevalier des gwyls",110096
 "Mini-voldécume fauconde",110099
 "Coupon de la Garde ténébreuse : bottes",110101
+"Lance brise-échine",110107
+"Mini-sanglier cagneux",110109
 "Grimoire d'emote \"/dansedufeu\"",110110
 "Apparence de pistolet de chevalier des gwyls",110111
+"Cor de guerre de la Garde lumineuse",110112
 "Espauliers lourds de la Garde ténébreuse",110116
+"Mini-élémentaire de l'eau",110117
 "Demande de livraison de ravitaillement \"Code de la création\"",110119
 "Chaise du bassin aux oiseaux",110120
+"Don des Crevasses aux sources des lignes de force",110122
 "Espadon à lamefusil de l'Enqueste",110126
 "Apparence d'arc court de chevalier des gwyls",110128
 "Simulateur de serpent : argent",110130
+"Don des armes lumineuses",110133
 "Apparence de torche de chevalier des gwyls",110134
+"Convergence du Cœur de l'éternité : coffre au choix du Commandant",110137
 "Simulateur de serpent : or",110138
 "Constellation naissante",110142
 "Recette : dague de la Garde lumineuse",110145
@@ -74151,13 +74194,35 @@
 "Coupon de la Garde ténébreuse : gants",110153
 "Données de recherche sur la pierre de l'ombre",110156
 "Apparence de focus de chevalier des gwyls",110161
+"Bannière de la Garde ténébreuse",110162
+"Masse de la Garde lumineuse",110168
+"Grimoire d'emote \"/applaudir\"",110169
+"Arc long de la Garde lumineuse",110171
+"Extraction de brèche surchargée prodigieuse",110175
+"Recette : épée de la Garde lumineuse",110178
+"Lueur volatile d'ascension",110179
+"Bâton de la Garde lumineuse",110183
+"Recette : masse de la Garde lumineuse",110185
+"Recette : cor de guerre de la Garde lumineuse",110186
+"Branche d'arbre de jungle (brisée)",110190
 "Fragment d'armes de la Garde lumineuse",110192
+"Recette : pistolet de la Garde lumineuse",110195
+"Bottes légères de la Garde ténébreuse",110200
 "Espauliers légers de la Garde ténébreuse",110203
+"Crevasses aux sources des lignes de force : coffre au choix du Héros",110205
 "Apparence de bâton de chevalier des gwyls",110208
 "Boîte de sélection de chevalier des gwyls",110210
+"Mini-projet 5388",110211
 "Fragment d'extraction de brèche surchargée",110214
+"Mini-sujet Gamma",110218
+"Focus de la Garde lumineuse",110219
+"Boîte d'équipement de Castora",110220
 "Gage de renommée des Crevasses aux sources des lignes de force",110223
+"Mini-création détraquée",110224
+"Torche de la Garde lumineuse",110225
 "Livre de recettes pour pavillon : catalogue aruspice, volume 2",110227
 "Livraison de ravitaillement pour la sortie de \"Code de la création\" : première semaine",110228
 "Coffre de Vloxx",110231
+"Hache de la Garde lumineuse",110233
 "Bottes lourdes de la Garde ténébreuse",110234
+"Mini-MPT",110237

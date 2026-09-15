@@ -70861,6 +70861,7 @@
 "Track 15: Peithas Flamme",106082
 "Leichte Handschuhe des Allianz-Feldagenten",106083
 "Seherverzauberte Axt",106084
+"Seite aus dem Seher-Schauspielhandbuch",106085
 "Rüstungstruhe des Ruhelosen Kapitäns",106086
 "Galeonenrumpf (Mitte)",106087
 "Track 34: Klagelied des Königsvaters",106088
@@ -71442,6 +71443,7 @@
 "Abschlussnachweis: Schlüssel von Ahdashim",106974
 "Gabe der infundierten Edelsteine",106975
 "Skin für Gewehr der Brillanz des Malers",106978
+"Schiffs-Spant",106979
 "Abschlussnachweis: Erlösungspass",106980
 "Rezept: Goldene Pferdestatue",106981
 "Elixier der \"Janthir Wilds\"-Beherrschung",106982
@@ -71493,6 +71495,7 @@
 "Largos-Kampftrank-Behälter",107034
 "Mini Auge des Urteils",107035
 "Skin für Toxinmuschel-Schwert",107036
+"Wand mit Fenster (120 x 240)",107037
 "Skin für Axt der Brillanz des Malers",107038
 "Behälter für \"Visions of Eternity\"-Relikt-Set 2",107039
 "Gabe der Strahlen",107040
@@ -71532,6 +71535,7 @@
 "Rezept: Erd-Elementar, linke Hand",107085
 "Feuerwerks-Großschwert des Himmlischen",107086
 "Dagdas Kiste",107087
+"Schiffs-Bugspriet",107088
 "Abschlussnachweis: Geistertal",107089
 "Mittlere Maske des castoranischen Forschers",107090
 "Skin für Toxinmuschel-Kurzbogen",107091
@@ -71564,6 +71568,7 @@
 "Rezept: Tal-Wächter-Pylon",107125
 "Feuerwerks-Axt des Himmlischen",107126
 "Feuerwerks-Streitkolben des Himmlischen",107127
+"Gestreckte Treppe (Ecke, rechtsherum)",107131
 "Wunderbare Kiste der Sturmritter",107132
 "Largos-Plattform",107133
 "Feuerwerks-Hammer des Himmlischen",107134
@@ -74089,60 +74094,98 @@
 "Rezept: Glänzender Astralwachen-Kurzbogen",109924
 "Skin für Gwyl-Ritter-Gewehr",109925
 "Skin für Gwyl-Ritter-Großschwert",109926
+"Kudas Depot",109927
+"Explorator-Kukri",109929
 "Skin für Gwyl-Ritter-Axt",109930
+"Glänzende Astralwachen-Pistole",109933
 "Relikt der Laterne",109936
 "Skin für Gwyl-Ritter-Dolch",109939
 "Relikt des Letzten Tyrannen",109942
+"Glänzender Astralwachen-Dolch",109943
 "Düstere Astralwachen-Marke: Beinkleid",109944
 "Feine überladene Riss-Extraktion",109949
 "Skin für Gwyl-Ritter-Kriegshorn",109950
+"Norn-Zelt (breit)",109951
+"Endloser \"Aufgestiegener Visionär\"-Kampftrank",109954
 "Mittlere Düstere Astralwachen-Stiefel",109955
+"Beherrschungspunkt",109956
 "Skin für Gwyl-Ritter-Schild",109957
+"Glänzendes Astralwachen-Schwert",109959
+"Rezept: Glänzender Astralwachen-Hammer",109960
 "Vergessene Konvergenz-Belohnungskiste",109961
+"Glänzendes Astralwachen-Gewehr",109966
 "Skin für Gwyl-Ritter-Speer",109968
 "Rezept: Glänzender Astralwachen-Fokus",109973
 "Düstere Astralwachen-Marke: Schultern",109976
+"Verdorrter Efeu",109978
+"Leichter Düsterer Astralwachen-Sturmhelm",109979
 "Relikt der Ewigen Alchemie",109980
+"Glänzender Astralwachen-Hammer",109982
+"Mittlerer Düsterer Astralwachen-Sturmhelm",109984
 "Tropentiefen-Ausrüstungsbeutel",109985
 "Mittleres Düsteres Astralwachen-Beinkleid",109987
 "",109990
+"Glänzender Astralwachen-Kurzbogen",109992
 "Tropentiefen-Ausrüstungsbeutel",109996
 "Relikt des tyrianischen Helden",109998
 "Skin für Gwyl-Ritter-Hammer",110003
 "Rezept: Glänzender Astralwachen-Langbogen",110004
 "Zusätzlicher Beschaffungsgruppen-Vertrag",110005
 "Relikt des Kurators",110009
+"Rezept: Glänzender Astralwachen-Schild",110010
 "Mittlerer Düsterer Astralwachen-Schulterschutz",110011
+"Rezept: Glänzender Astralwachen-Speer",110012
 "Skin für Gwyl-Ritter-Streitkolben",110023
 "",110024
 "Rezept: Glänzender Astralwachen-Stab",110026
 "Äthersuche-Detektiv: Gold",110027
+"Schwerer Düsteres Astralwachen-Sturmhelm",110028
 "Bessies Spielzeug",110030
 "Skin für Gwyl-Ritter-Langbogen",110032
 "Schlangensimulator: Bronze",110036
 "Rezept: Glänzende Astralwachen-Axt",110040
+"Mini Kuda",110041
 "Mittleres Seher-Lager",110045
+"Seltene überladene Riss-Extraktion",110046
+"Glänzender Astralwachen-Speer",110047
+"Rezept: Glänzendes Astralwachen-Gewehr",110048
 "Düstere Astralwachen-Marke: Sturmhelm",110052
+"Rezept: Glänzendes Astralwachen-Zepter",110053
 "Schweres Düsteres Astralwachen-Beinkleid",110059
+"Glänzender Astralwachen-Schild",110062
+"Glänzendes Astralwachen-Zepter",110063
+"Leichtes Düsteres Astralwachen-Beinkleid",110064
 "Skin für Gwyl-Ritter-Zepter",110065
 "Riss-Extraktion",110067
+"Glänzendes Astralwachen-Großschwert",110069
 "Äthersuche-Detektiv: Silber",110070
 "Schwere Düstere Astralwachen-Handschuhe",110075
+"\"/Lehnen\"-Emote-Foliant",110078
+"Eisen-Säule 16 x 240 x 30",110082
+"Datenkristall zur erweiterten Forschung",110084
 "Endloser Inquesturdirektor-Kampftrank",110085
+"Rezept: Glänzende Astralwachen-Fackel",110089
 "Rezept: Glänzendes Astralwachen-Großschwert",110091
 "Mittlere Düstere Astralwachen-Handschuhe",110095
 "Skin für Gwyl-Ritter-Schwert",110096
 "Mini Wellenhabicht-Schweberochen",110099
 "Düstere Astralwachen-Marke: Stiefel",110101
+"Rückgratbrecher-Speer",110107
+"Mini Knorriges Wildschwein",110109
 "\"/Feuertanz\"-Emote-Foliant",110110
 "Skin für Gwyl-Ritter-Pistole",110111
+"Glänzendes Astralwachen-Kriegshorn",110112
 "Schwerer Düsterer Astralwachen-Schulterschutz",110116
+"Mini Wasser-Elementar",110117
 "Bestellung \"Kodex der Schöpfung\"-Versorgungslieferung",110119
 "Vogelteich-Stuhl",110120
+"Gabe der Erkundung der Leyquellen-Senke",110122
 "Inquestur-Gewehrklingen-Großschwert",110126
 "Skin für Gwyl-Ritter-Kurzbogen",110128
 "Schlangensimulator: Silber",110130
+"Gabe der glänzenden Waffen",110133
 "Skin für Gwyl-Ritter-Fackel",110134
+"Konvergenz: Nexus der Ewigkeit – Auswahltruhe des Kommandeurs",110137
 "Schlangensimulator: Gold",110138
 "Junge Konstellation",110142
 "Rezept: Glänzender Astralwachen-Dolch",110145
@@ -74151,13 +74194,35 @@
 "Düstere Astralwachen-Marke: Handschuhe",110153
 "Schattenstein-Forschungsdaten",110156
 "Skin für Gwyl-Ritter-Fokus",110161
+"Banner der Düsteren Astralwache",110162
+"Glänzender Astralwachen-Streitkolben",110168
+"\"/Klatschen\"-Emote-Foliant",110169
+"Glänzender Astralwachen-Langbogen",110171
+"Überladene Meisterwerk-Riss-Extraktion",110175
+"Rezept: Glänzendes Astralwachen-Schwert",110178
+"Flüchtiger Schimmer des Aufstiegs",110179
+"Glänzender Astralwachen-Stab",110183
+"Rezept: Glänzender Astralwachen-Streitkolben",110185
+"Rezept: Glänzendes Astralwachen-Kriegshorn",110186
+"Dschungelbaum-Ast (abgebrochen)",110190
 "\"Glänzende Astralwache\"-Waffenscherbe",110192
+"Rezept: Glänzende Astralwachen-Pistole",110195
+"Leichte Düstere Astralwachen-Stiefel",110200
 "Schwerer Düsterer Astralwachen-Schulterschutz",110203
+"Leyquellen-Senke: Helden-Auswahltruhe",110205
 "Skin für Gwyl-Ritter-Stab",110208
 "Gwyl-Ritter-Auswahlkiste",110210
+"Mini Projekt 5388",110211
 "Überladener Riss-Extraktionsrest",110214
+"Mini Subjekt Gamma",110218
+"Glänzender Astralwachen-Fokus",110219
+"Castoranische Ausrüstungskiste",110220
 "Ansehen-Marke: Leyquellen-Senke",110223
+"Mini Verdrehte Schöpfung",110224
+"Glänzende Astralwachen-Fackel",110225
 "Heimstatt-Rezeptbuch: Seher-Katalog, Band 2",110227
 "\"Kodex der Schöpfung\"-Start-Versorgungslieferung: Woche eins",110228
 "Vloxx' Kiste",110231
+"Glänzende Astralwachen-Axt",110233
 "Schwere Düstere Astralwachen-Stiefel",110234
+"Mini PTM",110237
