@@ -9909,6 +9909,7 @@
 "Leichter Überwurf des Allianz-Feldagenten",13305
 "Ancora Bellum",13306
 "Roben des Gelehrten von der Küste",13307
+"Kodan-Speer",13308
 "Perlenbesetzter Speer",13311
 "Langbogen des Schnellen Erbauers",13312
 "Shorts des Gelehrten von der Küste",13314
@@ -9970,6 +9971,7 @@
 "Perlmuschel-Streitkolben",13400
 "Geschmiedeter Speer",13401
 "Perlmuschel-Fackel",13402
+"Rosenbucht",13404
 "Gefiederter Inquestur-Überwurf",13405
 "Oberwächter-Pike",13406
 "Flammender Umhang",13407
@@ -10036,6 +10038,7 @@
 "Leichter Sturmhelm des Allianz-Feldagenten",13499
 "\"Strelitzia crystallinum\"-Kriegshorn",13500
 "Perlmuschel-Pistole",13501
+"Dunkler Asura-Speer",13502
 "Agaleus",13503
 "Gefiedertes Inquestur-Beinkleid",13504
 "Leichte Stiefel des Ruhelosen Kapitäns",13507
@@ -10346,13 +10349,16 @@
 "Leichtes Schmiedewächter-Beinkleid",13879
 "Synergetik-Großschwert",13880
 "Wachenjäger-Handschuhe",13881
+"Wachenjäger-Beinkleid",13882
 "Synergetik-Kurzbogen",13885
 "Leichte Schmiedewächter-Handschuhe",13886
 "Langbogen des Gwyl-Monarchen",13888
 "Schmiedewächter-Überraschungs-Dolch",13890
+"Wachenjäger-Wams",13891
 "Stab des Gwyl-Monarchen",13892
 "Kriegshorn des Gwyl-Monarchen",13893
 "Mittlere Schmiedewächter-Stiefel",13896
+"Wachenjäger-Maske",13897
 "Fackel des Gwyl-Monarchen",13898
 "Synergetik-Fackel",13899
 "Synergetik-Schwert",13901
@@ -10362,8 +10368,10 @@
 "Teufelzerfetzender Stab",13914
 "Wachenjäger-Handschuhe",13915
 "Schimmerharz-Kriegshorn",13917
+"Wachenjäger-Maske",13918
 "Wachenjäger-Stiefel",13920
 "Großschwert des Gwyl-Monarchen",13922
+"Wachenjäger-Beinkleid",13923
 "Synergetik-Zepter",13924
 "Zepter des Gwyl-Monarchen",13925
 "Pistole des Gwyl-Monarchen",13927
@@ -10381,7 +10389,10 @@
 "Morph-o-Matic-Hammer",13943
 "Synergetik-Langbogen",13944
 "Schimmerharz-Langbogen",13945
+"Wachenjäger-Beinkleid",13948
 "Gewehr des Gwyl-Monarchen",13949
+"Wachenjäger-Wams",13951
+"Wachenjäger-Umhang",13952
 "Leichter Schmiedewächter-Sturmhelm",13957
 "Schimmerharz-Axt",13959
 "Schwerer Schmiedewächter-Sturmhelm",13960
@@ -10401,9 +10412,11 @@
 "Schimmerharz-Hammer",13985
 "Schimmerharz-Großschwert",13986
 "Schild des Gwyl-Monarchen",13987
+"Wachenjäger-Maske",13988
 "Schimmerharz-Kurzbogen",13990
 "Streitkolben des Gwyl-Monarchen",13993
 "Synergetik-Hammer",13994
+"Wachenjäger-Wams",13995
 "Mittlere Schmiedewächter-Handschuhe",13996
 "Synergetik-Stab",13997
 "Farbverlauf-Brille (nach unten)",13998
@@ -10534,3 +10547,34 @@
 "Altehrwürdiger Langbogen",14127
 "Uhrwerk-Speer",14128
 "Zauberwerk-Stab",14129
+"Gwyl-Ritter-Fokus",14133
+"Leichte Düstere Astralwachen-Handschuhe",14139
+"Mittlerer Düsterer Astralwachen-Schulterschutz",14142
+"Mittlere Düstere Astralwachen-Stiefel",14144
+"Leichtes Düsteres Astralwachen-Beinkleid",14155
+"Mittlere Düstere Astralwachen-Handschuhe",14162
+"Mittleres Düsteres Astralwachen-Beinkleid",14165
+"Gwyl-Ritter-Zepter",14167
+"Schweres Düsteres Astralwachen-Beinkleid",14174
+"Gwyl-Ritter-Speer",14180
+"Schwere Düstere Astralwachen-Stiefel",14183
+"Gwyl-Ritter-Großschwert",14184
+"Gwyl-Ritter-Kurzbogen",14185
+"Gwyl-Ritter-Hammer",14189
+"Schwere Düstere Astralwachen-Handschuhe",14194
+"Schwerer Düsterer Astralwachen-Schulterschutz",14201
+"Gwyl-Ritter-Stab",14205
+"Gwyl-Ritter-Dolch",14206
+"Leichte Düstere Astralwachen-Stiefel",14209
+"Gwyl-Ritter-Pistole",14215
+"Junge Konstellation",14216
+"Inquestur-Gewehrklingen-Großschwert",14218
+"Schwerer Düsterer Astralwachen-Schulterschutz",14219
+"Gwyl-Ritter-Fackel",14222
+"Gwyl-Ritter-Streitkolben",14224
+"Gwyl-Ritter-Schwert",14225
+"Gwyl-Ritter-Langbogen",14228
+"Gwyl-Ritter-Gewehr",14232
+"Gwyl-Ritter-Schild",14233
+"Gwyl-Ritter-Kriegshorn",14240
+"Gwyl-Ritter-Axt",14250

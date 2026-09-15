@@ -1017,6 +1017,7 @@
 "Juke-box",1044
 "Sol (960 x 840)",1045
 "Mur à fenêtre (960 x 240)",1046
+"Fougère d'île (large)",1047
 "Fenêtre",1048
 "Mur (120 x 120)",1049
 "Mur (240 x 240)",1050
@@ -1067,10 +1068,14 @@
 "Main gauche d'élémentaire de terre",1102
 "Tourelle du Blanc-Manteau",1103
 "Plante de jungle",1104
+"Relique aruspice (carte)",1105
+"Mur à fenêtre (120 x 240)",1106
 "Pignon de mur 360 x 200 inversé",1109
+"Escalier prolongé (coin dans le sens horaire)",1110
 "Château de sable",1111
 "Pignon de mur 360 x 100 inversé",1112
 "Toit 720 x 200 x 240",1113
+"Couple de navire",1114
 "Colonne de fer 30 x 240 x 30",1115
 "Colonne de fer 16 x 240 x 16",1116
 "Enclos d'étable",1117
@@ -1087,14 +1092,17 @@
 "Statue du Cheval",1133
 "Canapé du désert",1134
 "Toit 720 x 200 x 480",1135
+"Coffre aruspice (petit)",1136
 "Mimosa",1137
 "Pignon de mur 360 x 100",1138
 "Tablette de résurrection",1139
 "Pylône de Qadim",1140
 "Buisson de jungle",1141
+"Tablette aruspice (astro)",1144
 "Bannière de la cachette des Étherlames",1148
 "Pignon de mur 360 x 200",1149
 "Proue de navire",1150
+"Beaupré de navire",1154
 "Pilier du Gambit de forgeconte",1155
 "Tour aliénante",1156
 "Main droite d'élémentaire de terre",1157
@@ -1167,3 +1175,18 @@
 "Étal de marchand canthien",1233
 "Chariot de marchand canthien",1234
 "Auvent de marchand canthien",1235
+"Nid d'oiseaux",1236
+"Gravat de ruines aruspices",1237
+"Oculus aruspice",1238
+"Tente de Norn (large)",1239
+"Œuf de saurien",1240
+"Colonne de fer 16 x 240 x 30",1241
+"Bannière de l'Œil des arcanes",1242
+"Branche d'arbre de jungle",1243
+"Grimoire aruspice (fermé)",1244
+"Grimoire aruspice (ouvert)",1245
+"Cercueil aruspice",1246
+"Tente de Norn (étroite)",1247
+"Terminal aruspice",1248
+"Lierre flétri",1249
+"Branche d'arbre de jungle (brisée)",1250

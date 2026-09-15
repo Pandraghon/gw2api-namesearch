@@ -1017,6 +1017,7 @@
 "Jukebox",1044
 "Floor (960 x 840)",1045
 "Windowed Wall (960 x 240)",1046
+"Island Fern (Wide)",1047
 "Window",1048
 "Wall (120 x 120)",1049
 "Wall (240 x 240)",1050
@@ -1067,10 +1068,14 @@
 "Earth Elemental Left Hand",1102
 "White Mantle Turret",1103
 "Jungle Plant",1104
+"Seer Relic (Map)",1105
+"Windowed Wall 120 x 240",1106
 "Wall Gable 360 x 200 Mirror",1109
+"Extended Stairs (Clockwise Corner)",1110
 "Sandcastle",1111
 "Wall Gable 360 x 100 Mirror",1112
 "Roof 720 x 200 x 240",1113
+"Ship Rib",1114
 "Iron Column 30 x 240 x 30",1115
 "Iron Column 16 x 240 x 16",1116
 "Stable Pen",1117
@@ -1087,14 +1092,17 @@
 "Horse Statue",1133
 "Desert Sofa",1134
 "Roof 720 x 200 x 480",1135
+"Seer Chest (Small)",1136
 "Mimosa Tree",1137
 "Wall Gable 360 x 100",1138
 "Resurrection Tablet",1139
 "Qadim Pylon",1140
 "Jungle Bush",1141
+"Seer Tablet (Astro)",1144
 "Aetherblade Hideout Banner",1148
 "Wall Gable 360 x 200",1149
 "Ship Bow",1150
+"Ship Bowsprit",1154
 "Mythwright Gambit Pillar",1155
 "Maddening Tower",1156
 "Earth Elemental Right Hand",1157
@@ -1167,3 +1175,18 @@
 "Canthan Merchant Stall",1233
 "Canthan Trader Cart",1234
 "Canthan Merchant Canopy",1235
+"Bird's Nest",1236
+"Seer Ruins Rubble",1237
+"Seer Oculus",1238
+"Norn Tent (Wide)",1239
+"Saurian Egg",1240
+"Iron Column 16 x 240 x 30",1241
+"Arcane Eye Banner",1242
+"Jungle Tree Branch",1243
+"Seer Tome (Closed)",1244
+"Seer Tome (Open)",1245
+"Seer Casket",1246
+"Norn Tent (Narrow)",1247
+"Seer Terminal",1248
+"Withered Ivy",1249
+"Jungle Tree Branch (Broken)",1250

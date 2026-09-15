@@ -1017,6 +1017,7 @@
 "Jukebox",1044
 "Fußboden (960 x 840)",1045
 "Wand mit Fenster (960 x 240)",1046
+"Inselfarn (breit)",1047
 "Fenster",1048
 "Wand (120 x 120)",1049
 "Wand (240 x 240)",1050
@@ -1067,10 +1068,14 @@
 "Erd-Elementar, linke Hand",1102
 "\"Weißer Mantel\"-Geschützturm",1103
 "Dschungel-Pflanze",1104
+"Seher-Relikt (Karte)",1105
+"Wand mit Fenster (120 x 240)",1106
 "Wandgiebel 360 x 200 Spiegel",1109
+"Gestreckte Treppe (Ecke, rechtsherum)",1110
 "Sandburg",1111
 "Wandgiebel 360 x 100 Spiegel",1112
 "Dach 720 x 200 x 240",1113
+"Schiffs-Spant",1114
 "Eisen-Säule 30 x 240 x 30",1115
 "Eisen-Säule 16 x 240 x 16",1116
 "Stallpferch",1117
@@ -1087,14 +1092,17 @@
 "Pferdestatue",1133
 "Wüsten-Sofa",1134
 "Dach 720 x 200 x 480",1135
+"Seher-Truhe (klein)",1136
 "Mimosenbaum",1137
 "Wandgiebel 360 x 100",1138
 "Wiederbelebungs-Tafel",1139
 "Qadims Pylon",1140
 "Dschungel-Strauch",1141
+"Seher-Tafel (Astro)",1144
 "Ätherklingen-Unterschlupf-Banner",1148
 "Wandgiebel 360 x 200",1149
 "Schiffs-Bug",1150
+"Schiffs-Bugspriet",1154
 "Mythenschreiber-Wagnis-Säule",1155
 "Verrückt machender Turm",1156
 "Erd-Elementar, rechte Hand",1157
@@ -1167,3 +1175,18 @@
 "Canthanischer Verkaufsstand",1233
 "Canthanischer Händlerkarren",1234
 "Canthanisches Verkaufs-Sonnendach",1235
+"Vogelnest",1236
+"Schutt aus den Seher-Ruinen",1237
+"Seher-Oculus",1238
+"Norn-Zelt (breit)",1239
+"Saurier-Ei",1240
+"Eisen-Säule 16 x 240 x 30",1241
+"\"Arkanes Auge\"-Banner",1242
+"Dschungelbaum-Ast",1243
+"Seher-Foliant (geschlossen)",1244
+"Seher-Foliant (offen)",1245
+"Seher-Sarg",1246
+"Norn-Zelt (schmal)",1247
+"Seher-Terminal",1248
+"Verdorrter Efeu",1249
+"Dschungelbaum-Ast (abgebrochen)",1250

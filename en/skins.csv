@@ -9909,6 +9909,7 @@
 "Alliance Field Operative's Light Mantle",13305
 "Ancora Bellum",13306
 "Seaside Scholar's Robes",13307
+"Kodan Spear",13308
 "Beaded Spear",13311
 "Fast Constructor's Longbow",13312
 "Seaside Scholar's Shorts",13314
@@ -9970,6 +9971,7 @@
 "Pearlshell Mace",13400
 "Forged Spear",13401
 "Pearlshell Torch",13402
+"Rosebay",13404
 "Feathered Inquest Mantle",13405
 "Warden Pike",13406
 "Blazing Cape",13407
@@ -10036,6 +10038,7 @@
 "Alliance Field Operative's Light Helmet",13499
 "Strelitzia Crystallinum Warhorn",13500
 "Pearlshell Pistol",13501
+"Dark Asuran Spear",13502
 "Agaleus",13503
 "Feathered Inquest Leggings",13504
 "Restless Captain's Light Boots",13507
@@ -10346,13 +10349,16 @@
 "Forge Guard's Light Leggings",13879
 "Synergetics Greatsword",13880
 "Ward Hunter's Gloves",13881
+"Ward Hunter's Leggings",13882
 "Synergetics Short Bow",13885
 "Forge Guard's Light Gloves",13886
 "Gwyl Monarch's Longbow",13888
 "Forge Guard's Surprise Dagger",13890
+"Ward Hunter's Coat",13891
 "Gwyl Monarch's Staff",13892
 "Gwyl Monarch's Warhorn",13893
 "Forge Guard's Medium Boots",13896
+"Ward Hunter's Mask",13897
 "Gwyl Monarch's Torch",13898
 "Synergetics Torch",13899
 "Synergetics Sword",13901
@@ -10362,8 +10368,10 @@
 "Devil-Rending Staff",13914
 "Ward Hunter's Gloves",13915
 "Glimmering Resin Warhorn",13917
+"Ward Hunter's Mask",13918
 "Ward Hunter's Boots",13920
 "Gwyl Monarch's Greatsword",13922
+"Ward Hunter's Leggings",13923
 "Synergetics Scepter",13924
 "Gwyl Monarch's Scepter",13925
 "Gwyl Monarch's Pistol",13927
@@ -10381,7 +10389,10 @@
 "Morph-o-Matic Hammer",13943
 "Synergetics Longbow",13944
 "Glimmering Resin Longbow",13945
+"Ward Hunter's Leggings",13948
 "Gwyl Monarch's Rifle",13949
+"Ward Hunter's Coat",13951
+"Ward Hunter's Cape",13952
 "Forge Guard's Light Helmet",13957
 "Glimmering Resin Axe",13959
 "Forge Guard's Heavy Helmet",13960
@@ -10401,9 +10412,11 @@
 "Glimmering Resin Hammer",13985
 "Glimmering Resin Greatsword",13986
 "Gwyl Monarch's Shield",13987
+"Ward Hunter's Mask",13988
 "Glimmering Resin Short Bow",13990
 "Gwyl Monarch's Mace",13993
 "Synergetics Hammer",13994
+"Ward Hunter's Coat",13995
 "Forge Guard's Medium Gloves",13996
 "Synergetics Staff",13997
 "Gradient Glasses (Down)",13998
@@ -10534,3 +10547,34 @@
 "Primeval Longbow",14127
 "Watchwork Spear",14128
 "Spellwork Staff",14129
+"Gwyl Knight's Focus",14133
+"Tenebral Ward Light Gloves",14139
+"Tenebral Ward Medium Pauldrons",14142
+"Tenebral Ward Medium Boots",14144
+"Tenebral Ward Light Leggings",14155
+"Tenebral Ward Medium Gloves",14162
+"Tenebral Ward Medium Leggings",14165
+"Gwyl Knight's Scepter",14167
+"Tenebral Ward Heavy Leggings",14174
+"Gwyl Knight's Spear",14180
+"Tenebral Ward Heavy Boots",14183
+"Gwyl Knight's Greatsword",14184
+"Gwyl Knight's Short Bow",14185
+"Gwyl Knight's Hammer",14189
+"Tenebral Ward Heavy Gloves",14194
+"Tenebral Ward Light Pauldrons",14201
+"Gwyl Knight's Staff",14205
+"Gwyl Knight's Dagger",14206
+"Tenebral Ward Light Boots",14209
+"Gwyl Knight's Pistol",14215
+"Fledgling Constellation",14216
+"Inquest Rifleblade Greatsword",14218
+"Tenebral Ward Heavy Pauldrons",14219
+"Gwyl Knight's Torch",14222
+"Gwyl Knight's Mace",14224
+"Gwyl Knight's Sword",14225
+"Gwyl Knight's Longbow",14228
+"Gwyl Knight's Rifle",14232
+"Gwyl Knight's Shield",14233
+"Gwyl Knight's Warhorn",14240
+"Gwyl Knight's Axe",14250

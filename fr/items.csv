@@ -69197,6 +69197,7 @@
 "Trophée de bronze d'Ura",103904
 "Fusil de la lune sanglante de sang",103905
 "Lame naturelle",103906
+"Clé de démarrage d'arme légendaire : ensemble n° 2",103907
 "Hache de vague verre-de-mer",103908
 "Dague de la lune sanglante de sang",103909
 "Plan de golem de siège infini",103911
@@ -69295,6 +69296,7 @@
 "Recette : coupon de Greer",104020
 "Bâton de la lune sanglante de sang",104021
 "Relique de la vapeur fulminante",104022
+"Clé de démarrage d'arme légendaire : ensemble n° 2",104023
 "Bâton de vague verre-de-mer",104025
 "Cristal de Gaets",104026
 "Trophée de bronze de Greer",104027
@@ -70879,6 +70881,7 @@
 "Houppelande légère extremis",106117
 "Piste 7 : Elona Reach",106118
 "Piste 12 : Daigo Ward",106119
+"Lance kodane",106120
 "Apparence de hache de nacre",106121
 "Piste 23 : Mount Balrior",106125
 "Apparence de harnois à plumes de l'Enqueste",106126
@@ -71148,6 +71151,7 @@
 "Piste 28 : Ishan's Watch",106529
 "Pistolet de constructeur véloce",106531
 "Coffre d'escarmouche",106532
+"Nerium",106533
 "Piste 8 : Forged in Fire",106534
 "Arbuste d'île",106535
 "Piste 2 : Maguuma Overture",106536
@@ -71282,6 +71286,7 @@
 "Bottes intermédiaires de capitaine fébrile",106746
 "Don des mers",106747
 "Cache de trésors de Castora",106748
+"Lance ténébreuse asura",106750
 "Dague de constructeur véloce",106752
 "Piste 2 : A Fractured Horizon",106753
 "Fusil enchanté des aruspices",106754
@@ -73326,6 +73331,7 @@
 "Piste 23 : Forging Steel",108972
 "Lit aruspice",108973
 "Piste 30 : Ruinbringer",108975
+"Apparence de masque de chasse de la Garde",108976
 "Piste 52 : Almora's Revelation",108977
 "Piste 8 : Desmina's Reclamation",108978
 "Piste 23 : Watch Your Step",108979
@@ -73374,6 +73380,7 @@
 "Gants lourds de garde de la Forge",109035
 "Piste 5 : Mountain March",109036
 "Piste 33 : Qadim",109037
+"Mini-coléoptère en cristal",109038
 "Piste 44 : Journey through Caledon",109040
 "Piste 31 : Zojja and Mr. Sparkles",109041
 "Mini-loutre de rivière",109042
@@ -73675,6 +73682,7 @@
 "Piste 40 : United Legions II",109415
 "Piste 45 : The Ascension",109416
 "Piste 21 : Joko's Victory",109417
+"Apparence de manteau de chasse de la Garde",109419
 "Recette : bâton en résine scintillante",109421
 "Piste 59 : Knight of Embers",109422
 "Piste 19 : Drakkar",109423
@@ -73718,12 +73726,14 @@
 "Apparence de bottes de chasse de la Garde",109467
 "Don de Galdra",109469
 "Apparence de focus de la Synergétique",109471
+"Apparence de cape de chasse de la Garde",109473
 "Recette : sceptre en résine scintillante",109475
 "Piste 24 : Zhaitan",109476
 "Piste 21 : Eye of the North",109477
 "Piste 42 : Rytlock",109478
 "Piste 7 : Winter's Vigil",109479
 "Recette : torche en résine scintillante",109480
+"Apparence de jambières de chasse de la Garde",109481
 "Bottes intermédiaires de garde de la Forge",109482
 "Piste 8 : The Mordrem",109483
 "Piste 46 : Champion of Primordus",109485
@@ -73895,6 +73905,7 @@
 "Piste 14 : The Priory Archives",109713
 "Piste 2 : Grothmar Valley",109714
 "Armature de confinement de pierre de l'ombre",109715
+"Mini-mutation machinale",109716
 "Piste 13 : Diaphonous Diffraction Randomizer",109717
 "Piste 5 : Taimi's Game Part 1",109718
 "Piste 22 : Visions of the Past : Steel and Fire",109719
@@ -74074,3 +74085,79 @@
 "Recette : auvent de marchand canthien",109917
 "Bâton d'ensorcellerie",109918
 "Cor de guerre d'ensorcellerie",109919
+"Détective par étherlocalisation : bronze",109922
+"Recette : arc court de la Garde lumineuse",109924
+"Apparence de fusil de chevalier des gwyls",109925
+"Apparence d'espadon de chevalier des gwyls",109926
+"Apparence de hache de chevalier des gwyls",109930
+"Relique de la lanterne",109936
+"Apparence de dague de chevalier des gwyls",109939
+"Relique de l'ultime tyran",109942
+"Coupon de la Garde ténébreuse : jambières",109944
+"Extraction de brèche surchargée raffinée",109949
+"Apparence de cor de guerre de chevalier des gwyls",109950
+"Bottes intermédiaires de la Garde ténébreuse",109955
+"Apparence de bouclier de chevalier des gwyls",109957
+"Caisse oubliée de récompenses de convergence",109961
+"Apparence de lance de chevalier des gwyls",109968
+"Recette : focus de la Garde lumineuse",109973
+"Coupon de la Garde ténébreuse : épaulières",109976
+"Relique de l'Alchimie éternelle",109980
+"Sac d'équipement des profondeurs tropicales",109985
+"Jambières intermédiaires de la Garde ténébreuse",109987
+"",109990
+"Sac d'équipement des profondeurs tropicales",109996
+"Relique du héros de la Tyrie",109998
+"Apparence de marteau de chevalier des gwyls",110003
+"Recette : arc long de la Garde lumineuse",110004
+"Contrat d'équipe de réquisition supplémentaire",110005
+"Relique du conservateur",110009
+"Espauliers intermédiaires de la Garde ténébreuse",110011
+"Apparence de masse de chevalier des gwyls",110023
+"",110024
+"Recette : bâton de la Garde lumineuse",110026
+"Détective par étherlocalisation : or",110027
+"Jouet de Bessie",110030
+"Apparence d'arc long de chevalier des gwyls",110032
+"Simulateur de serpent : bronze",110036
+"Recette : hache de la Garde lumineuse",110040
+"Cache moyenne des Aruspices",110045
+"Coupon de la Garde ténébreuse : casque",110052
+"Jambières lourdes de la Garde ténébreuse",110059
+"Apparence de sceptre de chevalier des gwyls",110065
+"Extraction de brèche",110067
+"Détective par étherlocalisation : argent",110070
+"Gants lourds de la Garde ténébreuse",110075
+"Tonique de combat de responsable de l'Enqueste inépuisable",110085
+"Recette : espadon de la Garde lumineuse",110091
+"Gants intermédiaires de la Garde ténébreuse",110095
+"Apparence d'épée de chevalier des gwyls",110096
+"Mini-voldécume fauconde",110099
+"Coupon de la Garde ténébreuse : bottes",110101
+"Grimoire d'emote \"/dansedufeu\"",110110
+"Apparence de pistolet de chevalier des gwyls",110111
+"Espauliers lourds de la Garde ténébreuse",110116
+"Demande de livraison de ravitaillement \"Code de la création\"",110119
+"Chaise du bassin aux oiseaux",110120
+"Espadon à lamefusil de l'Enqueste",110126
+"Apparence d'arc court de chevalier des gwyls",110128
+"Simulateur de serpent : argent",110130
+"Apparence de torche de chevalier des gwyls",110134
+"Simulateur de serpent : or",110138
+"Constellation naissante",110142
+"Recette : dague de la Garde lumineuse",110145
+"Gants légers de la Garde ténébreuse",110147
+"Relique du visionnaire",110152
+"Coupon de la Garde ténébreuse : gants",110153
+"Données de recherche sur la pierre de l'ombre",110156
+"Apparence de focus de chevalier des gwyls",110161
+"Fragment d'armes de la Garde lumineuse",110192
+"Espauliers légers de la Garde ténébreuse",110203
+"Apparence de bâton de chevalier des gwyls",110208
+"Boîte de sélection de chevalier des gwyls",110210
+"Fragment d'extraction de brèche surchargée",110214
+"Gage de renommée des Crevasses aux sources des lignes de force",110223
+"Livre de recettes pour pavillon : catalogue aruspice, volume 2",110227
+"Livraison de ravitaillement pour la sortie de \"Code de la création\" : première semaine",110228
+"Coffre de Vloxx",110231
+"Bottes lourdes de la Garde ténébreuse",110234

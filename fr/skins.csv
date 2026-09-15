@@ -9909,6 +9909,7 @@
 "Houppelande légère d'agent de terrain de l'alliance",13305
 "Ancora Bellum",13306
 "Robe d'érudit du littoral",13307
+"Lance kodane",13308
 "Lance à perles",13311
 "Arc long de constructeur véloce",13312
 "Bermuda d'érudit du littoral",13314
@@ -9970,6 +9971,7 @@
 "Masse de nacre",13400
 "Lance forgée",13401
 "Torche de nacre",13402
+"Nerium",13404
 "Houppelande à plumes de l'Enqueste",13405
 "Pique de Protecteur",13406
 "Cape ardente",13407
@@ -10036,6 +10038,7 @@
 "Casque léger d'agent de terrain de l'alliance",13499
 "Cor de guerre de Strelitzia Crystallinum",13500
 "Pistolet de nacre",13501
+"Lance ténébreuse asura",13502
 "Agaleus",13503
 "Jambières à plumes de l'Enqueste",13504
 "Bottes légères de capitaine fébrile",13507
@@ -10346,13 +10349,16 @@
 "Jambières légères de garde de la Forge",13879
 "Espadon de la Synergétique",13880
 "Gants de chasse de la Garde",13881
+"Jambières de chasse de la Garde",13882
 "Arc court de la Synergétique",13885
 "Gants légers de garde de la Forge",13886
 "Arc long de monarque des gwyls",13888
 "Dague surprise de garde de la Forge",13890
+"Manteau de chasse de la Garde",13891
 "Bâton de monarque des gwyls",13892
 "Cor de guerre de monarque des gwyls",13893
 "Bottes intermédiaires de garde de la Forge",13896
+"Masque de chasse de la Garde",13897
 "Torche de monarque des gwyls",13898
 "Torche de la Synergétique",13899
 "Épée de la Synergétique",13901
@@ -10362,8 +10368,10 @@
 "Bâton tranche-démon",13914
 "Gants de chasse de la Garde",13915
 "Cor de guerre en résine scintillante",13917
+"Masque de chasse de la Garde",13918
 "Bottes de chasse de la Garde",13920
 "Espadon de monarque des gwyls",13922
+"Jambières de chasse de la Garde",13923
 "Sceptre de la Synergétique",13924
 "Sceptre de monarque des gwyls",13925
 "Pistolet de monarque des gwyls",13927
@@ -10381,7 +10389,10 @@
 "Marteau de morph-o-matic",13943
 "Arc long de la Synergétique",13944
 "Arc long en résine scintillante",13945
+"Jambières de chasse de la Garde",13948
 "Fusil de monarque des gwyls",13949
+"Manteau de chasse de la Garde",13951
+"Cape de chasse de la Garde",13952
 "Casque léger de garde de la Forge",13957
 "Hache en résine scintillante",13959
 "Casque lourd de garde de la Forge",13960
@@ -10401,9 +10412,11 @@
 "Marteau en résine scintillante",13985
 "Espadon en résine scintillante",13986
 "Bouclier de monarque des gwyls",13987
+"Masque de chasse de la Garde",13988
 "Arc court en résine scintillante",13990
 "Masse de monarque des gwyls",13993
 "Marteau de la Synergétique",13994
+"Manteau de chasse de la Garde",13995
 "Gants intermédiaires de garde de la Forge",13996
 "Bâton de la Synergétique",13997
 "Lunettes à verres dégradés (baissées)",13998
@@ -10534,3 +10547,34 @@
 "Arc long primitif",14127
 "Lance d'ensorcellerie",14128
 "Bâton d'ensorcellerie",14129
+"Focus de chevalier des gwyls",14133
+"Gants légers de la Garde ténébreuse",14139
+"Espauliers intermédiaires de la Garde ténébreuse",14142
+"Bottes intermédiaires de la Garde ténébreuse",14144
+"Jambières légères de la Garde ténébreuse",14155
+"Gants intermédiaires de la Garde ténébreuse",14162
+"Jambières intermédiaires de la Garde ténébreuse",14165
+"Sceptre de chevalier des gwyls",14167
+"Jambières lourdes de la Garde ténébreuse",14174
+"Lance de chevalier des gwyls",14180
+"Bottes lourdes de la Garde ténébreuse",14183
+"Espadon de chevalier des gwyls",14184
+"Arc court de chevalier des gwyls",14185
+"Marteau de chevalier des gwyls",14189
+"Gants lourds de la Garde ténébreuse",14194
+"Espauliers légers de la Garde ténébreuse",14201
+"Bâton de chevalier des gwyls",14205
+"Dague de chevalier des gwyls",14206
+"Bottes légères de la Garde ténébreuse",14209
+"Pistolet de chevalier des gwyls",14215
+"Constellation naissante",14216
+"Espadon à lamefusil de l'Enqueste",14218
+"Espauliers lourds de la Garde ténébreuse",14219
+"Torche de chevalier des gwyls",14222
+"Masse de chevalier des gwyls",14224
+"Épée de chevalier des gwyls",14225
+"Arc long de chevalier des gwyls",14228
+"Fusil de chevalier des gwyls",14232
+"Bouclier de chevalier des gwyls",14233
+"Cor de guerre de chevalier des gwyls",14240
+"Hache de chevalier des gwyls",14250
