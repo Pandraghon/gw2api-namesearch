@@ -49,7 +49,7 @@
 "Infinirarium-Deck",50
 "Gipfelbanner der Charr",51
 "Ausgefallener Stuhl",52
-"Dreifacher Ärger-Silbertrophäe",53
+"\"Dreifacher Ärger\"-Silbertrophäe",53
 "Ochsenstatue",54
 "Pfeilwagen für Belagerung",55
 "Buchsbaumhecke \"Körper\"",56
@@ -108,7 +108,7 @@
 "Erweckten-Teertropfer",109
 "Canthanische Gartenmauer",110
 "Beladener Wagen",111
-"Dreifacher Ärger-Bronzetrophäe",112
+"\"Dreifacher Ärger\"-Bronzetrophäe",112
 "Lustiges Ballonbündel",113
 "Hindernis: Fächerfalle",114
 "Super-Verschneite Felswand",115
@@ -358,14 +358,14 @@
 "Zephyr-Unterstützung",362
 "Goldene Wand",363
 "Superhöhlen-Stalagmit",364
-"Dhuum-Bronzetrophäe",365
+"Bronzetrophäe Dhuums",365
 "Tiefer Topf",366
 "Kürbis",367
 "Hecke",368
 "Gewaltiges Ballonbukett",369
 "\"Belagert die Festung\"-Goldtrophäe",370
 "Festzelt",371
-"Dhuum-Silbertrophäe",372
+"Silbertrophäe Dhuums",372
 "Spinnennetz-Boden",373
 "Blaues Wintertag-Geschenk",374
 "Vielseitiger Wegfinder-Tisch",375
@@ -629,7 +629,7 @@
 "Nebel-Minotauren-Statue",638
 "Fröhliches Ballonbündel",639
 "Rustikale Kodan-Vitrine (Hoch)",641
-"Dhuum-Goldtrophäe",642
+"Goldtrophäe Dhuums",642
 "Zerschmetterte Treppe",643
 "Überlegener Pfeilwagen für Belagerung",644
 "Vergänglicher Spinnennetz-Boden",645
@@ -727,7 +727,7 @@
 "\"Cairn der Unbeugsame\"-Bronzetrophäe",739
 "Gewebter Kodan-Raumtrenner",740
 "Super-Pagodensäule",741
-"Dreifacher Ärger-Goldtrophäe",742
+"\"Dreifacher Ärger\"-Goldtrophäe",742
 "Rennstrecke: Linkskurve",743
 "Drachenatem-Laterne",744
 "\"Belagert die Festung\"-Bronzetrophäe",745
@@ -777,7 +777,7 @@
 "Fragment von Sabethas Flammenwerfer",789
 "Faultierion-Bronzetrophäe",790
 "Flache traurige Super-Zeigehand",791
-"Zahn von Dreifacher Ärger",792
+"\"Dreifacher Ärger\"-Zahn",792
 "Rennstrecke: Lange Gerade",793
 "Zerschmetterer-Silbertrophäe",794
 "Grenth-Statuen-Marke",795
@@ -987,7 +987,7 @@
 "Holzbalken-Ecke (30 x 240 x 30)",1007
 "Strand-Hüttenwand mit Tür (960)",1008
 "Holzbalken (16 x 240 x 30)",1009
-"Geschwungene Dach-Ecke",1011
+"Geschwungene Dachecke",1011
 "Zweigloser Strauch",1013
 "Strandhütten-Wand (120)",1014
 "Runde Lichtschnur",1015

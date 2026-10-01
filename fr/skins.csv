@@ -1,5 +1,5 @@
-"Jambières à chaînes",1
-"Plastron à chaînes",2
+"Jambières en cotte de mailles",1
+"Plastron en cotte de mailles",2
 "Pantalon d'apprenti",3
 "Manteau d'apprenti",4
 "Jambières de cuir brut",5
@@ -16,13 +16,13 @@
 "Manteau clouté",17
 "Pantalon de campagne",18
 "Bottes de cuir brut",19
-"Gantelets à chaînes",20
+"Gantelets en cotte de mailles",20
 "Manteau à chaînes usé",21
 "Pantalon clouté",22
 "Cuissardes en écailles usées",23
 "Manteau en écailles usé",24
 "Gants d'apprenti",25
-"Epaulières à chaînes",26
+"Epaulières en cotte de mailles",26
 "Grèves de voyou",27
 "Pantalon d'escroc",28
 "Epaulières d'apprenti",29
@@ -76,7 +76,7 @@
 "Bottes de cabaliste",78
 "Epaulières de cabaliste",79
 "Gants de corsaire",80
-"Heaume à chaînes",81
+"Heaume en cotte de mailles",81
 "Gants de cabaliste",82
 "Espauliers rubanés",83
 "Grèves rubanées",84
@@ -1327,7 +1327,7 @@
 "Spallières de Scarlet",2034
 "Spallières de Scarlet",2035
 "",2036
-"Chaussures à chaînes",2041
+"Chaussures en cotte de mailles",2041
 "Houppelande de fanatique",2043
 "Houppelande de conquérant",2044
 "Masque de démon",2045
@@ -10552,7 +10552,7 @@
 "Marteau d'ensorcellerie",14125
 "Torche primitive",14126
 "Arc long primitif",14127
-"Lance d'ensorcellerie",14128
+"Lance mécanique",14128
 "Bâton d'ensorcellerie",14129
 "Casque intermédiaire de la Garde ténébreuse",14130
 "Gants exubérants",14131
